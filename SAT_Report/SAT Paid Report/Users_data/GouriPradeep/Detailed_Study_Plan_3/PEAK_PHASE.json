@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve consistent accuracy above 85% on the most challenging Reading & Writing and Math question types, particularly focusing on boundaries, inferences, and linear equations. Reduce repeat mistakes by identifying and correcting error patterns through detailed review. Strengthen reasoning skills to improve command of evidence and data interpretation. Build endurance to maintain focus and performance across full-length practice tests, minimizing score variance and locking in test-day strategies."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Boundaries, Inferences, Command of Evidence - Quantitative, Central Ideas and Details, Cross-text Connections"
+                },
+                {
+                    "title": "Math",
+                    "description": "Linear equations in one variable, One-variable data: Distributions and measures of center and spread, Right triangles and trigonometry, Ratios, rates, proportional relationships, and units"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Boundaries": "Engage in timed sentence correction drills where you rewrite run-on and comma splice sentences using varied boundary techniques, using flashcards to visualize punctuation rules and immediate feedback to maintain focus and build speed.",
+                        "Inferences": "Practice active reading with paired passages, annotating clues and tone shifts, then answer inference questions aloud with a study buddy to encourage discussion and deepen understanding through social interaction.",
+                        "Command of Evidence - Quantitative": "Use interactive graph and table interpretation games that require selecting precise data supporting claims under timed conditions, reinforcing pattern recognition and evidence linkage with immediate scoring feedback.",
+                        "Central Ideas and Details": "Summarize short passages in your own words after highlighting main ideas and supporting details, then compare summaries with a peer or tutor to refine clarity and reinforce comprehension through creative expression.",
+                        "Cross-text Connections": "Create visual comparison charts for paired passages, identifying author’s purpose and tone, then explain these connections in a brief storytelling format to a study partner, combining analysis with dynamic engagement."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Linear equations in one variable": "Solve multi-step linear equations and inequalities in timed, gamified quizzes that reward speed and accuracy, using visual timers and habit trackers to build focus in short bursts and maintain motivation.",
+                        "One-variable data: Distributions and measures of center and spread": "Analyze real-world data sets through interactive exercises where you calculate mean, median, range, and identify outliers, then explain your reasoning in a brief written or verbal summary to reinforce understanding.",
+                        "Right triangles and trigonometry": "Work through hands-on problems involving right triangles using diagrams and calculators, then teach the solution process to a study buddy, turning practice into an interactive, expressive learning experience.",
+                        "Ratios, rates, proportional relationships, and units": "Complete multi-step word problems involving ratios and unit conversions in a timed challenge format, using flashcards for key conversion factors and collaborating with a partner to discuss problem-solving strategies."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with your weakest areas to build foundational accuracy and confidence. Wednesday and Thursday target moderate skills to maintain momentum and deepen mastery. Friday is dedicated to comprehensive review of the week's work, emphasizing error analysis and strategy refinement. Saturday features two full-length, timed practice tests simulating real exam conditions to build endurance and mental control, followed by detailed review sessions to identify patterns and lock in strategies. Sunday serves as a flexible rest and reflection day to recharge and adapt your plan."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day to reflect on errors by reviewing flashcards of past mistakes and rewriting explanations in your own words to deepen understanding. Experiment with new interactive tools or gamified apps to keep engagement high without pressure. Challenge yourself with mixed-skill mini-quizzes that incorporate creative elements like storytelling or drawing to maintain curiosity. Incorporate physical activities such as mindful walking or yoga to reset focus and reduce stress. Set clear, achievable goals for the upcoming week, celebrating small wins to sustain motivation and reinforce the fun in progress."
+        }
+    ]
+}

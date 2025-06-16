@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Your Learning Persona",
+    "description": "Hello Zoha, as a Balanced Trekker, you approach learning with a thoughtful and steady mindset, valuing deep understanding over quick answers. You naturally connect ideas and seek purpose in your studies, which supports your grasp of complex concepts. At times, your careful nature may slow decision-making under timed conditions, but this reflects your commitment to accuracy and meaning. To progress, focus on building confidence in your instincts and practicing timely decisions without needing every detail. This approach will help you balance thoroughness with efficiency."
+  },
+  {
+    "title": "Your SAT Practice Snapshot",
+    "description": "Your current SAT practice shows solid strengths in Math with a score of 710 and strong accuracy, while Reading & Writing sits at 630 with room to improve. Overall, your total score is 1340 against a goal of 1550, indicating clear potential with targeted effort. Your reading accuracy suggests good comprehension but some hesitation in certain areas, whereas your math accuracy reflects confident problem-solving with specific domains needing attention. This snapshot highlights where your focus can yield the most progress."
+  },
+  {
+    "title": "What This Means For You",
+    "description": "Your Balanced Trekker mindset supports deep understanding and steady progress but can lead to hesitation in timed settings. Academically, your strength in Reading & Writing lies in Standard English Conventions, showing your grasp of language rules, while your Math strength is in Advanced Math, reflecting your ability to handle complex concepts. Growth areas include Craft and Structure in Reading & Writing, where improving speed and decision-making will reduce unanswered questions, and Geometry and Trigonometry in Math, which requires focused practice to build confidence. Meeting your goal score will depend on balancing your thoughtful approach with more efficient pacing."
+  },
+  {
+    "title": "Your Study Plan: Based on You",
+    "description": [
+      {
+        "title": "Summary",
+        "description": [
+          "Your Balanced Trekker profile means you learn best by understanding concepts deeply and reflecting on your progress. This strength supports your solid math skills and thoughtful reading comprehension. However, your tendency to overanalyze can slow you down during timed tests, which is a key challenge to address. Aligning your study plan with your reflective nature while introducing timed decision drills will help you improve pacing without sacrificing accuracy."
+        ]
+      },
+      {
+        "title": "Reading Writing Strategies",
+        "description": [
+          "1. Focus on Craft and Structure by practicing timed passages that require quick identification of sentence relationships and rhetorical purpose, helping you trust your initial analysis.",
+          "2. Strengthen Expression of Ideas through targeted exercises that refine your ability to interpret and organize information, building on your existing confidence in this area.",
+          "3. Maintain momentum in Standard English Conventions by reviewing grammar rules with reflective journaling on correct answers to reinforce your mastery and motivation."
+        ]
+      },
+      {
+        "title": "Math Strategies",
+        "description": [
+          "1. Prioritize Geometry and Trigonometry by working through problem sets with time limits to reduce hesitation and build familiarity with spatial reasoning under pressure.",
+          "2. Refine skills in Algebra by reviewing problem-solving steps and identifying patterns in errors to enhance your steady progress and internal motivation.",
+          "3. Sustain confidence in Advanced Math by engaging with challenging problems that require conceptual understanding, reinforcing your strength and thoughtful approach."
+        ]
+      },
+      {
+        "title": "Study Plan Phases",
+        "description": {
+          "Foundation": {
+            "date": "May 26, 2025 - June 30, 2025",
+            "reading_writing": "Concentrate on improving Craft and Structure with focused, timed drills to build decision speed while maintaining accuracy. Use reflective journaling to track progress and reduce overanalysis.",
+            "math": "Address Geometry and Trigonometry fundamentals with paced practice sessions emphasizing conceptual clarity and gradual timing challenges to build confidence."
+          },
+          "Elevation": {
+            "date": "July 1, 2025 - July 31, 2025",
+            "reading_writing": "Shift focus to Expression of Ideas to refine interpretation skills and fluency, incorporating timed exercises that leverage your logical thinking.",
+            "math": "Enhance Algebra skills through pattern recognition and error analysis, using spaced repetition to solidify understanding and speed."
+          },
+          "Peak": {
+            "date": "August 1, 2025 - August 8, 2025",
+            "reading_writing": "Emphasize full-length timed practice tests with post-test reflections to simulate test conditions and reinforce confident decision-making.",
+            "math": "Focus on test simulations targeting speed and accuracy in Geometry and Trigonometry, integrating personalized review of past errors to close remaining gaps."
+          }
+        }
+      },
+      {
+        "title": "Sample Weekly Schedule",
+        "description": [
+          "Monday: focus area: Craft and Structure - duration 60 minutes.",
+          "Tuesday: focus area: Geometry and Trigonometry - duration 60 minutes.",
+          "Wednesday: focus area: Expression of Ideas - duration 60 minutes.",
+          "Thursday: focus area: Algebra - duration 60 minutes.",
+          "Friday: focus area: Standard English Conventions - duration 60 minutes.",
+          "Saturday: focus area: Mixed-subject timed practice - duration 60 minutes.",
+          "Sunday: focus area: Flex day for review or rest - duration 30 minutes."
+        ]
+      },
+      {
+        "title": "Study Tips",
+        "description": [
+          "1. Let’s build skill in Craft and Structure by practicing timed questions that encourage trusting your first interpretation to improve pacing.",
+          "2. Try focusing on Geometry and Trigonometry with step-by-step problem-solving drills that reduce hesitation and increase familiarity.",
+          "3. You can boost confidence in Algebra by reviewing common error patterns and reinforcing problem-solving strategies.",
+          "4. Establish a consistent weekly routine that balances timed practice with reflective review, aligning with your thoughtful learning style and upcoming test date.",
+          "5. Recognize that moving forward with partial information is a strength; use journaling to capture moments when quick decisions lead to correct answers."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Want to Go Further?",
+    "description": "Zoha, your thoughtful approach and steady progress in math show a clear foundation to build on. Embracing timed decision-making will help you overcome hesitation and close the gap to your goal. Sherpal offers personalized insights and adaptive coaching designed to support your reflective style while sharpening your test-day efficiency."
+  },
+  {
+    "title": "Footer",
+    "description": "Safe harbor The scores, assessments, and recommendations provided in this report are for informational purposes only and do not constitute professional educational, psychological, or legal advice. Current performance is not necessarily indicative of actual or future results, as test-day conditions and individual circumstances may vary. While care has been taken in the preparation of this material, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, or reliability of the information presented. Any reliance you place on such information is strictly at your own risk. We accept no liability for any loss or damage arising from the use of this report. © 2025 Sthirah Inc. | Confidential & Proprietary - For internal Use Only"
+  }
+]

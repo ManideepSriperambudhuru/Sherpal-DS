@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve consistent accuracy above 85% on prioritized Reading & Writing skills, especially Rhetorical Synthesis and Inferences, while steadily reducing repeated errors. In Math, demonstrate mastery in Lines, angles, and triangles and One-variable data by solving complex problems under timed conditions with improved speed and precision. Stabilize performance across all sections to minimize score variance and build endurance for full-length tests. Strengthen mental control to maintain confidence under pressure and lock in effective test strategies."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Rhetorical Synthesis, Transitions, Inferences, Command of Evidence - Quantitative, Cross-text Connections"
+                },
+                {
+                    "title": "Math",
+                    "description": "Lines, angles, and triangles, One-variable data: Distributions and measures of center and spread, Ratios, rates, proportional relationships, and units, Area and volume"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Rhetorical Synthesis": "Practice timed synthesis paragraphs by integrating evidence from multiple paired passages, focusing on using transitional phrases and clearly citing rhetorical appeals to build cohesive arguments under pressure.",
+                        "Transitions": "Complete exercises that require identifying and correcting transition errors in complex paragraphs, then rewrite passages using varied and context-appropriate transitions to enhance flow and clarity.",
+                        "Inferences": "Engage in targeted inference drills using SAT-style passages where you annotate clues and justify each inference with textual evidence, emphasizing elimination of extreme or unsupported answer choices.",
+                        "Command of Evidence - Quantitative": "Analyze SAT quantitative passages by highlighting key data points and writing brief paraphrases explaining how each supports specific claims, practicing under timed conditions to improve speed and accuracy.",
+                        "Cross-text Connections": "Work on paired passage sets with medium difficulty, creating comparison charts that map author purpose, tone, and evidence types to strengthen pattern recognition and synthesis skills."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Lines, angles, and triangles": "Solve advanced geometry problems involving congruence and similarity proofs under timed conditions, drawing and labeling diagrams carefully to apply angle relationships and verify solutions efficiently.",
+                        "One-variable data: Distributions and measures of center and spread": "Practice interpreting complex data sets and graphs by calculating mean, median, range, and IQR, then explain the shape and outliers of distributions in concise written summaries.",
+                        "Ratios, rates, proportional relationships, and units": "Complete multi-step ratio and unit conversion problems that require setting up and solving proportions accurately, emphasizing dimensional analysis and clear unit tracking.",
+                        "Area and volume": "Tackle challenging area and volume problems involving composite figures and solids, practicing formula application and unit conversions with a focus on step-by-step problem solving under timed conditions."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday includes focused dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday with the weakest skills like Rhetorical Synthesis and Lines, angles, and triangles to build foundational accuracy. Midweek shifts to moderate skills such as Transitions and One-variable data to maintain momentum. Fridays are dedicated to comprehensive review of errors and strategy refinement. Saturdays feature two full-length practice tests simulating real SAT conditions to build endurance and speed, followed by detailed mistake analysis to identify patterns and reinforce learning. Sunday serves as a Flex Day for rest and adaptive activities aligned with personal growth."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing errors from the week and journaling insights on progress and challenges to reinforce growth mindset. Experiment with new study tools like streak trackers or visual checklists to enhance motivation and structure. Attempt mixed-skill challenges combining Reading & Writing and Math questions at a relaxed pace to maintain cognitive flexibility. Incorporate mindfulness or light physical activity such as walking or stretching to reduce stress and improve focus. Set clear, achievable micro-goals for the upcoming week to build confidence and sustain momentum without pressure."
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+	"FOUNDTION_PHASE_PROMPT": {
+		"title": "Foundation Phase",
+		"description": [
+			{
+				"title": "Weekly Goals",
+				"description": "Achieve measurable improvement in accuracy and reasoning across prioritized Math and Reading & Writing skills. Reduce repeat errors by reinforcing concept clarity and disciplined review. Build steady confidence through consistent completion of practice tasks. Begin closing foundational skill gaps with focused attention on nonlinear functions and form, structure, and sense. Establish a reliable baseline of knowledge while maintaining endurance and precision."
+			},
+			{
+				"title": "Skill Areas",
+				"description": [
+					{
+						"title": "Math",
+						"description": "1. Nonlinear functions. 2. Area and volume. 3. Nonlinear equations in one variable and systems of equations in two variables. 4. Linear equations in two variables. 5. Right triangles and trigonometry."
+					},
+					{
+						"title": "Reading & Writing",
+						"description": "1. Form, Structure, and Sense. 2. Words in Context. 3. Rhetorical Synthesis."
+					}
+				]
+			},
+			{
+				"title": "Practice Methods",
+				"description": {
+					"Math": {
+						"Nonlinear functions": "Engage in daily problem sets focusing on identifying and interpreting nonlinear function behavior, using structured step-by-step approaches to build accuracy and conceptual clarity while gradually introducing mixed-topic questions to encourage adaptability.",
+						"Area and volume": "Practice applying formulas through consistent, routine exercises emphasizing precision and methodical calculation, supplemented by scenario-based problems that require switching between shapes and dimensions mid-session to build flexibility.",
+						"Nonlinear equations in one variable and systems of equations in two variables": "Work through progressively challenging equation sets with a focus on systematic solving techniques, incorporating timed drills and occasional spontaneous problem variations to foster cognitive agility.",
+						"Linear equations in two variables": "Maintain steady practice with graphing and algebraic manipulation, reinforcing foundational skills through repetition while integrating mixed-topic quizzes to disrupt routine and encourage problem-solving adaptability.",
+						"Right triangles and trigonometry": "Use structured practice sessions emphasizing formula application and problem interpretation, gradually introducing oral explanation exercises to build confidence in spontaneous reasoning."
+					},
+					"Reading and Writing": {
+						"Form, Structure, and Sense": "Perform daily close reading exercises with a focus on sentence and paragraph structure, using consistent annotation routines and weekly mixed-topic quizzes to challenge adaptability and reinforce comprehension accuracy.",
+						"Words in Context": "Engage in vocabulary-in-context drills using flashcard apps and contextual sentence analysis, incorporating group discussions or oral explanations to diversify study methods and build flexible understanding.",
+						"Rhetorical Synthesis": "Practice synthesizing information from multiple passages through structured writing and analysis tasks, supplemented by spontaneous oral summaries and mixed-topic synthesis questions to develop adaptability and deeper reasoning."
+					}
+				}
+			},
+			{
+				"title": "Weekly Structure",
+				"description": "Each weekday includes focused dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with the weakest skills to maximize early gains. Wednesday and Thursday focus on moderate skills to build momentum. Friday is dedicated to comprehensive review and error analysis to reinforce learning. Saturday involves timed full-length practice tests followed by detailed review sessions to build endurance and accuracy under realistic conditions. Sunday serves as a Flex Day to intentionally disrupt routine and foster adaptability."
+			},
+			{
+				"title": "Flex Day Activities",
+				"description": "Engage in reflective review of errors made during the week, identifying patterns without pressure. Experiment with new study tools such as flashcard apps or group problem-solving sessions to break habitual methods. Complete mixed-topic quizzes that require switching between skills mid-session to build cognitive flexibility. Incorporate mindfulness or light physical activity to support mental rest. Set adaptive goals for the upcoming week, celebrating progress in both consistency and adaptability."
+			}
+		]
+	},
+	"ELEVATION_PHASE_PROMPT": {
+		"title": "Elevation Phase",
+		"description": [
+			{
+				"title": "Weekly Goals",
+				"description": "Achieve measurable improvement in accuracy and reasoning for mid-level and advanced Math and Reading & Writing skills, specifically reducing careless errors in lines, angles, triangles, and inference questions. Strengthen second-tier skills such as systems of equations and boundaries with consistent performance above 85%. Demonstrate improved cognitive flexibility by successfully adapting to mixed-topic and timed conditions. Complete at least two full-length timed sections with detailed error analysis and targeted corrections."
+			},
+			{
+				"title": "Skill Areas",
+				"description": [
+					{
+						"title": "Math",
+						"description": "1. Lines, angles, and triangles. 2. Systems of two linear equations in two variables. 3. Linear equations in one variable. 4. Percentages. 5. Linear functions."
+					},
+					{
+						"title": "Reading & Writing",
+						"description": "1. Inferences. 2. Boundaries. 3. Transitions."
+					}
+				]
+			},
+			{
+				"title": "Practice Methods",
+				"description": {
+					"Math": {
+						"Lines, angles, and triangles": "Engage in daily targeted problem sets under timed conditions focusing on accuracy and step-by-step reasoning. Incorporate mixed-topic quizzes midweek to simulate unexpected shifts and build adaptability within structured routines.",
+						"Systems of two linear equations in two variables": "Practice solving systems with increasing complexity twice weekly, alternating between algebraic and graphical methods. Use flashcard apps to reinforce key concepts and formulas, integrating brief oral explanations to deepen understanding.",
+						"Linear equations in one variable": "Review and solve progressively challenging equations daily, emphasizing error analysis and correction. Introduce spontaneous switching between problem types during sessions to encourage cognitive flexibility.",
+						"Percentages": "Apply percentage problems in real-world contexts twice weekly, combining written and oral problem-solving to enhance engagement and adaptability.",
+						"Linear functions": "Work on interpreting and manipulating linear functions with timed drills, incorporating group problem-solving sessions to expose new perspectives and methods."
+					},
+					"Reading and Writing": {
+						"Inferences": "Practice inference questions daily using mixed-passage sets under moderate time pressure. Incorporate spontaneous oral summarization of reasoning to build flexibility and deepen comprehension.",
+						"Boundaries": "Focus on identifying and correcting boundary errors in paragraphs through structured daily exercises. Use mixed-topic quizzes to challenge routine and encourage adaptive thinking.",
+						"Transitions": "Engage in weekly timed exercises that require selecting and justifying transition choices. Experiment with new tools like digital annotation apps to vary study methods and maintain engagement."
+					}
+				}
+			},
+			{
+				"title": "Weekly Structure",
+				"description": "Each weekday begins with focused dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday with weakest areas such as lines, angles, triangles, and inferences. Midweek shifts to moderate skills like systems of equations and boundaries. Fridays are dedicated to comprehensive review and error analysis. Saturdays involve timed full-length practice sections followed by detailed performance review cycles to analyze, adapt, and retest. One designated Flex Day allows for intentional routine disruption to build cognitive flexibility and resilience."
+			},
+			{
+				"title": "Flex Day Activities",
+				"description": "Use this day for low-pressure, persona-aligned activities such as reflecting on error patterns and journaling insights to reinforce learning. Experiment with new study tools like flashcard apps or group problem-solving to gently push beyond familiar routines. Engage in mixed-skill challenges combining Math and Reading & Writing to simulate unpredictable test conditions. Incorporate mindfulness or light physical activity to support mental rest. Set adaptive goals for the upcoming week, celebrating progress in flexibility alongside consistency."
+			}
+		]
+	},
+	"PEAK_PHASE_PROMPT": {
+		"title": "Peak Phase",
+		"description": [
+			{
+				"title": "Weekly Goals",
+				"description": "Achieve measurable improvement in accuracy and reasoning for prioritized Math and Reading & Writing skills, steadily reduce repeat mistakes by identifying error patterns, maintain endurance to complete full-length timed sections with consistent pacing, enhance confidence under pressure by simulating test conditions, and stabilize score variance through disciplined review and mental control."
+			},
+			{
+				"title": "Skill Areas",
+				"description": [
+					{
+						"title": "Math",
+						"description": "1. Ratios, rates, proportional relationships, and units. 2. Equivalent expressions. 3. One-variable data: Distributions and measures of center and spread. 4. Linear inequalities in one or two variables."
+					},
+					{
+						"title": "Reading & Writing",
+						"description": "1. Command of Evidence - Textual. 2. Central Ideas and Details. 3. Text Structure and Purpose. 4. Command of Evidence - Quantitative. 5. Cross-text Connections."
+					}
+				]
+			},
+			{
+				"title": "Practice Methods",
+				"description": {
+					"Math": {
+						"Ratios, rates, proportional relationships, and units": "Engage in daily targeted problem sets focusing on real-world ratio and rate scenarios, incorporating timed drills to build endurance while occasionally switching problem types mid-session to foster adaptability.",
+						"Equivalent expressions": "Practice structured weekly exercises simplifying and transforming expressions, integrating spontaneous oral explanations of reasoning to enhance flexibility and deepen conceptual understanding.",
+						"One-variable data: Distributions and measures of center and spread": "Use mixed-topic quizzes combining data interpretation with other math skills, encouraging quick shifts in focus and reinforcing pattern recognition under timed conditions.",
+						"Linear inequalities in one or two variables": "Complete progressive problem sets with increasing complexity, alternating between written and verbal problem-solving to build mental agility and confidence."
+					},
+					"Reading and Writing": {
+						"Command of Evidence - Textual": "Perform daily practice passages emphasizing evidence-based questions, incorporating spontaneous oral summaries and justifications to strengthen adaptability and reasoning under pressure.",
+						"Central Ideas and Details": "Use structured weekly drills identifying main ideas and supporting details, followed by mixed-topic quizzes to challenge routine and encourage flexible thinking.",
+						"Text Structure and Purpose": "Analyze diverse passage types with focused exercises, alternating between written responses and brief oral explanations to build cognitive flexibility and endurance.",
+						"Command of Evidence - Quantitative": "Integrate quantitative evidence questions into daily practice, combining data interpretation with textual analysis to simulate real test complexity and improve cross-skill connections.",
+						"Cross-text Connections": "Engage in weekly paired passage exercises with mixed question formats, encouraging switching between texts mid-session to develop adaptability and pattern recognition."
+					}
+				}
+			},
+			{
+				"title": "Weekly Structure",
+				"description": "Each weekday includes focused dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with the weakest skills to prioritize improvement, midweek sessions targeting moderate skills to build consistency, Fridays dedicated to comprehensive review of errors and strategy refinement, Saturdays reserved for timed full-length practice tests followed by detailed analysis, and one Flex Day intentionally designed for rest, reflection, and cognitive flexibility exercises."
+			},
+			{
+				"title": "Flex Day Activities",
+				"description": "Engage in low-pressure mixed-skill challenges that disrupt routine, such as randomized quizzes and spontaneous oral problem-solving to build adaptability. Reflect on past errors through journaling to identify patterns without pressure. Experiment with new study tools like flashcard apps or group problem-solving sessions to encourage innovation. Incorporate mindfulness or light physical activity to support mental recovery. Set clear, flexible goals for the upcoming week to reinforce growth mindset and cognitive flexibility."
+			}
+		]
+	}
+}

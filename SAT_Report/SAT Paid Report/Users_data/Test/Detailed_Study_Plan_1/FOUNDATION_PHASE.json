@@ -1,0 +1,101 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Each week, steadily improve accuracy and comprehension in prioritized Reading & Writing and Math skills by establishing disciplined study habits. Aim to reduce repeated errors through careful review and error analysis. Build confidence in decision-making by practicing timed questions that encourage trusting initial instincts. Strengthen foundational understanding of core concepts in nonlinear and linear functions, systems of equations, and vocabulary in context. Track progress by completing targeted exercises and reflecting on moments of decisive success."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": [
+                        "Words in Context",
+                        "Boundaries",
+                        "Form, Structure, and Sense",
+                        "Rhetorical Synthesis"
+                    ]
+                },
+                {
+                    "title": "Math",
+                    "description": [
+                        "Nonlinear functions",
+                        "Linear functions",
+                        "Nonlinear equations in one variable and systems of equations in two variables",
+                        "Linear equations in two variables",
+                        "Systems of two linear equations in two variables"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Words in Context": [
+                            "Engage in daily timed vocabulary-in-context drills using SAT-style passages where you annotate challenging words and infer meanings from surrounding sentences, focusing on trusting your first interpretation before reviewing answer choices to build confidence in initial instincts.",
+                            "Practice paraphrasing selected sentences from diverse genres by replacing key words with synonyms or antonyms that fit the passage tone, reinforcing nuanced understanding and critical evaluation of word meaning in context.",
+                            "Complete sentence completion exercises that require selecting words fitting the passage’s connotation and tone, followed by detailed error analysis to confirm when your first choice was correct, helping reduce overthinking."
+                        ],
+                        "Boundaries": [
+                            "Perform focused sentence correction drills identifying run-ons, comma splices, and fragments, timing yourself to encourage decisive punctuation choices and reinforcing understanding of proper sentence boundaries.",
+                            "Practice combining pairs of independent clauses using appropriate punctuation (periods, semicolons, commas with conjunctions) in short exercises, emphasizing clarity and precision while building speed gradually.",
+                            "Read aloud complex sentences from practice passages to detect natural pauses and breaks, then rewrite them with correct punctuation, fostering internalization of boundary rules and reducing hesitation in editing."
+                        ],
+                        "Form, Structure, and Sense": [
+                            "Outline short passages by identifying introduction, body, and conclusion sections, then explain how each paragraph’s main idea supports the overall argument, training logical organization and purposeful reading.",
+                            "Highlight transition words in sample texts and write brief notes on their role in connecting ideas, practicing recognition of logical flow and improving ability to select coherent sentence revisions under time constraints.",
+                            "Engage in sentence revision tasks where you edit awkward or unclear sentences for clarity and coherence within paragraphs, focusing on maintaining meaning while improving flow, and review errors to build trust in your editing decisions."
+                        ],
+                        "Rhetorical Synthesis": [
+                            "Practice synthesizing information from two or more short passages by identifying points of agreement and contrast, then writing a concise paragraph that blends these ideas into a unified argument, emphasizing clarity and logical connections.",
+                            "Use graphic organizers like Venn diagrams to map relationships between multiple sources before writing synthesis responses, helping visualize connections and build structured, coherent arguments.",
+                            "Complete timed synthesis writing drills where you integrate evidence from provided texts under time pressure, followed by reflection on your initial approach and outcomes to reinforce confidence in your analytical voice."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Sketch graphs of various quadratic and other nonlinear functions by hand, noting key features such as vertex, direction, and intercepts, to build intuitive understanding of function behavior and transformations.",
+                            "Solve quadratic equations using factoring, completing the square, and the quadratic formula in timed practice sets, focusing on accuracy and verifying solutions to build algebraic fluency and reduce second-guessing.",
+                            "Work on inequality problems involving nonlinear functions by identifying roots and testing intervals to determine where the function is positive or negative, reinforcing conceptual clarity and decision-making under time constraints."
+                        ],
+                        "Linear functions": [
+                            "Translate word problems describing linear relationships into equations of the form y = mx + b, carefully identifying variables, rate of change, and starting values, then solve for unknowns to strengthen modeling skills and precision.",
+                            "Create tables and graphs from linear equations derived from word problems to visualize relationships, practicing interpretation of slope and intercept and verifying solutions for contextual accuracy.",
+                            "Practice backward problem-solving by plugging given outputs into linear equations to find inputs, reinforcing understanding of function behavior and building confidence in algebraic manipulation."
+                        ],
+                        "Nonlinear equations in one variable and systems of equations in two variables": [
+                            "Solve systems consisting of one linear and one quadratic equation using substitution, carefully isolating variables and substituting expressions, then verify solutions by plugging back into both equations to avoid errors.",
+                            "Practice interpreting the number of solutions by analyzing the discriminant of the resulting quadratic after substitution, connecting algebraic results with graphical understanding of intersections.",
+                            "Work on word problems modeled by linear and quadratic systems, translating scenarios into equations and solving systematically, emphasizing step-by-step accuracy and checking for extraneous solutions."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate real-world word problems into systems of two linear equations by clearly defining variables and writing equations that represent problem conditions, focusing on accuracy and completeness.",
+                            "Solve systems using substitution and elimination methods in practice sets, carefully performing algebraic steps and verifying solutions within the problem context to build reliability and reduce hesitation.",
+                            "Estimate solutions before solving to develop intuition about reasonable answers, then solve and check results, reinforcing confidence in decision-making and error detection."
+                        ],
+                        "Systems of two linear equations in two variables": [
+                            "Solve systems of two linear equations using substitution, elimination, and graphing methods, practicing each approach to understand their advantages and build flexible problem-solving skills.",
+                            "Classify systems based on the number of solutions (one, none, infinite) by analyzing equations and graph behavior, reinforcing conceptual clarity and reducing uncertainty during problem-solving.",
+                            "Translate word problems into systems of linear equations and solve them step-by-step, then write brief explanations of solutions in context to strengthen comprehension and communication."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday includes focused dual-skill practice pairing one Math and one Reading & Writing skill, starting the week with the weakest skills to build foundational strength and moving midweek to moderate skills for reinforcement. Fridays are dedicated to review and reflection on errors and progress, consolidating learning and celebrating decisive moments. Saturdays alternate between a full-length practice test with comprehensive review and targeted conceptual skill-building sessions to deepen understanding. Sundays serve as a Flex Day for rest, reflection, and adaptive activities aligned with your cautious and methodical learning style."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use Flex Days to journal about moments when you trusted your first instinct and succeeded, reinforcing self-trust and reducing overthinking. Engage in low-pressure mixed-skill challenges that allow experimentation with new strategies or tools without time constraints. Reflect on recent errors through calm, detailed analysis to normalize small mistakes as part of growth. Incorporate mindfulness or light physical activity to refresh cognitive focus and reduce stress. Set clear, manageable goals for the upcoming week to maintain motivation and structured progress."
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Your Learning Persona",
+    "description": "Hello Jevinn, as a Persistent Hiker, you approach your SAT preparation with steady focus and a clear sense of balance. You value emotional stability and sustainable progress, which helps you maintain calm under pressure and avoid burnout. Your thoughtful and deliberate nature supports consistent effort, though you may sometimes shy away from challenges that disrupt your inner harmony. Embracing small, manageable challenges can help you stretch your abilities without sacrificing your well-being."
+  },
+  {
+    "title": "Your SAT Practice Snapshot",
+    "description": "Your current SAT practice shows a strong performance in Math with a score of 710 and solid accuracy, while Reading & Writing is an area with room to grow, reflected in a score of 380 and lower accuracy. Your total score stands at 1090, with a goal of reaching 1550. The data indicates you have a solid foundation in Math and steady progress ahead in Reading & Writing, suggesting that focused effort can bring your overall score closer to your target."
+  },
+  {
+    "title": "What This Means For You",
+    "description": "Your Persistent Hiker mindset supports steady progress but may limit pushing into more demanding academic challenges. Academic Strengths: Your Math accuracy in Algebra and Advanced Math aligns with your calm, consistent approach, showing you can maintain focus on complex problems without stress. In Reading & Writing, your relative strength in Information and Ideas and Expression of Ideas reflects your thoughtful and deliberate learning style. Growth Areas: Craft and Structure in Reading & Writing and Geometry and Trigonometry in Math are clear opportunities for growth; improving these will deepen your comprehension and problem-solving range, which fits with gradually increasing challenge levels. Closing Insight: Reaching your goal score will require targeted effort in these areas, balancing your steady approach with strategic pushes beyond comfort."
+  },
+  {
+    "title": "Your Study Plan: Based on You",
+    "description": [
+      {
+        "title": "Summary",
+        "description": [
+          "Your Persistent Hiker mindset favors steady, balanced progress, which is a strong asset for long-term SAT preparation. You have a solid foundation in Math and a thoughtful approach to Reading & Writing, but your preference for comfort may slow growth in more challenging areas. Integrating small, manageable challenges will help you advance without disrupting your emotional balance."
+        ]
+      },
+      {
+        "title": "Reading Writing Strategies",
+        "description": [
+          "1. Focus on Craft and Structure by breaking down complex sentence relationships into smaller parts, allowing you to engage with challenging content without overwhelming stress.",
+          "2. Strengthen Information and Ideas by reflecting on passage arguments and summarizing key points, which aligns with your thoughtful and deliberate learning style.",
+          "3. Reinforce Expression of Ideas through gamified exercises that reward identifying effective transitions and organization, supporting your steady motivation and progress."
+        ]
+      },
+      {
+        "title": "Math Strategies",
+        "description": [
+          "1. Address Geometry and Trigonometry by working through visual problem sets that allow you to approach new concepts gradually, fitting your preference for low-stress learning.",
+          "2. Refine Problem-Solving and Data Analysis skills by practicing step-by-step breakdowns of multi-part problems, building on your existing strengths and steady approach.",
+          "3. Maintain confidence in Algebra and Advanced Math with timed drills that incorporate incremental difficulty, helping you sustain momentum and reinforce mastery."
+        ]
+      },
+      {
+        "title": "Study Plan Phases",
+        "description": {
+          "Foundation": {
+            "date": "May 26, 2025 - July 15, 2025",
+            "reading_writing": "Prioritize Craft and Structure with focused, low-pressure exercises that encourage gradual engagement with complex texts. Use reflective review to maintain emotional balance.",
+            "math": "Concentrate on Geometry and Trigonometry fundamentals through visual and stepwise problem-solving, pacing your study to avoid overwhelm."
+          },
+          "Elevation": {
+            "date": "July 16, 2025 - August 1, 2025",
+            "reading_writing": "Build skills in Information and Ideas with timed practice that encourages logical analysis and confidence in interpreting passages.",
+            "math": "Enhance Problem-Solving and Data Analysis by integrating mixed problem sets that challenge your reasoning while respecting your steady learning pace."
+          },
+          "Peak": {
+            "date": "August 2, 2025 - August 8, 2025",
+            "reading_writing": "Focus on fluency and error reduction in all Reading & Writing domains under timed conditions to simulate test day and solidify retention.",
+            "math": "Sharpen speed and accuracy in all Math domains, especially Geometry and Trigonometry, with full-length practice tests and targeted review."
+          }
+        }
+      },
+      {
+        "title": "Sample Weekly Schedule",
+        "description": [
+          "Monday: focus area: Craft and Structure - duration 60 minutes.",
+          "Tuesday: focus area: Geometry and Trigonometry - duration 60 minutes.",
+          "Wednesday: focus area: Information and Ideas - duration 60 minutes.",
+          "Thursday: focus area: Problem-Solving and Data Analysis - duration 60 minutes.",
+          "Friday: focus area: Expression of Ideas - duration 60 minutes.",
+          "Saturday: focus area: Mixed Reading & Writing and Math review - duration 60 minutes.",
+          "Sunday: focus area: Flex Day for review or rest - duration 30 minutes."
+        ]
+      },
+      {
+        "title": "Study Tips",
+        "description": [
+          "1. Let’s build skill in Craft and Structure by breaking down sentence relationships into manageable parts, which fits your steady and thoughtful approach.",
+          "2. Try focusing on Geometry and Trigonometry with visual problem sets that allow gradual engagement, supporting your preference for low-stress learning.",
+          "3. You can boost confidence in Information and Ideas by summarizing passage arguments, reinforcing your natural reflection and analysis strengths.",
+          "4. Establish a consistent weekly routine that balances focused study sessions with breaks, helping maintain your emotional stability as you prepare for the August test date.",
+          "5. Recognize that small, deliberate challenges are key to growth; pacing yourself while stepping slightly beyond comfort will deepen your skills without disrupting balance."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Want to Go Further?",
+    "description": "Jevinn, your steady and balanced approach has built a solid foundation in Math and thoughtful engagement in Reading & Writing. Facing targeted challenges in your weaker domains will expand your skills while respecting your need for harmony. Sherpal offers personalized, adaptive coaching that aligns with your pace and style, providing clear progress tracking and tailored strategies to guide you confidently toward your goal."
+  },
+  {
+    "title": "Footer",
+    "description": "Safe harbor The scores, assessments, and recommendations provided in this report are for informational purposes only and do not constitute professional educational, psychological, or legal advice. Current performance is not necessarily indicative of actual or future results, as test-day conditions and individual circumstances may vary. While care has been taken in the preparation of this material, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, or reliability of the information presented. Any reliance you place on such information is strictly at your own risk. We accept no liability for any loss or damage arising from the use of this report. © 2025 Sthirah Inc. | Confidential & Proprietary - For internal Use Only"
+  }
+]

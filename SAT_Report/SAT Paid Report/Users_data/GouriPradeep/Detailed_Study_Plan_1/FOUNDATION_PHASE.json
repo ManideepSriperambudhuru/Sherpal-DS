@@ -1,0 +1,95 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Build a solid baseline by improving accuracy and comprehension in core Reading & Writing and Math skills, focusing on 'Form, Structure, and Sense' and 'Nonlinear functions' first. Reduce repeated errors through deliberate practice and sharpen reasoning by engaging with medium to high-difficulty problems. Establish consistent study habits that support sustained focus and track progress to build confidence steadily toward the 1590 goal."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": [
+                        "Form, Structure, and Sense",
+                        "Words in Context",
+                        "Command of Evidence - Textual"
+                    ]
+                },
+                {
+                    "title": "Math",
+                    "description": [
+                        "Nonlinear functions",
+                        "Linear functions",
+                        "Linear equations in two variables",
+                        "Nonlinear equations in one variable and systems of equations in two variables",
+                        "Systems of two linear equations in two variables"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Form, Structure, and Sense": [
+                            "Engage with medium-difficulty SAT passages by first outlining each paragraph’s function (introduction, evidence, conclusion) and then completing reordering exercises that require rearranging sentences or paragraphs to improve logical flow, using visual timers to maintain focus in 20-minute bursts and gamifying progress with a points system to sustain motivation.",
+                            "Use fill-in-the-blank transition word exercises where you select the best connectors to link ideas smoothly, followed by group discussions or study buddy sessions to explore why certain transitions enhance coherence, leveraging your enthusiasm for interaction and expression.",
+                            "Write brief summaries of passages emphasizing how the structure supports the main idea, then compare your summaries with model answers to identify gaps, celebrating small wins with a habit tracker to reinforce consistency and build confidence."
+                        ],
+                        "Words in Context": [
+                            "Practice challenging vocabulary-in-context questions by annotating diverse passages, marking unfamiliar words and surrounding clues, then paraphrasing sentences aloud or in writing to deepen understanding, using flashcards with example sentences to reinforce learning dynamically and maintain engagement.",
+                            "Complete timed sentence completion drills focusing on selecting words that best fit the context, tracking speed and accuracy with a visual timer to build focus in manageable intervals, and review errors with a study buddy to discuss alternative interpretations and avoid common mistakes.",
+                            "Engage in paraphrasing practice by rewriting complex sentences using synonyms or simpler language, then share your versions in a study group or with a partner to encourage creative expression and reinforce vocabulary mastery through interaction."
+                        ],
+                        "Command of Evidence - Textual": [
+                            "Work on paired SAT questions that require selecting an answer and then identifying supporting evidence by actively annotating passages with notes on key points and evidence, using storytelling formats to explain your reasoning aloud to a study buddy, which leverages your strength in group discussions and helps maintain focus through interaction.",
+                            "Practice evidence matching exercises where you find multiple possible supporting text segments for a given answer and then choose the strongest one, using flashcards to quiz yourself and gamify progress, breaking sessions into short, focused intervals with visual timers to sustain attention.",
+                            "Summarize paragraphs in your own words focusing on main ideas and supporting details, then cross-check with official explanations to refine your understanding, celebrating small wins with a habit tracker and sharing insights with an accountability partner to build consistency and motivation."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Sketch graphs of quadratic and exponential functions from given equations to visualize behavior, then solve related quadratic equations using factoring and the quadratic formula, breaking practice into 25-minute focused sessions with visual timers and rewarding completion with progress tracking to maintain engagement.",
+                            "Classify functions by quickly identifying linear versus nonlinear types from equations and graphs, using interactive quizzes or educational games that challenge speed and accuracy, paired with a study buddy to introduce light competition and sustain motivation.",
+                            "Translate real-world scenarios into nonlinear equations and solve them, narrating your problem-solving process aloud or in writing to a partner to leverage your strength in expression and interaction, while using habit trackers to celebrate incremental progress and build study discipline."
+                        ],
+                        "Linear functions": [
+                            "Convert word problems into linear equations by identifying variables, slope, and intercept, then graph these equations to visualize relationships, using diagrams or tables to organize information and working in short, gamified challenges with a study buddy to maintain focus and enthusiasm.",
+                            "Practice solving for unknowns by substituting known values into linear equations, followed by interpreting results in context through brief written explanations, using visual timers to break sessions into manageable chunks and habit trackers to reinforce consistency.",
+                            "Write equations from diverse real-life scenarios and explain the meaning of slope and intercept in each case, sharing your reasoning in group discussions or with an accountability partner to engage your curiosity and creativity while building structured study habits."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate word problems into systems of two linear equations by carefully assigning variables and writing equations, then solve using substitution or elimination methods in focused 30-minute sessions with visual timers to build sustained attention and avoid distraction.",
+                            "Practice solving systems using both substitution and elimination techniques on progressively challenging problems, tracking accuracy and speed with habit trackers and reviewing errors with a study buddy to deepen understanding and maintain motivation.",
+                            "Work on real-world scenarios involving mixtures, rates, or ages by setting up and solving systems, then verify solutions by substitution, narrating your process aloud or in writing to leverage your strength in expression and interaction."
+                        ],
+                        "Nonlinear equations in one variable and systems of equations in two variables": [
+                            "Solve systems combining one linear and one quadratic equation by practicing substitution to reduce to a single quadratic, then solve using factoring or the quadratic formula, breaking practice into focused intervals with visual timers and celebrating progress with habit trackers to build consistency.",
+                            "Interpret the number of solutions by analyzing the discriminant after substitution, using graphing tools to visualize intersections and deepen conceptual understanding, paired with a study buddy to discuss findings and maintain engagement.",
+                            "Work on word problems modeled by these systems, translating scenarios into equations and solving step-by-step, narrating your reasoning to a partner or group to harness your enthusiasm for interaction and creative expression."
+                        ],
+                        "Systems of two linear equations in two variables": [
+                            "Solve systems of linear equations using substitution and elimination methods in structured practice sessions, focusing on clear step-by-step work and verifying solutions by plugging back into original equations, using visual timers and habit trackers to build focus and consistency.",
+                            "Translate real-world word problems into systems of equations, carefully assigning variables and writing equations, then solve and interpret solutions in context, sharing your approach with a study buddy to leverage your strength in discussion and maintain motivation.",
+                            "Graph systems to visualize solutions and identify types (one solution, none, infinite), using interactive graphing tools or apps to gamify learning and break monotony, paired with short, timed challenges to build speed and accuracy."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on dual-skill practice combining one Math and one Reading & Writing skill, starting Monday and Tuesday with your weakest areas to build foundational strength, midweek (Wednesday and Thursday) targeting moderate skills to deepen understanding, Friday dedicated to comprehensive review and error analysis to reinforce learning, Saturday reserved for targeted skill-building and conceptual reinforcement through interactive and creative exercises, and Sunday as a Flex Day to rest, reflect, and adapt your study approach."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure, persona-aligned activities such as reflecting on errors made during the week by storytelling your thought process aloud or journaling insights, experimenting with new interactive tools like educational games or flashcard apps to refresh your approach, tackling mixed-skill challenges that combine Math and Reading & Writing in playful formats, practicing mindfulness or light physical activity to reset focus and reduce cognitive fatigue, and setting clear, motivating goals for the upcoming week to maintain momentum and enthusiasm."
+        }
+    ]
+}

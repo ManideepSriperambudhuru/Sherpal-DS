@@ -1,0 +1,85 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Each week, steadily improve accuracy and reasoning in both Math and Reading & Writing by focusing on core foundational skills. Aim to reduce repeat mistakes through deliberate practice and reflection. Build confidence by consistently completing targeted exercises on prioritized skills, ensuring measurable progress in understanding nonlinear functions and key reading comprehension areas. Track progress with weekly score checks and error analysis to maintain motivation and resilience."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Words in Context, Form, Structure, and Sense, Boundaries"
+                },
+                {
+                    "title": "Math",
+                    "description": "Nonlinear functions, Nonlinear equations in one variable and systems of equations in two variables, Systems of two linear equations in two variables, Linear equations in two variables, Area and volume"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Words in Context": [
+                            "Engage with medium-difficulty SAT reading passages from diverse genres, annotating challenging words and surrounding context clues. After reading, paraphrase sentences containing target vocabulary to deepen understanding of nuanced meanings and connotations, reinforcing active vocabulary building aligned with your strong routine and focus.",
+                            "Complete sentence completion exercises that require selecting words fitting the passage tone and logic, using process of elimination to discard familiar but contextually incorrect options, thereby sharpening your precision and reducing careless errors.",
+                            "Practice targeted contextual vocabulary questions daily, reviewing explanations carefully to identify patterns in word usage and avoid assumptions based on memorized definitions, leveraging your resilience to embrace structured feedback and visible progress."
+                        ],
+                        "Form, Structure, and Sense": [
+                            "Outline the form and structure of short SAT passages by labeling paragraph functions and mapping transitions, focusing on basic concepts to build a solid foundation. This systematic approach complements your disciplined study habits and supports clarity in understanding author intent.",
+                            "Practice reordering scrambled sentences or paragraphs to create coherent logical flow, emphasizing transitions and coherence. This exercise strengthens your ability to analyze organization critically and supports your goal-oriented mindset by providing clear markers of improvement.",
+                            "Answer purpose-driven questions that ask why specific sentences or paragraphs are placed where they are, reflecting on how each part contributes to the overall meaning. This deepens your analytical skills while encouraging reflection on effort over perfection."
+                        ],
+                        "Boundaries": [
+                            "Work through medium-difficulty sentence correction drills focusing on identifying and fixing run-ons, comma splices, and fragments. Use your intrinsic motivation to tackle these common errors methodically, reinforcing clarity and grammatical precision.",
+                            "Practice punctuation placement exercises by inserting commas, semicolons, and colons correctly between independent clauses, reading sentences aloud to internalize natural pauses and improve your intuitive sense of boundaries.",
+                            "Combine pairs of simple sentences into complex or compound sentences using appropriate boundary techniques, then review and reflect on your corrections to build confidence and reduce hyper-focus on flawless results, fostering self-compassion."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Sketch graphs of quadratic and exponential functions from given equations daily, labeling key features such as vertex, intercepts, and end behavior. This visual approach aligns with your disciplined routine and helps solidify foundational understanding while preventing burnout through varied practice.",
+                            "Solve quadratic equations using multiple methods—factoring, completing the square, and quadratic formula—on basic-level problems, ensuring accuracy and reinforcing formula memorization. Reflect on errors to build resilience and adapt strategies as needed.",
+                            "Classify functions by analyzing equations and graphs, distinguishing linear from nonlinear types, and describing their characteristics. This exercise leverages your focus and ambition by providing clear progress markers and deepening conceptual clarity."
+                        ],
+                        "Nonlinear equations in one variable and systems of equations in two variables": [
+                            "Practice solving systems combining one linear and one quadratic equation using substitution on medium-difficulty problems, carefully checking solutions in both equations to avoid extraneous answers. This methodical approach suits your strength in structured feedback and consistency.",
+                            "Interpret discriminants of quadratic equations derived from substitution to predict the number of solutions before solving, enhancing your conceptual understanding and reducing errors through proactive analysis.",
+                            "Graph systems of linear and quadratic equations to visualize intersection points, linking algebraic solutions to graphical interpretations. This reinforces your learning discipline and supports mental flexibility by connecting multiple representations."
+                        ],
+                        "Systems of two linear equations in two variables": [
+                            "Solve medium-difficulty systems using substitution and elimination methods, writing each step clearly to minimize errors. This structured practice fits your routine-driven nature and builds confidence through visible progress.",
+                            "Translate word problems into systems of linear equations and solve them, focusing on accurately assigning variables and verifying solutions in both equations. This real-world application strengthens your problem-solving skills and encourages balanced effort.",
+                            "Graph systems to identify solution types visually, then confirm algebraic solutions, integrating conceptual understanding with procedural accuracy to deepen mastery and maintain motivation."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate challenging word problems into systems of linear equations, carefully defining variables and relationships, then solve using substitution or elimination. This advanced practice leverages your ambition and focus to refine problem-solving techniques.",
+                            "Work step-by-step through elimination and substitution on complex problems, double-checking each calculation to avoid careless mistakes, fostering precision without sacrificing mental resilience.",
+                            "Review solutions by interpreting them in the context of the problem, ensuring logical consistency and reinforcing the connection between abstract math and real-world meaning, supporting balanced growth."
+                        ],
+                        "Area and volume": [
+                            "Calculate areas of basic plane figures and volumes of common solids using formula memorization and diagram drawing on foundational problems, integrating visualization to enhance understanding and prevent burnout.",
+                            "Solve composite figure problems by breaking them into simpler shapes, calculating individual areas or volumes, then combining results carefully. This systematic approach aligns with your disciplined study habits and builds accuracy.",
+                            "Practice unit conversion drills between different measurement systems to avoid common errors, reinforcing attention to detail and supporting steady progress through consistent, focused practice."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday includes focused dual-skill practice pairing one Math and one Reading & Writing skill, starting the week with your weakest areas—Nonlinear functions and Words in Context—to build foundational strength. Midweek shifts to moderate skills like Nonlinear equations and Form, Structure, and Sense, while Fridays are dedicated to comprehensive review and error analysis to consolidate learning. Saturdays alternate between a full-length practice test with detailed review and targeted conceptual reinforcement sessions to deepen understanding. Sundays serve as Flex Days for rest, reflection, and adaptive activities to maintain balance and mental resilience."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use Flex Days to reflect on errors through journaling, focusing on effort and learning rather than perfection, which supports your growth strategy of self-compassion. Experiment with new study tools or mindfulness techniques such as brief guided meditation to prevent burnout. Engage in low-pressure mixed-skill challenges that combine light Math and Reading & Writing exercises to maintain cognitive flexibility without stress. Incorporate physical activity or relaxation practices to recharge. Finally, set clear, manageable goals for the upcoming week, reinforcing your intrinsic motivation and structured approach."
+        }
+    ]
+}

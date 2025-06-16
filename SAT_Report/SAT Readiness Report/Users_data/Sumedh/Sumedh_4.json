@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Your Learning Persona",
+    "description": "Hello Sumedh, as a Summit Strategist, you approach your SAT preparation with a clear, methodical mindset that breaks down complex challenges into manageable parts. Your strength lies in your ability to plan ahead and execute with precision, giving you control over your study process and progress. At the same time, you may find it difficult to adapt when unexpected changes occur, which can create pressure during real test conditions. Embracing flexibility and practicing adaptability will help you maintain performance even when the environment shifts. Focus on balancing your structured approach with opportunities to think on your feet."
+  },
+  {
+    "title": "Your SAT Practice Snapshot",
+    "description": "Your current SAT practice shows strong performance in Math with a perfect score and flawless accuracy, reflecting your analytical strengths. In Reading & Writing, your score and accuracy are solid but reveal room for growth, especially in certain domains. Your total score is close to your goal, indicating consistent effort and a promising foundation to build on. Maintaining this momentum while addressing specific areas will be key to reaching your target."
+  },
+  {
+    "title": "What This Means For You",
+    "description": "Your Summit Strategist persona aligns well with your strength in Math, where your methodical preparation and attention to detail have resulted in perfect accuracy, but your preference for control may challenge you in less predictable Reading & Writing sections. Academically, your highest Reading & Writing domain shows strong command of expression, matching your ability to manage complex structures, while your flawless Math domains reflect your logical mindset and planning skills. Growth areas include the Information and Ideas domain in Reading & Writing, where deeper engagement with varied content will enhance comprehension under pressure, and although your Math scores are perfect, maintaining this level requires ongoing simulation of test conditions to avoid rigidity. Your goal score is within reach if you continue refining your Reading & Writing skills and incorporate adaptability into your test strategy."
+  },
+  {
+    "title": "Your Study Plan: Based on You",
+    "description": [
+      {
+        "title": "Summary",
+        "description": [
+          "Your Summit Strategist mindset equips you with a strong foundation for disciplined, structured SAT preparation, especially in Math where your precision shines. The challenge lies in adapting to unexpected test scenarios, particularly in Reading & Writing, where flexibility can influence performance. Leveraging your planning skills while integrating adaptive practice will help you bridge the gap to your goal."
+        ]
+      },
+      {
+        "title": "Reading Writing Strategies",
+        "description": [
+          "1. Focus on the Information and Ideas domain by incorporating timed reading drills that introduce unexpected question types or shifts mid-session to build adaptability within your structured approach.",
+          "2. Strengthen your Craft and Structure skills through targeted review sessions that emphasize logical analysis of sentence and paragraph organization, reinforcing your natural analytical strengths.",
+          "3. Maintain momentum in Expression of Ideas by engaging in reflective exercises that connect your understanding of argument flow with real-time summarization tasks, supporting your methodical learning style."
+        ]
+      },
+      {
+        "title": "Math Strategies",
+        "description": [
+          "1. Although your Math accuracy is perfect, introduce variable-timed problem sets in Problem-Solving and Data Analysis to simulate unpredictability and reduce reliance on rigid pacing.",
+          "2. Refine your Algebra skills by practicing multi-step problems under timed conditions, reinforcing your logical sequencing while encouraging flexible thinking.",
+          "3. Sustain confidence in Advanced Math by reviewing complex concepts through step-by-step problem breakdowns, aligning with your preference for detailed, structured learning."
+        ]
+      },
+      {
+        "title": "Study Plan Phases",
+        "description": {
+          "Foundation": {
+            "date": "May 26, 2025 - June 30, 2025",
+            "reading_writing": "Prioritize the Information and Ideas domain with focused, adaptive reading exercises that challenge your comfort zone and build flexibility.",
+            "math": "Maintain review of Problem-Solving and Data Analysis with variable timing to prepare for unexpected test conditions while reinforcing core concepts."
+          },
+          "Elevation": {
+            "date": "July 1, 2025 - July 31, 2025",
+            "reading_writing": "Shift focus to Craft and Structure to refine analytical skills through logical dissection of passages and sentence-level details under timed conditions.",
+            "math": "Concentrate on Algebra with multi-step problem drills that encourage flexible application of formulas and reasoning."
+          },
+          "Peak": {
+            "date": "August 1, 2025 - August 8, 2025",
+            "reading_writing": "Emphasize full-length timed practice tests with simulated disruptions to enhance adaptability and fluency in Reading & Writing.",
+            "math": "Sharpen speed and accuracy with mixed-domain timed sets, focusing on sustaining performance under pressure."
+          }
+        }
+      },
+      {
+        "title": "Sample Weekly Schedule",
+        "description": [
+          "Monday: focus area: Information and Ideas - duration 60 minutes.",
+          "Tuesday: focus area: Problem-Solving and Data Analysis - duration 60 minutes.",
+          "Wednesday: focus area: Craft and Structure - duration 60 minutes.",
+          "Thursday: focus area: Expression of Ideas - duration 60 minutes.",
+          "Friday: focus area: Algebra - duration 60 minutes.",
+          "Saturday: focus area: Mixed Reading & Writing timed drill - duration 60 minutes.",
+          "Sunday: focus area: Flex Day for review or rest - duration 30 minutes."
+        ]
+      },
+      {
+        "title": "Study Tips",
+        "description": [
+          "1. Let’s build skill in the Information and Ideas domain by practicing reading passages with shifting question types to enhance your adaptability.",
+          "2. Try focusing on Problem-Solving and Data Analysis with variable timing to simulate real test unpredictability and strengthen flexible thinking.",
+          "3. Continue refining Craft and Structure by analyzing sentence relationships and paragraph logic to deepen your analytical confidence.",
+          "4. Structure your study schedule to include timed drills that introduce unexpected changes, balancing your natural planning with adaptability as the test date approaches.",
+          "5. Recognize that progress comes from adjusting your approach when plans shift; embracing this will improve your performance under pressure."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Want to Go Further?",
+    "description": "Sumedh, your methodical planning and analytical strengths have positioned you well for the SAT, especially in Math where your precision is evident. Expanding your flexibility in Reading & Writing will be crucial to meet your goal score and handle test-day variability. Sherpal offers tailored insights and adaptive coaching designed to complement your strategic mindset and help you navigate challenges with confidence."
+  },
+  {
+    "title": "Footer",
+    "description": "Safe harbor The scores, assessments, and recommendations provided in this report are for informational purposes only and do not constitute professional educational, psychological, or legal advice. Current performance is not necessarily indicative of actual or future results, as test-day conditions and individual circumstances may vary. While care has been taken in the preparation of this material, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, or reliability of the information presented. Any reliance you place on such information is strictly at your own risk. We accept no liability for any loss or damage arising from the use of this report. © 2025 Sthirah Inc. | Confidential & Proprietary - For internal Use Only"
+  }
+]

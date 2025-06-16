@@ -1,0 +1,39 @@
+sat_score
+accuracy_index
+time_management
+
+subject
+    skills: for each skill
+        name                          *
+        priority_index
+        question_weight
+        educational_resources
+        priority                      *
+    over_all_assessment:
+        domains: for each domain
+            weightage
+        skills: for each skill
+            weightage
+            is_top                    *
+    accuracy_assessment:
+        domain: for each domain
+            accuracy                  *
+        skills: for each skill
+            accuracy                  *
+            is_top
+            correct_answers
+            incorrect_answers
+            total_questions
+    time_factor_assessment: 
+        domain: for each domain
+            time_factor
+        skill: for each skill
+            time_factor
+            is_top
+            name
+            above_optimal_answers
+            below_optimal_answers
+            optimal_answers
+            above_optimal_percentage
+            below_optimal_percentage
+            optimal_percentage

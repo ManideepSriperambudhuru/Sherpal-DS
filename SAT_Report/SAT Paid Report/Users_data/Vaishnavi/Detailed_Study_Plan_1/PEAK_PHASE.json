@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Aim to consistently score within 5 points of your target on full-length practice tests to stabilize performance under timed conditions. Achieve measurable improvements in accuracy for priority Reading & Writing skills, especially Command of Evidence - Textual and Transitions, reducing repeated errors by at least 50%. In Math, focus on mastering Percentages and Linear functions with precise reasoning and speed, minimizing careless mistakes. Strengthen endurance to maintain focus through entire test sections while locking in your test-day strategy to minimize score variance."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Command of Evidence - Textual, Transitions, Command of Evidence - Quantitative, Central Ideas and Details, Cross-text Connections"
+                },
+                {
+                    "title": "Math",
+                    "description": "Percentages, Linear functions, Linear inequalities in one or two variables, Right triangles and trigonometry"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Command of Evidence - Textual": "Practice paired SAT reading questions under timed conditions by first answering the main question in your own words, then carefully rereading the passage to underline the strongest textual evidence that directly supports your answer, followed by eliminating weaker or irrelevant options to sharpen precision and speed.",
+                        "Transitions": "Engage in timed exercises where you identify and annotate transition words in complex passages, then rewrite short paragraphs replacing transitions with synonyms that fit the logical relationship, ensuring variety and clarity while maintaining coherence under time pressure.",
+                        "Command of Evidence - Quantitative": "Work on SAT passages containing embedded charts and tables by first interpreting data visuals independently, then answering command of evidence questions by highlighting key statistics and paraphrasing their significance before selecting the best supporting evidence, practicing elimination of misleading options.",
+                        "Central Ideas and Details": "Read challenging passages and pause after each paragraph to write a concise summary of the central idea and supporting details in your own words, then answer related SAT questions focusing on distinguishing main points from minor facts, all within strict time limits to build fluency.",
+                        "Cross-text Connections": "Practice paired passage sets by annotating each text’s author purpose, tone, and key arguments, then create a comparison chart to map agreements and contrasts before answering synthesis questions, reinforcing deep analysis and integration of multiple perspectives under timed conditions."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Percentages": "Complete advanced problem sets involving multi-step percentage calculations including conversions, percentage increases/decreases, and reverse percentage problems, writing out each step clearly to avoid errors and using estimation to verify answers under timed conditions.",
+                        "Linear functions": "Translate complex word problems into linear equations by identifying variables, calculating slopes and intercepts, then solve for unknowns and graph the results to visualize relationships, practicing speed and accuracy with real-world contexts.",
+                        "Linear inequalities in one or two variables": "Solve challenging inequality word problems by carefully translating verbal conditions into inequalities, performing step-by-step algebraic manipulations including sign reversals when needed, and graphing solution sets on number lines to confirm correctness under timed practice.",
+                        "Right triangles and trigonometry": "Work through problems requiring identification of opposite, adjacent, and hypotenuse sides relative to given angles, apply sine, cosine, and tangent ratios or their inverses to find missing sides or angles, and verify answers with diagrams and reasonableness checks, focusing on speed and precision."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday begins with focused dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday with your weakest areas to build foundational mastery, progressing midweek to moderate skills to maintain momentum, and reserving Friday for comprehensive review and targeted error correction. Saturdays are dedicated to two full-length, timed practice tests simulating real exam conditions, followed by detailed analysis of mistakes and strategy refinement. Sunday serves as a Flex Day to recharge and adapt your plan as needed."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day to reflect calmly on errors from the week, journaling insights and adjusting your approach without pressure. Experiment with a new study tool or technique for one skill, committing to mastering it over the coming week to satisfy your curiosity while building discipline. Engage in mixed-skill challenges that blend Reading & Writing with Math to stimulate cognitive flexibility. Incorporate mindfulness or light physical activity to restore mental energy. Finally, set clear, achievable goals for the next week to maintain focus and structure."
+        }
+    ]
+}

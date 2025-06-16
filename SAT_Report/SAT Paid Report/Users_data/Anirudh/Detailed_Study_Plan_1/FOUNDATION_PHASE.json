@@ -1,0 +1,95 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Build a solid baseline of SAT skills by improving accuracy and conceptual clarity in both Math and Reading & Writing. Achieve measurable progress in priority areas such as Words in Context and Nonlinear Functions while steadily reducing repeated errors. Develop confident, timely decision-making under pressure to minimize hesitation and incomplete answers. Strengthen reasoning abilities through consistent practice and reflection, setting the stage for accelerated growth in subsequent phases."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": [
+                        "Words in Context",
+                        "Form, Structure, and Sense",
+                        "Rhetorical Synthesis"
+                    ]
+                },
+                {
+                    "title": "Math",
+                    "description": [
+                        "Nonlinear functions",
+                        "Linear equations in two variables",
+                        "Equivalent expressions",
+                        "Linear functions",
+                        "Right triangles and trigonometry"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Words in Context": [
+                            "Engage with diverse, challenging passages from literary, scientific, and historical texts, annotating unfamiliar words and their surrounding context clues. After each passage, paraphrase sentences containing key vocabulary to deepen understanding and reinforce meaning within the passage’s tone. Complete targeted sentence completion exercises under timed conditions to practice quick, accurate interpretation of nuanced vocabulary, building confidence in instinctual decision-making.",
+                            "Practice answering contextual vocabulary questions by selecting the best word meaning based solely on passage clues, deliberately avoiding reliance on memorized definitions. Use process of elimination to discard choices that conflict with the author’s tone or logic, then journal reflections on decisions made confidently and correctly to reinforce trust in your instincts.",
+                            "Perform regular reading comprehension drills focused on complex vocabulary usage, annotating synonyms, antonyms, and contrast indicators within sentences. After each drill, conduct a timed review session to identify when rapid decisions aligned with correct answers, fostering a balance between thoughtful analysis and efficient response."
+                        ],
+                        "Form, Structure, and Sense": [
+                            "Outline the form and internal structure of passages by labeling paragraphs with their functions (introduction, evidence, counterargument, conclusion) and noting transitions that connect ideas. Practice reordering scrambled paragraphs to restore logical flow, reinforcing understanding of coherence and author intent.",
+                            "Complete exercises that require identifying the purpose of specific sentences or paragraphs within passages, explaining why they appear in their positions. Use these insights to answer questions about improving clarity and coherence, focusing on maintaining the passage’s overall sense without overanalyzing.",
+                            "Engage in transition word fill-in-the-blank activities to strengthen recognition of logical connectors. After each exercise, reflect on how transitions guide the reader through arguments or narratives, journaling moments when quick choices about structure led to correct comprehension."
+                        ],
+                        "Rhetorical Synthesis": [
+                            "Practice synthesizing information from multiple short passages by identifying agreements, disagreements, and rhetorical appeals (ethos, pathos, logos). Write synthesis paragraphs that integrate evidence cohesively, using transitional phrases to connect ideas smoothly while maintaining your own voice.",
+                            "Analyze pairs of texts to compare rhetorical strategies and author purposes, annotating key arguments and evidence. Use graphic organizers like Venn diagrams to visualize relationships, then complete timed synthesis questions to build fluency in combining sources under pressure.",
+                            "Engage in rhetorical analysis drills focusing on identifying persuasive techniques and evaluating their effectiveness. After each drill, review errors and journal instances where confident, timely decisions about synthesis led to accurate answers, reinforcing trust in partial information and iterative learning."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Practice sketching graphs of quadratic and exponential functions from given equations, focusing on identifying vertices, intercepts, and end behavior. Solve quadratic equations using multiple methods—factoring, completing the square, quadratic formula—under timed conditions to build speed without sacrificing accuracy.",
+                            "Work on classifying functions as linear or nonlinear based on equations and graphs, explaining key features aloud or in writing to deepen conceptual understanding. Translate real-world word problems into nonlinear equations and solve them, reflecting post-practice on decision-making speed and correctness.",
+                            "Complete SAT-style multiple-choice questions involving nonlinear functions, emphasizing recognition of negative coefficients and domain restrictions. After each set, conduct a debrief to identify when instincts aligned with correct answers, journaling confidence-building moments to reduce hesitation."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate diverse word problems into systems of two linear equations by clearly defining variables and relationships. Solve these systems using substitution and elimination methods step-by-step, verifying solutions by substitution to ensure accuracy and build procedural confidence.",
+                            "Practice solving real-world scenarios involving mixtures, rates, and ages by setting up and solving systems of equations under timed conditions. After each problem, review the logical consistency of solutions and journal instances where quick, confident decisions led to correct answers.",
+                            "Engage in exercises that require checking solutions by substituting back into original equations, reinforcing accuracy and reducing fear of error. Reflect on errors in a journal to identify patterns and build trust in your problem-solving instincts."
+                        ],
+                        "Equivalent expressions": [
+                            "Isolate variables in multi-step algebraic equations by applying inverse operations one step at a time, writing each step clearly to avoid confusion. Practice with formulas involving fractions and parentheses, ensuring balanced operations on both sides and verifying results by substitution.",
+                            "Work on rearranging formulas from physics and geometry contexts (e.g., distance = rate × time) to isolate different variables, explaining each manipulation aloud or in writing to reinforce conceptual clarity and procedural discipline.",
+                            "Complete word problems requiring translation into equations and isolation of target variables under timed conditions. After practice, review errors and journal moments when confident, timely decisions led to correct solutions, fostering acceptance of moving forward without perfect certainty."
+                        ],
+                        "Linear functions": [
+                            "Translate word problems into linear equations by identifying dependent and independent variables, calculating slope and y-intercept, and writing equations in slope-intercept form. Solve for unknowns and interpret results in context, explaining reasoning to deepen understanding.",
+                            "Graph linear equations from word problems and interpret slopes and intercepts in real-world terms. Practice identifying errors in slope calculation or variable assignment, journaling reflections on decision-making speed and accuracy.",
+                            "Engage in exercises that require writing equations from diverse scenarios and solving for variables under timed conditions. After each session, review mistakes and journal instances of confident, efficient problem-solving to build trust in partial information."
+                        ],
+                        "Right triangles and trigonometry": [
+                            "Draw and label right triangles for each problem, identifying opposite, adjacent, and hypotenuse sides relative to the target angle. Use sine, cosine, and tangent ratios to solve for unknown sides or angles, practicing with calculator use and inverse functions under timed conditions.",
+                            "Solve word problems involving heights, distances, and angles by applying trigonometric ratios combined with the Pythagorean theorem. After each problem, check answers for reasonableness and journal moments when quick, confident decisions led to correct solutions.",
+                            "Practice problems involving non-standard acute angles to build flexibility in applying trigonometric ratios. Focus on avoiding common mistakes like confusing sides or misusing ratios, reflecting post-practice on decision-making speed and accuracy to reduce hesitation."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on deep conceptual mastery through dual-skill practice, pairing one Math and one Reading & Writing skill. Begin the week targeting your weakest skills—Words in Context and Nonlinear Functions—to build foundational strength. Midweek shifts to moderate skills like Form, Structure, and Sense alongside Linear Equations in Two Variables to reinforce understanding. Fridays are dedicated to comprehensive review and error analysis to consolidate learning. Saturdays emphasize fundamental concepts through targeted skill-building and conceptual reinforcement exercises. Reserve one Flex Day for rest, reflection, and adaptive practice to maintain cognitive balance and sustain motivation."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in reflective journaling focused on moments when you acted with confidence and made correct decisions, reinforcing trust in your instincts. Experiment with new study tools or techniques, such as digital annotation apps or timed flashcard drills, to discover what enhances your learning flow. Tackle mixed-skill challenges at a relaxed pace to stimulate intellectual curiosity without pressure. Incorporate mindfulness or light physical activity like walking or stretching to refresh your mind and body. Set clear, purpose-driven goals for the upcoming week, aligning with your internal motivation and thoughtful pace to sustain steady progress."
+        }
+    ]
+}

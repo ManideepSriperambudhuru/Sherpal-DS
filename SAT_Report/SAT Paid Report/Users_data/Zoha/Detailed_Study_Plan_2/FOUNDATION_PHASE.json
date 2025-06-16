@@ -1,0 +1,85 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvement in accuracy and reasoning across prioritized Math and Reading & Writing skills by steadily reducing repeat mistakes. Build a strong conceptual baseline with clear understanding of nonlinear equations, systems, and core vocabulary in context. Develop confidence in decision-making under timed conditions by completing all practice questions within set limits. Establish consistent study habits that support thoughtful absorption of material while fostering quicker, purposeful answer commitment."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Words in Context, Form, Structure, and Sense, Transitions"
+                },
+                {
+                    "title": "Math",
+                    "description": "Nonlinear equations in one variable and systems of equations in two variables, Linear equations in two variables, Nonlinear functions, Equivalent expressions, Systems of two linear equations in two variables"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Words in Context": [
+                            "Engage with medium-difficulty passages from diverse genres, annotating challenging words and surrounding context clues. After each passage, paraphrase sentences containing target vocabulary to deepen understanding of nuanced meanings and connotations, then answer contextual vocabulary questions under a 60-second timer per question to build decision speed without sacrificing accuracy.",
+                            "Complete sentence completion exercises where you select the best-fitting word based on passage tone and logic, practicing elimination of choices that conflict with the author’s intent. Reflect post-practice on instinctual choices that proved correct to reinforce confidence in partial information decisions.",
+                            "Practice reading comprehension drills focused on complex vocabulary by highlighting and explaining the role of key words in shaping tone and argument. Journal brief notes on moments when you confidently committed to an answer and were correct, reinforcing trust in your reasoning under time constraints."
+                        ],
+                        "Form, Structure, and Sense": [
+                            "Analyze medium-difficulty passages by outlining paragraph functions (introduction, evidence, conclusion) and identifying the form of the text to anticipate author goals. Practice answering questions about paragraph purpose and logical flow within a 90-second limit per question to encourage timely decision-making.",
+                            "Perform reordering exercises where sentences or paragraphs are rearranged to improve coherence. After each exercise, write a brief rationale explaining why the chosen order enhances clarity, connecting this reflection to your internal motivation for understanding structure rather than rote memorization.",
+                            "Complete transition word fill-in-the-blank exercises that require selecting the most effective connectors to maintain logical flow. Review incorrect choices to identify patterns of overanalysis and practice committing to the best option within a 45-second window to build decisiveness."
+                        ],
+                        "Transitions": [
+                            "Identify and underline transition words in medium-difficulty paragraphs, then explain aloud or in writing the relationship each transition signals (contrast, addition, cause-effect). Limit explanations to 30 seconds per transition to balance depth with speed.",
+                            "Write short paragraphs on familiar topics incorporating a variety of transition types, consciously varying word choice to avoid repetition. Time this exercise to 10 minutes to simulate test pacing and encourage fluid writing with clear logical connections.",
+                            "Review sample paragraphs with missing or incorrect transitions and revise them for clarity and coherence. After revisions, compare your choices with model answers and journal reflections on how effective transitions supported your understanding and confidence in writing."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear equations in one variable and systems of equations in two variables": [
+                            "Practice solving systems where a linear equation is substituted into a quadratic equation, focusing on isolating variables carefully and applying the quadratic formula accurately. Work through medium-difficulty problems with a 3-minute time limit per question to build speed and reduce overanalysis, then verify solutions by substitution to confirm correctness.",
+                            "Graph systems of linear and quadratic equations to visualize intersection points and interpret the number of solutions based on the discriminant. Use this visual approach to deepen conceptual understanding and connect algebraic solutions to their graphical meaning.",
+                            "Solve word problems modeling real-world scenarios with linear and quadratic systems, translating context into equations and interpreting solutions logically. After each problem, reflect briefly on decision points where committing to an answer quickly led to success, reinforcing trust in your instincts."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate medium-difficulty word problems into systems of linear equations, carefully assigning variables and writing clear equations. Solve using substitution or elimination methods within a 4-minute time frame per problem to encourage timely decision-making without sacrificing accuracy.",
+                            "Practice elimination and substitution techniques separately on sets of equations with varying coefficients, focusing on step-by-step clarity and double-checking each step to avoid errors. After solving, substitute solutions back into original equations to verify correctness.",
+                            "Work on real-world context problems involving mixtures, rates, or ages, emphasizing interpretation of solutions in context. Journal moments when you confidently committed to an answer under timed conditions to build decision-making resilience."
+                        ],
+                        "Nonlinear functions": [
+                            "Sketch graphs of quadratic and exponential functions from given equations to visualize key features such as vertex, intercepts, and end behavior. Use these sketches to predict solution types before solving equations, reinforcing conceptual understanding.",
+                            "Solve quadratic equations using factoring, completing the square, and the quadratic formula on challenging problems, timing each to 3 minutes to build fluency and reduce hesitation. Review errors carefully to identify and correct common pitfalls.",
+                            "Translate word problems involving nonlinear functions into equations and solve them, focusing on interpreting the meaning of solutions in context. Reflect on instances where moving forward with partial information led to correct answers, strengthening confidence."
+                        ],
+                        "Equivalent expressions": [
+                            "Practice isolating variables in multi-step equations by performing one algebraic operation at a time, writing each step clearly to avoid confusion. Work on problems involving fractions and parentheses, timing each to 4 minutes to encourage efficient yet accurate manipulation.",
+                            "Rearrange formulas with multiple variables, such as distance = rate × time, to isolate different quantities. After each exercise, substitute your isolated variable back into the original formula to verify correctness and reinforce understanding.",
+                            "Solve word problems requiring variable isolation, focusing on translating context into equations and applying inverse operations systematically. Journal reflections on successful problem-solving moments where clear notation and stepwise work prevented errors."
+                        ],
+                        "Systems of two linear equations in two variables": [
+                            "Solve systems of linear equations using substitution and elimination methods on challenging problems, focusing on writing each step clearly and choosing the most efficient method. Time each problem to 4 minutes to build speed and reduce overthinking.",
+                            "Graph pairs of linear equations to identify solution types visually, then confirm algebraically. Use this dual approach to deepen understanding and build confidence in interpreting solutions.",
+                            "Translate complex word problems into systems of linear equations and solve them, emphasizing checking solutions by substitution. Reflect on decision-making moments where committing to an answer confidently led to success under timed conditions."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday will focus on deep conceptual mastery through dual-skill practice, pairing one Math and one Reading & Writing skill. The week begins by targeting the weakest skills to build foundational strength, progresses midweek to moderate skills for balanced growth, and reserves Friday for comprehensive review and error analysis. Saturday concentrates on reinforcing fundamental concepts through targeted skill-building exercises and conceptual reflection. Sunday serves as a Flex Day, allowing rest, reflection, and adaptive practice aligned with your thoughtful learning style."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in reflective journaling on recent practice sessions, focusing on moments when you trusted your instincts and made confident decisions. Experiment with new study tools or techniques, such as timed flashcards or concept mapping, to stimulate intellectual curiosity without pressure. Tackle mixed-skill challenges at a relaxed pace to maintain cognitive flexibility. Incorporate mindfulness or light physical activity to recharge emotionally and mentally. Set clear, purposeful goals for the upcoming week, reinforcing your internal motivation and steady progress."
+        }
+    ]
+}

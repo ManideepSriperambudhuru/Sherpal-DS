@@ -1,0 +1,65 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve consistent accuracy above 90% in prioritized Math and Reading & Writing skills while reducing repeated errors by at least 50%. Strengthen reasoning speed to confidently commit to answers within timed conditions. Maintain steady performance across full-length practice tests with minimal score variance. Build resilience against second-guessing by trusting initial instincts and reflecting constructively on mistakes."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": [
+                        "Command of Evidence - Textual",
+                        "Command of Evidence - Quantitative",
+                        "Central Ideas and Details",
+                        "Rhetorical Synthesis",
+                        "Cross-text Connections"
+                    ]
+                },
+                {
+                    "title": "Math",
+                    "description": [
+                        "Percentages",
+                        "Ratios, rates, proportional relationships, and units",
+                        "Right triangles and trigonometry",
+                        "One-variable data: Distributions and measures of center and spread"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Command of Evidence - Textual": "Practice paired SAT questions under timed conditions where you first answer the main question, then immediately select the strongest textual evidence, annotating passages to underline key support; track streaks of correct evidence identification to reinforce confidence in your analytical precision.",
+                        "Command of Evidence - Quantitative": "Engage in timed drills interpreting embedded data visuals by highlighting critical statistics and paraphrasing their significance before answering evidence questions, followed by immediate review to confirm accuracy and build trust in your data reasoning under pressure.",
+                        "Central Ideas and Details": "Summarize short passages aloud within strict time limits, focusing on articulating central ideas and supporting details in your own words, then compare with model answers to validate your comprehension and reduce hesitation in committing to interpretations.",
+                        "Rhetorical Synthesis": "Complete synthesis exercises combining multiple short texts by creating graphic organizers that map agreements and contrasts, then write concise paragraphs integrating these insights under timed conditions to sharpen your ability to weave complex arguments confidently.",
+                        "Cross-text Connections": "Practice paired passage analysis by annotating author’s purpose and tone, then answer cross-text questions within a set time, followed by reflection on your answer choices to strengthen your ability to quickly discern nuanced relationships and trust your synthesis skills."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Percentages": "Perform rapid-fire conversion drills between fractions, decimals, and percentages with a countdown timer, immediately checking answers to celebrate accuracy streaks and reinforce quick, confident calculations under timed pressure.",
+                        "Ratios, rates, proportional relationships, and units": "Solve multi-step word problems involving ratios and unit conversions within strict time limits, writing out each step clearly to maintain accuracy while building speed and reducing second-guessing through consistent practice and review.",
+                        "Right triangles and trigonometry": "Work through a series of right triangle problems identifying sides relative to angles, using trigonometric ratios and inverse functions under timed conditions, then review errors with a mentor or peer to build confidence in your problem setup and solution commitment.",
+                        "One-variable data: Distributions and measures of center and spread": "Analyze data sets and graphs by calculating mean, median, range, and IQR within a set time, then interpret distribution shapes aloud to a study partner, reinforcing your ability to quickly extract and trust statistical insights."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with your weakest areas to maximize early-week gains. Wednesday and Thursday target moderate skills to maintain momentum. Friday is dedicated to comprehensive review of errors and strategy refinement. Saturday includes two full-length practice tests simulating real conditions to build endurance and confidence, with detailed post-test analysis to identify patterns and reinforce trust in your instincts. Sunday serves as a flexible rest and reflection day to recharge and adapt."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing past errors with a focus on progress rather than perfection, journaling insights to build self-trust. Experiment with new study tools or timing techniques to discover what enhances your confidence and efficiency. Challenge yourself with mixed-skill puzzles or logic games that align with your analytical strengths but without strict timing to encourage cognitive flexibility. Incorporate mindfulness or light physical activity to reduce stress and sharpen focus. Set clear, achievable goals for the upcoming week to maintain motivation and direction."
+        }
+    ]
+}

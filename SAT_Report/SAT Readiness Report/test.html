@@ -1,0 +1,364 @@
+<style>
+	.content-container {
+		max-width: 700px;
+		margin: auto;
+		font-family: Arial, sans-serif;
+		color: black;
+	}
+	h3.section-title {
+		font-size: 1.4rem;
+		margin-bottom: 8px;
+		color: #4e92bc;
+	}
+	.section-content {
+		background: white;
+		padding: 12px 16px;
+		box-shadow: 0 2px 6px rgba(78, 146, 188, 0.3);
+		border-radius: 6px;
+		margin-bottom: 20px;
+	}
+	ul.bullet-list {
+		list-style-type: disc;
+		padding-left: 20px;
+	}
+	li.bullet-item {
+		margin-bottom: 6px;
+	}
+	ol.numbered-list {
+		counter-reset: item;
+		padding-left: 0;
+		list-style: none;
+	}
+	ol.numbered-list li.numbered-item {
+		display: flex;
+		align-items: center;
+		background: linear-gradient(
+			90deg,
+			rgba(78, 146, 188, 0.85) 0%,
+			rgba(131, 166, 143, 0.85) 100%
+		);
+		border-radius: 10px;
+		padding: 10px 14px;
+		margin-bottom: 10px;
+		color: white;
+		font-weight: normal;
+	}
+	ol.numbered-list li.numbered-item::before {
+		counter-increment: item;
+		content: counter(item);
+		flex-shrink: 0;
+		background: rgba(255, 255, 255, 0.3);
+		color: white;
+		font-weight: bold;
+		font-size: 1.2rem;
+		width: 32px;
+		height: 32px;
+		line-height: 32px;
+		border-radius: 50%;
+		text-align: center;
+		margin-right: 12px;
+		box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+	}
+	.card-grid {
+		display: flex;
+		flex-direction: column;
+		gap: 16px;
+	}
+	.card {
+		background: linear-gradient(
+			90deg,
+			rgba(78, 146, 188, 0.85) 0%,
+			rgba(131, 166, 143, 0.85) 100%
+		);
+		color: white;
+		border-radius: 10px;
+		padding: 12px 16px;
+		box-shadow: 0 3px 8px rgba(0, 0, 0, 0.25);
+	}
+	.card-title {
+		font-weight: bold;
+		font-size: 1.1rem;
+		margin-bottom: 6px;
+	}
+	.card-content {
+		background: linear-gradient(
+			90deg,
+			rgba(78, 146, 188, 0.85) 0%,
+			rgba(131, 166, 143, 0.85) 100%
+		);
+		padding: 10px;
+		border-radius: 8px;
+		box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+	}
+	.schedule-grid {
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		gap: 12px;
+		margin-top: 12px;
+	}
+	.schedule-item {
+		background: white;
+		box-shadow: 0 3px 8px rgba(78, 146, 188, 1);
+		border-top: 6px solid rgba(78, 146, 188, 0.8);
+		border-left: 6px solid rgba(78, 146, 188, 0.8);
+		border-radius: 8px;
+		padding: 10px;
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+	}
+	.key-name {
+		font-weight: bold;
+		font-size: 1rem;
+		margin-bottom: 4px;
+		color: black;
+	}
+	.key-value {
+		font-weight: bold;
+		color: black;
+		margin-bottom: 4px;
+	}
+	.duration {
+		color: black;
+		font-size: 0.9rem;
+	}
+	p {
+		font-size: 1rem;
+		line-height: 1.4;
+		margin: 0;
+	}
+</style>
+<div class="content-container">
+	<h3 class="section-title">Summary</h3>
+	<div class="section-content">
+		<p>
+			Your steady and balanced approach suits a sustainable SAT journey.
+			Your math precision and thoughtful reading skills are clear
+			strengths, while your tendency to avoid discomfort may slow progress
+			in tougher areas. Focusing on manageable challenges will help you
+			break through plateaus without disrupting your calm. This plan
+			respects your need for harmony while encouraging targeted growth.
+		</p>
+	</div>
+	<h3 class="section-title">Reading Writing Strategies</h3>
+	<div class="section-content">
+		<ol class="numbered-list">
+			<li class="numbered-item">
+				Build skill in Craft and Structure by engaging with complex
+				sentence relationships through brief, focused exercises that
+				invite reflection rather than pressure.
+			</li>
+			<li class="numbered-item">
+				Refine your strengths in Information and Ideas by practicing
+				summarizing passages aloud or in writing to deepen comprehension
+				and confidence.
+			</li>
+			<li class="numbered-item">
+				Maintain momentum in Standard English Conventions by using
+				gamified grammar apps or quizzes that reward steady progress and
+				align with your preference for gradual growth.
+			</li>
+		</ol>
+	</div>
+	<h3 class="section-title">Math Strategies</h3>
+	<div class="section-content">
+		<ol class="numbered-list">
+			<li class="numbered-item">
+				Focus on Advanced Math by breaking down challenging problems
+				into smaller steps, allowing you to approach complexity without
+				feeling overwhelmed.
+			</li>
+			<li class="numbered-item">
+				Sharpen your Algebra skills by reviewing problem types where you
+				feel less confident, using spaced repetition to reinforce
+				concepts steadily.
+			</li>
+			<li class="numbered-item">
+				Sustain your confidence in Problem-Solving and Data Analysis
+				through timed practice sets that simulate test conditions while
+				keeping stress manageable.
+			</li>
+		</ol>
+	</div>
+	<h3 class="section-title">Study Plan Phases</h3>
+	<div class="section-content">
+		<div class="card-grid">
+			<div class="card">
+				<div class="card-title">Foundation</div>
+				<div class="card-content">
+					<div class="card-grid">
+						<div class="card">
+							<div class="card-title">Date</div>
+							<div class="card-content">
+								<p>May 28, 2025 - July 15, 2025</p>
+							</div>
+						</div>
+						<div class="card">
+							<div class="card-title">Math</div>
+							<div class="card-content">
+								<p>
+									Focus on Advanced Math concepts with
+									stepwise problem-solving and spaced review
+									to build confidence without pressure.
+								</p>
+							</div>
+						</div>
+						<div class="card">
+							<div class="card-title">Reading and Writing</div>
+							<div class="card-content">
+								<p>
+									Prioritize Craft and Structure through
+									reflective exercises that encourage deeper
+									engagement with text complexity.
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-title">Elevation</div>
+				<div class="card-content">
+					<div class="card-grid">
+						<div class="card">
+							<div class="card-title">Date</div>
+							<div class="card-content">
+								<p>July 16, 2025 - August 1, 2025</p>
+							</div>
+						</div>
+						<div class="card">
+							<div class="card-title">Math</div>
+							<div class="card-content">
+								<p>
+									Refine Algebra skills with targeted practice
+									and spaced repetition to strengthen partial
+									mastery.
+								</p>
+							</div>
+						</div>
+						<div class="card">
+							<div class="card-title">Reading and Writing</div>
+							<div class="card-content">
+								<p>
+									Build fluency in Information and Ideas by
+									summarizing and analyzing passages under
+									timed conditions.
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="card">
+				<div class="card-title">Peak</div>
+				<div class="card-content">
+					<div class="card-grid">
+						<div class="card">
+							<div class="card-title">Date</div>
+							<div class="card-content">
+								<p>August 2, 2025 - August 8, 2025</p>
+							</div>
+						</div>
+						<div class="card">
+							<div class="card-title">Math</div>
+							<div class="card-content">
+								<p>
+									Sharpen speed and accuracy with full-length
+									timed practice focusing on Advanced Math and
+									Problem-Solving.
+								</p>
+							</div>
+						</div>
+						<div class="card">
+							<div class="card-title">Reading and Writing</div>
+							<div class="card-content">
+								<p>
+									Focus on test simulation and retention of
+									Craft and Structure concepts under timed
+									conditions.
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<h3 class="section-title">Sample Weekly Schedule</h3>
+		<div class="section-content">
+			<div class="schedule-grid">
+				<div class="schedule-item">
+					<div class="key-name">Monday</div>
+					<div class="key-value">focus area: Craft and Structure</div>
+					<div class="duration">60 minutes</div>
+				</div>
+				<div class="schedule-item">
+					<div class="key-name">Tuesday</div>
+					<div class="key-value">focus area: Advanced Math</div>
+					<div class="duration">60 minutes</div>
+				</div>
+				<div class="schedule-item">
+					<div class="key-name">Wednesday</div>
+					<div class="key-value">focus area: Algebra</div>
+					<div class="duration">60 minutes</div>
+				</div>
+				<div class="schedule-item">
+					<div class="key-name">Thursday</div>
+					<div class="key-value">
+						focus area: Information and Ideas
+					</div>
+					<div class="duration">60 minutes</div>
+				</div>
+				<div class="schedule-item">
+					<div class="key-name">Friday</div>
+					<div class="key-value">
+						focus area: Standard English Conventions
+					</div>
+					<div class="duration">60 minutes</div>
+				</div>
+				<div class="schedule-item">
+					<div class="key-name">Saturday</div>
+					<div class="key-value">
+						focus area: Mixed review and timed drills
+					</div>
+					<div class="duration">60 minutes</div>
+				</div>
+				<div class="schedule-item">
+					<div class="key-name">Sunday</div>
+					<div class="key-value">
+						focus area: Flex day (review or rest)
+					</div>
+					<div class="duration">30 minutes</div>
+				</div>
+			</div>
+		</div>
+		<h3 class="section-title">Study Tips</h3>
+		<div class="section-content">
+			<ol class="numbered-list">
+				<li class="numbered-item">
+					Let’s build skill in Craft and Structure by focusing on
+					sentence relationships through short, reflective exercises
+					that fit your steady style.
+				</li>
+				<li class="numbered-item">
+					Try focusing on Advanced Math by breaking problems into
+					smaller steps to approach challenges without disrupting your
+					balance.
+				</li>
+				<li class="numbered-item">
+					Reinforce your Algebra skills with spaced repetition to
+					deepen understanding while maintaining your calm pace.
+				</li>
+				<li class="numbered-item">
+					Establish a consistent weekly routine that balances focused
+					study with rest, respecting your need for sustainable
+					progress.
+				</li>
+				<li class="numbered-item">
+					Recognize that pushing gently beyond comfort zones is part
+					of growth; small challenges can lead to meaningful gains
+					without stress.
+				</li>
+			</ol>
+		</div>
+	</div>
+</div>

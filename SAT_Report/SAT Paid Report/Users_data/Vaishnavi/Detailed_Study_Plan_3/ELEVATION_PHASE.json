@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Aim to improve accuracy and reasoning in both Math and Reading & Writing by focusing on second-tier skills with measurable progress in problem-solving speed and precision. Reduce careless errors through deliberate practice under moderate time pressure and sharpen cognitive flexibility by applying strategic approaches consistently. Achieve steady mastery of prioritized skills while maintaining awareness of progress via weekly self-assessments and structured checkpoints."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Rhetorical Synthesis, Inferences, Text Structure and Purpose"
+                },
+                {
+                    "title": "Math",
+                    "description": "Ratios, rates, proportional relationships, and units, Systems of two linear equations in two variables, Linear equations in one variable, Area and volume, Lines, angles, and triangles"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Rhetorical Synthesis": "Engage in timed practice sets of complex passages requiring synthesis of multiple viewpoints; after each set, write brief reflections connecting ideas and identify patterns in mistakes to deepen understanding and reinforce advanced techniques.",
+                        "Inferences": "Work through challenging inference questions by annotating passages to highlight implicit clues, then explain reasoning aloud or in writing to solidify comprehension and reduce guesswork under timed conditions.",
+                        "Text Structure and Purpose": "Master difficult question types by outlining passage structures during timed drills, then summarize author intent and organizational patterns to enhance speed and accuracy in identifying purpose."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Ratios, rates, proportional relationships, and units": "Complete multi-step word problems involving ratios and unit conversions under timed conditions, explicitly writing out units and conversion factors to avoid careless errors and build fluency in dimensional analysis.",
+                        "Systems of two linear equations in two variables": "Solve progressively complex systems using substitution and elimination methods within strict time limits, verifying solutions by substitution to ensure accuracy and speed mastery.",
+                        "Linear equations in one variable": "Practice solving and graphing linear equations and inequalities with increasing complexity, emphasizing step-by-step isolation of variables and consistent checking of solutions to prevent common mistakes.",
+                        "Area and volume": "Tackle advanced geometry problems involving composite figures and unit conversions, drawing diagrams and labeling dimensions clearly to reinforce formula application and error reduction under timed practice.",
+                        "Lines, angles, and triangles": "Engage in timed exercises proving congruence and similarity, calculating unknown angles and sides using angle relationships, and writing concise justifications to strengthen conceptual mastery and speed."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances focused dual-skill practice, pairing one Math and one Reading & Writing skill per session, starting the week with weakest skills to build foundational strength and progressing midweek to moderate skills for reinforcement. Fridays are dedicated to review and reflection on errors and progress, integrating feedback to adapt strategies. Saturdays involve one full-length timed practice test followed by a comprehensive review session to analyze mistakes and solidify learning. One Flex Day is reserved for rest, reflection, and adaptive activities to maintain motivation and cognitive flexibility."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day for low-pressure reflection on errors from the week, journaling insights and adjustments to your study approach. Experiment with a new learning tool or technique for a short session, committing to mastering it over the coming week. Engage in mixed-skill challenges that combine Math and Reading & Writing to stimulate creative problem-solving. Incorporate mindfulness or light physical activity to recharge focus and reduce stress. Set clear, achievable goals for the next week to maintain momentum and structure."
+        }
+    ]
+}

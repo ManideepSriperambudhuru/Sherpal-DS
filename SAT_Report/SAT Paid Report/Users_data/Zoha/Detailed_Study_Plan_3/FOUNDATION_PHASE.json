@@ -1,0 +1,85 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Build a solid foundation by improving accuracy and conceptual clarity in prioritized Reading & Writing and Math skills. Achieve measurable progress in understanding and applying 'Words in Context', 'Form, Structure, and Sense', and 'Transitions' in Reading & Writing, alongside strengthening problem-solving in nonlinear and linear equations, nonlinear functions, equivalent expressions, and systems of linear equations in Math. Reduce hesitation and overanalysis by practicing timely decision-making, aiming to complete practice sets fully and confidently. Begin closing skill gaps with consistent, focused effort while steadily increasing reasoning speed without sacrificing precision."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Words in Context, Form, Structure, and Sense, Transitions"
+                },
+                {
+                    "title": "Math",
+                    "description": "Nonlinear equations in one variable and systems of equations in two variables, Linear equations in two variables, Nonlinear functions, Equivalent expressions, Systems of two linear equations in two variables"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Words in Context": [
+                            "Engage with medium-difficulty passages from diverse genres, annotating challenging words and surrounding context clues. Paraphrase sentences containing target vocabulary to deepen understanding and practice eliminating answer choices that conflict with passage tone, reinforcing instinctive decision-making under timed conditions.",
+                            "Complete sentence completion exercises focusing on selecting words that best fit the context, timing each question to build speed while reflecting post-practice on choices where intuition aligned with correct answers to reduce hesitation.",
+                            "Practice reading comprehension drills emphasizing complex vocabulary, marking words with multiple meanings and analyzing how connotations affect tone, followed by journaling moments when confident word interpretation led to correct answers."
+                        ],
+                        "Form, Structure, and Sense": [
+                            "Analyze medium-difficulty passages by outlining paragraph functions and identifying the form (narrative, argumentative, explanatory). Practice reordering scrambled paragraphs to enhance understanding of logical flow, timing each exercise to encourage decisive responses.",
+                            "Complete transition word fill-in-the-blank exercises that require selecting the most coherent connectors, followed by reviewing why certain transitions improve clarity, reinforcing purposeful reading and writing.",
+                            "Answer purpose-driven questions about why specific sentences or paragraphs appear in their positions, reflecting on how structure supports meaning, and journaling insights on moments when quick structural analysis led to accurate answers."
+                        ],
+                        "Transitions": [
+                            "Identify and highlight transition words in medium-difficulty passages, explaining the relationship they indicate between ideas, then practice writing short paragraphs incorporating varied transition types to build active mastery and confidence.",
+                            "Combine pairs of simple sentences into complex ones using appropriate transitions, timing each combination to foster quicker decision-making without sacrificing coherence.",
+                            "Review and correct sample paragraphs with missing or incorrect transitions, focusing on selecting transitions that fit the logical relationship and tone, followed by reflection on how these choices impact clarity and flow."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear equations in one variable and systems of equations in two variables": [
+                            "Practice solving systems where a linear equation in slope-intercept form is substituted into a quadratic equation, carefully isolating variables and applying quadratic solving methods. Time each problem to encourage steady pacing and verify solutions by substitution to build accuracy and confidence.",
+                            "Work through problems interpreting the discriminant to determine the number of solutions, graphing systems to visualize intersections, and reflecting on how algebraic results correspond to graphical interpretations to deepen conceptual understanding.",
+                            "Solve word problems modeling real-world scenarios with linear and quadratic systems, translating context into equations and checking solutions for logical consistency, journaling moments when instinctive solution paths proved correct under timed conditions."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate medium-difficulty word problems into systems of linear equations, clearly defining variables and relationships. Solve using substitution and elimination methods, timing each step to build fluency and reduce overanalysis.",
+                            "Practice verifying solutions by substituting back into original equations, focusing on accuracy and reinforcing confidence in answers. Reflect post-practice on instances where quick verification confirmed correct intuition.",
+                            "Work on diverse real-world scenarios involving mixtures, rates, and ages, emphasizing step-by-step equation setup and solution, journaling progress in committing to answers confidently within time constraints."
+                        ],
+                        "Nonlinear functions": [
+                            "Sketch graphs of quadratic and exponential functions from given equations to visualize key features like vertex and end behavior before solving related problems, fostering conceptual clarity and reducing hesitation.",
+                            "Solve quadratic equations using factoring, completing the square, and the quadratic formula under timed conditions, focusing on accuracy and speed, followed by reviewing errors to reinforce correct methods.",
+                            "Translate word problems involving nonlinear functions into equations and solve them, practicing multiple solving techniques and reflecting on solution strategies that worked well to build decision-making confidence."
+                        ],
+                        "Equivalent expressions": [
+                            "Practice isolating variables in multi-step equations and formulas, performing one algebraic operation at a time with clear notation, timing exercises to encourage steady progress without rushing.",
+                            "Work on rearranging formulas with fractions and parentheses, applying inverse operations carefully and verifying results by substituting back into original equations to ensure correctness.",
+                            "Translate real-world scenarios into algebraic expressions and isolate required variables, journaling moments when confident manipulation led to correct solutions under time pressure."
+                        ],
+                        "Systems of two linear equations in two variables": [
+                            "Solve systems using substitution and elimination methods on challenging problems, writing each step clearly and timing practice to build speed and accuracy while avoiding overanalysis.",
+                            "Graph systems to visualize solutions and identify types (one solution, none, infinite), connecting graphical understanding with algebraic methods to deepen comprehension.",
+                            "Translate complex word problems into systems of linear equations, solve systematically, and verify solutions by substitution, journaling confidence-building moments when instincts aligned with correct answers."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on deep conceptual mastery through dual-skill practice, pairing one Math and one Reading & Writing skill. Begin the week addressing the weakest skills to build foundational strength, progress midweek to moderate skills for reinforcement, and dedicate Fridays to comprehensive review and reflection on progress. Saturdays concentrate on fundamental concepts with targeted skill-building exercises and conceptual reinforcement to solidify understanding. Reserve one Flex Day for rest, reflection, and adaptive activities aligned with your learning pace and emotional steadiness."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by journaling recent practice sessions, focusing on moments when you acted with confidence and your instincts were correct. Experiment with new study tools or techniques, such as timed decision drills or concept mapping, to stimulate intellectual curiosity without pressure. Tackle mixed-skill challenges at a relaxed pace to maintain cognitive flexibility. Incorporate mindfulness or light physical activity to recharge emotionally and mentally. Set clear, purpose-driven goals for the upcoming week, reinforcing your internal motivation and thoughtful approach to learning."
+        }
+    ]
+}

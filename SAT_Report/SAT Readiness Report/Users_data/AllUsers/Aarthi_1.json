@@ -1,0 +1,112 @@
+[
+  {
+    "title": "Your Learning Persona",
+    "description": "Aarthi, as a Persistent Hiker, you embody a calm and steady approach to learning that values balance and emotional well-being. Your thoughtful and deliberate mindset allows you to maintain consistency without succumbing to stress, creating a sustainable path toward your goals. You naturally prioritize harmony in your study environment and bring maturity and self-awareness to your preparation. While this steady pace is a great strength, gently embracing challenges that push your limits will unlock even more of your potential. Remember, growth often whispers softly, inviting you to try just a bit more each day."
+  },
+  {
+    "title": "Your SAT Practice Snapshot",
+    "description": "Your current SAT practice scores show strong promise, with a Reading & Writing score of 730 and an impressive Math score of 790, bringing your total to 1520. Your reading accuracy sits at a solid 89%, while your math accuracy shines at 98%. These results reflect your steady effort and thoughtful approach, placing you close to your goal score of 1550. Your consistent performance, especially in math, highlights your ability to master complex concepts, while your reading skills show room for growth that can be achieved with focused, manageable steps."
+  },
+  {
+    "title": "What This Means For You",
+    "description": "Your Persistent Hiker nature aligns beautifully with your SAT strengths, especially your calm mastery of math topics like Algebra and Geometry, where you demonstrate near-perfect accuracy. This steady confidence is a powerful asset. In Reading & Writing, your strong grasp of Information and Ideas and Standard English Conventions shows your thoughtful comprehension skills. To reach your goal, focusing on Craft and Structure will be key—this area offers a chance to stretch beyond comfort zones in a gentle, deliberate way. Embracing small, manageable challenges here will help you avoid plateaus and build momentum without disrupting your inner balance."
+  },
+  {
+    "title": "Your Study Plan: Based on You",
+    "description": [
+      {
+        "title": "motivational paragraph",
+        "description": [
+          "Aarthi, your journey toward your SAT goal is a reflection of your steady spirit and thoughtful approach. Like Keanu Reeves, who quietly perseveres through challenges with resilience and grace, you have the strength to push gently beyond comfort without losing your calm. Embracing micro-challenges will help you grow without overwhelming your balance, turning each study session into a meaningful step forward. Remember, strength often whispers — and your quiet determination is exactly what will carry you to success."
+        ]
+      },
+      {
+        "title": "reading writing strategies",
+        "description": [
+          "Focus on targeted practice in Craft and Structure by breaking down complex sentence relationships and rhetorical techniques into small, digestible parts.",
+          "Use gamified exercises that reward your progress in identifying nuanced language features, helping you stay engaged without pressure.",
+          "Incorporate reflective journaling after each practice to connect new concepts with your existing knowledge, reinforcing learning while maintaining your thoughtful pace."
+        ]
+      },
+      {
+        "title": "math strategies",
+        "description": [
+          "Maintain your strong foundation by reviewing Advanced Math concepts with slightly increased difficulty to gently stretch your skills.",
+          "Engage in timed problem sets that simulate test conditions but keep the focus on accuracy over speed, preserving your calm approach.",
+          "Pair occasional group problem-solving sessions with peers who challenge you a bit more to boost motivation and deepen understanding."
+        ]
+      },
+      {
+        "title": "study plan phases",
+        "description": {
+          "Foundation": {
+            "date": "2025-05-22 to 2025-06-30",
+            "reading_writing": "Build familiarity with Craft and Structure concepts through low-pressure, gamified exercises and reflective journaling.",
+            "math": "Review Advanced Math topics with focused practice on problem types where accuracy can be improved, maintaining confidence in Algebra and Geometry."
+          },
+          "Elevation": {
+            "date": "2025-07-01 to 2025-07-31",
+            "reading_writing": "Increase challenge by integrating timed practice sections emphasizing Craft and Structure, while continuing reflective review.",
+            "math": "Introduce mixed problem sets with moderate time constraints and peer group challenges to enhance problem-solving speed and accuracy."
+          },
+          "Peak": {
+            "date": "2025-08-01 to 2025-08-07",
+            "reading_writing": "Simulate full-length Reading & Writing sections under test conditions, focusing on maintaining calm and accuracy.",
+            "math": "Complete full-length math practice tests emphasizing endurance and precision, with light review to reinforce confidence."
+          }
+        }
+      },
+      {
+        "title": "weekly_schedule",
+        "description": {
+          "Monday": {
+            "focus_area": "Reading & Writing – Craft and Structure practice",
+            "duration_minutes": 60
+          },
+          "Tuesday": {
+            "focus_area": "Math – Advanced Math problem sets",
+            "duration_minutes": 60
+          },
+          "Wednesday": {
+            "focus_area": "Reading & Writing – Reflective journaling and review",
+            "duration_minutes": 60
+          },
+          "Thursday": {
+            "focus_area": "Math – Timed problem-solving and peer challenge",
+            "duration_minutes": 60
+          },
+          "Friday": {
+            "focus_area": "Flex Day – Light review or rest",
+            "duration_minutes": 30
+          },
+          "Saturday": {
+            "focus_area": "Reading & Writing – Mixed practice and gamified exercises",
+            "duration_minutes": 60
+          },
+          "Sunday": {
+            "focus_area": "Flex Day – Catch-up or rest",
+            "duration_minutes": 30
+          }
+        }
+      },
+      {
+        "title": "study_tips",
+        "description": [
+          "Celebrate small wins after each study session to build positive momentum.",
+          "Use micro-challenges to gently push your limits without disrupting your calm.",
+          "Reflect on your progress weekly to distinguish between peaceful balance and complacency.",
+          "Engage with peers occasionally to add a motivating, friendly challenge.",
+          "Keep your study environment harmonious to support your emotional well-being."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Want to Go Further?",
+    "description": "Aarthi, unlocking full Sherpal access will elevate your SAT preparation with hyper-personalized study plans tailored to your Persistent Hiker strengths and growth areas. Experience interactive learning modules designed to engage your steady mindset, AI-driven coaching that adapts to your pace, and outcome-focused planning that respects your need for balance while encouraging meaningful progress. This comprehensive support system will empower you to confidently bridge the gap to your goal score with quiet determination and steady momentum."
+  },
+  {
+    "title": "Footer",
+    "description": "👉 Unlock Full Access – $300 for the entire journey  Includes complete access to your study plan, AI tutoring, simulations, and peer mentoring."
+  }
+]

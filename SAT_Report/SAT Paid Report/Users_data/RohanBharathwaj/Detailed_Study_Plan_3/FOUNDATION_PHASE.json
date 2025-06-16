@@ -1,0 +1,85 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Build a solid baseline of understanding across prioritized Reading & Writing and Math skills by improving accuracy and reasoning in medium to advanced level problems. Achieve steady reduction in repeat mistakes through consistent review and error analysis. Begin closing skill gaps in nonlinear functions and systems of equations while strengthening vocabulary in context and comprehension of passage structure. Cultivate disciplined study habits that foster sustained focus and internal urgency, setting the foundation for confident, peak performance under timed conditions."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Words in Context, Form, Structure, and Sense, Transitions"
+                },
+                {
+                    "title": "Math",
+                    "description": "Nonlinear functions, Nonlinear equations in one variable and systems of equations in two variables, Linear equations in two variables, Percentages, Linear equations in one variable"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Words in Context": [
+                            "Engage in timed vocabulary-in-context drills using diverse SAT passages, annotating challenging words and surrounding clues, then paraphrase sentences aloud to reinforce understanding while tracking your best completion time to build urgency and focus.",
+                            "Complete sentence completion exercises with medium-difficulty words, using process of elimination to discard ill-fitting options, and record your accuracy and speed to subtly compete against your previous attempts.",
+                            "Practice reading comprehension passages emphasizing complex vocabulary; underline key words, note tone and connotations, then summarize the passage in your own words to deepen contextual grasp and maintain calm under timed conditions."
+                        ],
+                        "Form, Structure, and Sense": [
+                            "Outline the form and structure of short SAT passages by labeling paragraph functions and mapping transitions, then answer related questions under a visible countdown to encourage steady pacing without sacrificing accuracy.",
+                            "Reorder scrambled paragraphs or sentences in practice sets to create coherent passages, focusing on logical flow and purpose of each section, while timing yourself to foster a balance between calm analysis and productive pressure.",
+                            "Analyze passages by identifying the author’s intent for each paragraph and evaluating transition effectiveness; write brief summaries explaining these choices to solidify understanding and maintain engagement through incremental challenge."
+                        ],
+                        "Transitions": [
+                            "Identify and highlight transition words in medium-difficulty passages, then explain aloud the relationship each transition signals, using a timer to track improvement and encourage a sense of urgency.",
+                            "Practice combining simple sentences into complex ones using appropriate transitions, focusing on variety and logical fit, while challenging yourself to beat your previous completion time to build internal motivation.",
+                            "Write short paragraphs on assigned topics incorporating diverse transition types; review and revise to avoid overuse or misuse, then compare your work against model answers to refine clarity and coherence under timed conditions."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Sketch graphs of quadratic and exponential functions from given equations, then solve related quadratic equations using multiple methods (factoring, quadratic formula) under timed conditions to build speed and accuracy while maintaining composure.",
+                            "Classify a set of functions as linear or nonlinear based on their equations and graphs, explaining key features aloud to reinforce understanding and using a countdown timer to introduce subtle time pressure.",
+                            "Translate real-world word problems into nonlinear equations and solve them step-by-step, verifying solutions carefully to avoid errors, while progressively increasing problem difficulty to stretch skills without overwhelming calm."
+                        ],
+                        "Nonlinear equations in one variable and systems of equations in two variables": [
+                            "Solve systems combining linear and quadratic equations using substitution, carefully checking each solution by back-substitution, and time each problem to foster a productive sense of urgency balanced with accuracy.",
+                            "Practice interpreting the discriminant of quadratic equations within systems to predict the number of solutions, then graph the systems to visually confirm algebraic results, reinforcing conceptual clarity under moderate time constraints.",
+                            "Work through word problems modeling real-life scenarios with linear and quadratic systems, translating context into equations and solving systematically, progressively increasing complexity to challenge comfort zones while preserving steady focus."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate word problems into systems of linear equations, clearly defining variables and relationships, then solve using substitution or elimination methods, timing each step to build internal urgency without sacrificing precision.",
+                            "Practice elimination and substitution techniques on increasingly challenging systems, verifying solutions by substitution, and track your best times to encourage subtle competition and sustained effort.",
+                            "Solve real-world application problems involving mixtures, rates, or ages by setting up and solving linear systems, reviewing each solution’s logical consistency to deepen understanding and maintain calm under timed practice."
+                        ],
+                        "Percentages": [
+                            "Perform conversion drills between percentages, decimals, and fractions with timed exercises to build fluency and internal urgency, ensuring accuracy through step-by-step written work.",
+                            "Solve percentage increase and decrease problems in real-world contexts such as discounts and interest, writing out each step carefully and timing completion to balance speed with precision.",
+                            "Tackle reverse percentage word problems by identifying knowns and unknowns, applying correct formulas, and verifying answers, progressively increasing difficulty to stretch skills while maintaining composure."
+                        ],
+                        "Linear equations in one variable": [
+                            "Solve multi-step linear equations and inequalities with timed drills, focusing on stepwise isolation of variables and careful application of inequality rules, tracking your best times to foster internal motivation.",
+                            "Translate word problems into linear equations or inequalities, solve systematically, and verify solutions by substitution, using a visible countdown to maintain steady focus and urgency.",
+                            "Graph solutions of linear inequalities on number lines after solving, explaining solution sets aloud to reinforce understanding, while timing practice to build speed without compromising accuracy."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday will focus on dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday with the weakest skills to address foundational gaps early. Midweek sessions will target moderate skills to build momentum, while Fridays are reserved for comprehensive review and error analysis to reinforce learning. Saturdays concentrate on fundamental concepts through targeted skill-building and conceptual reinforcement exercises, emphasizing accuracy and clarity. One Flex Day is incorporated to support rest, reflection, and adaptive practice, ensuring sustained effort without burnout."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure mixed-skill challenges that encourage experimentation with new study tools or techniques, such as digital flashcards or interactive quizzes, to refresh learning approaches. Reflect calmly on errors made during the week, identifying patterns without judgment to inform next steps. Incorporate mindfulness or light physical activity to reset cognitive energy and maintain emotional control. Set clear, achievable goals for the upcoming week to reignite internal urgency and commitment, leveraging your natural adaptability to embrace change and thrive under evolving demands."
+        }
+    ]
+}

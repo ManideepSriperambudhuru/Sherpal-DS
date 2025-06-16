@@ -1,0 +1,85 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvement in accuracy and reasoning across prioritized Math and Reading & Writing skills, steadily reduce repeat mistakes by identifying patterns, and enhance confidence in committing to answers under timed conditions. Strengthen comprehension of nonlinear and linear functions in Math while deepening understanding of vocabulary in context, sentence boundaries, and passage structure in Reading & Writing. Build a disciplined study habit that balances thoroughness with timely decision-making to support progress toward a 1590 SAT score."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Words in Context, Boundaries, Form, Structure, and Sense"
+                },
+                {
+                    "title": "Math",
+                    "description": "Nonlinear functions, Linear functions, Linear equations in two variables, Linear equations in one variable, Nonlinear equations in one variable and systems of equations in two variables"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Words in Context": [
+                            "Engage in timed contextual vocabulary drills using diverse SAT passages where you identify and annotate challenging words, then paraphrase sentences aloud to reinforce understanding and avoid reliance on memorized definitions, tracking streaks of correct interpretations to build confidence in your instincts.",
+                            "Complete sentence completion exercises that require selecting words fitting nuanced contexts, followed by immediate reflection on choices to strengthen trust in your first answer and reduce second-guessing, celebrating progress with a log of correct streaks.",
+                            "Practice process-of-elimination drills on vocabulary questions emphasizing tone and author intent, annotating passages to highlight contrast and synonym clues, and reviewing errors with a mentor or peer to receive constructive feedback and reinforce accuracy."
+                        ],
+                        "Boundaries": [
+                            "Perform daily sentence correction drills focusing on run-ons, comma splices, and fragments under timed conditions, then rewrite corrected sentences aloud to internalize punctuation rules and sentence boundaries, tracking improvements to build confidence in committing to answers.",
+                            "Practice punctuation placement exercises where you insert commas, semicolons, colons, and dashes in complex sentences, reading them aloud to hear natural pauses and reinforce understanding of boundaries, followed by peer review sessions for positive feedback.",
+                            "Combine simple sentences into compound or complex sentences using proper boundaries, then identify and correct boundary errors in paragraphs, reflecting on corrections to reduce hesitation and build trust in your grammatical decisions."
+                        ],
+                        "Form, Structure, and Sense": [
+                            "Outline and label paragraph functions in SAT passages, identifying introductions, evidence, counterarguments, and conclusions, then reorder scrambled paragraphs to optimize logical flow, practicing under timed conditions to enhance speed and accuracy.",
+                            "Complete transition word fill-in-the-blank exercises that require selecting the best connectors to maintain coherence, followed by summarizing passages aloud to reinforce understanding of structure and sense, tracking streaks of correct answers to boost confidence.",
+                            "Answer purpose-driven questions about sentence and paragraph placement in passages, critically evaluating answer choices for clarity and coherence, then discuss reasoning with a mentor or peer to receive encouraging feedback and build self-trust."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Sketch graphs of quadratic and exponential functions from given equations daily, annotating key features like vertex and intercepts, then solve related quadratic equations using multiple methods including factoring and the quadratic formula under timed conditions to build accuracy and speed.",
+                            "Classify a mixed set of functions as linear or nonlinear based on equations and graphs, explaining your reasoning aloud or in writing to reinforce pattern recognition and logical structure, followed by solving word problems that translate real-world scenarios into nonlinear equations.",
+                            "Complete SAT-style multiple-choice questions focused on nonlinear functions, tracking accuracy and response time, then review errors with a mentor to receive positive reinforcement and build confidence in committing to answers."
+                        ],
+                        "Linear functions": [
+                            "Translate diverse word problems into linear equations by identifying variables, slope, and intercept, then solve for unknowns and graph the equations to visualize relationships, practicing under timed conditions to improve fluency and reduce second-guessing.",
+                            "Create tables and diagrams from linear scenarios to clarify relationships, then write and solve corresponding equations, explaining the meaning of slope and intercept in context to deepen conceptual understanding and build self-trust.",
+                            "Interpret given linear graphs by describing slope and intercept in real-world terms, then solve related word problems, tracking streaks of correct solutions and reflecting on errors with peer feedback to reinforce accuracy and confidence."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate word problems into systems of two linear equations, clearly labeling variables, then solve using substitution and elimination methods step-by-step under timed conditions to build precision and speed.",
+                            "Practice verifying solutions by substituting back into original equations, reflecting on any discrepancies to reduce errors and build trust in your problem-solving process, followed by peer discussion for positive reinforcement.",
+                            "Work on real-world scenario problems involving mixtures, rates, or ages, solving systems of equations and interpreting solutions in context, tracking accuracy streaks and celebrating progress to enhance confidence."
+                        ],
+                        "Linear equations in one variable": [
+                            "Solve multi-step linear equations and inequalities daily, focusing on step-by-step isolation of variables and careful application of inverse operations, then verify solutions by substitution to build accuracy and trust in your answers.",
+                            "Graph solutions of inequalities on number lines to visualize solution sets, reinforcing conceptual understanding and reducing hesitation in committing to answers under timed practice.",
+                            "Translate real-world scenarios into linear equations or inequalities, solve them, and explain the meaning of solutions in context, tracking streaks of correct answers and reflecting on errors with encouraging feedback."
+                        ],
+                        "Nonlinear equations in one variable and systems of equations in two variables": [
+                            "Practice solving systems consisting of one linear and one quadratic equation using substitution, carefully isolating variables and applying quadratic solving methods, then verify solutions by substitution to avoid extraneous answers and build confidence.",
+                            "Interpret discriminants of quadratic equations after substitution to determine the number of solutions, graph systems to visualize intersections, and solve related word problems under timed conditions to enhance speed and accuracy.",
+                            "Work through SAT-style problems involving linear and quadratic systems, tracking accuracy and response time, then review mistakes with a mentor or peer to receive positive reinforcement and strengthen self-trust."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday with the weakest skills to address foundational gaps, progressing midweek to moderate skills for balanced development, and dedicating Friday to comprehensive review and error analysis. Saturday emphasizes targeted skill-building and conceptual reinforcement through focused exercises and reflection. Sunday serves as a Flex Day to support rest, reflection, and adaptive learning aligned with your tenacious and detail-oriented approach."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure mixed-skill challenges that encourage committing to answers within set times followed by reflective review to build self-trust. Experiment with new study tools or techniques such as digital annotation or voice-recorded summaries to enhance engagement. Dedicate time to mindful physical activities like walking or stretching to refresh cognitive focus. Reflect on past errors constructively, noting progress and setting precise goals for the upcoming week. Connect with mentors or peers for encouraging feedback to reinforce confidence and maintain motivation."
+        }
+    ]
+}

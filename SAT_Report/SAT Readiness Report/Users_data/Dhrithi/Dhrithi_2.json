@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Your Learning Persona",
+    "description": "As a Thoughtful Pathfinder, you approach learning with emotional intelligence and resilience, maintaining calm under pressure and reflecting deeply on your progress. You value meaningful understanding over quick fixes and prefer autonomy in your study process. Your self-awareness helps you recognize how mindset influences your performance. At the same time, managing focus and consistent pacing can be challenging, especially without external structure. Building accountability and connecting tasks to your values will support steady progress."
+  },
+  {
+    "title": "Your SAT Practice Snapshot",
+    "description": "Currently, your Reading & Writing and Math scores are at the starting point, with no recorded accuracy in either domain. This baseline reflects the beginning of your preparation journey. Your goal score is ambitious, indicating a clear target to work toward. The effort you invest now will set the foundation for measurable improvement. Your thoughtful approach positions you well to develop skills steadily and intentionally."
+  },
+  {
+    "title": "What This Means For You",
+    "description": "Your reflective nature supports resilience, which pairs well with your challenge of maintaining consistent focus. Academic Strengths: While your current scores do not yet show domain-specific strengths, your persona suggests you will engage deeply with material once you begin targeted practice. Growth Areas: Without current domain accuracy data, it is important to prioritize foundational skills in both Reading & Writing and Math, as early focus here will build confidence and reduce drift from goals. Closing Insight: Your goal score requires steady, structured effort aligned with your thoughtful learning style to bridge the gap from your starting point."
+  },
+  {
+    "title": "Your Study Plan: Based on You",
+    "description": [
+      {
+        "title": "Summary",
+        "description": [
+          "Your thoughtful and reflective mindset is a strong asset as you begin your SAT preparation. You bring resilience that will help you recover from setbacks and maintain steady progress. However, your tendency toward relaxed pacing and potential procrastination means establishing external accountability will be key. Aligning your study tasks with personal values can increase motivation and focus."
+        ]
+      },
+      {
+        "title": "Reading Writing Strategies",
+        "description": [
+          "1. Since you have no current domain accuracy data, start by setting small, meaningful micro-goals for foundational reading comprehension to build momentum and reduce overwhelm.",
+          "2. Incorporate reflective journaling after each practice session to deepen understanding and connect learning to your personal growth values, reinforcing moderate skills as they develop.",
+          "3. Use digital tools with reminders to create consistent study habits, supporting your preference for autonomy while providing gentle external structure."
+        ]
+      },
+      {
+        "title": "Math Strategies",
+        "description": [
+          "1. Begin with basic arithmetic and algebra concepts, breaking tasks into manageable steps to address initial gaps and align with your need for clear structure.",
+          "2. As you gain confidence, focus on problem-solving strategies that encourage logical thinking, leveraging your reflective strengths to refine skills.",
+          "3. Use visual aids or step-by-step guides to maintain engagement and support retention, fitting your thoughtful and autonomous learning style."
+        ]
+      },
+      {
+        "title": "Study Plan Phases",
+        "description": {
+          "Foundation": {
+            "date": "May 24, 2025 - June 30, 2025",
+            "reading_writing": "Focus on building foundational reading comprehension and grammar skills with structured, bite-sized tasks to prevent drift and support steady engagement.",
+            "math": "Prioritize core arithmetic and algebra concepts, using clear, stepwise practice to establish confidence and reduce procrastination."
+          },
+          "Elevation": {
+            "date": "July 1, 2025 - July 25, 2025",
+            "reading_writing": "Shift to refining intermediate reading and writing skills through timed drills and reflective review to build fluency and accuracy.",
+            "math": "Target moderate difficulty problem types, integrating visual and logical strategies to deepen understanding and maintain motivation."
+          },
+          "Peak": {
+            "date": "July 26, 2025 - August 8, 2025",
+            "reading_writing": "Emphasize full-length practice tests under timed conditions, focusing on error patterns and retention to sharpen test readiness.",
+            "math": "Concentrate on speed and accuracy with simulation exercises, reinforcing test strategies and closing remaining gaps."
+          }
+        }
+      },
+      {
+        "title": "Sample Weekly Schedule",
+        "description": [
+          "Monday: focus area: Foundational Reading Comprehension - duration 60 minutes.",
+          "Tuesday: focus area: Basic Algebra Concepts - duration 60 minutes.",
+          "Wednesday: focus area: Grammar and Usage - duration 60 minutes.",
+          "Thursday: focus area: Problem-Solving Strategies - duration 60 minutes.",
+          "Friday: focus area: Reading Fluency and Vocabulary - duration 60 minutes.",
+          "Saturday: focus area: Mixed Practice and Timed Drills - duration 60 minutes.",
+          "Sunday: focus area: Review and Reflection - duration 30 minutes."
+        ]
+      },
+      {
+        "title": "Study Tips",
+        "description": [
+          "1. Let’s build skill in foundational reading comprehension by setting small, clear goals that connect to your interest in meaningful learning.",
+          "2. Try focusing on basic algebra as a great area to sharpen with step-by-step practice that fits your reflective style.",
+          "3. You can boost confidence in grammar by reviewing common rules regularly, reinforcing progress through reflection.",
+          "4. Establish a weekly check-in routine to create accountability and maintain steady pacing aligned with your thoughtful approach.",
+          "5. Recognize that steady, calm progress suits your learning style better than rushed effort, so prioritize consistency over intensity."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Want to Go Further?",
+    "description": [
+      "Sherpal offers personalized guidance that adapts to your unique learning style and evolving needs, providing clarity and focus throughout your preparation.",
+      "With interactive tools and AI-driven coaching, you receive real-time feedback and structured plans that align with your thoughtful approach and goals.",
+      "Partnering with Sherpal means having a steady, responsive guide to help you navigate your SAT journey with precision and confidence."
+    ]
+  },
+  {
+    "title": "Footer",
+    "description": "Safe harbor The scores, assessments, and recommendations provided in this report are for informational purposes only and do not constitute professional educational, psychological, or legal advice. Current performance is not necessarily indicative of actual or future results, as test-day conditions and individual circumstances may vary. While care has been taken in the preparation of this material, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, or reliability of the information presented. Any reliance you place on such information is strictly at your own risk. We accept no liability for any loss or damage arising from the use of this report. © 2025 Sthirah Inc. | Confidential & Proprietary - For internal Use Only"
+  }
+]

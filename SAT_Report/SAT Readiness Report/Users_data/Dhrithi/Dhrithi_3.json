@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Your Learning Persona",
+    "description": "As a Thoughtful Pathfinder, you approach your SAT preparation with emotional intelligence and resilience, maintaining a calm and reflective mindset even when challenges arise. You value meaningful learning over quick fixes and prefer autonomy in your study process. Your self-awareness helps you understand how your mindset influences your performance, but managing focus and consistent effort can be difficult without external structure. Building accountability and connecting your goals to personal values will support steady progress."
+  },
+  {
+    "title": "Your SAT Practice Snapshot",
+    "description": "Currently, your Reading & Writing and Math scores are at the starting point, with no recorded accuracy in either domain. This reflects that you are at the beginning of your SAT journey, which offers a clear opportunity to shape your preparation effectively. Your goal score is ambitious, and your commitment to steady effort will be essential to bridge the gap between your current baseline and your target."
+  },
+  {
+    "title": "What This Means For You",
+    "description": "Your thoughtful and resilient nature supports steady recovery from setbacks, but your relaxed approach may challenge consistent focus. Academic Strengths: Your reflective mindset aligns well with the analytical demands of Reading & Writing and the logical structure of Math, which can help you build understanding deeply once you engage. Growth Areas: Since there is no current accuracy data, foundational skills in both Reading & Writing and Math need development; focusing on these early will prevent gaps later and align with your need for structured accountability. Closing Insight: Your goal score requires a disciplined, phased approach that leverages your strengths while addressing focus and pacing challenges."
+  },
+  {
+    "title": "Your Study Plan: Based on You",
+    "description": [
+      {
+        "title": "Summary",
+        "description": [
+          "Your thoughtful and introspective nature positions you well to engage deeply with SAT content, especially when you can connect study tasks to your personal values. Your resilience will help you navigate the inevitable challenges, but your tendency toward relaxed pacing means you will benefit from clear external structure and regular check-ins. Balancing autonomy with accountability will be key to maintaining consistent progress toward your goal."
+        ]
+      },
+      {
+        "title": "Reading Writing Strategies",
+        "description": [
+          "1. Since foundational Reading & Writing skills are not yet established, focus on building comprehension through reflective journaling on passages to deepen engagement and connect material to your values.",
+          "2. Reinforce emerging vocabulary and grammar skills by setting small, meaningful micro-goals each week, using digital tools to track progress and maintain steady momentum.",
+          "3. Use timed, low-pressure practice sessions that allow you to observe your thought process calmly, reinforcing confidence and reducing pressure-related distractions."
+        ]
+      },
+      {
+        "title": "Math Strategies",
+        "description": [
+          "1. Begin with core arithmetic and algebra concepts, using step-by-step problem-solving methods that align with your reflective learning style and help manage focus challenges.",
+          "2. Strengthen intermediate skills by breaking problems into smaller parts and using visual aids or digital apps that provide immediate feedback to sustain engagement.",
+          "3. Incorporate brief, gamified drills targeting key formulas and problem types to maintain motivation and build fluency without overwhelming your study sessions."
+        ]
+      },
+      {
+        "title": "Study Plan Phases",
+        "description": {
+          "Foundation": {
+            "date": "May 24, 2025 - June 30, 2025",
+            "reading_writing": "Prioritize establishing basic comprehension and grammar skills with reflective exercises and journaling to build meaningful connections and accountability.",
+            "math": "Focus on foundational arithmetic and algebra concepts using structured, stepwise practice that accommodates your need for external pacing and clear milestones."
+          },
+          "Elevation": {
+            "date": "July 1, 2025 - July 25, 2025",
+            "reading_writing": "Target intermediate reading comprehension and vocabulary through timed drills and micro-goals that leverage your reflective strengths and build confidence.",
+            "math": "Refine problem-solving skills in geometry and data analysis with visual tools and spaced repetition to deepen understanding and maintain steady progress."
+          },
+          "Peak": {
+            "date": "July 26, 2025 - August 8, 2025",
+            "reading_writing": "Emphasize full-length practice tests under timed conditions to simulate test day, focusing on fluency and retention while managing stress calmly.",
+            "math": "Sharpen speed and accuracy with targeted simulations and review of error patterns, using your resilience to adapt strategies as needed before test day."
+          }
+        }
+      },
+      {
+        "title": "Sample Weekly Schedule",
+        "description": [
+          "Monday: focus area: Reading comprehension - duration 60 minutes.",
+          "Tuesday: focus area: Arithmetic fundamentals - duration 60 minutes.",
+          "Wednesday: focus area: Vocabulary development - duration 60 minutes.",
+          "Thursday: focus area: Algebra problem-solving - duration 60 minutes.",
+          "Friday: focus area: Grammar and sentence structure - duration 60 minutes.",
+          "Saturday: focus area: Mixed practice and timed drills - duration 60 minutes.",
+          "Sunday: focus area: Review and reflection - duration 30 minutes."
+        ]
+      },
+      {
+        "title": "Study Tips",
+        "description": [
+          "1. Let’s build skill in reading comprehension by connecting passages to topics that resonate with your interests, making study sessions more engaging and purposeful.",
+          "2. Try focusing on arithmetic fundamentals using stepwise problem-solving to create clear progress markers that align with your preference for structured learning.",
+          "3. You can boost confidence in vocabulary by setting weekly micro-goals tracked through digital tools, reinforcing steady progress without pressure.",
+          "4. Establish a weekly check-in routine to maintain accountability and adjust your study plan, balancing your autonomy with external structure.",
+          "5. Use reflective journaling after each study session to observe your mindset and learning patterns, turning self-awareness into actionable insights."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Want to Go Further?",
+    "description": [
+      "Sherpal offers personalized guidance that adapts to your unique learning style and evolving needs, providing clarity and focus throughout your preparation.",
+      "With interactive tools and AI-driven coaching, you receive real-time feedback and goal-based planning designed to keep you accountable and on track.",
+      "Consider Sherpal a partner that supports your thoughtful approach, helping you navigate each phase of your SAT journey with precision and insight."
+    ]
+  },
+  {
+    "title": "Footer",
+    "description": "Safe harbor The scores, assessments, and recommendations provided in this report are for informational purposes only and do not constitute professional educational, psychological, or legal advice. Current performance is not necessarily indicative of actual or future results, as test-day conditions and individual circumstances may vary. While care has been taken in the preparation of this material, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, or reliability of the information presented. Any reliance you place on such information is strictly at your own risk. We accept no liability for any loss or damage arising from the use of this report. © 2025 Sthirah Inc. | Confidential & Proprietary - For internal Use Only"
+  }
+]

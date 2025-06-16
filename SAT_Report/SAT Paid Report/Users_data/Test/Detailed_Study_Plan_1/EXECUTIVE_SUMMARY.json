@@ -1,0 +1,77 @@
+{
+    "title": "Executive Summary",
+    "description": [
+        {
+            "title": "Summary",
+            "description": "Anirudh, you are a Cautious Strategist who values accuracy and thoughtful decision-making but can sometimes hesitate due to overthinking. Your current SAT score is 400, with an accuracy rate of 0% and time management at 0%. These scores show a foundational level with clear, achievable growth ahead. Your target score of 400 is well within reach with focused effort by September 2025."
+        },
+        {
+            "title": "Current SAT® Score",
+            "description": 400
+        },
+        {
+            "title": "Accuracy",
+            "description": 0
+        },
+        {
+            "title": "Time Management Score",
+            "description": 0
+        },
+        {
+            "title": "Key Strengths",
+            "description": [
+                {
+                    "subject": "Reading And Writing",
+                    "skills": []
+                },
+                {
+                    "subject": "Math",
+                    "skills": [
+                        {
+                            "name": "Nonlinear functions",
+                            "weightage": "0%"
+                        },
+                        {
+                            "name": "Nonlinear equations in one variable and systems of equations in two variables",
+                            "weightage": "0%"
+                        },
+                        {
+                            "name": "Linear functions",
+                            "weightage": "0%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Focus Areas for Growth",
+            "description": [
+                {
+                    "subject": "Reading And Writing",
+                    "skills": []
+                },
+                {
+                    "subject": "Math",
+                    "skills": [
+                        {
+                            "name": "One-variable data: Distributions and measures of center and spread",
+                            "weightage": "0%"
+                        },
+                        {
+                            "name": "Right triangles and trigonometry",
+                            "weightage": "0%"
+                        },
+                        {
+                            "name": "Two-variable data: Models and scatterplots",
+                            "weightage": "0%"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Study Plan",
+            "description": "The start of any strong study plan begins with review. Before you move forward, take time to go back and focus on the 'Recommended Questions' highlighted in your score reports. These key questions from your SAT Practice Test, Domain Tests, and Endurance Test are where the deepest learning happens. Reviewing them is your first real step toward smarter progress."
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvements in accuracy and reasoning across prioritized Reading & Writing and Math skills, steadily reduce repeat mistakes by reinforcing mastery of complex question types, stabilize performance under timed conditions to minimize score variance, and build endurance to confidently complete full-length SAT tests with sustained focus and mental control."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Boundaries, Inferences, Command of Evidence - Quantitative, Central Ideas and Details, Cross-text Connections"
+                },
+                {
+                    "title": "Math",
+                    "description": "Linear equations in one variable, One-variable data: Distributions and measures of center and spread, Right triangles and trigonometry, Ratios, rates, proportional relationships, and units"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Boundaries": "Engage in timed sentence correction drills where you rewrite run-ons and comma splices using varied boundary techniques, using flashcards to visualize punctuation rules and reading sentences aloud to internalize natural pauses, integrating gamified quizzes to maintain focus and motivation.",
+                        "Inferences": "Practice active reading with paired passages, annotating clues and tone shifts, then answer inference questions supported by evidence, using storytelling formats to connect background knowledge and text clues, and review explanations to deepen understanding while tracking progress with visual timers.",
+                        "Command of Evidence - Quantitative": "Work on interpreting embedded data visuals by paraphrasing graphs and tables aloud, then answer command of evidence questions under timed conditions, using interactive data drills and flashcards to reinforce key concepts, while partnering with a study buddy for accountability and discussion.",
+                        "Central Ideas and Details": "Summarize short passages by identifying central ideas and supporting details in your own words, using annotation and highlighting tools, then complete gamified multiple-choice exercises focusing on main ideas, all within timed sessions to build speed and accuracy.",
+                        "Cross-text Connections": "Analyze paired passages using graphic organizers like Venn diagrams to map similarities and differences, then answer synthesis questions in group discussions or with a study partner, incorporating visual summaries and timed practice to sharpen comparative reasoning."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Linear equations in one variable": "Solve multi-step linear equations and inequalities through interactive problem sets that require step-by-step isolation of variables, using visual timers to break practice into focused intervals and habit trackers to monitor accuracy and speed improvements.",
+                        "One-variable data: Distributions and measures of center and spread": "Interpret and calculate mean, median, range, and IQR from data sets using dynamic graphing tools and timed drills, incorporating real-world scenarios to maintain engagement and pairing with a study buddy for collaborative problem-solving.",
+                        "Right triangles and trigonometry": "Practice identifying sides relative to angles and solving for unknowns using sine, cosine, and tangent in gamified exercises, drawing and labeling diagrams for each problem, and using calculator-based drills under timed conditions to build fluency and confidence.",
+                        "Ratios, rates, proportional relationships, and units": "Work through multi-step ratio and proportion problems with unit conversions using interactive story problems and flashcards, applying dimensional analysis step-by-step, and tracking progress with visual habit trackers to sustain focus and celebrate small wins."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with your weakest areas to build foundational accuracy, midweek sessions target moderate skills to reinforce progress, Fridays are dedicated to comprehensive review and error analysis, Saturdays feature two full-length practice tests simulating real SAT conditions emphasizing accuracy and speed, followed by detailed mistake breakdowns, and Sundays serve as a Flex Day to recharge and adapt your study approach."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing errors through creative storytelling or visual mapping to deepen understanding without stress, experiment with new interactive tools or gamified apps to refresh your study routine, tackle mixed-skill challenges in short bursts to maintain curiosity, incorporate mindfulness or light physical activity to reset focus, and set clear, motivating goals for the upcoming week to sustain momentum."
+        }
+    ]
+}

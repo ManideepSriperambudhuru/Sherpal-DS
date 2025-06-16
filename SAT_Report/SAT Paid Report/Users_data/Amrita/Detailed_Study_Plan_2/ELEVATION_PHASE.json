@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvement in accuracy and reasoning across prioritized Reading & Writing and Math skills by steadily reducing careless errors and reinforcing partially mastered concepts. Demonstrate increased cognitive flexibility under moderate time pressure through consistent performance review cycles. Build resilience by embracing incremental challenges that push beyond comfort zones without disrupting emotional balance. Progress toward the 1590 SAT goal by refining strategic application of mid-level and advanced skills while maintaining steady, sustainable growth."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Central Ideas and Details, Command of Evidence - Textual, Inferences"
+                },
+                {
+                    "title": "Math",
+                    "description": "Right triangles and trigonometry, Percentages, Area and volume, One-variable data: Distributions and measures of center and spread, Ratios, rates, proportional relationships, and units"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Central Ideas and Details": "Engage with medium-difficulty SAT passages focusing on identifying central ideas and supporting details by annotating key points and summarizing paragraphs in your own words, then self-assess accuracy to identify patterns in errors and adjust focus accordingly.",
+                        "Command of Evidence - Textual": "Practice challenging evidence-based questions by locating precise textual support for given claims under timed conditions, then reflect on reasoning paths and common pitfalls to deepen understanding of complex argument structures.",
+                        "Inferences": "Work through advanced inference questions by hypothesizing multiple plausible interpretations before selecting the best-supported answer, fostering deliberate cognitive engagement and reducing premature conclusions."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Right triangles and trigonometry": "Solve sets of problems involving right triangles by first drawing detailed diagrams labeling sides and angles, then apply sine, cosine, and tangent ratios systematically, including inverse functions, while timing each problem to build accuracy and speed without sacrificing precision.",
+                        "Percentages": "Complete medium-difficulty percentage problems that require converting between fractions, decimals, and percentages, including percentage increase and decrease scenarios, writing out each step explicitly to minimize careless errors and reinforce conceptual clarity.",
+                        "Area and volume": "Tackle complex area and volume problems involving composite figures under moderate time constraints, emphasizing formula recall, unit consistency, and stepwise calculation to optimize speed and accuracy in multi-step problem solving.",
+                        "One-variable data: Distributions and measures of center and spread": "Analyze data sets by calculating mean, median, range, and interquartile range, then interpret graphical representations such as box plots and histograms to identify distribution shape and outliers, practicing medium-level problems to solidify core statistical reasoning.",
+                        "Ratios, rates, proportional relationships, and units": "Engage with challenging ratio and proportion problems that integrate unit conversions and multi-step reasoning, practicing setting up and solving proportions carefully while tracking units to avoid common mistakes and improve fluency under timed conditions."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances conceptual mastery and strategic practice by pairing one Math skill with one Reading & Writing skill, starting the week with the weakest skills to address foundational gaps, progressing midweek to moderate skills for reinforcement, and dedicating Fridays to comprehensive review and error analysis. Saturdays are reserved for a full-length SAT practice test under timed conditions, followed by detailed review sessions to identify patterns and adapt strategies. Sundays serve as a Flex Day to support rest, reflection, and adaptive learning aligned with personal well-being."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing recent errors to identify growth opportunities without judgment. Experiment with new study tools or techniques such as digital flashcards or timed quizzes to refresh engagement. Participate in mixed-skill challenges with peers slightly more intense to gently push boundaries while maintaining harmony. Incorporate mindfulness or light physical activity to restore cognitive energy. Set clear, achievable goals for the upcoming week that balance challenge with emotional stability, reinforcing the distinction between peaceful progress and complacency."
+        }
+    ]
+}

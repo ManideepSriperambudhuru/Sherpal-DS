@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Aim to reduce careless mistakes by at least 30% through focused error analysis and correction. Achieve measurable improvement in accuracy and reasoning on second-tier skills in both Math and Reading & Writing, targeting mastery of mid-level and advanced question types. Enhance cognitive flexibility by applying strategic approaches under moderate time pressure, maintaining steady progress toward a 1590 SAT score. Consistently track performance to identify patterns and adapt study focus, ensuring sustained effort and deepening expertise in prioritized skills."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Rhetorical Synthesis, Transitions, Inferences"
+                },
+                {
+                    "title": "Math",
+                    "description": "Equivalent expressions, Linear inequalities in one or two variables, Area and volume, Lines, angles, and triangles, One-variable data: Distributions and measures of center and spread"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Rhetorical Synthesis": "Engage in timed practice sets focusing on the most challenging rhetorical synthesis questions, deliberately reflecting after each set to identify reasoning gaps and adjusting strategies before retesting to build speed and accuracy under pressure.",
+                        "Transitions": "Commit to mastering complex transition questions by completing targeted drills that emphasize recognizing subtle logical connections, followed by timed reviews to optimize speed while maintaining precision, using detailed error logs to guide adjustments.",
+                        "Inferences": "Practice advanced inference questions in timed conditions, focusing on drawing precise conclusions from nuanced text, then reflect on errors to refine interpretive strategies and retest to solidify mastery and speed."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Equivalent expressions": "Dedicate sessions to isolating variables in multi-step algebraic equations, practicing stepwise manipulation with clear notation under timed conditions, verifying solutions by substitution, and progressively increasing complexity to master advanced question types.",
+                        "Linear inequalities in one or two variables": "Work through challenging word problems translating real-world scenarios into inequalities, carefully applying sign rules and verifying solutions on number lines, with timed practice to enhance accuracy and speed in complex applications.",
+                        "Area and volume": "Master difficult geometry problems involving area and volume by systematically identifying shapes, applying formulas accurately, and solving composite figure questions under timed conditions, reviewing errors to prevent common pitfalls.",
+                        "Lines, angles, and triangles": "Practice high-level geometry problems requiring proofs of congruence and similarity, angle calculations, and application of angle relationships, emphasizing clear diagramming and logical reasoning under time constraints to build fluency and precision.",
+                        "One-variable data: Distributions and measures of center and spread": "Engage with medium-difficulty data interpretation problems, calculating and comparing measures of center and spread, identifying outliers, and interpreting distribution shapes through timed exercises that reinforce core statistical concepts."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Structure each weekday with focused dual-skill practice sessions pairing one Math and one Reading & Writing skill, beginning the week by targeting weakest skills to build foundational strength, progressing midweek to moderate skills for reinforcement, and reserving Fridays for comprehensive review and reflection on progress. Saturdays are dedicated to a full-length timed practice test followed by detailed analysis of errors and strategy refinement. Sundays serve as a Flex Day to support rest, reflection, and adaptive learning, ensuring balance between consistent effort and cognitive recovery."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day to reflect deeply on mistakes from the week’s practice, journaling insights and adjusting upcoming goals. Experiment with a new study tool or technique for one prioritized skill, committing to a trial period to satisfy curiosity while maintaining focus. Engage in mixed-skill challenge sets at a relaxed pace to stimulate cognitive flexibility without pressure. Incorporate physical activity or mindfulness exercises to rejuvenate focus and reduce stress. Finally, set clear, actionable short-term goals for the next week, reinforcing discipline and sustained momentum."
+        }
+    ]
+}

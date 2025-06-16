@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Aim to reduce careless errors consistently across both Math and Reading & Writing by refining attention to detail under moderate time pressure. Strengthen command over second-tier skills such as area and volume calculations and textual evidence analysis, ensuring steady improvement in accuracy and reasoning. Enhance cognitive flexibility by applying strategic problem-solving approaches in mixed-skill timed exercises. Achieve measurable progress toward the 1590 goal by maintaining calm focus and embracing incremental challenges that push beyond comfort zones without disrupting inner balance."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Boundaries, Command of Evidence - Textual, Text Structure and Purpose"
+                },
+                {
+                    "title": "Math",
+                    "description": "Area and volume, Linear equations in one variable, Linear functions, Equivalent expressions, Lines, angles, and triangles"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Boundaries": "Engage in timed sets of the most challenging boundary questions, focusing on identifying subtle shifts in meaning and context; after each set, reflect on errors calmly to understand patterns and adjust strategies without pressure, rewarding small improvements to sustain motivation.",
+                        "Command of Evidence - Textual": "Practice extracting and justifying textual evidence through progressively difficult passages under timed conditions, pairing with peers for occasional discussion to gently introduce competitive elements that stimulate growth while preserving harmony.",
+                        "Text Structure and Purpose": "Analyze complex passages to map out text structure and author intent, using a stepwise approach to annotate and summarize sections under moderate time constraints, then review to identify and correct recurring oversights with a focus on steady refinement."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Area and volume": "Solve advanced area and volume problems in timed drills emphasizing formula recall and unit conversions; incorporate micro-challenges by increasing problem complexity gradually and track progress with a reward system for accuracy and speed improvements.",
+                        "Linear equations in one variable": "Work through multi-step linear equations and inequalities under timed conditions, focusing on methodical isolation of variables and verifying solutions; introduce peer comparison sessions to foster gentle competition and momentum.",
+                        "Linear functions": "Translate word problems into linear equations and interpret slope and intercept meaning through timed practice sets; use visual aids like graphs and tables to deepen understanding and reflect on errors to fine-tune reasoning.",
+                        "Equivalent expressions": "Practice isolating variables in complex formulas step-by-step under time limits, emphasizing balanced operations and clear notation; review mistakes carefully to avoid complacency and encourage incremental challenge increases.",
+                        "Lines, angles, and triangles": "Tackle high-difficulty geometry problems involving congruence, similarity, and angle relationships with timed practice; draw detailed diagrams and write brief proofs to solidify concepts, gradually increasing problem complexity to push beyond comfort."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances focused dual-skill practice, pairing one Math and one Reading & Writing skill, starting the week with the weakest areas to maximize early gains. Midweek sessions target moderate skills with increasing time pressure and strategic problem-solving. Fridays are dedicated to reviewing errors and adapting strategies to reinforce learning. Saturdays feature a full-length timed practice test followed by a thorough review to identify patterns and refine approaches. One Flex Day is reserved for rest, reflection, and adaptive activities aligned with maintaining mental balance and sustainable growth."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing recent errors to identify growth opportunities without self-criticism. Experiment with new study tools or techniques, such as digital annotation or flashcards, to refresh engagement. Participate in mixed-skill, gamified challenges with peers to gently stretch limits while preserving harmony. Incorporate mindfulness or light physical activity like walking to support emotional stability. Set clear, achievable goals for the upcoming week, framing challenges as growth opportunities rather than stressors."
+        }
+    ]
+}

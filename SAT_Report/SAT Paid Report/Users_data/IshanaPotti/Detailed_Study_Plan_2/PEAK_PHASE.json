@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvements in accuracy and reasoning across prioritized Reading & Writing and Math skills, steadily reduce repeat mistakes by reinforcing mastery of challenging question types, stabilize performance under timed conditions to minimize score variance, and build endurance and confidence through full-length practice tests that simulate real SAT conditions."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Boundaries, Text Structure and Purpose, Central Ideas and Details, Command of Evidence - Quantitative, Cross-text Connections"
+                },
+                {
+                    "title": "Math",
+                    "description": "Linear equations in one variable, Percentages, Ratios, rates, proportional relationships, and units, Right triangles and trigonometry"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Boundaries": "Engage in timed sentence correction drills focusing on identifying and fixing run-ons, comma splices, and fragments by rewriting sentences using varied boundary techniques; read sentences aloud to internalize natural pauses and apply punctuation rules under pressure to master speed and accuracy.",
+                        "Text Structure and Purpose": "Practice analyzing complex passages by outlining their organizational patterns and author’s intent, then answer challenging timed questions that require rapid identification of structure types and purpose, reinforcing mastery through repeated exposure and reflection on errors.",
+                        "Central Ideas and Details": "Perform active reading exercises where you annotate passages to distinguish central ideas from supporting details, then summarize in your own words under timed conditions to build deep comprehension and speed in recognizing main points during the test.",
+                        "Command of Evidence - Quantitative": "Work on interpreting embedded quantitative data by isolating key statistics in passages, paraphrasing their significance, and answering high-difficulty command of evidence questions with a focus on precise data linkage and avoiding common misinterpretations under timed practice.",
+                        "Cross-text Connections": "Analyze paired passages by creating comparison charts that map author’s purpose, tone, and evidence types, then answer complex synthesis questions that require integrating insights across texts, practicing under timed conditions to refine advanced analytical skills."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Linear equations in one variable": "Solve multi-step linear equations and inequalities under timed conditions, emphasizing step-by-step variable isolation, careful application of inverse operations, and consistent verification of solutions to build speed and accuracy with complex problem types.",
+                        "Percentages": "Practice challenging percentage problems including conversions, percentage increase/decrease, and reverse percentage calculations in timed drills, breaking down multi-step word problems methodically to refine advanced problem-solving techniques and avoid common pitfalls.",
+                        "Ratios, rates, proportional relationships, and units": "Master difficult ratio and proportion problems by setting up and solving multi-step equations with unit conversions, using dimensional analysis and cross-multiplication under timed conditions to ensure precision and speed in complex scenarios.",
+                        "Right triangles and trigonometry": "Engage in timed practice solving right triangle problems using sine, cosine, and tangent ratios, including inverse functions for angle measures, while drawing and labeling diagrams to reinforce conceptual clarity and optimize accuracy under pressure."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with the weakest skills to build foundational mastery, midweek sessions target moderate skills to maintain momentum, Fridays are dedicated to comprehensive review and error analysis to consolidate learning, Saturdays feature two full-length SAT practice tests simulating real conditions with detailed post-test reviews to enhance endurance and confidence, and Sundays serve as a Flex Day to recharge and adapt."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day for low-pressure reflection on errors from the week’s practice, experimenting with a new study tool or technique for one skill to satisfy curiosity while committing to mastery, engage in mixed-skill challenge sets to maintain cognitive flexibility, incorporate mindfulness or light physical activity to reset mental energy, and set clear, focused goals for the upcoming week to maintain structured progress without sacrificing adaptability."
+        }
+    ]
+}

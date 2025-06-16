@@ -1,0 +1,65 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Each week, aim to steadily reduce careless mistakes by trusting your initial reasoning more often and completing all practice sets within moderate time limits. Focus on improving accuracy and confidence in second-tier Reading & Writing skills such as Transitions and Command of Evidence, alongside Math skills like Equivalent Expressions and Linear Equations. Develop decisiveness under timed conditions by completing mixed-skill drills with fewer hesitations and more consistent pacing. Track and celebrate moments of confident decision-making while maintaining methodical precision."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": [
+                        "Transitions",
+                        "Command of Evidence - Textual",
+                        "Text Structure and Purpose",
+                        "Central Ideas and Details"
+                    ]
+                },
+                {
+                    "title": "Math",
+                    "description": [
+                        "Equivalent expressions",
+                        "Linear equations in one variable",
+                        "Area and volume",
+                        "Lines, angles, and triangles",
+                        "Ratios, rates, proportional relationships, and units"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Transitions": "Complete timed sets of transition-focused questions where you select the best connecting phrase under a strict time limit, then review errors to confirm when your first instinct was correct, reinforcing trust in your initial judgment.",
+                        "Command of Evidence - Textual": "Practice paired questions requiring identification of textual evidence with a timer, then analyze mistakes to see when your first choice aligned with the correct answer, building confidence in your careful evaluation process.",
+                        "Text Structure and Purpose": "Engage in brief passages where you identify text structure and author purpose under moderate time pressure, followed by journaling about moments you trusted your analysis and succeeded to reduce hesitation.",
+                        "Central Ideas and Details": "Work through targeted questions on main ideas and supporting details with a countdown timer, then perform error analysis highlighting when your initial answers were accurate to encourage decisive responses."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Equivalent expressions": "Practice isolating variables in simple linear equations with a timer, focusing on stepwise rearrangement and neat work; after each set, review errors to confirm when your first attempts were correct, reinforcing self-trust.",
+                        "Linear equations in one variable": "Solve multi-step linear equations and inequalities under timed conditions, emphasizing performing balanced operations and checking solutions, then reflect on correct first instincts to build confidence.",
+                        "Area and volume": "Complete timed problems calculating area and volume of common shapes, carefully labeling dimensions and applying formulas step-by-step; review errors to normalize small mistakes and reinforce accuracy.",
+                        "Lines, angles, and triangles": "Work on geometry problems involving congruence and angle relationships with moderate time limits, drawing diagrams and verifying angle sums; celebrate decisive problem-solving moments in your study journal.",
+                        "Ratios, rates, proportional relationships, and units": "Practice ratio and proportion word problems under time constraints, carefully setting up equations and checking units; analyze when your initial answers were right to reduce second-guessing."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday includes focused dual-skill practice sessions pairing one Math and one Reading & Writing skill, starting the week with your weakest areas to build momentum, midweek targeting moderate skills to reinforce understanding, and Fridays dedicated to reviewing errors and adapting strategies. Saturdays are reserved for one full-length practice test under timed conditions, followed by a thorough review to identify patterns in mistakes and moments of confident decision-making. Sundays serve as a Flex Day to rest, reflect, and prepare for the upcoming week."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day for low-pressure activities aligned with your thoughtful and methodical nature: reflect on recent errors by journaling about times you trusted your first instinct and succeeded, experiment with new study tools or timing techniques to find what enhances your decisiveness, engage in mixed-skill challenge sets at a relaxed pace to maintain cognitive flexibility, incorporate mindfulness or light physical activity to reduce stress, and set clear, manageable goals for the next week to maintain your responsible and precise approach."
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvement in accuracy and speed across prioritized Reading & Writing and Math skills, reducing careless mistakes by at least 20% each week. Demonstrate increased confidence in decision-making under timed conditions, completing full sections without leaving questions unanswered. Strengthen reasoning by connecting concepts across subjects and applying strategic problem-solving to mid-level and advanced questions. Build resilience to pressure by consistently finishing practice sets within time limits while maintaining or improving accuracy."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Transitions, Command of Evidence - Textual, Boundaries"
+                },
+                {
+                    "title": "Math",
+                    "description": "Nonlinear equations in one variable and systems of equations in two variables, Linear equations in one variable, Area and volume, Percentages, Ratios, rates, proportional relationships, and units"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Transitions": "Engage in timed practice sets of medium-difficulty transition questions, focusing on identifying the logical flow and purpose behind each transition. After each set, conduct a brief debrief to journal moments when quick decisions aligned with correct answers, reinforcing trust in your instincts and reducing overanalysis.",
+                        "Command of Evidence - Textual": "Work on challenging evidence-based questions under moderate time constraints, emphasizing extracting and connecting textual support efficiently. Post-practice, reflect on instances where initial instincts were correct despite incomplete analysis to build confidence in timely decision-making.",
+                        "Boundaries": "Master the most difficult boundary questions by practicing under strict time limits to simulate test pressure. Focus on recognizing key textual boundaries quickly and committing to answers without hesitation. Use post-session reviews to identify patterns in overthinking and celebrate confident, accurate responses."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear equations in one variable and systems of equations in two variables": "Practice solving complex systems combining linear and quadratic equations with a strict time cap per question to enhance speed without sacrificing accuracy. After each problem, verify solutions by substitution and journal moments when rapid decisions led to correct answers, reinforcing trust in your problem-solving instincts.",
+                        "Linear equations in one variable": "Complete sets of the most challenging linear equations and inequalities under timed conditions, focusing on step-by-step isolation and quick recognition of when to flip inequality signs. Review errors immediately to understand missteps and reinforce correct procedures.",
+                        "Area and volume": "Tackle advanced area and volume problems with a focus on identifying shapes and applying formulas swiftly under time pressure. Incorporate unit conversion drills within practice to avoid common mistakes. Reflect on problem-solving efficiency and accuracy in a post-practice journal.",
+                        "Percentages": "Work through high-difficulty percentage problems involving conversions, increases/decreases, and word problems with strict timing. Emphasize writing out each step to reduce errors and build speed. Use post-practice analysis to identify when estimation can aid faster decision-making.",
+                        "Ratios, rates, proportional relationships, and units": "Engage in multi-step ratio and proportion problems combined with unit conversions under timed conditions. Practice dimensional analysis explicitly to ensure unit accuracy. After practice, review mistakes to pinpoint hesitation points and journal successful rapid decisions to build confidence."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances conceptual mastery and strategic practice by pairing one Math skill with one Reading & Writing skill, starting the week with the weakest skills to prioritize growth. Midweek focuses on moderate skills to build momentum, while Fridays are dedicated to reviewing errors and reinforcing strategies. Saturdays feature a full-length timed practice test followed by a comprehensive review session to analyze mistakes and adapt strategies. Sundays serve as a Flex Day to rest, reflect, and prepare for the upcoming week."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in reflective journaling focused on moments of confident decision-making and lessons learned from hesitation. Experiment with new study tools or timing techniques in low-pressure settings to enhance cognitive flexibility. Complete mixed-skill challenge sets at a relaxed pace to maintain engagement without stress. Incorporate mindfulness or light physical activity to recharge emotionally and mentally. Set clear, purpose-driven goals for the next week, aligning with your internal motivation and thoughtful learning style."
+        }
+    ]
+}

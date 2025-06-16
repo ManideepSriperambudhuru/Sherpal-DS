@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Aim to increase accuracy and reasoning speed in Reading & Writing by mastering complex question types in Rhetorical Synthesis, Transitions, and Inferences while reducing careless errors. In Math, focus on deepening understanding and application of Equivalent Expressions, Linear Inequalities, Area and Volume, Lines, Angles, and Triangles, and One-variable Data concepts under moderate time pressure. Establish consistent progress by meeting short-term targets, minimizing repeated mistakes, and demonstrating improved strategic problem-solving and cognitive flexibility."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Rhetorical Synthesis, Transitions, Inferences"
+                },
+                {
+                    "title": "Math",
+                    "description": "Equivalent expressions, Linear inequalities in one or two variables, Area and volume, Lines, angles, and triangles, One-variable data: Distributions and measures of center and spread"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Rhetorical Synthesis": "Engage in timed practice sets focusing on the most challenging synthesis questions by analyzing multiple paired passages, then write brief outlines connecting key arguments before answering to reinforce conceptual links and improve speed under pressure.",
+                        "Transitions": "Practice targeted exercises that require identifying and correcting transition errors in complex paragraphs under timed conditions, emphasizing pattern recognition and rapid decision-making to build mastery and reduce hesitation.",
+                        "Inferences": "Work through advanced inference questions by annotating passages to highlight implicit clues and test assumptions, then answer under timed conditions to sharpen reasoning and accuracy while reflecting on errors to adapt strategies."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Equivalent expressions": "Solve multi-step algebraic problems involving isolating variables in complex formulas, writing out each step clearly and verifying by substitution, practicing under timed conditions to build precision and speed.",
+                        "Linear inequalities in one or two variables": "Translate real-world word problems into inequalities, solve them step-by-step while carefully tracking sign changes, and graph solutions on number lines to reinforce conceptual understanding and accuracy in challenging contexts.",
+                        "Area and volume": "Complete timed problem sets involving calculation of areas and volumes of composite figures, ensuring correct formula selection and unit conversions, followed by self-checking to minimize careless errors.",
+                        "Lines, angles, and triangles": "Practice advanced geometry problems requiring proofs of congruence or similarity and angle calculations, drawing detailed diagrams and annotating known relationships to deepen conceptual mastery under time constraints.",
+                        "One-variable data: Distributions and measures of center and spread": "Analyze medium-difficulty data sets by calculating mean, median, range, and IQR, interpreting distribution shapes and identifying outliers through visual tools like box plots, practicing consistent application of concepts with timed exercises."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances focused dual-skill practice with one Math and one Reading & Writing skill, beginning the week with the most challenging areas to build momentum and confidence. Midweek sessions target moderate skills to reinforce and integrate learning. Fridays are dedicated to reviewing errors and consolidating understanding. Saturdays feature a full-length timed practice test followed by a thorough review to identify patterns and adapt strategies. Sundays serve as a Flex Day to rest, reflect, and experiment with new approaches, maintaining a flexible yet consistent routine that supports sustained effort and growth."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day to reflect calmly on mistakes from the week, journaling insights and adjusting goals to maintain focus. Experiment with a new study tool or technique for one skill area, committing to mastering it over the coming week. Engage in mixed-skill challenges that combine Reading & Writing and Math to stimulate cognitive flexibility without pressure. Incorporate mindfulness or light physical activity to recharge mental energy. Set clear, achievable goals for the next week to harness curiosity within a structured plan, reinforcing discipline alongside exploration."
+        }
+    ]
+}

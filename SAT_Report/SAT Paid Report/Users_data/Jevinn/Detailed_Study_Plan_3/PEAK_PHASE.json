@@ -1,0 +1,61 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Each week, steadily increase accuracy and reasoning in both Math and Reading & Writing by reducing repeat mistakes and improving precision in Command of Evidence - Quantitative, Central Ideas and Details, and Cross-text Connections. In Math, focus on mastering linear inequalities, data distributions, linear functions, and right triangle trigonometry with progressively harder problems. Build endurance to sustain focus through full-length practice tests, minimize score variance, and lock in test strategies that leverage your calm mindset under pressure."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": [
+                        "Command of Evidence - Quantitative",
+                        "Central Ideas and Details",
+                        "Cross-text Connections"
+                    ]
+                },
+                {
+                    "title": "Math",
+                    "description": [
+                        "Linear inequalities in one or two variables",
+                        "One-variable data: Distributions and measures of center and spread",
+                        "Linear functions",
+                        "Right triangles and trigonometry"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Command of Evidence - Quantitative": "Practice timed sets of SAT passages containing quantitative data visuals, using a visible countdown timer to locate and paraphrase key statistics before answering evidence questions. After each set, analyze errors focusing on misinterpretations of units or axes to sharpen precision under time pressure.",
+                        "Central Ideas and Details": "Engage in challenging passage drills where you actively annotate main ideas and supporting details, then summarize each passage aloud within a strict time limit to build speed and deepen comprehension while maintaining calm focus.",
+                        "Cross-text Connections": "Complete paired passage exercises with a competitive twist: track your time and accuracy in identifying relationships and author purposes, aiming to beat your previous best while carefully annotating tone and evidence to strengthen synthesis skills."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Linear inequalities in one or two variables": "Solve progressively harder word problems involving linear inequalities under timed conditions, using number lines to visualize solution sets and verifying answers by substitution, while aiming to improve speed without sacrificing accuracy.",
+                        "One-variable data: Distributions and measures of center and spread": "Analyze complex data sets by calculating mean, median, range, and IQR, then interpret distribution shapes and identify outliers in timed drills that challenge you to maintain calm precision and avoid rushing.",
+                        "Linear functions": "Translate real-world scenarios into linear equations and solve for unknowns in increasingly difficult problems, practicing under timed conditions with a visible countdown to build urgency and mastery of slope and intercept concepts.",
+                        "Right triangles and trigonometry": "Work on challenging right triangle problems combining trigonometric ratios and inverse functions, using diagrams and calculators efficiently within timed sessions to enhance accuracy and speed while maintaining composure."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday includes focused dual-skill practice pairing one Math and one Reading & Writing skill, starting the week with your weakest areas to build momentum, midweek targeting moderate skills, and Fridays dedicated to comprehensive review. Saturdays feature two full-length practice tests simulating real conditions, emphasizing accuracy and speed optimization, followed by detailed mistake analysis. Sundays serve as a Flex Day to rest and adapt."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day for low-pressure reflection on errors from the week, identifying patterns calmly without judgment. Experiment with new study tools or techniques to subtly increase engagement. Engage in mixed-skill challenges that encourage cognitive flexibility without strict timing. Incorporate mindfulness or light physical activity to recharge mental stamina. Set clear, achievable goals for the upcoming week to maintain steady progress while honoring your composed nature."
+        }
+    ]
+}

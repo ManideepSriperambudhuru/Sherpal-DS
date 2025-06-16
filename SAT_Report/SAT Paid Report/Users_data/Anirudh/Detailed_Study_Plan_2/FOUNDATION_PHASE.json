@@ -1,0 +1,95 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Build a solid baseline of understanding across all prioritized SAT skills with a focus on accuracy and concept clarity. Achieve measurable improvement in Reading & Writing areas by mastering vocabulary in context, grasping passage structure, and synthesizing rhetorical elements. In Math, steadily close gaps in nonlinear functions, linear equations, equivalent expressions, linear functions, and right triangle trigonometry. Reduce repeat mistakes through reflective practice and improve decision-making speed under timed conditions. Cultivate confidence by completing all practice questions and minimizing unanswered items."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": [
+                        "Words in Context",
+                        "Form, Structure, and Sense",
+                        "Rhetorical Synthesis"
+                    ]
+                },
+                {
+                    "title": "Math",
+                    "description": [
+                        "Nonlinear functions",
+                        "Linear equations in two variables",
+                        "Equivalent expressions",
+                        "Linear functions",
+                        "Right triangles and trigonometry"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Words in Context": [
+                            "Engage with diverse, challenging passages from literary, scientific, and historical texts focusing on underlining unfamiliar words and annotating surrounding context clues. Practice answering contextual vocabulary questions under a 60-second time limit per question to build quicker decision-making. After each session, journal instances where your initial interpretation matched the correct meaning to reinforce trust in your instincts and reduce overanalysis.",
+                            "Complete sentence completion exercises that require selecting words fitting nuanced contexts, emphasizing elimination of choices that conflict with passage tone or logic. Time yourself to answer each within 45 seconds, then review errors to identify missed contextual hints or tone cues. Reflect on how sentence structure and punctuation influenced your understanding to deepen conceptual clarity.",
+                            "Paraphrase complex sentences or paragraphs by rewriting them in your own words, focusing on preserving meaning while simplifying vocabulary. Use this exercise to internalize connotations and multiple meanings of words in context. Limit paraphrasing to 10 minutes per passage to encourage fluid comprehension rather than perfection."
+                        ],
+                        "Form, Structure, and Sense": [
+                            "Practice outlining passages by identifying the form (narrative, argumentative, explanatory) and labeling paragraph functions such as introduction, evidence, counterargument, and conclusion. Complete reordering exercises where sentences or paragraphs are scrambled and must be arranged logically within a 10-minute window to build structural intuition and speed.",
+                            "Work on transition word fill-in-the-blank exercises that require selecting the most coherent connectors between sentences or paragraphs. Limit each question to 30 seconds to encourage swift recognition of logical flow. Post-practice, analyze why certain transitions strengthen coherence and how disrupting flow affects meaning.",
+                            "Answer purpose questions that ask why a paragraph or sentence is placed in a specific position within a passage. Use brief written explanations to articulate the author’s intent, reinforcing deep understanding of structure. Time this activity to 15 minutes per passage to balance thoughtful reflection with decision-making under pressure."
+                        ],
+                        "Rhetorical Synthesis": [
+                            "Engage in source comparison tasks by reading two or more short passages and identifying points of agreement and disagreement. Practice synthesizing these ideas into cohesive written paragraphs within 20 minutes, using transitional phrases to connect concepts smoothly. Reflect on how integrating multiple viewpoints strengthens arguments and your confidence in making synthesis decisions quickly.",
+                            "Write synthesis paragraphs that combine evidence from multiple sources to support a central thesis. Focus on paraphrasing rather than quoting directly to maintain your voice. Limit writing time to 25 minutes per paragraph to simulate test conditions and reduce hesitation in committing to answers.",
+                            "Practice rhetorical analysis by annotating texts for ethos, pathos, and logos appeals. Then, rewrite sentences or paragraphs using appropriate transitional phrases to improve flow and clarity. Complete these exercises within 30 minutes to build fluency in recognizing and applying rhetorical strategies under time constraints."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Sketch graphs of quadratic and exponential functions from given equations, focusing on identifying vertex, intercepts, and end behavior. Complete sets of 5 graphing problems under a 20-minute time limit to build speed and conceptual clarity. After each set, review errors to understand misinterpretations of coefficients or graph features.",
+                            "Solve quadratic equations using factoring, completing the square, and the quadratic formula with timed drills of 10 questions in 30 minutes. Emphasize checking all possible solutions and verifying domain restrictions. Reflect post-practice on when your first instinct was correct to build decision confidence.",
+                            "Translate real-world nonlinear word problems into equations and solve them, focusing on projectile motion or population growth scenarios. Limit each problem to 15 minutes to encourage efficient problem setup and solution without overanalyzing every detail."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate word problems into systems of two linear equations by clearly defining variables and relationships. Practice 8 problems with a 40-minute time cap, emphasizing accuracy in equation setup and avoiding misassigning variables. Review solutions by substituting back to confirm correctness and journal moments of confident decision-making.",
+                            "Solve systems using substitution and elimination methods in alternating drills of 10 problems each, timed at 30 minutes per set. Focus on stepwise, error-free calculations and verifying solutions within the problem context to build reliability under timed conditions.",
+                            "Work on real-world scenarios involving mixtures, rates, or ages by setting up and solving systems, limiting each problem to 20 minutes. Reflect on the logical consistency of solutions and practice moving forward confidently even when partial information is present."
+                        ],
+                        "Equivalent expressions": [
+                            "Practice isolating variables in multi-step equations by performing one algebraic operation at a time, writing clear steps. Complete 12 problems involving fractions and parentheses within 45 minutes to build precision and speed. After each, substitute expressions back into original equations to verify correctness and reinforce accuracy.",
+                            "Rearrange formulas with multiple variables (e.g., area, distance) to isolate different quantities. Work through 8 formula manipulation problems under a 30-minute time limit, focusing on maintaining balanced equations and avoiding skipped steps. Reflect on challenges to reduce hesitation in committing to solutions.",
+                            "Translate word problems into equations requiring variable isolation and solve them with timed drills of 10 problems in 40 minutes. Emphasize clarity in notation and stepwise reasoning to build confidence in handling complex expressions efficiently."
+                        ],
+                        "Linear functions": [
+                            "Convert word problems into linear equations by identifying independent and dependent variables, calculating slope and intercept. Practice 10 problems with a 35-minute time limit, including graphing each equation to visualize relationships. Reflect on the meaning of slope and intercept in context to deepen conceptual understanding.",
+                            "Write and solve linear equations from real-life scenarios such as speed, cost, or temperature changes, focusing on interpreting units and initial values. Complete 8 problems timed at 30 minutes, ensuring answers are checked for contextual sense to build decision-making confidence.",
+                            "Given graphs of linear functions, interpret slope and intercept values and solve for unknowns. Practice 12 graph interpretation problems within 40 minutes, emphasizing quick recognition of key features and avoiding overanalysis."
+                        ],
+                        "Right triangles and trigonometry": [
+                            "Solve right triangle problems by identifying opposite, adjacent, and hypotenuse sides relative to the given angle, then applying sine, cosine, or tangent ratios. Complete 10 problems timed at 30 minutes, focusing on accurate labeling and calculator use. Reflect on errors to improve speed and reduce second-guessing.",
+                            "Use inverse trigonometric functions to find unknown angles given side lengths in 8 timed problems within 25 minutes. Emphasize drawing diagrams and checking reasonableness of angle measures to build confidence in applying inverse functions under pressure.",
+                            "Apply trigonometry to real-world word problems involving heights and distances, combining Pythagorean theorem when necessary. Practice 6 mixed problems with a 30-minute time cap, focusing on efficient problem setup and solution without overanalyzing every detail."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday will focus on deep conceptual mastery through dual-skill practice, pairing one Math and one Reading & Writing skill. Begin the week by targeting your weakest skills—Words in Context and Nonlinear functions—to build foundational strength. Midweek shifts to moderate skills like Form, Structure, and Sense alongside Linear equations in two variables and Equivalent expressions. Fridays are dedicated to comprehensive review and integration of all practiced skills to reinforce learning and accuracy. Saturdays concentrate on fundamental concepts through targeted skill-building exercises and conceptual reinforcement, allowing thoughtful absorption. Reserve one Flex Day for rest, reflection, and adaptive practice to maintain cognitive balance and sustain motivation."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in reflective journaling focused on moments when you acted with confidence and your instincts proved correct, reinforcing trust in your decision-making. Experiment with new study tools or techniques such as timed flashcards or digital annotation apps to discover what enhances your learning flow. Tackle mixed-skill challenges at a relaxed pace to stimulate intellectual curiosity without pressure. Incorporate mindfulness or light physical activity like walking or stretching to refresh cognitive energy. Set clear, purpose-driven goals for the upcoming week, aligning with your internal motivation and thoughtful pace to sustain steady progress."
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Build a solid baseline in both Math and Reading & Writing by improving accuracy and conceptual clarity in prioritized skills. Achieve measurable progress in understanding nonlinear functions and systems of equations while strengthening vocabulary in context and command of evidence. Reduce repeated mistakes through focused reflection and maintain steady reasoning improvements. Establish consistent study habits that support sustained effort and track progress toward the 1590 goal."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Words in Context, Form, Structure, and Sense, Command of Evidence - Textual"
+                },
+                {
+                    "title": "Math",
+                    "description": "Nonlinear functions, Nonlinear equations in one variable and systems of equations in two variables, Systems of two linear equations in two variables, Linear functions, Linear equations in two variables"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Words in Context": [
+                            "Engage with diverse SAT-level passages focusing on challenging vocabulary by annotating unfamiliar words and identifying context clues such as synonyms, antonyms, and contrasts. After reading, paraphrase sentences containing target words to deepen understanding and complete sentence completion exercises that require selecting words fitting the passage tone and logic, committing to mastering this method for the entire week to build depth and consistency.",
+                            "Complete targeted contextual vocabulary questions daily using SAT practice sets, emphasizing elimination of incorrect answer choices based on passage tone and meaning. Reflect on errors by reviewing why certain words do not fit contextually, reinforcing learning through trial and error and adapting strategies based on feedback.",
+                            "Practice paraphrasing complex sentences from varied genres by rewriting them with synonyms and simpler language, focusing on how word meanings shift with context. Use a habit tracker to record daily paraphrasing exercises and reward consistent completion to build discipline alongside curiosity."
+                        ],
+                        "Form, Structure, and Sense": [
+                            "Outline the structure of selected SAT passages by labeling paragraphs according to their function (introduction, evidence, conclusion) and mapping transitions between ideas. Practice reordering scrambled paragraphs to restore logical flow, committing to this focused structural analysis for the week to develop foundational understanding.",
+                            "Complete transition word fill-in-the-blank exercises that require selecting the most effective connectors to maintain coherence between sentences and paragraphs. Reflect on how transitions influence the clarity of arguments and narratives, using weekly self-assessments to track improvement.",
+                            "Answer purpose-driven questions that ask why specific sentences or paragraphs are placed in their positions, supporting answers with brief written explanations. Use this method to deepen insight into author intent and passage coherence, integrating feedback to refine reasoning skills."
+                        ],
+                        "Command of Evidence - Textual": [
+                            "Practice paired SAT Reading questions that require selecting an answer and then identifying the exact textual evidence supporting it. Develop active reading habits by annotating passages with notes on main ideas and supporting details, committing to this paired-question approach for the week to build mastery through repetition.",
+                            "Engage in summarization drills where paragraphs are restated in your own words, focusing on capturing both the main point and supporting evidence. Use these summaries to practice matching answers with the strongest textual support, reflecting on errors to improve precision.",
+                            "Complete evidence matching exercises by reviewing multiple potential evidence excerpts for a given answer and selecting the strongest justification. Track accuracy and adapt strategies weekly, reinforcing the habit of verifying evidence within passage context rather than relying on memory."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Sketch graphs of quadratic and exponential functions daily from given equations, annotating key features such as vertex, intercepts, and end behavior. Solve related quadratic equations using factoring, completing the square, and the quadratic formula, committing to mastering these techniques over the week to build confidence with nonlinear concepts.",
+                            "Classify a mixed set of functions as linear or nonlinear based on their equations and graphs, explaining key characteristics that distinguish them. Use this classification practice to deepen conceptual clarity and reduce confusion between function types.",
+                            "Translate real-world scenarios into nonlinear equations and solve them, focusing on word problems involving projectile motion or population growth. Reflect on mistakes and adjust problem-solving approaches, using a habit tracker to maintain consistent practice."
+                        ],
+                        "Nonlinear equations in one variable and systems of equations in two variables": [
+                            "Solve systems combining one linear and one quadratic equation using substitution, carefully isolating variables and simplifying step-by-step. Verify solutions by substituting back into both equations and interpret the number of solutions using the discriminant, committing to this method for the week to develop mastery and speed.",
+                            "Practice graphing systems of linear and quadratic equations to visualize intersection points, reinforcing algebraic solutions with graphical understanding. Use this dual approach to strengthen conceptual connections and error detection.",
+                            "Work on word problems that model real-world situations with linear and quadratic systems, translating scenarios into equations and solving systematically. Reflect weekly on errors and refine equation setup and solution verification techniques."
+                        ],
+                        "Systems of two linear equations in two variables": [
+                            "Solve systems of two linear equations using substitution and elimination methods, writing each step clearly and checking solutions by plugging values back into original equations. Focus on mastering both methods over the week to build flexibility and accuracy.",
+                            "Translate word problems into systems of linear equations, carefully assigning variables and verifying equation correctness before solving. Practice a variety of contexts to deepen understanding and reduce setup errors.",
+                            "Graph systems of linear equations to identify solution types visually, then confirm algebraically. Use this combined approach to enhance problem-solving intuition and error checking."
+                        ],
+                        "Linear functions": [
+                            "Translate word problems into linear equations by identifying dependent and independent variables, calculating slope and intercept, and writing equations in slope-intercept form. Solve for unknowns and interpret results in context, committing to this focused practice for the week to build foundational skills.",
+                            "Create diagrams or tables to organize information from word problems involving linear relationships, using visual aids to clarify rates of change and initial values. Reflect on how these tools improve problem comprehension and solution accuracy.",
+                            "Graph linear equations from word problems and interpret the meaning of slope and intercept in real-world terms. Use graphing to verify solutions and deepen conceptual understanding."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate real-world scenarios into systems of linear equations with two variables, carefully defining variables and relationships. Solve these systems using substitution or elimination, verifying solutions in context and committing to this method for the week to build mastery.",
+                            "Practice substitution and elimination methods on diverse word problems, focusing on accuracy and step-by-step clarity. Reflect on errors and adjust strategies accordingly.",
+                            "Check solutions by substituting values back into original equations and interpret results logically within the problem context. Use this verification habit to build confidence and reduce careless mistakes."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday will focus on deep conceptual mastery through dual-skill practice pairing one Math and one Reading & Writing skill. Begin the week by targeting your weakest skills—Nonlinear functions and Words in Context on Monday, followed by Nonlinear equations in one variable and Form, Structure, and Sense on Tuesday. Midweek, shift focus to Systems of two linear equations and Command of Evidence on Wednesday and Linear functions with review of Words in Context on Thursday. Fridays are dedicated to comprehensive review and error analysis across all skills practiced. Saturdays concentrate on reinforcing fundamental concepts through targeted skill-building exercises and conceptual drills. Sunday serves as a Flex Day to support rest, reflection, and adaptive learning."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day to reflect calmly on errors made during the week by reviewing incorrect answers and identifying patterns without pressure. Experiment with a new learning tool or technique—such as a digital annotation app or a novel problem-solving strategy—committing to a full session to test its effectiveness. Engage in mixed-skill challenges combining Math and Reading & Writing to maintain cognitive flexibility while keeping practice varied and engaging. Incorporate physical or mindfulness activities like a short walk or meditation to recharge focus and reduce stress. Finally, set clear, achievable goals for the upcoming week, aligning them with your progress and growth strategies to maintain momentum and discipline."
+        }
+    ]
+}

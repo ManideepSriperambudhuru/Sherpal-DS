@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Your Learning Persona",
+    "description": "Hello Sumedh, as a Summit Strategist, you approach your SAT preparation with a clear, methodical mindset that breaks down complex challenges into manageable parts. Your strength lies in your ability to plan ahead and execute with precision, giving you control over your study process and progress. At the same time, adapting to unexpected changes can create tension, especially when test conditions deviate from your plan. Embracing flexibility through timed drills and spontaneous problem-solving will help you navigate unpredictability more confidently while maintaining your strategic edge."
+  },
+  {
+    "title": "Your SAT Practice Snapshot",
+    "description": "Your current SAT practice shows strong performance in Math with a perfect score and flawless accuracy, reflecting your analytical strengths. Reading & Writing is solid but has room to grow, with accuracy slightly lower than Math. Your total score is close to your goal, indicating consistent effort and a promising foundation to build on as you prepare for your test date in August."
+  },
+  {
+    "title": "What This Means For You",
+    "description": "Your Summit Strategist persona supports your strength in structured problem-solving but can challenge your adaptability under pressure. Academically, your perfect Math accuracy aligns with your logical planning skills, while your highest Reading & Writing domain reflects clear expression of ideas, matching your ability to organize thoughts precisely. Growth areas include improving information and ideas comprehension in Reading & Writing, which is crucial for nuanced understanding, and maintaining flexibility in Math problem-solving approaches despite current perfection. Your goal score is within reach if you focus on these targeted improvements while managing test-day variability."
+  },
+  {
+    "title": "Your Study Plan: Based on You",
+    "description": [
+      {
+        "title": "Summary",
+        "description": [
+          "Your Summit Strategist mindset equips you with a strong foundation for disciplined, long-term SAT preparation. You excel at breaking down complex material and maintaining control over your study schedule, which supports steady progress. The challenge lies in adapting to unexpected test conditions, so integrating flexibility into your routine will be key to sustaining performance under pressure."
+        ]
+      },
+      {
+        "title": "Reading Writing Strategies",
+        "description": [
+          "1. Focus on strengthening your understanding of Information and Ideas by incorporating timed reading drills that require quick synthesis of passages, helping you adapt to varied question types under pressure.",
+          "2. Refine your skills in Craft and Structure by analyzing sentence-level logic and transitions in practice passages, leveraging your analytical strengths to deepen comprehension and confidence.",
+          "3. Maintain your momentum in Expression of Ideas by engaging in reflective writing exercises that reinforce clarity and organization, supporting your natural ability to structure thoughts effectively."
+        ]
+      },
+      {
+        "title": "Math Strategies",
+        "description": [
+          "1. Although your Math accuracy is perfect, introduce variable-timed problem sets in Problem-Solving and Data Analysis to simulate unexpected pacing and enhance adaptability during the test.",
+          "2. Use targeted review sessions in Geometry and Trigonometry to reinforce your solid foundation, focusing on nuanced problem variations that challenge your strategic thinking.",
+          "3. Sustain your strength in Algebra and Advanced Math by practicing step-by-step reasoning drills that align with your methodical approach and support consistent accuracy."
+        ]
+      },
+      {
+        "title": "Study Plan Phases",
+        "description": {
+          "Foundation": {
+            "date": "May 26, 2025 - June 30, 2025",
+            "reading_writing": "Prioritize building comprehension in Information and Ideas with structured, timed reading exercises that encourage flexibility and quick adaptation to varied question types.",
+            "math": "Focus on integrating variable pacing drills in Problem-Solving and Data Analysis to prepare for unexpected test conditions while maintaining accuracy."
+          },
+          "Elevation": {
+            "date": "July 1, 2025 - July 25, 2025",
+            "reading_writing": "Refine Craft and Structure skills through targeted analysis and timed practice, leveraging your analytical strengths to build fluency and confidence.",
+            "math": "Strengthen Geometry and Trigonometry problem-solving with focused review sessions that challenge your strategic thinking and adaptability."
+          },
+          "Peak": {
+            "date": "July 26, 2025 - August 8, 2025",
+            "reading_writing": "Simulate full-length, timed Reading & Writing sections emphasizing error correction and fluency under pressure to solidify readiness.",
+            "math": "Sharpen speed and accuracy with personalized timed simulations across all Math domains, emphasizing adaptability and test-day strategy."
+          }
+        }
+      },
+      {
+        "title": "Sample Weekly Schedule",
+        "description": [
+          "Monday: focus area: Information and Ideas - duration 60 minutes.",
+          "Tuesday: focus area: Problem-Solving and Data Analysis - duration 60 minutes.",
+          "Wednesday: focus area: Craft and Structure - duration 60 minutes.",
+          "Thursday: focus area: Geometry and Trigonometry - duration 60 minutes.",
+          "Friday: focus area: Standard English Conventions - duration 60 minutes.",
+          "Saturday: focus area: Mixed Reading & Writing timed drill - duration 60 minutes.",
+          "Sunday: focus area: Flex Day for review or rest - duration 30 minutes."
+        ]
+      },
+      {
+        "title": "Study Tips",
+        "description": [
+          "1. Let’s build skill in Information and Ideas by practicing timed passage analysis that encourages quick adaptation to diverse question types.",
+          "2. Try focusing on Problem-Solving and Data Analysis with variable-timed drills to enhance your flexibility under changing conditions.",
+          "3. You can boost confidence in Craft and Structure by dissecting sentence logic and transitions during focused review sessions.",
+          "4. Structure your study routine around your strength in planning by setting clear weekly goals and incorporating timed practice to simulate test conditions.",
+          "5. Embrace moments of unpredictability in practice as opportunities to strengthen your adaptability, which will serve you well on test day."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Want to Go Further?",
+    "description": "Sumedh, your methodical approach and strong analytical skills have positioned you well for the SAT, especially in Math. Expanding your adaptability and refining your Reading & Writing comprehension will close the gap to your goal score. Sherpal offers tailored insights and dynamic coaching designed to evolve with your progress, providing the structure and flexibility you need to navigate every challenge confidently."
+  },
+  {
+    "title": "Footer",
+    "description": "Safe harbor The scores, assessments, and recommendations provided in this report are for informational purposes only and do not constitute professional educational, psychological, or legal advice. Current performance is not necessarily indicative of actual or future results, as test-day conditions and individual circumstances may vary. While care has been taken in the preparation of this material, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, or reliability of the information presented. Any reliance you place on such information is strictly at your own risk. We accept no liability for any loss or damage arising from the use of this report. © 2025 Sthirah Inc. | Confidential & Proprietary - For internal Use Only"
+  }
+]

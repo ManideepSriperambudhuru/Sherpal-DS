@@ -1,0 +1,85 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Build a consistent study rhythm by achieving measurable improvements in accuracy and reasoning across prioritized Reading & Writing and Math skills. Reduce repeated errors through focused practice on core concepts like Words in Context and Nonlinear functions. Strengthen comprehension and problem-solving clarity while steadily increasing confidence through small, trackable wins."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Words in Context, Form, Structure, and Sense, Boundaries"
+                },
+                {
+                    "title": "Math",
+                    "description": "Nonlinear functions, Nonlinear equations in one variable and systems of equations in two variables, Systems of two linear equations in two variables, Linear inequalities in one or two variables, Equivalent expressions"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Words in Context": [
+                            "Engage daily with diverse SAT-style passages, annotating challenging words and surrounding context clues to infer meanings. After reading, paraphrase sentences containing target vocabulary to deepen understanding and reinforce context-based definitions. Use targeted sentence completion exercises focusing on eliminating answer choices that conflict with passage tone, building foundational skill with simple, clear examples to foster steady progress and confidence.",
+                            "Create a personalized vocabulary journal where each new word is recorded with its passage context, synonyms, antonyms, and connotations. Review and quiz yourself on these entries weekly, using process of elimination strategies to select correct meanings in practice questions, reinforcing active learning and resilience through incremental mastery.",
+                            "Practice focused reading comprehension drills emphasizing complex vocabulary in varied genres. Annotate passages to identify tone and author intent, then answer context-based vocabulary questions, ensuring to avoid assumptions by relying solely on passage clues. Celebrate small wins by tracking streaks of correct answers to build motivation and trust in your growing skills."
+                        ],
+                        "Form, Structure, and Sense": [
+                            "Outline each practice passage by labeling paragraph functions (introduction, evidence, conclusion) and mapping transitions between ideas. Use reordering exercises to rearrange sentences or paragraphs for improved logical flow, reinforcing understanding of structure and coherence. Tackle purpose questions that ask why specific sentences or paragraphs appear where they do, deepening analytical skills through challenging, complex problems.",
+                            "Engage in transition word fill-in-the-blank exercises to master linking ideas smoothly. After completing each passage, write brief summaries focusing on how the structure supports the main idea, reinforcing clarity and coherence. Use these summaries as checkpoints to build confidence and track progress visually, encouraging persistence through complexity.",
+                            "Practice identifying passage forms (narrative, argumentative, explanatory) before reading questions to anticipate author goals. Critically evaluate answer choices for structure questions, selecting those that maintain or enhance clarity. Use this method to frame challenges as growth opportunities, gradually increasing difficulty as confidence builds, supported by affirming feedback."
+                        ],
+                        "Boundaries": [
+                            "Perform daily sentence correction drills focusing on identifying and fixing run-ons, comma splices, and fragments. Rewrite incorrect sentences using appropriate punctuation such as commas with coordinating conjunctions, semicolons, or colons, practicing multiple boundary techniques to build versatility and accuracy.",
+                            "Practice punctuation placement exercises where you insert commas, semicolons, or colons correctly between independent clauses. Read sentences aloud to detect natural pauses and breaks, using this auditory feedback to guide punctuation choices and improve sentence clarity.",
+                            "Work on combining two simple sentences into one complex or compound sentence using proper boundaries. Review paragraphs to identify and correct boundary errors, enhancing overall writing coherence. Track improvements with a checklist to celebrate progress and maintain motivation through structured, achievable goals."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Begin each session by sketching graphs of quadratic and exponential functions from given equations to visualize behavior and key features like vertex and intercepts. Solve quadratic equations using multiple methods—factoring, quadratic formula, completing the square—to build flexibility and deepen conceptual clarity. Incorporate word problems translating real-world scenarios into nonlinear equations, reinforcing application skills and boosting confidence through varied practice.",
+                            "Classify functions quickly by analyzing equations and graphs, distinguishing linear from nonlinear types. Use timed multiple-choice practice sets focused on nonlinear functions to improve speed and accuracy under pressure, tracking progress with a streak tracker to encourage sustained effort and resilience.",
+                            "Work backwards from provided graphs to write possible nonlinear function equations, reinforcing understanding of how coefficients affect shape and position. Regularly review common mistakes like misapplying the quadratic formula or ignoring domain restrictions, using error logs to identify patterns and guide targeted review."
+                        ],
+                        "Nonlinear equations in one variable and systems of equations in two variables": [
+                            "Practice solving systems where a linear equation is substituted into a quadratic equation, carefully isolating variables and simplifying step-by-step. Verify solutions by substituting back into both original equations to build accuracy and trust in problem-solving processes. Use discriminant analysis to interpret the number and nature of solutions, visualizing intersections graphically to connect algebraic and geometric understanding.",
+                            "Work through word problems modeling real-world scenarios with linear and quadratic systems, translating context into equations and solving systematically. Focus on mastering substitution techniques and quadratic solving methods, gradually increasing problem complexity to build confidence and reduce overwhelm.",
+                            "Engage in exercises interpreting discriminants and solution types (two solutions, one solution, none), reinforcing conceptual understanding. Maintain a detailed error log to track common pitfalls like extraneous solutions or algebraic slips, using this feedback to adjust study focus and celebrate incremental improvements."
+                        ],
+                        "Systems of two linear equations in two variables": [
+                            "Solve systems using substitution and elimination methods, starting with straightforward coefficients and progressing to complex problems. Write each step clearly to avoid errors and check solutions by plugging values back into original equations, building accuracy and self-trust.",
+                            "Translate word problems into systems of linear equations, practicing interpretation and setup before solving. Use graphing as a visual tool to confirm solutions and understand solution types (unique, none, infinite), reinforcing conceptual clarity.",
+                            "Practice identifying solution types before solving to develop strategic problem-solving skills. Use mixed problem sets combining substitution, elimination, and graphing to build flexibility and confidence, tracking progress with checklists to maintain motivation."
+                        ],
+                        "Linear inequalities in one or two variables": [
+                            "Translate common word phrases into linear inequalities, practicing clear step-by-step algebraic manipulation to isolate variables. Use number lines to graph solution sets, reinforcing understanding of intervals and ranges. Begin with simple problems to build foundational skills and confidence.",
+                            "Solve basic inequality problems involving one variable, carefully applying sign change rules when multiplying or dividing by negatives. Check solutions by substituting test values from solution intervals, ensuring correctness and building trust in methods.",
+                            "Work on word problems involving budgeting or quantity constraints, translating scenarios into inequalities and solving systematically. Use mixed practice sets combining equations and inequalities to develop problem-solving flexibility and reduce overwhelm."
+                        ],
+                        "Equivalent expressions": [
+                            "Practice isolating variables in simple linear equations step-by-step, ensuring balanced operations on both sides. Write each step clearly to avoid confusion, building foundational algebraic manipulation skills with affirming feedback.",
+                            "Work on multi-step equations involving parentheses and fractions, applying distributive property and clearing denominators before isolating variables. Verify solutions by substituting back into original equations to build accuracy and confidence.",
+                            "Rearrange formulas with multiple variables (e.g., area, distance) to isolate different quantities. Translate word problems into equations and solve for target variables, tracking progress visually to encourage persistence and steady growth."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on deep conceptual mastery through dual-skill practice, pairing one Math and one Reading & Writing skill. Begin the week targeting weakest skills like Words in Context and Nonlinear functions to build foundational strength. Midweek shifts to moderate skills such as Form, Structure, and Sense and Nonlinear equations, refining advanced techniques. Fridays are dedicated to comprehensive review and error analysis to consolidate learning. Saturdays emphasize fundamental concepts through targeted skill-building and conceptual reinforcement exercises. Sundays serve as a Flex Day for rest, reflection, and adaptive practice aligned with personal growth."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing errors from the week, identifying patterns without judgment to foster growth mindset. Experiment with new study tools or techniques like digital flashcards or mind maps to discover what enhances focus and retention. Tackle mixed-skill challenges combining Math and Reading & Writing to maintain cognitive flexibility. Incorporate physical or mindfulness activities such as light exercise or meditation to recharge mental energy. Set clear, achievable micro-goals for the upcoming week to build motivation and sustain momentum."
+        }
+    ]
+}

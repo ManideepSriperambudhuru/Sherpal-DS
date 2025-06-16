@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Your Learning Persona",
+    "description": "Aarthi, as a Persistent Hiker, you embody a balanced and thoughtful approach to learning that values steady progress and emotional well-being. Your calm and deliberate mindset helps you maintain harmony in your studies, allowing you to navigate academic challenges with maturity and self-awareness. While you naturally avoid stress and prefer comfort, this same tendency can sometimes hold you back from pushing beyond your limits. Embracing small, manageable challenges will help you grow without disrupting your inner balance, turning moments of discomfort into meaningful steps forward."
+  },
+  {
+    "title": "Your SAT Practice Snapshot",
+    "description": "Your recent SAT practice shows strong performance with a total score just shy of your ambitious goal. You scored well in both Reading & Writing and Math, demonstrating impressive accuracy especially in Math. Your steady effort and thoughtful approach are clearly paying off, and with a bit more focused work, you’re well positioned to reach your target score. Keep trusting your consistent pace—it’s a solid foundation for continued progress."
+  },
+  {
+    "title": "What This Means For You",
+    "description": "Your Persistent Hiker persona shines through your calm confidence and steady progress, yet your natural preference for comfort can sometimes slow growth when challenges arise. In Reading & Writing, your strengths in Information and Ideas and Standard English Conventions reflect your thoughtful and balanced learning style, allowing you to engage deeply with content and structure. In Math, your mastery of Algebra and Problem-Solving aligns with your persistence and steady approach, showing how you thrive when you methodically work through problems. To grow further, focusing on Craft and Structure in Reading & Writing will help you tackle more complex texts and questions, while refining skills in Advanced Math will boost your overall precision and confidence; these areas offer opportunities to gently stretch beyond comfort zones. With your goal score in sight, remember that strength sometimes whispers, ‘try again tomorrow’—your quiet determination is your greatest asset."
+  },
+  {
+    "title": "Your Study Plan: Based on You",
+    "description": [
+      {
+        "title": "motivational paragraph",
+        "description": [
+          "Aarthi, your Persistent Hiker mindset is a powerful asset on your SAT journey because it keeps you grounded and consistent, even when the path feels long. Your natural calm and self-awareness help you avoid burnout, but it’s important to gently invite yourself into small challenges that encourage growth without overwhelming you. By embracing these micro-challenges as opportunities rather than obstacles, you’ll build momentum and deepen your skills steadily. Remember, your thoughtful approach and emotional balance are strengths that will carry you through every step of preparation."
+        ]
+      },
+      {
+        "title": "reading writing strategies",
+        "description": [
+          "1. Let’s build skill in Craft and Structure by exploring how authors organize their ideas and use language to shape meaning; try breaking down passages into smaller parts to reflect on their purpose, which fits your thoughtful and deliberate style.",
+          "2. To reinforce your strength in Information and Ideas, practice summarizing key points in your own words to deepen understanding and boost confidence, aligning with your balanced and reflective learning approach.",
+          "3. Celebrate your strong grasp of Standard English Conventions by gamifying grammar practice—set small goals and reward yourself for mastering tricky rules, keeping your preparation engaging and aligned with your preference for steady, stress-free progress."
+        ]
+      },
+      {
+        "title": "math strategies",
+        "description": [
+          "1. Focus on Advanced Math by tackling one new concept at a time with step-by-step problem-solving, allowing you to stretch your skills gently without disrupting your inner balance.",
+          "2. Build on your solid Algebra skills by refining your speed and accuracy through timed drills that respect your calm approach but introduce a healthy, manageable challenge.",
+          "3. Maintain your confidence in Problem-Solving and Data Analysis by incorporating visual aids like charts or graphs to reinforce understanding and keep your learning process engaging and clear."
+        ]
+      },
+      {
+        "title": "Study Plan Phases",
+        "description": {
+          "Foundation": {
+            "date": "May 22, 2025 - June 30, 2025",
+            "reading_writing": "Prioritize strengthening Craft and Structure with focused, low-pressure exercises that encourage reflection and gradual mastery, helping you overcome comfort-zone limits gently.",
+            "math": "Concentrate on Advanced Math fundamentals with paced review sessions that allow steady absorption of concepts, respecting your preference for sustainable growth."
+          },
+          "Elevation": {
+            "date": "July 1, 2025 - July 31, 2025",
+            "reading_writing": "Refine Information and Ideas through timed practice and summarization drills that build fluency and confidence while leveraging your thoughtful learning style.",
+            "math": "Enhance Algebra skills with targeted speed and accuracy drills, using visual and stepwise methods to maintain motivation and momentum."
+          },
+          "Peak": {
+            "date": "August 1, 2025 - August 8, 2025",
+            "reading_writing": "Focus on test simulation and timed sections emphasizing Craft and Structure and overall fluency to solidify readiness under realistic conditions.",
+            "math": "Sharpen problem-solving speed and accuracy with personalized timed practice, reinforcing confidence and calmness for test day."
+          }
+        }
+      },
+      {
+        "title": "weekly_schedule",
+        "description": [
+          "Monday: focus area: Craft and Structure - duration 60 minutes.",
+          "Tuesday: focus area: Advanced Math - duration 60 minutes.",
+          "Wednesday: focus area: Information and Ideas - duration 60 minutes.",
+          "Thursday: focus area: Algebra - duration 60 minutes.",
+          "Friday: focus area: Expression of Ideas - duration 60 minutes.",
+          "Saturday: focus area: Mixed Reading & Writing and Math review - duration 60 minutes.",
+          "Sunday: focus area: Flex Day for review or rest - duration 30 minutes."
+        ]
+      },
+      {
+        "title": "study_tips",
+        "description": [
+          "1. Let’s build skill in Craft and Structure by breaking down complex passages into smaller parts, which fits your calm and reflective learning style.",
+          "2. Try focusing on Advanced Math concepts one at a time with stepwise problem-solving to gently stretch your skills without stress.",
+          "3. Keep strengthening your Information and Ideas domain by summarizing passages in your own words to deepen understanding and confidence.",
+          "4. Establish a balanced weekly routine that includes steady practice and rest days, honoring your preference for sustainable growth as you approach your test date.",
+          "5. Remember Keanu Reeves’ quiet resilience: strength doesn’t always roar—sometimes it whispers, ‘try again tomorrow.’ Let this inspire your steady, determined progress."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Want to Go Further?",
+    "description": [
+      "Unlocking full access to Sherpal means embracing a truly personalized SAT journey tailored to your unique strengths and needs.",
+      "With interactive learning, AI-driven coaching, and clear progress tracking, Sherpal adapts alongside you to keep your growth steady and focused.",
+      "Together, we’ll turn your quiet determination into meaningful success, helping you reach your goals with confidence and calm."
+    ]
+  },
+  {
+    "title": "Footer",
+    "description": "Safe harbor\nThe scores, assessments, and recommendations provided in this report are for informational purposes only and do not constitute professional educational, psychological, or legal advice. Current performance is not necessarily indicative of actual or future results, as test-day conditions and individual circumstances may vary. While care has been taken in the preparation of this material, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, or reliability of the information presented. Any reliance you place on such information is strictly at your own risk. We accept no liability for any loss or damage arising from the use of this report.\n© 2025 Sthirah Inc. | Confidential & Proprietary - For internal Use Only"
+  }
+]

@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvement in accuracy and reasoning for mid-level and advanced SAT skills in both Math and Reading & Writing. Reduce careless errors by reinforcing second-tier skills such as rhetorical synthesis and equivalent expressions. Build cognitive flexibility under moderate time pressure by completing timed practice sets. Develop consistent performance review habits to analyze mistakes, adapt strategies, and retest for steady score elevation toward the 1590 goal."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Rhetorical Synthesis, Text Structure and Purpose, Transitions"
+                },
+                {
+                    "title": "Math",
+                    "description": "Equivalent expressions, Linear inequalities in one or two variables, Lines, angles, and triangles, Percentages, Area and volume"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Rhetorical Synthesis": "Engage in timed, gamified group discussions where you analyze complex passages and synthesize multiple viewpoints, using flashcards to reinforce key rhetorical strategies and visual timers to maintain focus during each segment.",
+                        "Text Structure and Purpose": "Create interactive storyboards that map out passage structures and author purposes, incorporating visual cues and storytelling elements to deepen understanding while using habit trackers to build consistent daily practice.",
+                        "Transitions": "Practice challenging transition questions through dynamic quizzes that require selecting and explaining transition choices in context, paired with a study buddy for collaborative review and motivation."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Equivalent expressions": "Work through multi-step algebraic problems isolating variables using stepwise manipulation exercises with clear notation, timed with visual timers, and verify solutions by substituting back into original equations to build accuracy under pressure.",
+                        "Linear inequalities in one or two variables": "Translate real-world scenarios into inequalities using interactive word problem sets that require step-by-step solving and graphing solutions on number lines, supported by flashcards for inequality rules and paired practice with an accountability partner.",
+                        "Lines, angles, and triangles": "Use hands-on geometry puzzles and drawing exercises to prove triangle congruence and similarity, applying angle relationships in timed problem sets that encourage visual learning and creative expression.",
+                        "Percentages": "Engage in estimation and conversion drills through educational games that mix percentage calculations with real-life contexts, emphasizing stepwise problem-solving and error checking under moderate time constraints.",
+                        "Area and volume": "Solve composite figure problems using visual diagrams and formula flashcards in bite-sized timed challenges, incorporating unit conversion practice and stepwise calculations to reinforce precision and speed."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances conceptual mastery and targeted skill practice by pairing one Math and one Reading & Writing skill per session, beginning the week with weakest skills to maximize impact and progressing to moderate skills midweek. Fridays focus on comprehensive review of errors and strategy refinement. Saturdays are dedicated to a full-length timed SAT practice test followed by detailed analysis of mistakes and adaptive planning. Sundays serve as a Flex Day to recharge and adjust the plan as needed."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure, persona-aligned activities such as reflecting on errors through creative journaling or storytelling formats to deepen insight without rigidity. Experiment with new interactive tools like educational games or flashcard apps to refresh engagement. Tackle mixed-skill challenges that allow playful exploration of concepts without strict timing. Incorporate mindfulness or light physical activity to reset focus and reduce cognitive fatigue. Set clear, motivating goals for the upcoming week to maintain momentum with a sense of purpose."
+        }
+    ]
+}

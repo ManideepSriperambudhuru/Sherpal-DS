@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve consistent accuracy above 85% in prioritized Reading & Writing and Math skills, steadily reduce repeat errors by identifying and addressing weak points, demonstrate improved reasoning through complex problem-solving under timed conditions, maintain composure and confidence during full-length practice tests, and minimize score variance by stabilizing performance across all sections."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Transitions, Text Structure and Purpose, Command of Evidence - Quantitative, Rhetorical Synthesis, Cross-text Connections"
+                },
+                {
+                    "title": "Math",
+                    "description": "Linear functions, Linear equations in one variable, Lines, angles, and triangles, Equivalent expressions"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Transitions": "Engage in timed exercises where you identify and categorize transition words within complex passages, then rewrite selected sentences to improve logical flow using varied transition types, ensuring deliberate practice that challenges comfort zones while reinforcing clarity.",
+                        "Text Structure and Purpose": "Analyze paired passages under timed conditions to label text structures and author purposes, then summarize each passage’s organization and intent in writing, progressively increasing difficulty to build speed and precision without sacrificing thoughtful reflection.",
+                        "Command of Evidence - Quantitative": "Practice interpreting embedded quantitative data by isolating graphs and tables from passages, paraphrasing their meaning aloud, and answering evidence-based questions step-by-step, focusing on accuracy and avoiding overgeneralization under timed constraints.",
+                        "Rhetorical Synthesis": "Complete synthesis exercises that require combining evidence from multiple sources into coherent written paragraphs, using transitional phrases and rhetorical appeals consciously, with incremental difficulty to push beyond comfort while maintaining composure.",
+                        "Cross-text Connections": "Perform paired passage comparisons emphasizing identification of agreements, contradictions, and authorial tone, using graphic organizers to map relationships, followed by answering synthesis questions designed to refine advanced analytical skills under timed practice."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Linear functions": "Solve challenging word problems by translating real-world scenarios into linear equations, explicitly identifying slope and intercept, then graphing results to visualize relationships, practicing under timed conditions to build speed and accuracy while embracing incremental difficulty.",
+                        "Linear equations in one variable": "Master multi-step linear equations and inequalities by systematically isolating variables, carefully applying inverse operations and verifying solutions, with timed drills that increase complexity to encourage disciplined problem-solving beyond comfort zones.",
+                        "Lines, angles, and triangles": "Tackle advanced geometry problems involving congruence, similarity, and angle relationships by drawing detailed diagrams, labeling knowns and unknowns, and writing stepwise proofs or explanations, practicing under timed conditions to enhance precision and endurance.",
+                        "Equivalent expressions": "Practice isolating variables in complex algebraic expressions and formulas through stepwise manipulation, including clearing fractions and distributing terms, with timed exercises that emphasize accuracy and methodical work to build confidence under pressure."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with the weakest skills to address foundational gaps, Wednesday and Thursday targeting moderate skills to build momentum, and Friday dedicated to comprehensive review and error analysis. Saturday involves two full-length, timed practice tests simulating real exam conditions to reinforce endurance, accuracy, and mental control, followed by detailed review sessions. Sunday serves as a Flex Day to support rest and adaptive learning."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing errors from the week to identify patterns without judgment, experiment with new study tools or techniques such as digital flashcards or timed apps to refresh engagement, participate in mixed-skill challenges with peers slightly more intense to gently push boundaries, incorporate mindfulness or light physical activity like walking or yoga to restore mental balance, and set clear, achievable goals for the upcoming week to maintain steady, sustainable progress."
+        }
+    ]
+}

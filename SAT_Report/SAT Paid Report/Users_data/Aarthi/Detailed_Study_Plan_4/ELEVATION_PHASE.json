@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Aim to reduce careless errors by refining attention to detail in both Math and Reading & Writing. Strengthen mastery of second-tier skills such as area and volume calculations and command of evidence questions by applying them under moderate time constraints. Enhance cognitive flexibility by practicing strategic problem-solving and adapting approaches based on performance reviews. Achieve steady progress toward the 1590 goal through consistent, deliberate practice that balances challenge with emotional well-being."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Boundaries, Command of Evidence - Textual, Text Structure and Purpose"
+                },
+                {
+                    "title": "Math",
+                    "description": "Area and volume, Linear equations in one variable, Linear functions, Equivalent expressions, Lines, angles, and triangles"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Boundaries": "Engage in timed practice sets focusing on the most challenging boundary questions, emphasizing speed and accuracy. After each set, reflect on errors calmly to identify patterns and adjust strategies without pressure, reinforcing steady growth.",
+                        "Command of Evidence - Textual": "Practice paired questions that require locating and interpreting textual evidence under moderate time limits, rewarding progress with small milestones to gamify improvement and encourage pushing beyond comfort zones.",
+                        "Text Structure and Purpose": "Analyze complex passages by outlining their structure and purpose within timed sessions, then compare your outlines with model answers to deepen understanding and refine strategic reading skills."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Area and volume": "Solve progressively challenging area and volume problems under timed conditions, focusing on accurate formula application and unit conversions. Use visual sketches to support problem comprehension and minimize careless mistakes.",
+                        "Linear equations in one variable": "Work through multi-step linear equations and inequalities with a timer, emphasizing stepwise isolation of variables and verifying solutions to build confidence and precision.",
+                        "Linear functions": "Translate word problems into linear equations, then solve and interpret results within time constraints. Incorporate drawing tables or graphs to visualize relationships and reinforce conceptual clarity.",
+                        "Equivalent expressions": "Practice isolating variables in complex formulas step-by-step under timed conditions, ensuring balanced operations and clear notation to avoid common pitfalls.",
+                        "Lines, angles, and triangles": "Tackle advanced geometry problems involving congruence and similarity criteria with timed drills, drawing detailed diagrams to support reasoning and reduce errors."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday includes focused dual-skill practice sessions pairing one Math and one Reading & Writing skill, starting the week with your weakest areas to build momentum. Midweek shifts to moderate skills to maintain engagement and challenge. Fridays are dedicated to reviewing errors and adapting strategies based on performance insights. Saturdays feature a full-length practice test under timed conditions, followed by a thorough review to understand mistakes and reinforce learning. Sundays serve as a Flex Day to rest, reflect, and prepare for the upcoming week."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing recent errors to identify growth opportunities without self-judgment. Experiment with new study tools or techniques, such as digital flashcards or timed mini-quizzes, to refresh your routine. Participate in mixed-skill challenges with peers slightly ahead in intensity to gently push your limits while maintaining harmony. Incorporate mindfulness or light physical activity like walking to support mental clarity and emotional balance. Set clear, achievable goals for the next week to maintain steady, sustainable progress."
+        }
+    ]
+}

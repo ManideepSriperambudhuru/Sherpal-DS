@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve consistent accuracy above 85% on prioritized Reading & Writing and Math skills while reducing hesitation in timed settings. Complete full-length SAT practice tests under realistic conditions to build endurance and mental stamina. Demonstrate improved decision-making speed by committing to answers within set time limits, minimizing unanswered questions. Strengthen pattern recognition to anticipate question types and streamline problem-solving. Maintain emotional control to sustain focus throughout entire test sessions, reducing score variance and locking in a reliable test-taking strategy."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Rhetorical Synthesis, Inferences, Central Ideas and Details, Command of Evidence - Quantitative, Cross-text Connections"
+                },
+                {
+                    "title": "Math",
+                    "description": "Linear equations in one variable, Linear inequalities in one or two variables, Percentages, Ratios, rates, proportional relationships, and units"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Rhetorical Synthesis": "Engage in timed paired passage exercises where you identify and annotate agreements, disagreements, and rhetorical appeals across texts, then write concise synthesis paragraphs under strict time limits to build speed and clarity without sacrificing depth.",
+                        "Inferences": "Practice inference questions with a countdown timer, focusing on quickly identifying explicit clues and combining them with background knowledge, followed by immediate review of answer rationales to reinforce trust in your instincts and reduce overanalysis.",
+                        "Central Ideas and Details": "Complete daily drills summarizing central ideas and supporting details from short passages within a fixed time, using annotation to highlight main points and practicing elimination of minor details to sharpen focus and decision speed.",
+                        "Command of Evidence - Quantitative": "Work on interpreting graphs and tables by quickly extracting key data points and linking them to claims in timed sets, followed by self-explanation sessions to confirm understanding and build confidence in rapid evidence-based reasoning.",
+                        "Cross-text Connections": "Use graphic organizers to compare author’s purpose, tone, and evidence across paired texts in timed sessions, then write brief synthesis answers under pressure to strengthen integration skills and reduce hesitation."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Linear equations in one variable": "Solve progressively challenging linear equations under timed conditions, emphasizing step-by-step isolation and verification, with immediate post-practice reflection on solution strategies to build accuracy and speed.",
+                        "Linear inequalities in one or two variables": "Translate and solve real-world inequality word problems within strict time limits, graph solutions on number lines, and journal moments when quick decisions led to correct answers to reinforce confidence under pressure.",
+                        "Percentages": "Practice medium-difficulty percentage problems involving conversions and word scenarios with a countdown timer, focusing on writing out each step clearly to avoid errors and improve methodical speed.",
+                        "Ratios, rates, proportional relationships, and units": "Tackle complex ratio and proportion problems with unit conversions in timed drills, using dimensional analysis and cross-multiplication, followed by reviewing errors to identify patterns and optimize response time."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday begins with focused dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday with your weakest areas to maximize early-week gains. Midweek sessions target moderate skills to maintain momentum, while Friday is dedicated to comprehensive review and error analysis. Saturdays feature two full-length SAT practice tests simulating real conditions, emphasizing accuracy and speed, with detailed debriefs to reinforce learning and decision-making confidence. Sunday serves as a Flex Day for rest, reflection, and adaptive activities aligned with your thoughtful learning style."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in reflective journaling focused on moments when you trusted your instincts and made confident decisions during practice. Experiment with new study tools or techniques, such as visual organizers or timed flash drills, to discover what enhances your thoughtful pace. Challenge yourself with mixed-skill quizzes at a relaxed pace to maintain cognitive flexibility without pressure. Incorporate mindfulness or light physical activity to reset mental energy and sustain emotional steadiness. Set clear, purpose-driven goals for the upcoming week, reinforcing your internal motivation and commitment to steady progress."
+        }
+    ]
+}

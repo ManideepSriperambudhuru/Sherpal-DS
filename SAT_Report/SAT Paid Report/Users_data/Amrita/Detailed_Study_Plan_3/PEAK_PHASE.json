@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve consistent accuracy above 85% in prioritized Reading & Writing and Math skills, with particular attention to reducing repeat errors in complex question types. Demonstrate improved reasoning speed and precision under timed conditions, maintaining calm and steady performance throughout full-length practice tests. Stabilize score variance by reinforcing test strategies and pattern recognition, ensuring confidence and endurance for sustained focus during complete SAT simulations."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Transitions, Text Structure and Purpose, Command of Evidence - Quantitative, Rhetorical Synthesis, Cross-text Connections"
+                },
+                {
+                    "title": "Math",
+                    "description": "Linear functions, Linear equations in one variable, Lines, angles, and triangles, Equivalent expressions"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Transitions": "Practice identifying and correcting transition usage errors in SAT-level passages by underlining transition words and explaining their logical relationships, then rewriting sentences to improve flow and coherence, gradually increasing complexity to challenge comfort zones while maintaining deliberate, calm focus.",
+                        "Text Structure and Purpose": "Analyze paired passages under timed conditions to label text structures and author purposes, then summarize how these elements influence argument effectiveness, incorporating micro-challenges by progressively reducing time limits to build speed without sacrificing accuracy.",
+                        "Command of Evidence - Quantitative": "Work through SAT-style quantitative evidence questions by first interpreting standalone graphs and tables, then linking data explicitly to claims in passages, using stepwise elimination of incorrect answers to reinforce disciplined reasoning and avoid complacency.",
+                        "Rhetorical Synthesis": "Compose synthesis paragraphs combining evidence from multiple sources, focusing on clear transitions and rhetorical appeals, with peer review sessions involving slightly more intense study partners to foster constructive challenge and momentum.",
+                        "Cross-text Connections": "Engage in paired passage exercises that require identifying agreements and contradictions, annotating author tone and purpose, and creating comparison charts, progressively increasing difficulty to push beyond comfort while preserving thoughtful analysis."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Linear functions": "Translate complex word problems into linear equations by identifying variables, calculating slope and intercept, and interpreting results in context, practicing under timed conditions to build speed and accuracy while embracing incremental difficulty to encourage growth beyond comfort.",
+                        "Linear equations in one variable": "Solve multi-step linear equations and inequalities with careful stepwise isolation of variables, including sign reversal rules, followed by verification through substitution, incorporating timed drills to enhance precision and mental control under pressure.",
+                        "Lines, angles, and triangles": "Practice proving triangle congruence and similarity using SSS, SAS, ASA, and AAS criteria in challenging geometry problems, supplemented by angle relationship exercises involving parallel lines and transversals, with a focus on detailed diagram annotation and logical reasoning.",
+                        "Equivalent expressions": "Isolate variables in multi-variable algebraic formulas through systematic inverse operations, including clearing fractions and distributing terms, followed by back-substitution checks, progressively increasing problem complexity to foster disciplined rebuilding of algebraic manipulation skills."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday begins with focused dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with the weakest skills to prioritize foundational review. Wednesday and Thursday target moderate skills to build momentum. Friday is reserved for comprehensive review of the week's work, emphasizing error analysis and strategy refinement. Saturday features two full-length SAT practice tests under realistic conditions, focusing first on accuracy and then on speed optimization, with detailed post-test reviews to identify patterns and stabilize performance. Sunday serves as a Flex Day for rest and adaptive activities aligned with personal balance."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing errors from the week's practice without time constraints, focusing on understanding rather than correction speed. Experiment with new study tools or techniques such as digital annotation apps or timed flashcard games to gamify learning gently. Participate in mixed-skill challenges with peers slightly more intense to stimulate motivation without disrupting inner balance. Incorporate mindfulness or light physical activity like walking or yoga to support emotional stability. Conclude with setting clear, manageable goals for the upcoming week, reinforcing the distinction between peaceful rest and complacency."
+        }
+    ]
+}

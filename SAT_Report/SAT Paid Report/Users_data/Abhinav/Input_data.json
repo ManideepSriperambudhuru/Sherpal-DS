@@ -1,0 +1,1187 @@
+{
+    "report": {
+        "user": {
+            "user_id": "df64c92c-fb5d-4145-b80b-1d8d6f126b0b",
+            "preferred_name": "Abhinav",
+            "email": "abhinavnambi@gmail.com",
+            "grade": "9th",
+            "goal_score": 1590,
+            "planned_sat_date": "2025-06-30",
+            "persona_id": "0abe89ac-ee32-4912-99d0-1fba5aea60ab",
+            "has_paid_access": false
+        },
+        "persona": {
+            "persona_id": "0abe89ac-ee32-4912-99d0-1fba5aea60ab",
+            "persona_name": "Balanced Trekker",
+            "key_strengths": [
+                "Balanced Trekkers are deep thinkers who love understanding the 'why' behind concepts. They are emotionally steady, reflective, and often driven by purpose rather than pressure. They tend to ask big questions, connect ideas across subjects, and enjoy conversations that stimulate the intellect. These students have strong internal motivation and a thoughtful pace that helps them absorb complex information. They’re ideal learners for concept-based subjects that require understanding rather than memorization."
+            ],
+            "areas_of_improvement": [
+                "While thoughtful and principled, Balanced Trekkers may overanalyze or hesitate in high-pressure or timed scenarios. Their need to fully understand every detail can slow them down, making decision-making feel burdensome. They may also fear being wrong and, as a result, delay committing to answers—especially under test conditions. This often leads to unfinished tests or unanswered questions, even when they know the material well."
+            ],
+            "growth_strategies": "Introduce decision-making drills with limited time per question to encourage quicker response without sacrificing accuracy. Use post-practice debriefs to help them see when their instincts were right. Encourage journaling on times they acted with confidence and got it right. Remind them that excellence doesn’t always mean perfection—it sometimes means moving forward with partial information and learning on the go.",
+            "famous_person": "Malala Yousafzai",
+            "inspirational_story": "Malala Yousafzai is the perfect example of a Balanced Trekker. A deep thinker from a young age, Malala believed in the power of education to transform lives. Her reflections were mature beyond her years, and she spent time articulating her beliefs through speeches and writing. When the Taliban banned girls from attending school in Pakistan, she didn’t rush into reckless action—she thought carefully about her response. Then she acted with remarkable poise and courage.After surviving an assassination attempt, Malala continued advocating for education—not with rage, but with calm determination and clarity of thought. Her balanced perspective and thoughtful communication earned her the Nobel Peace Prize at age 17.Balanced Trekkers can learn from Malala’s journey: depth and decisiveness are not opposites. When careful thinking meets courageous action, great change is possible.",
+            "quote": "Let your thoughts be deep—but your actions be bold.",
+            "user_persona_scores": {
+                "motivation_self_regulation": 2.6,
+                "mindset_learning_values": 3.7,
+                "self_efficacy": 3.3,
+                "anxiety_management": 2.8
+            }
+        },
+        "sat_readiness_report": {
+            "report_title": "SAT Readiness Analytics Dashboard",
+            "sat_score": 1490,
+            "accuracy_index": 93,
+            "time_management": 54,
+            "tabs": [
+                {
+                    "tab_name": "Overall Assessment",
+                    "subjects": [
+                        {
+                            "subject": "RW",
+                            "subject_title": "Reading & Writing",
+                            "sections": [
+                                {
+                                    "section_title": "Domain Performance (Overall)",
+                                    "section_details": [
+                                        {
+                                            "weightage": 87,
+                                            "name": "Information and Ideas"
+                                        },
+                                        {
+                                            "weightage": 87,
+                                            "name": "Standard English Conventions"
+                                        },
+                                        {
+                                            "weightage": 86,
+                                            "name": "Craft and Structure"
+                                        },
+                                        {
+                                            "weightage": 86,
+                                            "name": "Expression of Ideas"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "section_title": "Skill Performance (Overall)",
+                                    "section_details": [
+                                        {
+                                            "weightage": 96,
+                                            "is_top": true,
+                                            "name": "Central Ideas and Details"
+                                        },
+                                        {
+                                            "weightage": 96,
+                                            "is_top": true,
+                                            "name": "Command of Evidence - Quantitative"
+                                        },
+                                        {
+                                            "weightage": 94,
+                                            "is_top": true,
+                                            "name": "Boundaries"
+                                        },
+                                        {
+                                            "weightage": 83,
+                                            "is_top": false,
+                                            "name": "Transitions"
+                                        },
+                                        {
+                                            "weightage": 79,
+                                            "is_top": false,
+                                            "name": "Form, Structure, and Sense"
+                                        },
+                                        {
+                                            "weightage": 73,
+                                            "is_top": false,
+                                            "name": "Inferences"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subject": "Math",
+                            "subject_title": "Math",
+                            "sections": [
+                                {
+                                    "section_title": "Domain Performance (Overall)",
+                                    "section_details": [
+                                        {
+                                            "weightage": 86,
+                                            "name": "Advanced Math"
+                                        },
+                                        {
+                                            "weightage": 81,
+                                            "name": "Algebra"
+                                        },
+                                        {
+                                            "weightage": 76,
+                                            "name": "Problem-Solving and Data Analysis"
+                                        },
+                                        {
+                                            "weightage": 75,
+                                            "name": "Geometry and Trigonometry"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "section_title": "Skill Performance (Overall)",
+                                    "section_details": [
+                                        {
+                                            "weightage": 93,
+                                            "is_top": true,
+                                            "name": "Nonlinear equations in one variable and systems of equations in two variables"
+                                        },
+                                        {
+                                            "weightage": 85,
+                                            "is_top": true,
+                                            "name": "Systems of two linear equations in two variables"
+                                        },
+                                        {
+                                            "weightage": 84,
+                                            "is_top": true,
+                                            "name": "Linear inequalities in one or two variables"
+                                        },
+                                        {
+                                            "weightage": 75,
+                                            "is_top": false,
+                                            "name": "Linear equations in two variables"
+                                        },
+                                        {
+                                            "weightage": 74,
+                                            "is_top": false,
+                                            "name": "Lines, angles, and triangles"
+                                        },
+                                        {
+                                            "weightage": 72,
+                                            "is_top": false,
+                                            "name": "One-variable data: Distributions and measures of center and spread"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tab_name": "Accuracy Assessment",
+                    "subjects": [
+                        {
+                            "subject": "RW",
+                            "subject_title": "Reading & Writing",
+                            "sections": [
+                                {
+                                    "section_title": "Domain Performance (Accuracy)",
+                                    "section_details": [
+                                        {
+                                            "accuracy": 92,
+                                            "name": "Craft and Structure"
+                                        },
+                                        {
+                                            "accuracy": 92,
+                                            "name": "Information and Ideas"
+                                        },
+                                        {
+                                            "accuracy": 90,
+                                            "name": "Standard English Conventions"
+                                        },
+                                        {
+                                            "accuracy": 88,
+                                            "name": "Expression of Ideas"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "section_title": "Skill Performance (Accuracy)",
+                                    "section_details": [
+                                        {
+                                            "accuracy": 100,
+                                            "is_top": true,
+                                            "name": "Boundaries",
+                                            "correct_answers": 13,
+                                            "incorrect_answers": 0,
+                                            "total_questions": 13
+                                        },
+                                        {
+                                            "accuracy": 100,
+                                            "is_top": true,
+                                            "name": "Central Ideas and Details",
+                                            "correct_answers": 16,
+                                            "incorrect_answers": 0,
+                                            "total_questions": 16
+                                        },
+                                        {
+                                            "accuracy": 100,
+                                            "is_top": true,
+                                            "name": "Command of Evidence - Quantitative",
+                                            "correct_answers": 16,
+                                            "incorrect_answers": 0,
+                                            "total_questions": 16
+                                        },
+                                        {
+                                            "accuracy": 93,
+                                            "is_top": true,
+                                            "name": "Text Structure and Purpose",
+                                            "correct_answers": 13,
+                                            "incorrect_answers": 1,
+                                            "total_questions": 14
+                                        },
+                                        {
+                                            "accuracy": 93,
+                                            "is_top": true,
+                                            "name": "Cross-text Connections",
+                                            "correct_answers": 8,
+                                            "incorrect_answers": 1,
+                                            "total_questions": 9
+                                        },
+                                        {
+                                            "accuracy": 92,
+                                            "is_top": true,
+                                            "name": "Rhetorical Synthesis",
+                                            "correct_answers": 12,
+                                            "incorrect_answers": 1,
+                                            "total_questions": 13
+                                        },
+                                        {
+                                            "accuracy": 89,
+                                            "is_top": true,
+                                            "name": "Words in Context",
+                                            "correct_answers": 16,
+                                            "incorrect_answers": 2,
+                                            "total_questions": 18
+                                        },
+                                        {
+                                            "accuracy": 85,
+                                            "is_top": true,
+                                            "name": "Transitions",
+                                            "correct_answers": 12,
+                                            "incorrect_answers": 2,
+                                            "total_questions": 14
+                                        },
+                                        {
+                                            "accuracy": 84,
+                                            "is_top": false,
+                                            "name": "Command of Evidence - Textual",
+                                            "correct_answers": 10,
+                                            "incorrect_answers": 2,
+                                            "total_questions": 12
+                                        },
+                                        {
+                                            "accuracy": 82,
+                                            "is_top": false,
+                                            "name": "Inferences",
+                                            "correct_answers": 16,
+                                            "incorrect_answers": 3,
+                                            "total_questions": 19
+                                        },
+                                        {
+                                            "accuracy": 79,
+                                            "is_top": false,
+                                            "name": "Form, Structure, and Sense",
+                                            "correct_answers": 16,
+                                            "incorrect_answers": 4,
+                                            "total_questions": 20
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subject": "Math",
+                            "subject_title": "Math",
+                            "sections": [
+                                {
+                                    "section_title": "Domain Performance (Accuracy)",
+                                    "section_details": [
+                                        {
+                                            "accuracy": 100,
+                                            "name": "Advanced Math"
+                                        },
+                                        {
+                                            "accuracy": 98,
+                                            "name": "Geometry and Trigonometry"
+                                        },
+                                        {
+                                            "accuracy": 94,
+                                            "name": "Algebra"
+                                        },
+                                        {
+                                            "accuracy": 91,
+                                            "name": "Problem-Solving and Data Analysis"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "section_title": "Skill Performance (Accuracy)",
+                                    "section_details": [
+                                        {
+                                            "accuracy": 100,
+                                            "is_top": true,
+                                            "name": "Nonlinear functions",
+                                            "correct_answers": 14,
+                                            "incorrect_answers": 0,
+                                            "total_questions": 14
+                                        },
+                                        {
+                                            "accuracy": 100,
+                                            "is_top": true,
+                                            "name": "Nonlinear equations in one variable and systems of equations in two variables",
+                                            "correct_answers": 22,
+                                            "incorrect_answers": 0,
+                                            "total_questions": 22
+                                        },
+                                        {
+                                            "accuracy": 100,
+                                            "is_top": true,
+                                            "name": "Linear functions",
+                                            "correct_answers": 14,
+                                            "incorrect_answers": 0,
+                                            "total_questions": 14
+                                        },
+                                        {
+                                            "accuracy": 100,
+                                            "is_top": true,
+                                            "name": "Equivalent expressions",
+                                            "correct_answers": 18,
+                                            "incorrect_answers": 0,
+                                            "total_questions": 18
+                                        },
+                                        {
+                                            "accuracy": 100,
+                                            "is_top": true,
+                                            "name": "Linear equations in one variable",
+                                            "correct_answers": 10,
+                                            "incorrect_answers": 0,
+                                            "total_questions": 10
+                                        },
+                                        {
+                                            "accuracy": 100,
+                                            "is_top": true,
+                                            "name": "Area and volume",
+                                            "correct_answers": 7,
+                                            "incorrect_answers": 0,
+                                            "total_questions": 7
+                                        },
+                                        {
+                                            "accuracy": 100,
+                                            "is_top": true,
+                                            "name": "Ratios, rates, proportional relationships, and units",
+                                            "correct_answers": 9,
+                                            "incorrect_answers": 0,
+                                            "total_questions": 9
+                                        },
+                                        {
+                                            "accuracy": 100,
+                                            "is_top": true,
+                                            "name": "Right triangles and trigonometry",
+                                            "correct_answers": 4,
+                                            "incorrect_answers": 0,
+                                            "total_questions": 4
+                                        },
+                                        {
+                                            "accuracy": 93,
+                                            "is_top": true,
+                                            "name": "Systems of two linear equations in two variables",
+                                            "correct_answers": 13,
+                                            "incorrect_answers": 1,
+                                            "total_questions": 14
+                                        },
+                                        {
+                                            "accuracy": 93,
+                                            "is_top": true,
+                                            "name": "Lines, angles, and triangles",
+                                            "correct_answers": 8,
+                                            "incorrect_answers": 1,
+                                            "total_questions": 9
+                                        },
+                                        {
+                                            "accuracy": 92,
+                                            "is_top": true,
+                                            "name": "Linear inequalities in one or two variables",
+                                            "correct_answers": 10,
+                                            "incorrect_answers": 1,
+                                            "total_questions": 11
+                                        },
+                                        {
+                                            "accuracy": 89,
+                                            "is_top": false,
+                                            "name": "Percentages",
+                                            "correct_answers": 6,
+                                            "incorrect_answers": 1,
+                                            "total_questions": 7
+                                        },
+                                        {
+                                            "accuracy": 83,
+                                            "is_top": false,
+                                            "name": "Linear equations in two variables",
+                                            "correct_answers": 15,
+                                            "incorrect_answers": 2,
+                                            "total_questions": 17
+                                        },
+                                        {
+                                            "accuracy": 83,
+                                            "is_top": false,
+                                            "name": "One-variable data: Distributions and measures of center and spread",
+                                            "correct_answers": 13,
+                                            "incorrect_answers": 1,
+                                            "total_questions": 14
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tab_name": "Time Factor Assessment",
+                    "subjects": [
+                        {
+                            "subject": "RW",
+                            "subject_title": "Reading & Writing",
+                            "sections": [
+                                {
+                                    "section_title": "Domain Performance (Time Factor)",
+                                    "section_details": [
+                                        {
+                                            "time_factor": 81,
+                                            "name": "Expression of Ideas"
+                                        },
+                                        {
+                                            "time_factor": 78,
+                                            "name": "Standard English Conventions"
+                                        },
+                                        {
+                                            "time_factor": 74,
+                                            "name": "Information and Ideas"
+                                        },
+                                        {
+                                            "time_factor": 71,
+                                            "name": "Craft and Structure"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "section_title": "Skill Performance (Time Factor)",
+                                    "section_details": [
+                                        {
+                                            "time_factor": 83,
+                                            "is_top": true,
+                                            "name": "Rhetorical Synthesis",
+                                            "above_optimal_answers": 2,
+                                            "below_optimal_answers": 0,
+                                            "optimal_answers": 10,
+                                            "above_optimal_percentage": 17,
+                                            "below_optimal_percentage": 0,
+                                            "optimal_percentage": 83
+                                        },
+                                        {
+                                            "time_factor": 83,
+                                            "is_top": true,
+                                            "name": "Command of Evidence - Textual",
+                                            "above_optimal_answers": 0,
+                                            "below_optimal_answers": 1,
+                                            "optimal_answers": 9,
+                                            "above_optimal_percentage": 0,
+                                            "below_optimal_percentage": 10,
+                                            "optimal_percentage": 90
+                                        },
+                                        {
+                                            "time_factor": 83,
+                                            "is_top": true,
+                                            "name": "Central Ideas and Details",
+                                            "above_optimal_answers": 2,
+                                            "below_optimal_answers": 1,
+                                            "optimal_answers": 13,
+                                            "above_optimal_percentage": 13,
+                                            "below_optimal_percentage": 6,
+                                            "optimal_percentage": 81
+                                        },
+                                        {
+                                            "time_factor": 83,
+                                            "is_top": true,
+                                            "name": "Command of Evidence - Quantitative",
+                                            "above_optimal_answers": 2,
+                                            "below_optimal_answers": 1,
+                                            "optimal_answers": 13,
+                                            "above_optimal_percentage": 13,
+                                            "below_optimal_percentage": 6,
+                                            "optimal_percentage": 81
+                                        },
+                                        {
+                                            "time_factor": 80,
+                                            "is_top": true,
+                                            "name": "Form, Structure, and Sense",
+                                            "above_optimal_answers": 2,
+                                            "below_optimal_answers": 1,
+                                            "optimal_answers": 13,
+                                            "above_optimal_percentage": 13,
+                                            "below_optimal_percentage": 6,
+                                            "optimal_percentage": 81
+                                        },
+                                        {
+                                            "time_factor": 78,
+                                            "is_top": true,
+                                            "name": "Transitions",
+                                            "above_optimal_answers": 1,
+                                            "below_optimal_answers": 1,
+                                            "optimal_answers": 10,
+                                            "above_optimal_percentage": 9,
+                                            "below_optimal_percentage": 8,
+                                            "optimal_percentage": 83
+                                        },
+                                        {
+                                            "time_factor": 77,
+                                            "is_top": true,
+                                            "name": "Boundaries",
+                                            "above_optimal_answers": 3,
+                                            "below_optimal_answers": 0,
+                                            "optimal_answers": 10,
+                                            "above_optimal_percentage": 23,
+                                            "below_optimal_percentage": 0,
+                                            "optimal_percentage": 77
+                                        },
+                                        {
+                                            "time_factor": 75,
+                                            "is_top": true,
+                                            "name": "Cross-text Connections",
+                                            "above_optimal_answers": 1,
+                                            "below_optimal_answers": 1,
+                                            "optimal_answers": 6,
+                                            "above_optimal_percentage": 13,
+                                            "below_optimal_percentage": 12,
+                                            "optimal_percentage": 75
+                                        },
+                                        {
+                                            "time_factor": 72,
+                                            "is_top": false,
+                                            "name": "Words in Context",
+                                            "above_optimal_answers": 4,
+                                            "below_optimal_answers": 0,
+                                            "optimal_answers": 12,
+                                            "above_optimal_percentage": 25,
+                                            "below_optimal_percentage": 0,
+                                            "optimal_percentage": 75
+                                        },
+                                        {
+                                            "time_factor": 65,
+                                            "is_top": false,
+                                            "name": "Text Structure and Purpose",
+                                            "above_optimal_answers": 5,
+                                            "below_optimal_answers": 0,
+                                            "optimal_answers": 8,
+                                            "above_optimal_percentage": 38,
+                                            "below_optimal_percentage": 0,
+                                            "optimal_percentage": 62
+                                        },
+                                        {
+                                            "time_factor": 46,
+                                            "is_top": false,
+                                            "name": "Inferences",
+                                            "above_optimal_answers": 1,
+                                            "below_optimal_answers": 8,
+                                            "optimal_answers": 7,
+                                            "above_optimal_percentage": 6,
+                                            "below_optimal_percentage": 50,
+                                            "optimal_percentage": 44
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subject": "Math",
+                            "subject_title": "Math",
+                            "sections": [
+                                {
+                                    "section_title": "Domain Performance (Time Factor)",
+                                    "section_details": [
+                                        {
+                                            "time_factor": 44,
+                                            "name": "Advanced Math"
+                                        },
+                                        {
+                                            "time_factor": 43,
+                                            "name": "Algebra"
+                                        },
+                                        {
+                                            "time_factor": 33,
+                                            "name": "Problem-Solving and Data Analysis"
+                                        },
+                                        {
+                                            "time_factor": 6,
+                                            "name": "Geometry and Trigonometry"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "section_title": "Skill Performance (Time Factor)",
+                                    "section_details": [
+                                        {
+                                            "time_factor": 73,
+                                            "is_top": true,
+                                            "name": "Nonlinear equations in one variable and systems of equations in two variables",
+                                            "above_optimal_answers": 1,
+                                            "below_optimal_answers": 5,
+                                            "optimal_answers": 16,
+                                            "above_optimal_percentage": 5,
+                                            "below_optimal_percentage": 23,
+                                            "optimal_percentage": 73
+                                        },
+                                        {
+                                            "time_factor": 62,
+                                            "is_top": true,
+                                            "name": "Systems of two linear equations in two variables",
+                                            "above_optimal_answers": 2,
+                                            "below_optimal_answers": 3,
+                                            "optimal_answers": 8,
+                                            "above_optimal_percentage": 15,
+                                            "below_optimal_percentage": 23,
+                                            "optimal_percentage": 62
+                                        },
+                                        {
+                                            "time_factor": 61,
+                                            "is_top": true,
+                                            "name": "Linear inequalities in one or two variables",
+                                            "above_optimal_answers": 0,
+                                            "below_optimal_answers": 4,
+                                            "optimal_answers": 6,
+                                            "above_optimal_percentage": 0,
+                                            "below_optimal_percentage": 40,
+                                            "optimal_percentage": 60
+                                        },
+                                        {
+                                            "time_factor": 50,
+                                            "is_top": true,
+                                            "name": "Percentages",
+                                            "above_optimal_answers": 1,
+                                            "below_optimal_answers": 2,
+                                            "optimal_answers": 3,
+                                            "above_optimal_percentage": 17,
+                                            "below_optimal_percentage": 33,
+                                            "optimal_percentage": 50
+                                        },
+                                        {
+                                            "time_factor": 48,
+                                            "is_top": true,
+                                            "name": "Linear equations in two variables",
+                                            "above_optimal_answers": 0,
+                                            "below_optimal_answers": 7,
+                                            "optimal_answers": 8,
+                                            "above_optimal_percentage": 0,
+                                            "below_optimal_percentage": 47,
+                                            "optimal_percentage": 53
+                                        },
+                                        {
+                                            "time_factor": 37,
+                                            "is_top": true,
+                                            "name": "One-variable data: Distributions and measures of center and spread",
+                                            "above_optimal_answers": 2,
+                                            "below_optimal_answers": 4,
+                                            "optimal_answers": 7,
+                                            "above_optimal_percentage": 15,
+                                            "below_optimal_percentage": 31,
+                                            "optimal_percentage": 54
+                                        },
+                                        {
+                                            "time_factor": 31,
+                                            "is_top": true,
+                                            "name": "Nonlinear functions",
+                                            "above_optimal_answers": 2,
+                                            "below_optimal_answers": 7,
+                                            "optimal_answers": 5,
+                                            "above_optimal_percentage": 14,
+                                            "below_optimal_percentage": 50,
+                                            "optimal_percentage": 36
+                                        },
+                                        {
+                                            "time_factor": 29,
+                                            "is_top": true,
+                                            "name": "Linear functions",
+                                            "above_optimal_answers": 0,
+                                            "below_optimal_answers": 10,
+                                            "optimal_answers": 4,
+                                            "above_optimal_percentage": 0,
+                                            "below_optimal_percentage": 71,
+                                            "optimal_percentage": 29
+                                        },
+                                        {
+                                            "time_factor": 28,
+                                            "is_top": true,
+                                            "name": "Equivalent expressions",
+                                            "above_optimal_answers": 0,
+                                            "below_optimal_answers": 13,
+                                            "optimal_answers": 5,
+                                            "above_optimal_percentage": 0,
+                                            "below_optimal_percentage": 72,
+                                            "optimal_percentage": 28
+                                        },
+                                        {
+                                            "time_factor": 17,
+                                            "is_top": true,
+                                            "name": "Linear equations in one variable",
+                                            "above_optimal_answers": 0,
+                                            "below_optimal_answers": 8,
+                                            "optimal_answers": 2,
+                                            "above_optimal_percentage": 0,
+                                            "below_optimal_percentage": 80,
+                                            "optimal_percentage": 20
+                                        },
+                                        {
+                                            "time_factor": 17,
+                                            "is_top": true,
+                                            "name": "Lines, angles, and triangles",
+                                            "above_optimal_answers": 0,
+                                            "below_optimal_answers": 6,
+                                            "optimal_answers": 2,
+                                            "above_optimal_percentage": 0,
+                                            "below_optimal_percentage": 75,
+                                            "optimal_percentage": 25
+                                        },
+                                        {
+                                            "time_factor": 11,
+                                            "is_top": false,
+                                            "name": "Ratios, rates, proportional relationships, and units",
+                                            "above_optimal_answers": 0,
+                                            "below_optimal_answers": 8,
+                                            "optimal_answers": 1,
+                                            "above_optimal_percentage": 0,
+                                            "below_optimal_percentage": 89,
+                                            "optimal_percentage": 11
+                                        },
+                                        {
+                                            "time_factor": 0,
+                                            "is_top": false,
+                                            "name": "Area and volume",
+                                            "above_optimal_answers": 0,
+                                            "below_optimal_answers": 7,
+                                            "optimal_answers": 0,
+                                            "above_optimal_percentage": 0,
+                                            "below_optimal_percentage": 100,
+                                            "optimal_percentage": 0
+                                        },
+                                        {
+                                            "time_factor": 0,
+                                            "is_top": false,
+                                            "name": "Right triangles and trigonometry",
+                                            "above_optimal_answers": 0,
+                                            "below_optimal_answers": 4,
+                                            "optimal_answers": 0,
+                                            "above_optimal_percentage": 0,
+                                            "below_optimal_percentage": 100,
+                                            "optimal_percentage": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "tab_name": "Focus Area",
+                    "subjects": [
+                        {
+                            "subject": "RW",
+                            "subject_title": "Reading & Writing",
+                            "sections": [
+                                {
+                                    "section_title": "Targeted Skill Refinement: Enhancing Efficiency & Accuracy in SAT Reading & Writing",
+                                    "section_details": [
+                                        {
+                                            "priority_index": 2.152098214285714,
+                                            "name": "Form, Structure, and Sense",
+                                            "question_weight": 12.09,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Form, Structure, and Sense",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-expression-of-ideas-and-standard-english-conventions/x0d47bcec73eb6c4b:form-structure-and-sense/a/form-structure-and-sense-overview"
+                                                    ],
+                                                    "summary": "**Summary: Understanding Form, Structure, and Sense in SAT Reading and Writing**\n\n---\n\n### Overview\n\nThis topic focuses on how the organization and arrangement of ideas within a passage contribute to its overall meaning and clarity. In the context of the SAT Reading and Writing sections, understanding form, structure, and sense helps students analyze how authors build arguments, develop narratives, and convey information effectively. Mastery of these concepts enables students to answer questions about the purpose of paragraphs, the logical flow of ideas, and the effectiveness of transitions.\n\n---\n\n### Key Concepts\n\n1. **Form and Structure**  \n   - *Form* refers to the overall type or genre of a passage (e.g., narrative, argumentative, explanatory). Recognizing the form helps anticipate the author's goals and the kind of information presented.  \n   - *Structure* involves how the passage is organized internally—how paragraphs and sentences are arranged to build meaning. This includes the sequence of ideas, use of headings, and paragraph functions (introduction, evidence, conclusion).\n\n2. **Sense (Meaning and Coherence)**  \n   - Sense relates to the clarity and logical flow of ideas. Each sentence and paragraph should contribute meaningfully to the passage’s main point.  \n   - Coherence is achieved through effective transitions, consistent tone, and clear connections between ideas.\n\n3. **Purpose of Paragraphs and Sentences**  \n   - Understanding why a paragraph or sentence is placed in a certain position helps interpret the author’s intent. For example, introductory paragraphs set context, while concluding paragraphs summarize or emphasize key points.\n\n4. **Transitions and Logical Flow**  \n   - Transitions are words or phrases that link ideas smoothly (e.g., however, therefore, for example). They guide readers through the argument or narrative and clarify relationships between points.\n\n5. **Effectiveness of Organization**  \n   - Evaluating whether the structure enhances understanding or if rearranging parts would improve clarity is a common SAT question type. This requires analyzing if ideas are presented in the most logical and impactful order.\n\n---\n\n### Study Tips\n\n- **Practice identifying the form** of passages to predict the author’s approach and the type of questions that may follow.  \n- **Outline passages briefly** while reading to track the structure and main ideas of each paragraph.  \n- **Focus on transitions** by noting how sentences and paragraphs connect; this will improve comprehension and help answer questions about logical flow.  \n- **Ask yourself the purpose** of each paragraph or sentence: Why is it here? What does it add to the passage?  \n- **Review answer choices critically** for questions about structure—look for options that maintain or improve clarity and coherence.\n\n---\n\n### Recommended Exercises\n\n- **Paragraph function identification:** Practice labeling paragraphs as introduction, evidence, counterargument, conclusion, etc.  \n- **Reordering exercises:** Work on rearranging sentences or paragraphs to create a more logical flow.  \n- **Transition word practice:** Fill-in-the-blank exercises where you choose the best transition to connect ideas.  \n- **Purpose questions:** Answer questions that ask why a particular sentence or paragraph is included or placed where it is.  \n- **Summarizing passages:** Write brief summaries focusing on how the structure supports the main idea.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Ignoring the overall form:** Treating all passages the same way without recognizing their genre can lead to misunderstanding the author’s intent.  \n- **Overlooking transitions:** Missing the role of connecting words can cause confusion about the relationship between ideas.  \n- **Misinterpreting paragraph purpose:** Assuming every paragraph serves the same function may lead to incorrect answers about structure.  \n- **Choosing answers that disrupt flow:** Selecting options that break the logical sequence or introduce irrelevant information.  \n- **Neglecting coherence:** Failing to check if sentences and paragraphs make sense together can result in missing the best organizational choice.\n\n---\n\nBy focusing on how passages are structured and how ideas connect to form a coherent whole, students can improve their ability to analyze texts critically and answer related SAT questions with confidence."
+                                                }
+                                            ],
+                                            "priority": "01"
+                                        },
+                                        {
+                                            "priority_index": 2.1102083333333335,
+                                            "name": "Rhetorical Synthesis",
+                                            "question_weight": 10.9,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Rhetorical Synthesis",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-expression-of-ideas-and-standard-english-conventions/x0d47bcec73eb6c4b:rhetorical-synthesis/a/rhetorical-synthesis-lesson"
+                                                    ],
+                                                    "summary": "**Summary: Understanding and Mastering Rhetorical Synthesis for the SAT**\n\n---\n\n### Overview\n\nRhetorical synthesis is a critical skill tested in the SAT Reading and Writing section. It involves analyzing multiple sources or pieces of information and combining them effectively to support an argument or explanation. This skill requires understanding how different texts relate to each other and how to integrate their ideas cohesively while maintaining clarity and purpose.\n\n---\n\n### Key Concepts and Techniques\n\n1. **What is Rhetorical Synthesis?**  \n   Rhetorical synthesis means blending ideas from various texts or sources to create a unified argument or explanation. It’s not just summarizing each source separately but weaving them together to support a central point.\n\n2. **Purpose of Synthesis in Writing and Reading**  \n   - To compare and contrast viewpoints  \n   - To build a stronger argument by using evidence from multiple sources  \n   - To show understanding of how different texts relate to each other  \n   - To evaluate the effectiveness of different rhetorical strategies used by authors\n\n3. **How to Identify Relationships Between Sources**  \n   - Look for agreements or disagreements between texts  \n   - Notice how authors use evidence or appeals (ethos, pathos, logos)  \n   - Detect common themes or contrasting perspectives  \n   - Understand the context and purpose behind each source\n\n4. **Techniques for Effective Synthesis**  \n   - Use transitional phrases to connect ideas smoothly (e.g., “similarly,” “however,” “in contrast”)  \n   - Paraphrase information to avoid repetition and maintain your own voice  \n   - Cite evidence clearly to support your points  \n   - Organize your writing logically, grouping related ideas together\n\n5. **Rhetorical Appeals and Their Role in Synthesis**  \n   - **Ethos:** Credibility or ethical appeal  \n   - **Pathos:** Emotional appeal  \n   - **Logos:** Logical appeal  \n   Recognizing these appeals helps in analyzing how authors persuade their audience and how to incorporate these strategies in your synthesis.\n\n---\n\n### Study Tips for Mastering Rhetorical Synthesis\n\n- **Practice Active Reading:** Annotate texts by noting key arguments, evidence, and rhetorical strategies.  \n- **Compare and Contrast:** Regularly practice identifying similarities and differences between multiple sources.  \n- **Summarize and Paraphrase:** Work on restating ideas in your own words to build synthesis skills.  \n- **Use Graphic Organizers:** Create charts or Venn diagrams to visualize relationships between texts.  \n- **Write Practice Essays:** Integrate multiple sources into coherent paragraphs with clear connections.  \n- **Review Rhetorical Devices:** Familiarize yourself with common persuasive techniques to better analyze texts.\n\n---\n\n### Recommended Exercises\n\n- **Source Comparison Tasks:** Given two or more short passages, identify points of agreement and disagreement.  \n- **Synthesis Paragraph Writing:** Write paragraphs that combine evidence from multiple sources to support a thesis.  \n- **Rhetorical Analysis Practice:** Analyze how authors use ethos, pathos, and logos in different texts.  \n- **Transition Practice:** Rewrite sentences or paragraphs using appropriate transitional phrases to improve flow.  \n- **Timed Practice Tests:** Simulate SAT conditions by answering synthesis questions within time limits.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Simply Summarizing Instead of Synthesizing:** Avoid treating each source separately without connecting them.  \n- **Ignoring the Author’s Purpose or Audience:** Understanding why a text was written is crucial for effective synthesis.  \n- **Overusing Direct Quotes:** Paraphrase more often to demonstrate understanding and maintain your own voice.  \n- **Weak or Missing Transitions:** Poor connections between ideas can confuse readers and weaken arguments.  \n- **Neglecting Rhetorical Appeals:** Failing to recognize how authors persuade can limit the depth of your analysis.\n\n---\n\nBy focusing on these concepts and practicing regularly, students can develop strong rhetorical synthesis skills that will enhance their performance on the SAT Reading and Writing section and improve their overall critical thinking and writing abilities."
+                                                }
+                                            ],
+                                            "priority": "02"
+                                        },
+                                        {
+                                            "priority_index": 2.0940000000000003,
+                                            "name": "Transitions",
+                                            "question_weight": 9.59,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Transitions",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-expression-of-ideas-and-standard-english-conventions/x0d47bcec73eb6c4b:transitions/a/transitions-lesson"
+                                                    ],
+                                                    "summary": "**Summary: Understanding and Using Transitions in Writing**\n\n---\n\n### Overview\n\nTransitions are words or phrases that connect ideas, sentences, and paragraphs smoothly in writing. They help readers follow the flow of thoughts and understand relationships between different parts of a text. Mastering transitions is essential for clear, coherent writing, especially in exam settings like the SAT, where expressing ideas logically and effectively is tested.\n\n---\n\n### Key Concepts and Techniques\n\n- **Purpose of Transitions:**  \n  Transitions guide readers by linking ideas, showing relationships such as cause and effect, contrast, addition, or sequence. They prevent writing from feeling choppy or disjointed.\n\n- **Types of Transitions:**  \n  - **Additive Transitions:** Add information or reinforce ideas (e.g., *and, also, furthermore*).  \n  - **Contrast Transitions:** Show differences or contradictions (e.g., *however, but, although*).  \n  - **Cause and Effect Transitions:** Indicate reasons or results (e.g., *because, therefore, consequently*).  \n  - **Sequence or Time Transitions:** Show order or timing (e.g., *first, next, finally*).  \n  - **Example or Illustration Transitions:** Introduce examples (e.g., *for example, such as*).\n\n- **Placement of Transitions:**  \n  Transitions often appear at the beginning of sentences or clauses but can also be placed within sentences to clarify relationships.\n\n- **Avoiding Overuse:**  \n  While transitions are helpful, overusing them or using inappropriate transitions can confuse readers or make writing seem forced.\n\n---\n\n### Study Tips for Mastery\n\n- **Identify Transitions in Reading:**  \n  Practice spotting transition words in passages to understand how they connect ideas.\n\n- **Practice Writing with Transitions:**  \n  When writing essays or paragraphs, consciously include transitions to link your points smoothly.\n\n- **Match Transitions to Relationships:**  \n  Before inserting a transition, think about the relationship between ideas (contrast, addition, cause-effect) to choose the most fitting word or phrase.\n\n- **Use Variety:**  \n  Avoid repeating the same transition words; learn synonyms and different types to keep writing engaging.\n\n---\n\n### Recommended Exercises\n\n- **Transition Identification:**  \n  Read paragraphs and underline or highlight transition words, then explain the relationship they indicate.\n\n- **Sentence Combining:**  \n  Practice joining two simple sentences using appropriate transitions to create complex, coherent sentences.\n\n- **Paragraph Writing:**  \n  Write short paragraphs on a topic, ensuring each sentence connects logically using transitions.\n\n- **Error Correction:**  \n  Review sample sentences or paragraphs with incorrect or missing transitions and revise them for clarity.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Using Incorrect Transitions:**  \n  Choosing a transition that doesn’t match the logical relationship can confuse readers (e.g., using *however* to add information instead of to show contrast).\n\n- **Overusing Transitions:**  \n  Inserting too many transitions can make writing seem unnatural or overly formal.\n\n- **Ignoring Context:**  \n  Transitions should fit the tone and purpose of the writing; forcing a transition where it’s not needed disrupts flow.\n\n- **Relying Solely on Transitions:**  \n  Transitions support ideas but do not replace clear explanations or strong arguments.\n\n---\n\nBy understanding the role of transitions and practicing their correct use, students can improve the clarity and coherence of their writing, which is crucial for success in exams like the SAT."
+                                                }
+                                            ],
+                                            "priority": "03"
+                                        },
+                                        {
+                                            "priority_index": 2.0515,
+                                            "name": "Words in Context",
+                                            "question_weight": 17.16,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Words in Context",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-craft-and-structure/x0d47bcec73eb6c4b:words-in-context/a/words-in-context-lesson"
+                                                    ],
+                                                    "summary": "**Summary: Understanding and Applying \"Words in Context\" for SAT Reading**\n\n---\n\n### Overview\n\nThe concept of \"Words in Context\" is a crucial skill tested in the SAT Reading section. It involves determining the meaning of a word or phrase based on how it is used within a passage, rather than relying solely on dictionary definitions. This skill helps students interpret nuanced language, understand tone, and grasp the author’s intent, all of which are essential for accurate reading comprehension.\n\n---\n\n### Key Concepts and Techniques\n\n- **Context Clues:**  \n  Words surrounding an unfamiliar term often provide hints about its meaning. These clues can be:\n  - **Definition or Restatement:** The sentence may explain the word directly.\n  - **Synonyms or Antonyms:** Nearby words with similar or opposite meanings help clarify.\n  - **Examples:** Specific instances can illustrate the meaning.\n  - **Contrast:** Words indicating contrast (e.g., \"however,\" \"but\") can signal the meaning by showing what the word is not.\n\n- **Multiple Meanings and Connotations:**  \n  Many words have several meanings. The context helps identify which meaning fits best. Additionally, words carry emotional or cultural associations (connotations) that affect tone and meaning.\n\n- **Avoiding Assumptions:**  \n  Don’t rely on prior knowledge or the most common definition of a word. Instead, focus on how the word functions in the passage.\n\n- **Using Sentence Structure:**  \n  Grammar and punctuation can guide understanding. For example, commas, dashes, or parentheses often set off explanations or clarifications.\n\n---\n\n### Study Tips for Mastery\n\n- **Practice with Diverse Passages:**  \n  Read a variety of texts—literary, scientific, historical—to encounter words in different contexts.\n\n- **Annotate While Reading:**  \n  Mark or underline words you find challenging and note the clues around them.\n\n- **Paraphrase Sentences:**  \n  Restate sentences in your own words to ensure you grasp the meaning of key terms.\n\n- **Build Vocabulary Actively:**  \n  Learn new words along with their common contexts and connotations, not just definitions.\n\n- **Use Process of Elimination:**  \n  When answering questions, eliminate choices that don’t fit the passage’s tone or logic.\n\n---\n\n### Recommended Exercises\n\n- **Contextual Vocabulary Questions:**  \n  Practice questions that ask for the meaning of a word based on its usage in a sentence or passage.\n\n- **Sentence Completion:**  \n  Fill-in-the-blank exercises where you choose the word that best fits the context.\n\n- **Paraphrasing Practice:**  \n  Rewrite sentences or paragraphs using synonyms or simpler language to reinforce understanding.\n\n- **Reading Comprehension Drills:**  \n  Focus on passages with complex vocabulary and analyze how word meanings affect overall interpretation.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Relying on Memorized Definitions:**  \n  Avoid assuming a word’s meaning without considering the passage context.\n\n- **Ignoring Tone and Author’s Purpose:**  \n  Overlooking how the word contributes to the mood or argument can lead to incorrect answers.\n\n- **Overlooking Surrounding Clues:**  \n  Missing key words or phrases that clarify meaning is a frequent error.\n\n- **Choosing Answers Based on Familiarity:**  \n  Selecting a familiar word meaning that doesn’t fit the passage context leads to mistakes.\n\n---\n\nBy focusing on how words function within their specific passages and practicing these strategies regularly, students can improve their ability to accurately interpret vocabulary in context, a skill that is vital for success on the SAT Reading section."
+                                                }
+                                            ],
+                                            "priority": "04"
+                                        },
+                                        {
+                                            "priority_index": 1.917,
+                                            "name": "Inferences",
+                                            "question_weight": 6.21,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Inferences",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-information-and-ideas/x0d47bcec73eb6c4b:inferences/a/inferences-lesson"
+                                                    ],
+                                                    "summary": "**Summary: Understanding and Making Inferences for the SAT Reading Section**\n\n---\n\n### Overview\n\nThis summary focuses on the skill of making inferences, a critical component of the SAT Reading section. Inferences involve drawing logical conclusions based on evidence provided in a text, even when the information is not explicitly stated. Mastering this skill helps students better understand the underlying meanings, author’s intentions, and subtle details in passages, which is essential for answering many SAT reading questions accurately.\n\n---\n\n### Key Concepts and Techniques\n\n- **Definition of Inference:**  \n  An inference is a conclusion reached by combining what the text explicitly states with what you already know. It requires reading between the lines rather than just recalling facts.\n\n- **How to Make Inferences:**  \n  1. **Identify explicit information:** Start by carefully noting what the passage clearly says.  \n  2. **Use background knowledge:** Apply your own understanding of the world or context to interpret the text.  \n  3. **Connect clues:** Look for hints, tone, word choice, or implications that suggest something beyond the literal meaning.  \n  4. **Form a logical conclusion:** Combine the above to arrive at a reasonable interpretation that the author implies but does not directly state.\n\n- **Types of Inferences:**  \n  - Inferring the author’s attitude or tone  \n  - Predicting outcomes or consequences  \n  - Understanding character motivations or feelings  \n  - Interpreting figurative language or symbolism\n\n- **Evidence-Based Reasoning:**  \n  Every inference must be supported by evidence from the passage. The SAT often requires you to select the answer choice that best matches the inference supported by the text.\n\n---\n\n### Study Tips for Mastering Inferences\n\n- **Practice Active Reading:**  \n  Engage with the text by asking yourself questions about what is implied, not just what is said.\n\n- **Annotate Passages:**  \n  Mark clues such as descriptive words, contrasts, or shifts in tone that hint at deeper meanings.\n\n- **Build Background Knowledge:**  \n  Familiarize yourself with common themes, historical contexts, and literary devices to better understand implied meanings.\n\n- **Use Process of Elimination:**  \n  When answering inference questions, eliminate choices that are either too extreme, unsupported, or unrelated to the passage.\n\n- **Review Explanation of Answers:**  \n  After practice questions, carefully read why certain answers are correct or incorrect to understand the reasoning behind inferences.\n\n---\n\n### Recommended Exercises\n\n- **Inference Practice Questions:**  \n  Work on SAT-style questions that ask you to infer meaning, tone, or author’s purpose based on short passages.\n\n- **Passage Analysis:**  \n  Read diverse texts (literary, historical, scientific) and summarize what is implied but not directly stated.\n\n- **Evidence Matching:**  \n  Practice identifying specific lines or phrases in a passage that support a given inference.\n\n- **Tone and Attitude Identification:**  \n  Exercises that focus on detecting the author’s feelings or stance through subtle language cues.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Confusing Inference with Assumption:**  \n  Avoid making guesses that are not supported by the passage or your background knowledge.\n\n- **Overlooking Context:**  \n  Don’t ignore the surrounding sentences or overall passage when making an inference; context is crucial.\n\n- **Choosing Answers Based on Personal Opinion:**  \n  Inferences must be grounded in the text, not personal beliefs or experiences.\n\n- **Selecting Extreme or Absolute Answers:**  \n  Be wary of answer choices that use words like “always” or “never,” as inferences are often more nuanced.\n\n- **Ignoring Contradictory Evidence:**  \n  If the passage contains information that conflicts with your inference, reconsider your conclusion.\n\n---\n\nBy understanding how to make well-supported inferences, practicing with targeted exercises, and avoiding common pitfalls, students can significantly improve their performance on the SAT Reading section and develop stronger critical reading skills overall."
+                                                }
+                                            ],
+                                            "priority": "05"
+                                        },
+                                        {
+                                            "priority_index": 1.4046428571428573,
+                                            "name": "Command of Evidence - Textual",
+                                            "question_weight": 9.09,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Command of Evidence - Textual",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-information-and-ideas/x0d47bcec73eb6c4b:command-of-evidence-textual/a/command-of-evidence-textual-lesson"
+                                                    ],
+                                                    "summary": "**Summary: Mastering Command of Evidence for the SAT Reading Section**\n\n---\n\n### Overview\n\nThe concept of *Command of Evidence* is a crucial skill tested in the SAT Reading section. It requires students to not only find answers to questions but also to identify specific parts of the text that support those answers. This skill ensures that students can back up their interpretations and conclusions with direct evidence from the passage, demonstrating a deeper understanding of the material.\n\n---\n\n### Key Concepts and Techniques\n\n1. **Understanding Command of Evidence Questions**  \n   These questions ask you to locate the exact sentence, phrase, or paragraph in the passage that justifies your answer to a previous question. They test your ability to connect your reasoning with textual proof.\n\n2. **Two-Part Question Structure**  \n   Typically, these questions come in pairs:  \n   - The first part asks for an answer based on the passage.  \n   - The second part asks which part of the passage supports that answer.\n\n3. **Identifying Relevant Evidence**  \n   To answer effectively, you must:  \n   - Carefully reread the relevant section of the passage.  \n   - Look for key words or ideas that relate directly to your answer.  \n   - Choose the evidence that best explains or supports your reasoning.\n\n4. **Types of Evidence**  \n   Evidence can be:  \n   - Direct quotes or paraphrases from the text.  \n   - Specific examples or details.  \n   - Explanations or clarifications provided by the author.\n\n5. **Avoiding Irrelevant or Weak Evidence**  \n   Not all parts of the text that mention a topic are strong evidence. The chosen evidence must clearly support the answer, not just be related to the general subject.\n\n---\n\n### Study Tips for Command of Evidence\n\n- **Practice Active Reading:** While reading passages, underline or note key points and supporting details. This habit makes it easier to locate evidence later.\n- **Answer in Your Own Words First:** Before looking for evidence, try to explain your answer to the question in your own words. This clarifies what kind of support you need.\n- **Use Process of Elimination:** When choosing evidence, discard options that are too broad, too narrow, or unrelated to your answer.\n- **Review Paired Questions Together:** Always consider the answer and evidence questions as a set to understand how they connect.\n- **Time Management:** Practice pacing so you have enough time to find and verify evidence without rushing.\n\n---\n\n### Recommended Practice Exercises\n\n- **Paired Question Sets:** Work on SAT practice questions that include both the initial question and the command of evidence follow-up.\n- **Text Annotation:** Practice marking passages with notes on main ideas and supporting details.\n- **Summarization Drills:** Summarize paragraphs in your own words to better grasp the main points and supporting evidence.\n- **Evidence Matching:** Given an answer, practice finding multiple possible pieces of evidence and then selecting the strongest one.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Choosing Evidence That Doesn’t Directly Support the Answer:** Avoid selecting text that is related but does not clearly justify your response.\n- **Ignoring the Context:** Evidence must be understood in the context of the passage, not taken out of context.\n- **Relying on Memory Instead of Text:** Always refer back to the passage rather than relying on what you remember.\n- **Overlooking the Question’s Focus:** Make sure the evidence you pick addresses the specific aspect the question targets.\n- **Skipping the Paired Question:** Sometimes students answer the first question but neglect to find supporting evidence, losing easy points.\n\n---\n\nBy mastering the skill of command of evidence, students can improve their critical reading abilities and boost their SAT Reading scores. Consistent practice with paired questions and careful text analysis will build confidence and accuracy in identifying strong textual support."
+                                                }
+                                            ],
+                                            "priority": "06"
+                                        },
+                                        {
+                                            "priority_index": 1.287,
+                                            "name": "Text Structure and Purpose",
+                                            "question_weight": 8.03,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Text Structure and Purpose",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-craft-and-structure/x0d47bcec73eb6c4b:text-structure-and-purpose/a/text-structure-and-purpose-lesson"
+                                                    ],
+                                                    "summary": "**Summary: Understanding Text Structure and Purpose for Exam Preparation**\n\n---\n\n### Overview\n\nThis summary focuses on the concept of **text structure and purpose**, a key skill in reading comprehension and writing sections of exams like the SAT. Understanding how a text is organized and why it is written helps students analyze passages more effectively, identify main ideas, and answer questions accurately.\n\n---\n\n### Key Concepts and Techniques\n\n1. **Text Structure Types**  \n   Texts are organized in specific ways to convey information clearly. Common structures include:  \n   - **Chronological/Sequence:** Events or steps are presented in the order they happened or should happen.  \n   - **Cause and Effect:** Explains reasons why something happened and the resulting consequences.  \n   - **Compare and Contrast:** Highlights similarities and differences between two or more subjects.  \n   - **Problem and Solution:** Introduces a problem and then discusses one or more solutions.  \n   - **Description:** Provides detailed information about a topic, person, place, or thing.\n\n2. **Purpose of the Text**  \n   Understanding why the author wrote the text is crucial. Purposes often include:  \n   - To **inform** or explain a topic  \n   - To **persuade** or convince the reader of a viewpoint  \n   - To **entertain** or tell a story  \n   - To **describe** something in detail\n\n3. **Identifying Text Structure and Purpose**  \n   - Look for **signal words** or phrases that indicate structure (e.g., \"first,\" \"because,\" \"however,\" \"for example\").  \n   - Determine the **main idea** and how supporting details are organized.  \n   - Consider the **author’s tone and intent** to infer purpose.\n\n---\n\n### Study Tips for Mastery\n\n- **Practice recognizing signal words** that hint at text structure. Create flashcards with common transition words and their associated structures.  \n- **Summarize paragraphs** in your own words to identify the main idea and how details support it.  \n- **Ask yourself why the author wrote the passage** and what they want you to learn or feel.  \n- **Compare different passages** to see how structure changes depending on purpose.  \n- **Annotate texts** by marking structure clues and noting the purpose in the margins.\n\n---\n\n### Recommended Exercises\n\n- **Identify text structure:** Read short passages and label their structure type.  \n- **Purpose analysis:** After reading a passage, write a sentence explaining the author’s purpose.  \n- **Signal word spotting:** Highlight or underline transition words and explain their role.  \n- **Outline creation:** Create outlines of passages to visualize organization.  \n- **Practice questions:** Answer multiple-choice questions focused on structure and purpose to build familiarity.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Confusing structure types:** For example, mistaking cause and effect for problem and solution. Focus on whether the text is explaining reasons/results or presenting a problem with solutions.  \n- **Ignoring signal words:** Overlooking these clues can lead to misunderstanding the organization.  \n- **Assuming purpose without evidence:** Always base your inference on textual clues rather than guesswork.  \n- **Overlooking the main idea:** Getting lost in details without grasping the overall structure and purpose reduces comprehension.  \n- **Not practicing enough:** These skills improve with repeated exposure and active engagement.\n\n---\n\nBy mastering how to identify text structure and author purpose, students can improve their reading comprehension and writing analysis, which are essential for success on exams like the SAT. Regular practice with varied texts and focused exercises will build confidence and accuracy."
+                                                }
+                                            ],
+                                            "priority": "07"
+                                        },
+                                        {
+                                            "priority_index": 0.8238749999999999,
+                                            "name": "Boundaries",
+                                            "question_weight": 13.91,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Boundaries",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-expression-of-ideas-and-standard-english-conventions/x0d47bcec73eb6c4b:boundaries/a/boundaries-overview"
+                                                    ],
+                                                    "summary": "**Summary: Understanding Boundaries in SAT Writing and Language**\n\n---\n\n### Overview\n\nThe concept of **boundaries** in SAT Writing and Language refers to the rules that govern how different parts of sentences are connected or separated. Mastering boundaries helps ensure clarity, coherence, and grammatical correctness in writing. This topic is crucial for the SAT because many questions test your ability to properly join or separate ideas using punctuation and conjunctions.\n\n---\n\n### Key Concepts and Techniques\n\n1. **What Are Boundaries?**  \n   Boundaries are the punctuation marks and conjunctions that define where one idea ends and another begins within sentences. They help avoid run-on sentences and fragments, making writing clear and easy to follow.\n\n2. **Types of Boundaries**  \n   - **Periods (.)**: Used to end complete sentences.  \n   - **Commas (,)**: Often used with coordinating conjunctions (for, and, nor, but, or, yet, so) to join two independent clauses.  \n   - **Semicolons (;)**: Connect closely related independent clauses without a conjunction.  \n   - **Colons (:)**: Introduce explanations, lists, or elaborations after an independent clause.  \n   - **Dashes (—)**: Add emphasis or indicate an abrupt break in thought.  \n   - **No punctuation**: Sometimes, two clauses can be joined by a coordinating conjunction without a comma if the clauses are short and closely connected.\n\n3. **Common Sentence Boundary Errors**  \n   - **Run-on sentences**: Two independent clauses joined without proper punctuation or conjunction.  \n   - **Comma splices**: Two independent clauses joined only by a comma, which is incorrect.  \n   - **Fragments**: Incomplete sentences that lack a subject or verb.\n\n4. **How to Fix Boundary Errors**  \n   - Use a period to separate independent clauses into two sentences.  \n   - Use a comma plus a coordinating conjunction to join clauses.  \n   - Use a semicolon to connect related independent clauses without conjunctions.  \n   - Use a colon to introduce related information after a complete sentence.\n\n---\n\n### Study Tips\n\n- **Identify independent clauses**: Practice spotting complete thoughts that can stand alone as sentences. This skill is key to understanding where boundaries should be placed.  \n- **Learn punctuation rules**: Memorize when to use commas, semicolons, colons, and dashes to connect or separate ideas.  \n- **Practice rewriting sentences**: Take run-ons or comma splices and rewrite them correctly using different boundary techniques.  \n- **Read sentences aloud**: This helps you hear natural pauses and breaks, guiding where punctuation should go.  \n- **Use process of elimination**: On the SAT, eliminate answer choices that create run-ons, fragments, or awkward boundaries.\n\n---\n\n### Recommended Exercises\n\n- **Sentence correction drills**: Practice identifying and correcting run-ons, comma splices, and fragments.  \n- **Punctuation placement**: Exercises where you insert commas, semicolons, or colons correctly between clauses.  \n- **Combining sentences**: Practice joining two simple sentences into one complex or compound sentence using proper boundaries.  \n- **Error identification**: Given a paragraph, find and fix boundary errors to improve clarity.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Using commas alone to join independent clauses** (comma splice).  \n- **Failing to use any punctuation between two complete sentences** (run-on).  \n- **Overusing semicolons or colons where simpler punctuation would suffice.**  \n- **Misplacing dashes or colons, causing confusion rather than clarity.**  \n- **Ignoring the need for a subject and verb, resulting in sentence fragments.**\n\n---\n\nBy understanding and applying the rules of sentence boundaries, students can improve their writing clarity and accuracy, which is essential for excelling in the SAT Writing and Language section. Regular practice with identifying sentence parts and correct punctuation will build confidence and reduce common errors."
+                                                }
+                                            ],
+                                            "priority": "08"
+                                        },
+                                        {
+                                            "priority_index": 0.3490909090909091,
+                                            "name": "Central Ideas and Details",
+                                            "question_weight": 6.3,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Central Ideas and Details",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-information-and-ideas/x0d47bcec73eb6c4b:central-ideas-and-details/a/central-ideas-and-details-lesson"
+                                                    ],
+                                                    "summary": "**Summary: Understanding Central Ideas and Details for SAT Reading**\n\n---\n\n### Overview\n\nThis lesson focuses on mastering the skill of identifying central ideas and supporting details in reading passages, a crucial component of the SAT Reading section. Understanding these concepts helps students grasp the main message an author wants to convey and recognize how specific information supports that message. This skill is essential for answering questions about the overall meaning of a passage and the role of particular details.\n\n---\n\n### Key Concepts\n\n- **Central Idea**:  \n  The central idea is the primary point or message that the author wants to communicate in a passage or a section of text. It is the overarching theme that ties all parts of the passage together.\n\n- **Supporting Details**:  \n  These are facts, examples, explanations, or descriptions that help explain, prove, or enhance the central idea. They provide evidence or elaboration that makes the main point clearer and more convincing.\n\n- **Distinguishing Between Central Ideas and Details**:  \n  Central ideas are broad and general, while supporting details are specific and concrete. Recognizing this difference is key to understanding the structure of a passage.\n\n- **Multiple Central Ideas**:  \n  Some passages may have more than one central idea, especially if they cover multiple topics or perspectives. Each paragraph or section might have its own main idea that contributes to the overall message.\n\n- **Summarizing**:  \n  Being able to summarize a passage in your own words by focusing on the central idea and key details is a useful strategy for comprehension and answering related questions.\n\n---\n\n### Study Tips\n\n- **Active Reading**:  \n  While reading, pause after each paragraph to ask yourself: \"What is the main point here?\" and \"What details support this point?\" This habit helps reinforce understanding.\n\n- **Annotate the Passage**:  \n  Underline or highlight sentences that seem to state the main idea and circle or note supporting details. This visual aid can make it easier to locate information when answering questions.\n\n- **Practice Paraphrasing**:  \n  Try restating the central idea and supporting details in your own words. This ensures you truly understand the content rather than just recognizing words.\n\n- **Look for Repetition and Emphasis**:  \n  Authors often repeat key ideas or emphasize certain points to signal what is important. Pay attention to these clues.\n\n- **Use Process of Elimination**:  \n  When answering questions, eliminate answer choices that focus on minor details or irrelevant information rather than the main idea.\n\n---\n\n### Recommended Exercises\n\n- **Identify the Central Idea**:  \n  Read short passages and write down the main idea in one or two sentences.\n\n- **Find Supporting Details**:  \n  Given a central idea, list several details from the passage that support it.\n\n- **Summarization Practice**:  \n  Summarize paragraphs or entire passages, focusing on the main points and key evidence.\n\n- **Multiple Choice Questions**:  \n  Practice SAT-style questions that ask for the central idea or the purpose of specific details.\n\n- **Compare and Contrast**:  \n  For passages with multiple central ideas, practice distinguishing between them and understanding how they relate.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Confusing Details for the Main Idea**:  \n  Don’t mistake an interesting fact or example for the central idea. The main idea is broader and encompasses the entire passage or section.\n\n- **Focusing on Minor Details**:  \n  Avoid getting bogged down by small details that don’t contribute to the overall message.\n\n- **Ignoring the Author’s Purpose**:  \n  Remember that the central idea often reflects what the author wants you to understand or believe, not just what is stated.\n\n- **Overlooking Context**:  \n  Don’t isolate sentences or paragraphs; consider how each part fits into the whole passage.\n\n- **Choosing Answers Based on Personal Opinion**:  \n  Base your understanding strictly on the text, not on what you think or feel about the topic.\n\n---\n\nBy mastering the identification of central ideas and supporting details, students can improve their reading comprehension and perform better on SAT Reading questions that test understanding of main points and textual evidence. Regular practice with these strategies will build confidence and accuracy."
+                                                }
+                                            ],
+                                            "priority": "09"
+                                        },
+                                        {
+                                            "priority_index": 0.25636363636363635,
+                                            "name": "Command of Evidence - Quantitative",
+                                            "question_weight": 4.41,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Command of Evidence - Quantitative",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-information-and-ideas/x0d47bcec73eb6c4b:command-of-evidence-quantitative/a/command-of-evidence-quantitative-lesson"
+                                                    ],
+                                                    "summary": "**Summary: Mastering Command of Evidence in Quantitative Passages for the SAT**\n\n---\n\n### Overview\n\nThis summary focuses on the skill of interpreting and using evidence from quantitative data in reading passages, a key component of the SAT Reading and Writing section. The ability to analyze charts, graphs, tables, and numerical information embedded in passages is essential for answering questions that test comprehension and reasoning based on evidence.\n\n---\n\n### Key Concepts and Techniques\n\n1. **Understanding Quantitative Evidence**  \n   Quantitative evidence refers to numerical data presented in various formats such as graphs, tables, or statistics within a passage. These data points support the author’s claims or provide factual information that must be interpreted accurately.\n\n2. **Command of Evidence Questions**  \n   These questions ask you to identify which part of the passage best supports a given statement or conclusion. In quantitative contexts, this means locating the specific data or numerical evidence that justifies an answer choice.\n\n3. **Interpreting Data Visuals**  \n   - **Graphs and Charts:** Understand axes, labels, units, and trends.  \n   - **Tables:** Read rows and columns carefully to extract relevant figures.  \n   - **Statistics:** Recognize what measures like averages, percentages, or rates indicate.\n\n4. **Linking Evidence to Claims**  \n   You must connect the numerical data to the author’s argument or the question prompt. This involves critical thinking to determine how the numbers support or refute a point.\n\n5. **Avoiding Misinterpretation**  \n   Be cautious not to overgeneralize or misread data. For example, a correlation in data does not imply causation, and small sample sizes may not represent broader trends.\n\n---\n\n### Actionable Study Tips\n\n- **Practice Reading Data Visuals Independently:** Before tackling questions, spend time interpreting graphs and tables on their own to build familiarity.  \n- **Underline or Highlight Key Numbers:** When reading passages, mark important statistics or data points that seem relevant to the main ideas.  \n- **Paraphrase Data in Your Own Words:** Summarize what the numbers mean to ensure you understand their significance.  \n- **Answer Evidence Questions Step-by-Step:** First, identify the claim or question, then locate the exact data that supports it, and finally confirm your choice by cross-checking the passage.  \n- **Use Process of Elimination:** Discard answer choices that refer to irrelevant or incorrect data.\n\n---\n\n### Recommended Exercises\n\n- **Practice with SAT-style Passages:** Work on passages that include embedded quantitative data and answer related command of evidence questions.  \n- **Data Interpretation Drills:** Use standalone charts or tables and write brief explanations of what they show.  \n- **Timed Practice:** Simulate test conditions to improve speed and accuracy in locating and using evidence.  \n- **Error Analysis:** Review incorrect answers to understand where misinterpretation occurred.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Ignoring Units or Scales:** Overlooking units (e.g., millions vs. thousands) can lead to incorrect conclusions.  \n- **Misreading Graph Axes:** Confusing the x-axis and y-axis or misinterpreting what each represents.  \n- **Assuming Causation from Correlation:** Believing that one data trend causes another without evidence.  \n- **Overlooking Context:** Failing to consider the passage’s overall argument when interpreting data.  \n- **Selecting Evidence That Is Too General or Irrelevant:** Choosing data that does not directly support the claim asked about.\n\n---\n\nBy mastering these skills and strategies, students can confidently tackle command of evidence questions involving quantitative data on the SAT, improving both accuracy and efficiency."
+                                                }
+                                            ],
+                                            "priority": "10"
+                                        },
+                                        {
+                                            "priority_index": 0.168375,
+                                            "name": "Cross-text Connections",
+                                            "question_weight": 2.31,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Cross-text Connections",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-craft-and-structure/x0d47bcec73eb6c4b:cross-text-connections/a/cross-text-connections-lesson"
+                                                    ],
+                                                    "summary": "**Summary: Understanding Cross-Text Connections for SAT Reading and Writing**\n\n---\n\n### Overview\n\nThe concept of **cross-text connections** is essential for mastering the SAT Reading and Writing section. It involves analyzing and comparing ideas, themes, arguments, or information presented in two or more texts. This skill helps students understand how different authors approach similar topics, recognize relationships between texts, and evaluate contrasting viewpoints or complementary information.\n\n---\n\n### Key Concepts and Techniques\n\n1. **Identifying Relationships Between Texts**  \n   - Look for similarities and differences in themes, arguments, or perspectives.  \n   - Determine whether texts agree, disagree, or provide different angles on the same subject.  \n   - Notice how one text might build upon or challenge the ideas presented in another.\n\n2. **Comparing Author’s Purpose and Tone**  \n   - Understand why each author wrote their text (to inform, persuade, entertain, etc.).  \n   - Analyze the tone or attitude conveyed by each author and how it influences the message.\n\n3. **Evaluating Evidence and Reasoning**  \n   - Examine the types of evidence each author uses to support their claims (facts, examples, anecdotes).  \n   - Assess the strength and relevance of the reasoning in each text.\n\n4. **Synthesizing Information**  \n   - Combine insights from multiple texts to form a comprehensive understanding of the topic.  \n   - Use this synthesis to answer questions that require integrating information across passages.\n\n---\n\n### Study Tips for Mastery\n\n- **Practice Active Reading:** While reading each passage, annotate or note key points, author’s purpose, and tone. This makes it easier to compare texts later.  \n- **Focus on Structure:** Pay attention to how each text is organized and how arguments are developed.  \n- **Use Graphic Organizers:** Create Venn diagrams or comparison charts to visually map similarities and differences between texts.  \n- **Summarize Each Text:** Write brief summaries in your own words to clarify understanding before comparing.  \n- **Answer Practice Questions:** Work on SAT-style questions that require cross-text analysis to build familiarity with the format and expectations.\n\n---\n\n### Recommended Exercises\n\n- **Paired Passage Analysis:** Practice reading two related passages and answering questions about their relationship, such as identifying agreements or contradictions.  \n- **Author’s Purpose and Tone Identification:** Exercises focusing on determining the intent and attitude of each author in paired texts.  \n- **Evidence Evaluation:** Tasks that ask you to compare the types and effectiveness of evidence used across texts.  \n- **Synthesis Questions:** Practice questions that require combining information from multiple passages to draw conclusions or make inferences.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Ignoring Differences:** Failing to recognize when texts present opposing viewpoints or contrasting information.  \n- **Overlooking Author’s Purpose:** Not considering why each author wrote their text, which can lead to misunderstanding the tone or argument.  \n- **Confusing Details:** Mixing up facts or evidence from one text with another, leading to incorrect answers.  \n- **Surface-Level Reading:** Skimming passages without deeply analyzing the relationship between texts, resulting in weak synthesis.  \n- **Neglecting Question Keywords:** Missing cues in questions that specify how to compare or contrast the texts.\n\n---\n\nBy focusing on these strategies and practicing regularly, students can develop strong skills in cross-text analysis, which is crucial for excelling in the SAT Reading and Writing section."
+                                                }
+                                            ],
+                                            "priority": "11"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "subject": "Math",
+                            "subject_title": "Math",
+                            "sections": [
+                                {
+                                    "section_title": "Optimizing Problem-Solving: Strengthening Core SAT Math Skills for Maximum Impact",
+                                    "section_details": [
+                                        {
+                                            "priority_index": 3.17,
+                                            "name": "Nonlinear functions",
+                                            "question_weight": 18.72,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Nonlinear functions",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:advanced-math-easier/x0fcc98a58ba3bea7:nonlinear-functions-easier/a/v2-sat-lesson-nonlinear-functions"
+                                                    ],
+                                                    "summary": "**Summary: Understanding Nonlinear Functions for SAT Math**\n\n---\n\n### Overview\n\nThis summary focuses on nonlinear functions, a key topic in advanced SAT math. Nonlinear functions differ from linear ones because their graphs are not straight lines; instead, they can be curves such as parabolas, circles, or other shapes. Mastery of nonlinear functions is essential for solving a variety of SAT problems involving quadratic equations, exponential functions, and other nonlinear relationships.\n\n---\n\n### Key Concepts and Techniques\n\n1. **Definition of Nonlinear Functions**  \n   - Unlike linear functions, nonlinear functions do not form straight lines when graphed.  \n   - Examples include quadratic functions (e.g., \\( y = ax^2 + bx + c \\)), exponential functions (e.g., \\( y = a \\cdot b^x \\)), and others.\n\n2. **Graphing Nonlinear Functions**  \n   - Quadratic functions produce parabolas that open upwards or downwards depending on the coefficient of \\( x^2 \\).  \n   - The vertex of a parabola represents its maximum or minimum point.  \n   - Exponential functions show rapid growth or decay and have characteristic curves.\n\n3. **Interpreting Nonlinear Graphs**  \n   - Understand key features such as intercepts, vertex, axis of symmetry (for quadratics), and end behavior.  \n   - Recognize how changes in coefficients affect the shape and position of the graph.\n\n4. **Solving Nonlinear Equations**  \n   - Techniques include factoring, using the quadratic formula, completing the square, or applying properties of exponents.  \n   - Sometimes, nonlinear equations require setting the function equal to a value and solving for \\( x \\).\n\n5. **Applications in Word Problems**  \n   - Nonlinear functions often model real-world scenarios like projectile motion, population growth, or area problems.  \n   - Translating word problems into nonlinear equations is a critical skill.\n\n---\n\n### Study Tips\n\n- **Visualize the Graphs:** Always try to sketch the function’s graph to understand its behavior before solving.  \n- **Memorize Key Formulas:** Know the quadratic formula, vertex formula, and properties of exponents well.  \n- **Practice Identifying Function Types:** Quickly distinguish between linear and nonlinear functions based on their equations and graphs.  \n- **Work Backwards from Graphs:** Use given graphs to write possible equations and vice versa.  \n- **Use Multiple Methods:** If stuck, try different solving techniques like factoring or the quadratic formula.\n\n---\n\n### Recommended Exercises\n\n- **Graph Sketching:** Practice drawing parabolas and exponential curves from given equations.  \n- **Equation Solving:** Solve quadratic equations using factoring, completing the square, and the quadratic formula.  \n- **Function Identification:** Given an equation or graph, classify the function type and describe its key features.  \n- **Word Problems:** Translate real-life scenarios into nonlinear equations and solve them.  \n- **Multiple Choice Practice:** Work on SAT-style questions involving nonlinear functions to build familiarity with common question formats.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Confusing Linear and Nonlinear Functions:** Don’t assume all functions are linear; check the degree of the variable.  \n- **Ignoring Negative Coefficients:** The sign of coefficients affects the graph’s direction and shape.  \n- **Forgetting to Check All Solutions:** Quadratic equations can have two solutions; ensure both are considered.  \n- **Misapplying the Quadratic Formula:** Carefully substitute values and simplify to avoid errors.  \n- **Overlooking Domain Restrictions:** Some nonlinear functions have domain limits that affect solutions.\n\n---\n\nBy understanding these concepts and practicing regularly, students can confidently tackle nonlinear function problems on the SAT and improve their overall math performance."
+                                                }
+                                            ],
+                                            "priority": "01"
+                                        },
+                                        {
+                                            "priority_index": 1.8613333333333335,
+                                            "name": "Linear functions",
+                                            "question_weight": 10.48,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Linear functions",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:algebra-easier/x0fcc98a58ba3bea7:linear-relationship-word-problems-easier/a/v2-sat-lesson-understanding-linear-relationships"
+                                                    ],
+                                                    "summary": "**Summary: Understanding Linear Relationships in Word Problems**\n\n---\n\n### Overview\n\nThis topic focuses on interpreting and solving word problems involving linear relationships, a fundamental concept in algebra and essential for standardized tests like the SAT. Linear relationships describe how two quantities change in relation to each other at a constant rate, often represented by equations of the form \\( y = mx + b \\), where \\( m \\) is the slope and \\( b \\) is the y-intercept.\n\n---\n\n### Key Concepts and Techniques\n\n- **Linear Relationships:** These describe situations where one quantity changes at a steady rate compared to another. For example, distance traveled over time at a constant speed.\n\n- **Slope (Rate of Change):** The slope \\( m \\) represents how much the dependent variable (usually \\( y \\)) changes for each unit increase in the independent variable (usually \\( x \\)). It can be positive (increasing relationship) or negative (decreasing relationship).\n\n- **Y-Intercept:** The value \\( b \\) indicates the starting point or initial value when the independent variable is zero.\n\n- **Formulating Equations from Word Problems:**\n  - Identify the two quantities involved.\n  - Determine which is independent (input) and which is dependent (output).\n  - Find the rate of change (slope) from the problem context.\n  - Find the initial value (y-intercept).\n  - Write the equation \\( y = mx + b \\).\n\n- **Interpreting the Equation:** Understand what the slope and intercept mean in the context of the problem.\n\n- **Solving for Unknowns:** Use the equation to find missing values by substituting known quantities.\n\n---\n\n### Actionable Study Tips\n\n- **Practice Translating Words to Math:** Regularly convert word problems into linear equations to become comfortable with identifying slopes and intercepts.\n\n- **Draw Diagrams or Tables:** Visual aids help clarify relationships and organize information.\n\n- **Check Units:** Always pay attention to units (e.g., hours, miles, dollars) to ensure consistency.\n\n- **Interpret Results in Context:** After solving, explain what the solution means in the real-world scenario.\n\n- **Review Slope and Intercept Concepts:** Make sure you understand how changes in slope and intercept affect the graph and the situation.\n\n---\n\n### Recommended Exercises\n\n- **Identify Slope and Intercept:** Given a word problem, find the slope and intercept before writing the equation.\n\n- **Write Equations from Scenarios:** Practice creating linear equations from various real-life contexts like speed, cost, or temperature changes.\n\n- **Solve for Variables:** Use the equations to find unknown values, such as time, cost, or quantity.\n\n- **Graph Linear Equations:** Plot the equations on a coordinate plane to visualize the relationship.\n\n- **Interpret Graphs:** Given a graph, describe the meaning of slope and intercept in the problem context.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Mixing Up Dependent and Independent Variables:** Always clarify which quantity depends on the other.\n\n- **Incorrect Slope Calculation:** Ensure the rate of change is consistent and correctly derived from the problem.\n\n- **Ignoring the Initial Value:** Don’t forget to include the starting point or fixed amount in the equation.\n\n- **Misinterpreting Units:** Confusing units can lead to incorrect answers.\n\n- **Not Checking Answers:** Always verify if the solution makes sense in the context of the problem.\n\n---\n\nBy mastering these concepts and practicing regularly, students will be well-prepared to tackle linear relationship word problems confidently and accurately on exams."
+                                                }
+                                            ],
+                                            "priority": "02"
+                                        },
+                                        {
+                                            "priority_index": 1.7654999999999998,
+                                            "name": "Linear equations in two variables",
+                                            "question_weight": 8.15,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Linear equations in two variables",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:algebra-easier/x0fcc98a58ba3bea7:systems-of-linear-equations-word-problems-easier/a/v2-sat-lesson-systems-of-linear-equations-word-problems"
+                                                    ],
+                                                    "summary": "**Summary: Systems of Linear Equations Word Problems**\n\n---\n\n### Overview\n\nThis topic focuses on solving word problems that involve systems of linear equations. These problems require translating real-world situations into two or more linear equations and then finding the values of the variables that satisfy all equations simultaneously. Mastery of this skill is essential for standardized tests like the SAT and for understanding how to model and solve practical problems mathematically.\n\n---\n\n### Key Concepts and Techniques\n\n1. **Understanding Systems of Linear Equations**  \n   A system consists of two or more linear equations with the same set of variables. The solution is the point(s) where the equations intersect, meaning the values that satisfy all equations at once.\n\n2. **Setting Up Equations from Word Problems**  \n   - Carefully read the problem to identify what quantities are unknown. Assign variables to these unknowns.  \n   - Translate the relationships described in the problem into algebraic equations. This often involves identifying sums, differences, products, or ratios.  \n   - Ensure the number of equations matches the number of variables for a solvable system.\n\n3. **Methods to Solve Systems**  \n   - **Substitution:** Solve one equation for one variable and substitute into the other equation.  \n   - **Elimination:** Add or subtract equations to eliminate one variable, making it easier to solve for the other.  \n   - **Graphing (conceptual):** Visualize the equations as lines and find their intersection point.\n\n4. **Interpreting the Solution**  \n   Once the values of variables are found, plug them back into the context of the problem to answer the question asked. Check if the solution makes sense logically and numerically.\n\n---\n\n### Study Tips\n\n- **Practice translating words into equations:** Spend time identifying keywords and phrases that indicate mathematical operations (e.g., \"total,\" \"difference,\" \"twice,\" \"per\").  \n- **Label variables clearly:** Write down what each variable represents to avoid confusion.  \n- **Double-check your equations:** Before solving, verify that your equations correctly represent the problem.  \n- **Work step-by-step:** Solve systematically to avoid errors, especially when substituting or eliminating variables.  \n- **Review your answers:** Always substitute your solution back into the original equations to confirm correctness.\n\n---\n\n### Recommended Exercises\n\n- **Basic translation problems:** Practice converting simple word problems into two linear equations.  \n- **Substitution and elimination practice:** Solve systems using both methods to build flexibility.  \n- **Real-world scenarios:** Work on problems involving mixtures, rates, ages, and money to apply systems in diverse contexts.  \n- **Checking solutions:** Exercises that require verifying answers by substitution to reinforce accuracy.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Misassigning variables:** Confusing what each variable stands for can lead to incorrect equations.  \n- **Writing incorrect equations:** Misinterpreting the problem’s relationships or missing key details.  \n- **Arithmetic errors during substitution or elimination:** Careless calculation mistakes can derail the solution.  \n- **Ignoring units or context:** Forgetting to interpret the solution in terms of the problem’s real-world meaning.  \n- **Not verifying solutions:** Failing to check answers can result in accepting incorrect solutions.\n\n---\n\nBy focusing on these concepts and practicing systematically, students can confidently tackle systems of linear equations word problems and improve their problem-solving skills for exams like the SAT."
+                                                }
+                                            ],
+                                            "priority": "03"
+                                        },
+                                        {
+                                            "priority_index": 1.3937499999999998,
+                                            "name": "Linear equations in one variable",
+                                            "question_weight": 6.01,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Linear equations in one variable",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:algebra-easier/x0fcc98a58ba3bea7:solving-linear-equations-and-inequalities-easier/a/v2-sat-lesson-solving-linear-equations-and-inequalities"
+                                                    ],
+                                                    "summary": "**Summary: Solving Linear Equations and Inequalities**\n\n---\n\n### Overview\n\nThis topic focuses on understanding and solving linear equations and inequalities, which are foundational skills in algebra and essential for standardized tests like the SAT. Linear equations involve expressions set equal to each other, typically containing variables raised to the first power. Inequalities are similar but express a range of possible values rather than a single solution. Mastery of these concepts enables students to solve problems involving unknown quantities and to interpret solution sets effectively.\n\n---\n\n### Key Concepts and Techniques\n\n1. **Linear Equations Basics**  \n   - A linear equation is an equation where the variable(s) appear only to the first power (e.g., \\(2x + 3 = 7\\)).  \n   - The goal is to isolate the variable on one side to find its value.\n\n2. **Solving Linear Equations**  \n   - Use inverse operations (addition/subtraction, multiplication/division) to simplify and isolate the variable.  \n   - Maintain equality by performing the same operation on both sides of the equation.  \n   - Combine like terms and simplify expressions before isolating the variable.  \n   - Check solutions by substituting back into the original equation.\n\n3. **Linear Inequalities**  \n   - Inequalities use symbols like \\(<, >, \\leq, \\geq\\) to show that one side is less than or greater than the other.  \n   - Solving inequalities follows similar steps as equations but with an important rule: when multiplying or dividing both sides by a negative number, reverse the inequality sign.\n\n4. **Representing Solutions**  \n   - Solutions to equations are specific values; solutions to inequalities are ranges or intervals.  \n   - Inequality solutions can be expressed using interval notation or graphed on a number line.\n\n5. **Checking Solutions**  \n   - Always verify solutions by plugging them back into the original equation or inequality to ensure correctness.\n\n---\n\n### Study Tips\n\n- **Practice step-by-step isolation:** Focus on mastering the process of isolating the variable by undoing operations in reverse order (PEMDAS backward).  \n- **Memorize the inequality sign rule:** Remember to flip the inequality sign when multiplying or dividing by a negative number.  \n- **Work with both equations and inequalities:** Practice both types to understand their similarities and differences.  \n- **Use number lines:** Visualizing inequality solutions on a number line helps solidify understanding of solution sets.  \n- **Double-check answers:** Always substitute your solution back into the original problem to confirm accuracy.\n\n---\n\n### Recommended Exercises\n\n- **Simple linear equations:** Solve for \\(x\\) in equations like \\(3x + 5 = 20\\).  \n- **Multi-step equations:** Practice equations requiring multiple operations, such as \\(2(x - 3) + 4 = 10\\).  \n- **Linear inequalities:** Solve and graph inequalities like \\(5x - 7 > 3\\).  \n- **Word problems:** Translate real-world scenarios into linear equations or inequalities and solve them.  \n- **Check solutions:** For each problem, verify by substitution to build confidence and accuracy.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Forgetting to reverse inequality signs:** When multiplying or dividing by a negative number in inequalities, always flip the inequality symbol.  \n- **Not performing the same operation on both sides:** This breaks the balance of the equation or inequality and leads to incorrect answers.  \n- **Ignoring parentheses:** Always distribute multiplication over addition/subtraction inside parentheses before simplifying.  \n- **Skipping solution checks:** Not verifying answers can cause unnoticed errors.  \n- **Confusing equations with inequalities:** Treating inequalities like equations without considering solution ranges can lead to misunderstanding.\n\n---\n\nBy mastering these concepts and practicing consistently, students will develop strong algebra skills essential for exams and further math courses."
+                                                }
+                                            ],
+                                            "priority": "04"
+                                        },
+                                        {
+                                            "priority_index": 1.2874999999999999,
+                                            "name": "Area and volume",
+                                            "question_weight": 5.15,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Area and volume",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:geometry-and-trigonometry-easier/x0fcc98a58ba3bea7:area-and-volume-easier/a/v2-sat-lesson-area-and-volume"
+                                                    ],
+                                                    "summary": "**Summary: Understanding Area and Volume for Exam Preparation**\n\n---\n\n### Overview\n\nThis summary focuses on the fundamental concepts of area and volume, essential topics in geometry frequently tested in exams like the SAT. Mastery of these concepts enables students to solve problems involving two-dimensional shapes and three-dimensional solids efficiently. The content covers how to calculate areas of various plane figures and volumes of common solids, emphasizing the application of formulas and problem-solving strategies.\n\n---\n\n### Key Concepts and Techniques\n\n1. **Area of Plane Figures**\n   - **Rectangles and Squares:** Area is found by multiplying length by width.\n   - **Triangles:** Area equals half the product of the base and height.\n   - **Parallelograms:** Area is base times height, similar to rectangles but with slanted sides.\n   - **Trapezoids:** Area is the average of the two parallel sides multiplied by the height.\n   - **Circles:** Area is π times the radius squared (A = πr²).\n\n2. **Volume of Solids**\n   - **Rectangular Prisms (Boxes):** Volume is length × width × height.\n   - **Cylinders:** Volume equals the area of the circular base times the height (V = πr²h).\n   - **Pyramids and Cones:** Volume is one-third the product of the base area and height.\n   - **Spheres:** Volume is four-thirds π times the radius cubed (V = 4/3 πr³).\n\n3. **Units and Conversions**\n   - Area is measured in square units (e.g., cm², m²).\n   - Volume is measured in cubic units (e.g., cm³, m³).\n   - Understanding unit conversions is crucial when solving problems involving different measurement systems.\n\n4. **Composite Figures**\n   - Break complex shapes into simpler ones.\n   - Calculate individual areas or volumes and then add or subtract as needed.\n\n5. **Using Formulas Effectively**\n   - Identify the shape correctly.\n   - Label all known dimensions.\n   - Substitute values carefully into formulas.\n   - Solve step-by-step to avoid errors.\n\n---\n\n### Study Tips\n\n- **Memorize Key Formulas:** Keep a list of area and volume formulas handy and review them regularly.\n- **Visualize Problems:** Draw diagrams to understand the shapes and dimensions involved.\n- **Practice Unit Conversions:** Be comfortable converting between units to avoid mistakes.\n- **Work Backwards:** For word problems, start by identifying what is asked and what information is given.\n- **Check Answers:** Verify if the answer makes sense in the context of the problem (e.g., volume should not be negative).\n\n---\n\n### Recommended Exercises\n\n- **Basic Shape Calculations:** Practice finding areas of rectangles, triangles, circles, and trapezoids.\n- **Volume Problems:** Calculate volumes of prisms, cylinders, cones, and spheres.\n- **Composite Figures:** Solve problems involving shapes made up of multiple basic figures.\n- **Word Problems:** Apply area and volume concepts to real-world scenarios.\n- **Unit Conversion Drills:** Convert between different units of area and volume.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Mixing Units:** Forgetting to convert units before calculating area or volume.\n- **Incorrect Formula Use:** Applying the wrong formula for a given shape.\n- **Misidentifying Dimensions:** Confusing height with slant height or radius with diameter.\n- **Ignoring the Third Dimension:** Treating volume problems as area problems.\n- **Calculation Errors:** Skipping steps or miscalculating intermediate values.\n\n---\n\nBy understanding these core principles and practicing regularly, students can confidently tackle area and volume questions on exams, improving both accuracy and speed."
+                                                }
+                                            ],
+                                            "priority": "05"
+                                        },
+                                        {
+                                            "priority_index": 1.18,
+                                            "name": "Equivalent expressions",
+                                            "question_weight": 6.12,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Equivalent expressions",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:advanced-math-easier/x0fcc98a58ba3bea7:isolating-quantities-easier/a/v2-sat-lesson-isolating-quantities"
+                                                    ],
+                                                    "summary": "**Summary: Isolating Quantities in Algebra (Based on Khan Academy SAT Math Resource)**\n\n---\n\n### Overview\n\nThis topic focuses on the algebraic skill of isolating a specific variable or quantity within an equation or formula. This is a fundamental technique in solving equations, manipulating formulas, and preparing for standardized tests like the SAT. Mastering this skill allows students to rearrange equations to express one variable in terms of others, which is essential in many math and science problems.\n\n---\n\n### Key Concepts and Techniques\n\n- **Understanding the Goal:**  \n  Isolating a quantity means rewriting an equation so that the variable of interest stands alone on one side of the equation.\n\n- **Inverse Operations:**  \n  Use opposite operations to both sides of the equation to \"undo\" additions, subtractions, multiplications, divisions, and powers. For example:  \n  - If a variable is added to a number, subtract that number from both sides.  \n  - If a variable is multiplied by a number, divide both sides by that number.\n\n- **Step-by-Step Rearrangement:**  \n  Break down complex formulas by performing one operation at a time, carefully maintaining equality by applying the same operation to both sides.\n\n- **Handling Fractions and Multiple Terms:**  \n  When variables appear in denominators or within fractions, multiply both sides by the denominator to clear fractions before isolating the variable.\n\n- **Dealing with Parentheses:**  \n  Use the distributive property to expand expressions if necessary before isolating the variable.\n\n- **Working with Formulas:**  \n  Many problems require isolating a variable in a formula (e.g., solving for time in distance = rate × time). Recognize which variable to isolate and apply inverse operations accordingly.\n\n---\n\n### Actionable Study Tips\n\n- **Practice Stepwise Manipulation:**  \n  Always perform one algebraic operation at a time and check your work after each step.\n\n- **Keep Equations Balanced:**  \n  Remember that whatever you do to one side of the equation, you must do to the other.\n\n- **Use Clear Notation:**  \n  Write each step clearly to avoid confusion, especially when dealing with multiple terms or fractions.\n\n- **Work Backwards:**  \n  After isolating the variable, substitute your expression back into the original equation to verify correctness.\n\n- **Memorize Common Formulas:**  \n  Familiarity with standard formulas helps in quickly identifying which variable to isolate.\n\n---\n\n### Recommended Exercises\n\n- **Simple Linear Equations:**  \n  Practice isolating variables in straightforward equations like `ax + b = c`.\n\n- **Multi-Step Equations:**  \n  Work on equations involving multiple operations, such as `a(b + x) = c`.\n\n- **Formulas with Multiple Variables:**  \n  Rearrange formulas like `A = lw` (area of rectangle), `d = rt` (distance formula), or physics formulas to solve for different variables.\n\n- **Fractional Equations:**  \n  Solve equations where the variable is in the numerator or denominator, requiring clearing fractions.\n\n- **Word Problems:**  \n  Translate real-world scenarios into equations and isolate the required variable to solve.\n\n---\n\n### Common Mistakes and Pitfalls\n\n- **Forgetting to Apply Operations to Both Sides:**  \n  Applying an operation to only one side breaks the equality.\n\n- **Incorrectly Handling Negative Signs:**  \n  Losing track of negatives when adding, subtracting, or dividing can lead to errors.\n\n- **Skipping Steps:**  \n  Trying to do too much at once can cause mistakes; break down the process.\n\n- **Mismanaging Fractions:**  \n  Not properly clearing denominators or mishandling fraction operations.\n\n- **Confusing Which Variable to Isolate:**  \n  Always clearly identify the target variable before starting.\n\n---\n\nBy mastering the process of isolating quantities, students will improve their algebraic manipulation skills, which are crucial for success in math exams and real-world problem solving. Regular practice with a variety of equations and formulas will build confidence and accuracy."
+                                                }
+                                            ],
+                                            "priority": "06"
+                                        },
+                                        {
+                                            "priority_index": 1.16675,
+                                            "name": "Lines, angles, and triangles",
+                                            "question_weight": 4.52,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Lines, angles, and triangles",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:geometry-and-trigonometry-easier/x0fcc98a58ba3bea7:congruence-similarity-and-angle-relationships-easier/a/v2-sat-lesson-congruence-similarity-and-angle-relationships"
+                                                    ],
+                                                    "summary": "**Summary: Congruence, Similarity, and Angle Relationships in Geometry**\n\n---\n\n### Overview\n\nThis topic focuses on understanding the properties and relationships of geometric figures, particularly triangles and other polygons, through the concepts of congruence, similarity, and angle relationships. These ideas are fundamental in solving geometry problems, especially in standardized tests like the SAT. Mastery of these concepts allows students to analyze shapes, prove relationships, and calculate unknown lengths or angles efficiently.\n\n---\n\n### Key Concepts and Techniques\n\n1. **Congruence of Triangles**\n   - Two triangles are congruent if all corresponding sides and angles are exactly equal.\n   - Common criteria to prove triangle congruence include:\n     - **SSS (Side-Side-Side):** All three sides of one triangle equal the three sides of another.\n     - **SAS (Side-Angle-Side):** Two sides and the included angle of one triangle equal those of another.\n     - **ASA (Angle-Side-Angle):** Two angles and the included side are equal.\n     - **AAS (Angle-Angle-Side):** Two angles and a non-included side are equal.\n   - Congruent triangles have identical shape and size, so corresponding parts (angles and sides) match exactly.\n\n2. **Similarity of Triangles**\n   - Triangles are similar if their corresponding angles are equal and their corresponding sides are proportional.\n   - Criteria for similarity include:\n     - **AA (Angle-Angle):** Two angles of one triangle equal two angles of another.\n     - **SSS (Side-Side-Side) Similarity:** Corresponding sides are in proportion.\n     - **SAS (Side-Angle-Side) Similarity:** Two sides are proportional and the included angle is equal.\n   - Similar triangles have the same shape but different sizes; side lengths scale by a constant ratio.\n\n3. **Angle Relationships**\n   - Understanding how angles relate within and between shapes is crucial.\n   - Key angle relationships include:\n     - **Vertical angles:** Opposite angles formed by intersecting lines are equal.\n     - **Linear pairs:** Adjacent angles on a straight line sum to 180°.\n     - **Angles in triangles:** The sum of interior angles is always 180°.\n     - **Exterior angle theorem:** An exterior angle of a triangle equals the sum of the two opposite interior angles.\n     - **Parallel lines and transversals:** Alternate interior angles, corresponding angles, and consecutive interior angles have specific equalities or supplementary relationships.\n\n4. **Using Congruence and Similarity to Solve Problems**\n   - Identify congruent or similar triangles within complex figures.\n   - Use proportionality or equality of sides and angles to find unknown lengths or angle measures.\n   - Apply angle relationships to set up equations and solve for variables.\n\n---\n\n### Study Tips\n\n- **Visualize and Draw:** Always sketch the problem carefully, labeling all known sides and angles. Mark congruent or equal parts clearly.\n- **Memorize Criteria:** Know the congruence and similarity rules by heart; they are the foundation for proofs and problem-solving.\n- **Practice Angle Rules:** Be comfortable with angle sums and relationships, especially in triangles and parallel lines.\n- **Work Backwards:** When given unknowns, start from what you know and use congruence/similarity to relate unknown parts.\n- **Check Units and Ratios:** When dealing with similarity, ensure side lengths are compared as ratios, not just differences.\n\n---\n\n### Recommended Exercises\n\n- **Proving Congruence:** Given triangles with some sides and angles, determine if they are congruent using SSS, SAS, ASA, or AAS.\n- **Identifying Similar Triangles:** Find pairs of similar triangles in composite figures and calculate missing side lengths using proportionality.\n- **Angle Calculations:** Solve problems involving vertical angles, linear pairs, and angles formed by parallel lines and transversals.\n- **Application Problems:** Use congruence and similarity to solve real-world geometry problems, such as finding heights or distances indirectly.\n- **Proof Writing:** Practice writing clear, logical proofs that justify congruence or similarity based on given information.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Confusing Congruence and Similarity:** Remember, congruent triangles are identical in size and shape; similar triangles only share shape, not size.\n- **Misapplying Criteria:** Ensure the correct order and placement of sides and angles when using SAS or ASA; the angle must be included between the sides.\n- **Ignoring Angle Sum Rules:** Don’t forget that the sum of angles in a triangle is always 180°, which is often key to finding missing angles.\n- **Overlooking Proportionality:** When triangles are similar, side lengths must be compared as ratios, not absolute differences.\n- **Assuming Parallel Lines Without Proof:** Only apply angle relationships for parallel lines if the lines are explicitly stated or proven to be parallel.\n\n---\n\nBy mastering these concepts and practicing the recommended exercises, students will develop strong problem-solving skills in geometry, enabling them to tackle a wide range of questions involving congruence, similarity, and angle relationships confidently."
+                                                }
+                                            ],
+                                            "priority": "07"
+                                        },
+                                        {
+                                            "priority_index": 1.03875,
+                                            "name": "Systems of two linear equations in two variables",
+                                            "question_weight": 6.89,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Systems of two linear equations in two variables",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:algebra-easier/x0fcc98a58ba3bea7:solving-systems-of-linear-equations-easier/a/v2-sat-lesson-solving-systems-of-linear-equations"
+                                                    ],
+                                                    "summary": "**Summary: Solving Systems of Linear Equations**\n\n---\n\n### Overview\n\nThis topic focuses on understanding and solving systems of linear equations, which are sets of two or more linear equations involving the same variables. The goal is to find values for the variables that satisfy all equations simultaneously. This concept is fundamental in algebra and appears frequently in standardized tests like the SAT.\n\n---\n\n### Key Concepts and Techniques\n\n1. **What is a System of Linear Equations?**  \n   A system consists of two or more linear equations with the same variables. For example:  \n   \\[\n   \\begin{cases}\n   2x + 3y = 6 \\\\\n   x - y = 4\n   \\end{cases}\n   \\]  \n   The solution is the point(s) where the lines represented by these equations intersect.\n\n2. **Methods to Solve Systems:**\n\n   - **Graphing:**  \n     Plot each equation on a coordinate plane and identify the intersection point. This method is visual but less precise for exact answers.\n\n   - **Substitution:**  \n     Solve one equation for one variable, then substitute that expression into the other equation. This reduces the system to one equation with one variable.\n\n   - **Elimination (Addition/Subtraction):**  \n     Add or subtract the equations to eliminate one variable, making it easier to solve for the remaining variable.\n\n3. **Types of Solutions:**\n\n   - **One solution:** The lines intersect at a single point (consistent and independent system).\n   - **No solution:** The lines are parallel and never intersect (inconsistent system).\n   - **Infinite solutions:** The lines coincide (dependent system).\n\n4. **Checking Solutions:**  \n   Always substitute your solution back into the original equations to verify correctness.\n\n---\n\n### Study Tips\n\n- **Understand each method:** Practice substitution and elimination until you can decide quickly which is more efficient for a given problem.\n- **Work step-by-step:** Write each step clearly to avoid mistakes.\n- **Practice interpreting word problems:** Translate real-world situations into systems of equations.\n- **Use graphing as a tool:** Even if not required, graphing helps visualize the problem and verify solutions.\n- **Memorize key forms:** Be comfortable with standard forms of linear equations (e.g., slope-intercept, standard form).\n\n---\n\n### Recommended Exercises\n\n- **Solve systems using substitution and elimination:** Start with simple coefficients, then move to more complex ones.\n- **Graph systems and identify solutions visually.**\n- **Translate word problems into systems and solve them.**\n- **Identify the type of solution (one, none, infinite) before solving.**\n- **Check solutions by plugging values back into both equations.**\n\n---\n\n### Common Mistakes to Avoid\n\n- **Forgetting to apply substitution to both equations.**\n- **Incorrectly adding or subtracting equations during elimination (sign errors).**\n- **Misinterpreting the problem and setting up incorrect equations.**\n- **Not checking the solution in both original equations.**\n- **Assuming all systems have a unique solution without verifying.**\n\n---\n\nBy mastering these concepts and practicing systematically, students will be well-prepared to solve systems of linear equations confidently and accurately on exams."
+                                                }
+                                            ],
+                                            "priority": "08"
+                                        },
+                                        {
+                                            "priority_index": 0.8875,
+                                            "name": "Ratios, rates, proportional relationships, and units",
+                                            "question_weight": 3.94,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Ratios, rates, proportional relationships, and units",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:problem-solving-and-data-analysis-easier/x0fcc98a58ba3bea7:ratios-rates-and-proportions-easier/a/v2-sat-lesson-ratios-rates-and-proportions",
+                                                        "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:problem-solving-and-data-analysis-easier/x0fcc98a58ba3bea7:unit-conversion-easier/a/v2-sat-lesson-unit-conversion"
+                                                    ],
+                                                    "summary": "# Summary: Ratios, Rates, Proportions, and Unit Conversions for SAT Math\n\nThis summary covers essential concepts related to ratios, rates, proportions, and unit conversions, all of which are fundamental topics in the SAT Math section. Understanding these ideas helps solve a wide range of real-world and test problems involving comparisons, scaling, and measurement conversions.\n\n---\n\n## Overview of Topics\n\n- **Ratios, Rates, and Proportions:** These concepts deal with comparing quantities, understanding relationships between different values, and solving problems where quantities scale relative to each other.\n- **Unit Conversions:** This involves changing measurements from one unit to another (e.g., inches to centimeters, hours to minutes) using conversion factors, which is crucial for interpreting and solving problems accurately.\n\n---\n\n## Key Concepts and Techniques\n\n### 1. Ratios\n- A ratio compares two quantities by division, expressing how many times one quantity contains another.\n- Ratios can be written in three ways: a to b, a:b, or as a fraction a/b.\n- Ratios describe relationships but do not specify actual quantities unless one value is known.\n\n### 2. Rates\n- A rate is a specific type of ratio comparing two quantities with different units (e.g., miles per hour, dollars per pound).\n- Rates express how one quantity changes relative to another and are often used to describe speed, price, or density.\n\n### 3. Proportions\n- A proportion states that two ratios or rates are equal.\n- Solving proportions involves finding an unknown value by setting two ratios equal and cross-multiplying.\n- Proportions are useful for scaling quantities up or down while maintaining the same relationship.\n\n### 4. Unit Conversions\n- Unit conversion requires multiplying by a conversion factor, which is a ratio equal to 1 that relates two different units (e.g., 1 inch = 2.54 cm).\n- To convert units, multiply the original measurement by the appropriate conversion factor so that units cancel correctly.\n- Complex conversions may require multiple steps, such as converting hours to seconds by first converting hours to minutes, then minutes to seconds.\n\n---\n\n## Actionable Study Tips\n\n- **Master the language of ratios and rates:** Practice writing ratios in different formats and interpreting what they represent.\n- **Practice setting up proportions:** Get comfortable with cross-multiplying and solving for unknowns.\n- **Memorize common conversion factors:** Know key conversions like inches to centimeters, feet to meters, and hours to minutes.\n- **Use dimensional analysis:** Always write units during calculations to ensure they cancel properly and the final answer has the correct unit.\n- **Work through word problems:** Translate real-world scenarios into ratio, rate, or proportion equations to build problem-solving skills.\n\n---\n\n## Recommended Exercises\n\n- **Ratio comparison problems:** Given two or more ratios, determine which is larger or if they are equivalent.\n- **Rate calculation problems:** Calculate speed, unit price, or density from given data.\n- **Proportion solving:** Find missing values in proportion equations, including scaling recipes or maps.\n- **Unit conversion drills:** Convert measurements between metric and customary units, and between time units.\n- **Multi-step problems:** Combine ratios, proportions, and unit conversions in a single problem to simulate test conditions.\n\n---\n\n## Common Mistakes to Avoid\n\n- **Confusing ratios and rates:** Remember that rates always involve different units, while ratios can compare quantities with the same or different units.\n- **Ignoring units:** Failing to track units can lead to incorrect answers, especially in unit conversions.\n- **Incorrect setup of proportions:** Ensure that corresponding parts of the ratios are matched correctly before cross-multiplying.\n- **Using wrong conversion factors:** Double-check conversion factors and their direction (e.g., cm to inches vs. inches to cm).\n- **Skipping steps in multi-step problems:** Write out each step clearly to avoid errors in complex conversions or calculations.\n\n---\n\nBy mastering these concepts and practicing the recommended exercises, students will be well-prepared to tackle SAT math problems involving ratios, rates, proportions, and unit conversions confidently and accurately."
+                                                }
+                                            ],
+                                            "priority": "09"
+                                        },
+                                        {
+                                            "priority_index": 0.8787857142857143,
+                                            "name": "One-variable data: Distributions and measures of center and spread",
+                                            "question_weight": 3.14,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "One-variable data: Distributions and measures of center and spread",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:problem-solving-and-data-analysis-easier/x0fcc98a58ba3bea7:center-spread-and-shape-of-distributions-easier/a/v2-sat-lesson-center-spread-and-shape-of-distributions"
+                                                    ],
+                                                    "summary": "**Summary: Understanding Center, Spread, and Shape of Distributions for Exam Preparation**\n\n---\n\n### Overview\n\nThis summary focuses on key statistical concepts related to data distributions, specifically the center, spread, and shape of distributions. These ideas are fundamental for interpreting data sets, analyzing patterns, and solving related problems on standardized tests like the SAT. Mastery of these concepts helps in understanding how data behaves and how to summarize it effectively.\n\n---\n\n### Key Concepts\n\n1. **Center of a Distribution**\n   - The center represents a typical or middle value of a data set.\n   - Common measures include:\n     - **Mean**: The average of all data points.\n     - **Median**: The middle value when data is ordered.\n   - The median is less affected by extreme values (outliers) than the mean.\n\n2. **Spread of a Distribution**\n   - Spread describes how much the data varies or how dispersed it is.\n   - Important measures include:\n     - **Range**: Difference between the highest and lowest values.\n     - **Interquartile Range (IQR)**: The range of the middle 50% of data (between the first and third quartiles).\n     - **Standard Deviation**: A measure of how far data points typically are from the mean.\n   - Understanding spread helps assess the consistency or variability in data.\n\n3. **Shape of a Distribution**\n   - The shape describes the overall pattern of the data.\n   - Common shapes:\n     - **Symmetric**: Data is evenly distributed around the center.\n     - **Skewed Right (Positive Skew)**: Tail extends to the right; mean > median.\n     - **Skewed Left (Negative Skew)**: Tail extends to the left; mean < median.\n     - **Uniform**: Data is evenly spread without clear peaks.\n     - **Bimodal or Multimodal**: Two or more peaks in the data.\n   - Recognizing shape helps in choosing appropriate measures of center and spread.\n\n4. **Outliers**\n   - Data points that are significantly different from others.\n   - Outliers can affect the mean and standard deviation but have less impact on the median and IQR.\n   - Identifying outliers is crucial for accurate data interpretation.\n\n---\n\n### Study Tips\n\n- **Visualize Data**: Use histograms, box plots, and dot plots to see the shape, center, and spread clearly.\n- **Compare Mean and Median**: When these differ significantly, suspect skewness or outliers.\n- **Practice Calculations**: Regularly compute mean, median, range, and IQR from sample data sets.\n- **Interpret Graphs**: Focus on understanding what the shape and spread imply about the data.\n- **Use Context**: Relate data summaries to real-world scenarios to deepen understanding.\n\n---\n\n### Recommended Exercises\n\n- **Calculate Measures**: Given raw data, find mean, median, range, and IQR.\n- **Identify Shape**: Analyze graphs to determine if data is symmetric, skewed, or uniform.\n- **Detect Outliers**: Use the 1.5*IQR rule to find outliers in data sets.\n- **Compare Distributions**: Given two or more data sets, compare their centers, spreads, and shapes.\n- **Interpret Box Plots and Histograms**: Practice reading and explaining what these visual tools reveal about data.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Confusing Mean and Median**: Remember that the mean is sensitive to outliers, while the median is not.\n- **Ignoring Spread**: Don’t rely solely on the center; spread provides important context.\n- **Misinterpreting Skewness**: Skew direction affects the relationship between mean and median.\n- **Overlooking Outliers**: Failing to identify outliers can lead to incorrect conclusions.\n- **Assuming Symmetry**: Not all data is symmetric; always check the shape before choosing summary statistics.\n\n---\n\nBy understanding these core ideas about distributions, students can confidently analyze data sets, interpret statistical graphs, and solve related problems effectively on exams. Regular practice with diverse data examples will reinforce these skills and improve exam performance."
+                                                }
+                                            ],
+                                            "priority": "10"
+                                        },
+                                        {
+                                            "priority_index": 0.7862499999999999,
+                                            "name": "Percentages",
+                                            "question_weight": 3.5,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Percentages",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:problem-solving-and-data-analysis-easier/x0fcc98a58ba3bea7:percentages-easier/a/v2-sat-lesson-percentages"
+                                                    ],
+                                                    "summary": "**Summary: Understanding and Mastering Percentages for Exam Preparation**\n\n---\n\n### Overview\n\nPercentages are a fundamental mathematical concept frequently tested in exams like the SAT. They represent a way to express ratios or fractions out of 100 and are widely used in problem-solving and data analysis. Mastering percentages involves understanding how to convert between percentages, decimals, and fractions, calculate percentage increases or decreases, and solve real-world problems involving discounts, interest, and proportions.\n\n---\n\n### Key Concepts and Techniques\n\n1. **Definition of Percentage**  \n   A percentage is a number expressed as a fraction of 100. For example, 25% means 25 out of 100 or 25/100.\n\n2. **Converting Between Forms**  \n   - To convert a percentage to a decimal, divide by 100 (e.g., 25% → 0.25).  \n   - To convert a decimal to a percentage, multiply by 100 (e.g., 0.25 → 25%).  \n   - To convert a fraction to a percentage, divide numerator by denominator and multiply by 100.\n\n3. **Calculating a Percentage of a Number**  \n   Multiply the number by the percentage expressed as a decimal.  \n   Example: 20% of 50 = 0.20 × 50 = 10.\n\n4. **Finding What Percentage One Number Is of Another**  \n   Divide the part by the whole and multiply by 100.  \n   Example: What percent is 30 of 120? (30 ÷ 120) × 100 = 25%.\n\n5. **Percentage Increase and Decrease**  \n   - Percentage increase = [(new value − original value) ÷ original value] × 100  \n   - Percentage decrease = [(original value − new value) ÷ original value] × 100\n\n6. **Solving Word Problems Involving Percentages**  \n   Apply the above techniques to real-life contexts such as discounts, tax, tips, interest rates, and population growth.\n\n---\n\n### Study Tips for Mastery\n\n- **Practice Conversions Regularly:** Switch between fractions, decimals, and percentages to build fluency.  \n- **Memorize Key Equivalents:** Know common percentages and their decimal/fraction equivalents (e.g., 50% = 1/2 = 0.5).  \n- **Use Estimation:** Approximate percentages to quickly check if answers are reasonable.  \n- **Break Down Complex Problems:** Identify what is being asked—whether it’s finding a percentage of a number, the percentage change, or the original number given a percentage.  \n- **Write Out Steps:** Avoid skipping steps to reduce errors, especially in multi-step problems.\n\n---\n\n### Recommended Exercises\n\n- **Basic Conversion Drills:** Convert between percentages, decimals, and fractions.  \n- **Percentage of a Number Problems:** Calculate specific percentages of given numbers.  \n- **Percentage Increase/Decrease Questions:** Practice finding percent changes in various contexts.  \n- **Word Problems:** Solve real-world scenarios involving discounts, markups, tax, and interest.  \n- **Reverse Percentage Problems:** Given a final amount and a percentage change, find the original amount.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Confusing Percentage and Percentage Points:** Remember that a change from 10% to 15% is a 5 percentage point increase, but a 50% increase in the original value.  \n- **Forgetting to Convert Percentages to Decimals:** Always convert percentages to decimals before multiplying.  \n- **Mixing Up Increase and Decrease Formulas:** Use the correct formula depending on whether the value is rising or falling.  \n- **Ignoring Units:** Keep track of what the percentage is referring to (e.g., part of a whole, total amount).  \n- **Rushing Through Word Problems:** Misreading the question can lead to applying the wrong method.\n\n---\n\nBy understanding these core ideas and practicing systematically, students can confidently tackle percentage problems on exams and apply these skills in everyday situations."
+                                                }
+                                            ],
+                                            "priority": "11"
+                                        },
+                                        {
+                                            "priority_index": 0.685,
+                                            "name": "Right triangles and trigonometry",
+                                            "question_weight": 2.73,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Right triangles and trigonometry",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:geometry-and-trigonometry-easier/x0fcc98a58ba3bea7:right-triangle-trigonometry-easier/a/v2-sat-lesson-right-triangle-trigonometry"
+                                                    ],
+                                                    "summary": "**Summary: Right Triangle Trigonometry for Exam Preparation**\n\n---\n\n### Overview\n\nRight triangle trigonometry is a fundamental topic in geometry and trigonometry that deals with the relationships between the angles and sides of right-angled triangles. This concept is essential for solving problems involving distances, heights, and angles, and it frequently appears in standardized tests like the SAT. Understanding how to use trigonometric ratios—sine, cosine, and tangent—allows students to find unknown side lengths or angle measures in right triangles efficiently.\n\n---\n\n### Key Concepts and Techniques\n\n1. **Right Triangle Basics**  \n   - A right triangle has one 90-degree angle.  \n   - The side opposite the right angle is the hypotenuse, the longest side.  \n   - The other two sides are called legs.\n\n2. **Trigonometric Ratios**  \n   These ratios relate the angles of a right triangle to the lengths of its sides:  \n   - **Sine (sin)** of an angle = Opposite side / Hypotenuse  \n   - **Cosine (cos)** of an angle = Adjacent side / Hypotenuse  \n   - **Tangent (tan)** of an angle = Opposite side / Adjacent side\n\n3. **Using Trigonometric Ratios**  \n   - Identify the angle of interest (other than the right angle).  \n   - Determine which sides are opposite, adjacent, and hypotenuse relative to that angle.  \n   - Choose the appropriate ratio based on the sides you know and the side or angle you want to find.  \n   - Set up an equation and solve for the unknown.\n\n4. **Inverse Trigonometric Functions**  \n   - When side lengths are known and the angle is unknown, use inverse functions (sin⁻¹, cos⁻¹, tan⁻¹) to find the angle measure.\n\n5. **Applications**  \n   - Problems often involve finding heights, distances, or angles in real-world contexts such as ramps, ladders, or buildings.  \n   - Trigonometry can be combined with the Pythagorean theorem for more complex problems.\n\n---\n\n### Study Tips\n\n- **Memorize the definitions of sine, cosine, and tangent clearly**, and always relate them to the triangle’s sides relative to the angle you are working with.  \n- **Practice identifying opposite, adjacent, and hypotenuse sides** for different angles in various triangles.  \n- **Use a calculator proficiently** to compute trigonometric values and their inverses accurately.  \n- **Draw diagrams for every problem** to visualize the triangle and label sides and angles clearly.  \n- **Check your answers for reasonableness**, especially when dealing with angles (they should be between 0° and 90° in right triangles).\n\n---\n\n### Recommended Exercises\n\n- **Basic ratio problems:** Given one angle and one side, find another side using sine, cosine, or tangent.  \n- **Angle finding problems:** Given two sides, use inverse trig functions to find the missing angle.  \n- **Word problems:** Apply trigonometry to real-life scenarios involving heights and distances.  \n- **Mixed problems:** Combine the Pythagorean theorem and trigonometric ratios to solve for unknowns.  \n- **Practice with different angles:** Work on problems involving acute angles other than the commonly used 30°, 45°, and 60° to build flexibility.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Confusing opposite and adjacent sides:** Always define these relative to the angle you are focusing on, not the right angle.  \n- **Using the wrong trigonometric ratio:** Double-check which sides you know and which you need before choosing sine, cosine, or tangent.  \n- **Ignoring the hypotenuse:** Remember that sine and cosine always involve the hypotenuse, while tangent does not.  \n- **Forgetting to use inverse functions when finding angles:** Use sin⁻¹, cos⁻¹, or tan⁻¹ only when the angle is unknown.  \n- **Rounding too early:** Keep values in your calculator until the final step to avoid compounding rounding errors.  \n- **Not labeling diagrams:** This can lead to confusion about which sides correspond to which parts of the triangle.\n\n---\n\nBy mastering these concepts and practicing a variety of problems, students will be well-prepared to tackle right triangle trigonometry questions confidently on exams."
+                                                }
+                                            ],
+                                            "priority": "12"
+                                        },
+                                        {
+                                            "priority_index": 0.6504166666666666,
+                                            "name": "Linear inequalities in one or two variables",
+                                            "question_weight": 3.78,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Linear inequalities in one or two variables",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:algebra-easier/x0fcc98a58ba3bea7:linear-inequality-word-problems-easier/a/v2-sat-lesson-linear-inequality-word-problems"
+                                                    ],
+                                                    "summary": "**Summary: Understanding and Solving Linear Inequality Word Problems**\n\n---\n\n### Overview\n\nThis summary focuses on solving linear inequality word problems, a key topic in algebra and standardized tests like the SAT. Linear inequalities involve expressions where one side is less than, greater than, less than or equal to, or greater than or equal to the other side. Word problems require translating real-life situations into these inequalities and then solving them to find the range of possible solutions.\n\n---\n\n### Key Concepts and Techniques\n\n1. **Understanding Linear Inequalities**  \n   - A linear inequality looks similar to a linear equation but uses inequality signs: `<`, `>`, `≤`, or `≥` instead of `=`.\n   - Solutions to inequalities are ranges or intervals, not just single values.\n\n2. **Translating Word Problems into Inequalities**  \n   - Identify the variable representing the unknown quantity.\n   - Carefully read the problem to understand the relationship described.\n   - Convert phrases like \"at least,\" \"no more than,\" \"greater than,\" or \"less than\" into inequality symbols.\n   - Set up the inequality reflecting the problem’s conditions.\n\n3. **Solving the Inequality**  \n   - Use algebraic operations (addition, subtraction, multiplication, division) to isolate the variable.\n   - Remember: when multiplying or dividing both sides by a negative number, reverse the inequality sign.\n   - Express the solution as an inequality or interval.\n\n4. **Interpreting the Solution in Context**  \n   - Translate the mathematical solution back into the problem’s context.\n   - Check if the solution makes sense logically (e.g., negative values might not be valid if the variable represents a quantity like time or number of items).\n\n---\n\n### Actionable Study Tips\n\n- **Practice translating phrases into inequalities:** Focus on common keywords and their corresponding inequality symbols.\n- **Work step-by-step:** Write down each step clearly to avoid mistakes, especially when manipulating inequalities.\n- **Pay attention to sign changes:** Always remember to flip the inequality sign when multiplying or dividing by a negative number.\n- **Check your answers:** Substitute values from your solution range back into the original inequality to verify correctness.\n- **Use number lines:** Visualizing solutions on a number line can help understand the range of possible values.\n\n---\n\n### Recommended Exercises\n\n- **Basic translation exercises:** Convert simple word phrases into inequalities.\n- **Solving inequalities:** Practice isolating variables in inequalities with one variable.\n- **Word problem sets:** Solve problems involving real-life contexts such as budgeting, distance, or quantity constraints.\n- **Graphing solutions:** Plot solution sets on number lines to reinforce understanding of intervals.\n- **Mixed practice:** Combine equations and inequalities to strengthen problem-solving flexibility.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Forgetting to flip the inequality sign:** This is a frequent error when multiplying or dividing by negative numbers.\n- **Misinterpreting problem wording:** Words like \"at least\" (≥) and \"more than\" (>) can be confusing; ensure correct translation.\n- **Treating inequalities like equations:** Inequalities represent ranges, so solutions are not single numbers.\n- **Ignoring domain restrictions:** Some problems require solutions to be non-negative or integers; always consider these limits.\n- **Skipping verification:** Not checking if the solution fits the original problem can lead to incorrect conclusions.\n\n---\n\nBy mastering these concepts and practicing regularly, students will be well-prepared to tackle linear inequality word problems confidently and accurately on exams."
+                                                }
+                                            ],
+                                            "priority": "13"
+                                        },
+                                        {
+                                            "priority_index": 0.6088474025974027,
+                                            "name": "Nonlinear equations in one variable and systems of equations in two variables",
+                                            "question_weight": 10.8,
+                                            "educational_resources": [
+                                                {
+                                                    "name": "Nonlinear equations in one variable and systems of equations in two variables",
+                                                    "link": [
+                                                        "https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:advanced-math-easier/x0fcc98a58ba3bea7:linear-and-quadratic-systems-easier/a/v2-sat-lesson-linear-and-quadratic-systems"
+                                                    ],
+                                                    "summary": "**Summary: Solving Systems of Linear and Quadratic Equations**\n\n---\n\n### Overview\n\nThis topic focuses on solving systems that include one linear equation and one quadratic equation simultaneously. Such systems are common in algebra and appear frequently in standardized tests like the SAT. Understanding how to find the points where a line and a parabola intersect is essential for mastering these problems.\n\n---\n\n### Key Concepts and Techniques\n\n1. **System Components:**\n   - A **linear equation** represents a straight line (e.g., \\( y = mx + b \\)).\n   - A **quadratic equation** represents a parabola (e.g., \\( y = ax^2 + bx + c \\)).\n\n2. **Goal:**\n   - Find all points \\((x, y)\\) that satisfy both equations simultaneously — these are the intersection points of the line and the parabola.\n\n3. **Method: Substitution**\n   - Since the linear equation is often solved for \\( y \\), substitute this expression into the quadratic equation.\n   - This substitution transforms the system into a single quadratic equation in terms of \\( x \\).\n\n4. **Solving the Quadratic:**\n   - After substitution, simplify and solve the quadratic equation using factoring, completing the square, or the quadratic formula.\n   - The solutions for \\( x \\) correspond to the \\( x \\)-coordinates of the intersection points.\n\n5. **Finding \\( y \\):**\n   - Plug each \\( x \\)-value back into the linear equation to find the corresponding \\( y \\)-values.\n\n6. **Number of Solutions:**\n   - The quadratic equation may have:\n     - Two distinct real solutions (two intersection points),\n     - One real solution (the line is tangent to the parabola),\n     - No real solutions (the line does not intersect the parabola).\n\n7. **Interpreting Results:**\n   - Each solution pair \\((x, y)\\) represents a point where the line and parabola meet.\n   - Understanding the nature of these solutions helps in graphing and analyzing the system.\n\n---\n\n### Study Tips\n\n- **Master substitution:** Practice isolating variables and substituting expressions carefully to avoid algebraic errors.\n- **Review quadratic solving methods:** Be comfortable with factoring, quadratic formula, and completing the square.\n- **Check your solutions:** Always substitute your answers back into both original equations to verify correctness.\n- **Understand the graph:** Visualize how a line and parabola can intersect to better grasp the meaning of solutions.\n- **Practice interpreting discriminants:** The discriminant of the quadratic after substitution indicates the number of intersection points.\n\n---\n\n### Recommended Exercises\n\n- Solve systems where the linear equation is given in slope-intercept form and the quadratic in standard form.\n- Practice substitution with different types of quadratic equations (e.g., with positive and negative leading coefficients).\n- Work on problems that require interpreting the number of solutions based on the discriminant.\n- Graph systems to confirm algebraic solutions visually.\n- Try word problems involving real-world scenarios modeled by linear and quadratic systems.\n\n---\n\n### Common Mistakes to Avoid\n\n- **Forgetting to substitute correctly:** Mixing up variables or substituting into the wrong equation leads to errors.\n- **Ignoring extraneous solutions:** Sometimes solving the quadratic yields solutions that don’t satisfy the original system; always check answers.\n- **Misapplying the quadratic formula:** Ensure correct use of signs and arithmetic when applying the formula.\n- **Overlooking the discriminant:** Not analyzing the discriminant can cause confusion about the number of solutions.\n- **Not simplifying fully:** Failing to simplify expressions before solving can make the problem harder than necessary.\n\n---\n\nBy understanding these concepts and practicing systematically, students can confidently solve systems involving linear and quadratic equations and apply these skills effectively in exams."
+                                                }
+                                            ],
+                                            "priority": "14"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

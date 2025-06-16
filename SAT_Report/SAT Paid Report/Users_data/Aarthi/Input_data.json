@@ -1,0 +1,1031 @@
+{
+	"report": {
+		"user": {
+			"user_id": "786be4c1-e143-47e2-84a2-8f47f3d41382",
+			"preferred_name": "Aarthi",
+			"email": "njkondras@gmail.com",
+			"grade": "10th",
+			"goal_score": 1590,
+			"planned_sat_date": "2025-06-30",
+			"persona_id": "2438bf4e-1dc2-4784-af6e-b4ffd64993f7",
+			"has_paid_access": false
+		},
+		"persona": {
+			"persona_id": "2438bf4e-1dc2-4784-af6e-b4ffd64993f7",
+			"persona_name": "Persistent Hiker",
+			"key_strengths": [
+				"Persistent Hikers are balanced learners who prioritize well-being, emotional stability, and sustainable growth. They often take a steady, stress-free approach to studying, valuing long-term consistency over short-term pressure. These students are self-aware and mature, often prioritizing mental health without losing sight of their academic goals. They are calm in the face of academic stress and prefer harmony in their learning environments. They are thoughtful and deliberate, often serving as mediators or supportive figures in group settings."
+			],
+			"areas_of_improvement": [
+				"Because they avoid stress and conflict, Persistent Hikers may also avoid academic pressure or challenges that stretch their limits. They may coast through topics that require more active struggle, choosing comfort over growth. This can lead to plateaus in performance and a sense of underachievement, even when the potential is high. They may also resist competition or intense prep methods, feeling that they disrupt their inner balance."
+			],
+			"growth_strategies": "Encourage micro-challenges that gradually push the student beyond their comfort zone. Gamify the learning process with levels of difficulty and reward progress with recognition and small wins. Frame challenges as opportunities for growth, not confrontation. Help them reflect on the difference between peace and complacency—true balance comes from knowing when to push. Pair them with slightly more intense peers for occasional group challenges to boost motivation and momentum.",
+			"famous_person": "Keanu Reeves",
+			"inspirational_story": "Keanu Reeves is a classic Persistent Hiker. Known for his calm demeanor, empathy, and grounded approach to fame, Reeves has built a career of consistent excellence without the drama often associated with Hollywood. He’s respected not just for his talent, but for his humility and resilience. Reeves faced enormous personal losses early in his life, including the death of his best friend and his partner. Despite this, he continued working, learning, and supporting others quietly. He avoids media frenzy and instead focuses on meaningful work. While he may not chase awards or compete for the spotlight, his dedication has led to cult classics like The Matrix and John Wick franchises.Persistent Hikers can see in Reeves a reflection of themselves: success doesn’t always require noise. But when challenge arises, facing it with quiet determination and growth-mindedness can lead to deeply meaningful success.",
+			"quote": "Strength doesn’t always roar—sometimes it whispers, ‘try again tomorrow.",
+			"user_persona_scores": {
+				"motivation_self_regulation": 3.0,
+				"mindset_learning_values": 3.3,
+				"self_efficacy": 3.7,
+				"anxiety_management": 2.3
+			}
+		},
+		"sat_readiness_report": {
+			"report_title": "SAT Readiness Analytics Dashboard",
+			"sat_score": 1520,
+			"accuracy_index": 88,
+			"time_management": 56,
+			"tabs": [
+				{
+					"tab_name": "Overall Assessment",
+					"subjects": [
+						{
+							"subject": "RW",
+							"subject_title": "Reading & Writing",
+							"sections": [
+								{
+									"section_title": "Domain Performance (Overall)",
+									"section_details": [
+										{
+											"weightage": 91,
+											"name": "Information and Ideas"
+										},
+										{
+											"weightage": 87,
+											"name": "Craft and Structure"
+										},
+										{
+											"weightage": 83,
+											"name": "Standard English Conventions"
+										},
+										{
+											"weightage": 82,
+											"name": "Expression of Ideas"
+										}
+									]
+								},
+								{
+									"section_title": "Skill Performance (Overall)",
+									"section_details": [
+										{
+											"weightage": 100,
+											"is_top": true,
+											"name": "Command of Evidence - Quantitative"
+										},
+										{
+											"weightage": 95,
+											"is_top": true,
+											"name": "Cross-text Connections"
+										},
+										{
+											"weightage": 94,
+											"is_top": true,
+											"name": "Rhetorical Synthesis"
+										},
+										{
+											"weightage": 76,
+											"is_top": false,
+											"name": "Form, Structure, and Sense"
+										},
+										{
+											"weightage": 74,
+											"is_top": false,
+											"name": "Words in Context"
+										},
+										{
+											"weightage": 71,
+											"is_top": false,
+											"name": "Transitions"
+										}
+									]
+								}
+							]
+						},
+						{
+							"subject": "Math",
+							"subject_title": "Math",
+							"sections": [
+								{
+									"section_title": "Domain Performance (Overall)",
+									"section_details": [
+										{
+											"weightage": 81,
+											"name": "Advanced Math"
+										},
+										{
+											"weightage": 78,
+											"name": "Problem-Solving and Data Analysis"
+										},
+										{ "weightage": 76, "name": "Algebra" },
+										{
+											"weightage": 63,
+											"name": "Geometry and Trigonometry"
+										}
+									]
+								},
+								{
+									"section_title": "Skill Performance (Overall)",
+									"section_details": [
+										{
+											"weightage": 84,
+											"is_top": true,
+											"name": "Linear functions"
+										},
+										{
+											"weightage": 83,
+											"is_top": true,
+											"name": "Nonlinear equations in one variable and systems of equations in two variables"
+										},
+										{
+											"weightage": 81,
+											"is_top": true,
+											"name": "Equivalent expressions"
+										},
+										{
+											"weightage": 70,
+											"is_top": false,
+											"name": "Linear equations in two variables"
+										},
+										{
+											"weightage": 69,
+											"is_top": false,
+											"name": "Area and volume"
+										},
+										{
+											"weightage": 45,
+											"is_top": false,
+											"name": "Right triangles and trigonometry"
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"tab_name": "Accuracy Assessment",
+					"subjects": [
+						{
+							"subject": "RW",
+							"subject_title": "Reading & Writing",
+							"sections": [
+								{
+									"section_title": "Domain Performance (Accuracy)",
+									"section_details": [
+										{
+											"accuracy": 97,
+											"name": "Information and Ideas"
+										},
+										{
+											"accuracy": 87,
+											"name": "Standard English Conventions"
+										},
+										{
+											"accuracy": 87,
+											"name": "Craft and Structure"
+										},
+										{
+											"accuracy": 81,
+											"name": "Expression of Ideas"
+										}
+									]
+								},
+								{
+									"section_title": "Skill Performance (Accuracy)",
+									"section_details": [
+										{
+											"accuracy": 100,
+											"is_top": true,
+											"name": "Central Ideas and Details",
+											"correct_answers": 10,
+											"incorrect_answers": 0,
+											"total_questions": 10
+										},
+										{
+											"accuracy": 100,
+											"is_top": true,
+											"name": "Inferences",
+											"correct_answers": 13,
+											"incorrect_answers": 0,
+											"total_questions": 13
+										},
+										{
+											"accuracy": 100,
+											"is_top": true,
+											"name": "Command of Evidence - Quantitative",
+											"correct_answers": 16,
+											"incorrect_answers": 0,
+											"total_questions": 16
+										},
+										{
+											"accuracy": 93,
+											"is_top": true,
+											"name": "Cross-text Connections",
+											"correct_answers": 8,
+											"incorrect_answers": 1,
+											"total_questions": 9
+										},
+										{
+											"accuracy": 93,
+											"is_top": true,
+											"name": "Text Structure and Purpose",
+											"correct_answers": 13,
+											"incorrect_answers": 1,
+											"total_questions": 14
+										},
+										{
+											"accuracy": 92,
+											"is_top": true,
+											"name": "Boundaries",
+											"correct_answers": 12,
+											"incorrect_answers": 1,
+											"total_questions": 13
+										},
+										{
+											"accuracy": 92,
+											"is_top": true,
+											"name": "Rhetorical Synthesis",
+											"correct_answers": 16,
+											"incorrect_answers": 3,
+											"total_questions": 19
+										},
+										{
+											"accuracy": 89,
+											"is_top": true,
+											"name": "Command of Evidence - Textual",
+											"correct_answers": 11,
+											"incorrect_answers": 1,
+											"total_questions": 12
+										},
+										{
+											"accuracy": 83,
+											"is_top": false,
+											"name": "Form, Structure, and Sense",
+											"correct_answers": 17,
+											"incorrect_answers": 3,
+											"total_questions": 20
+										},
+										{
+											"accuracy": 74,
+											"is_top": false,
+											"name": "Words in Context",
+											"correct_answers": 18,
+											"incorrect_answers": 6,
+											"total_questions": 24
+										},
+										{
+											"accuracy": 70,
+											"is_top": false,
+											"name": "Transitions",
+											"correct_answers": 10,
+											"incorrect_answers": 4,
+											"total_questions": 14
+										}
+									]
+								}
+							]
+						},
+						{
+							"subject": "Math",
+							"subject_title": "Math",
+							"sections": [
+								{
+									"section_title": "Domain Performance (Accuracy)",
+									"section_details": [
+										{
+											"accuracy": 94,
+											"name": "Advanced Math"
+										},
+										{ "accuracy": 92, "name": "Algebra" },
+										{
+											"accuracy": 91,
+											"name": "Problem-Solving and Data Analysis"
+										},
+										{
+											"accuracy": 77,
+											"name": "Geometry and Trigonometry"
+										}
+									]
+								},
+								{
+									"section_title": "Skill Performance (Accuracy)",
+									"section_details": [
+										{
+											"accuracy": 100,
+											"is_top": true,
+											"name": "Linear functions",
+											"correct_answers": 14,
+											"incorrect_answers": 0,
+											"total_questions": 14
+										},
+										{
+											"accuracy": 100,
+											"is_top": true,
+											"name": "Equivalent expressions",
+											"correct_answers": 12,
+											"incorrect_answers": 0,
+											"total_questions": 12
+										},
+										{
+											"accuracy": 100,
+											"is_top": true,
+											"name": "Linear equations in one variable",
+											"correct_answers": 10,
+											"incorrect_answers": 0,
+											"total_questions": 10
+										},
+										{
+											"accuracy": 100,
+											"is_top": true,
+											"name": "Ratios, rates, proportional relationships, and units",
+											"correct_answers": 9,
+											"incorrect_answers": 0,
+											"total_questions": 9
+										},
+										{
+											"accuracy": 93,
+											"is_top": true,
+											"name": "Nonlinear equations in one variable and systems of equations in two variables",
+											"correct_answers": 15,
+											"incorrect_answers": 1,
+											"total_questions": 16
+										},
+										{
+											"accuracy": 93,
+											"is_top": true,
+											"name": "Lines, angles, and triangles",
+											"correct_answers": 8,
+											"incorrect_answers": 1,
+											"total_questions": 9
+										},
+										{
+											"accuracy": 89,
+											"is_top": true,
+											"name": "Nonlinear functions",
+											"correct_answers": 13,
+											"incorrect_answers": 1,
+											"total_questions": 14
+										},
+										{
+											"accuracy": 89,
+											"is_top": true,
+											"name": "Linear inequalities in one or two variables",
+											"correct_answers": 10,
+											"incorrect_answers": 1,
+											"total_questions": 11
+										},
+										{
+											"accuracy": 89,
+											"is_top": true,
+											"name": "Percentages",
+											"correct_answers": 6,
+											"incorrect_answers": 1,
+											"total_questions": 7
+										},
+										{
+											"accuracy": 88,
+											"is_top": true,
+											"name": "Systems of two linear equations in two variables",
+											"correct_answers": 16,
+											"incorrect_answers": 4,
+											"total_questions": 20
+										},
+										{
+											"accuracy": 83,
+											"is_top": true,
+											"name": "Linear equations in two variables",
+											"correct_answers": 15,
+											"incorrect_answers": 2,
+											"total_questions": 17
+										},
+										{
+											"accuracy": 83,
+											"is_top": false,
+											"name": "Area and volume",
+											"correct_answers": 9,
+											"incorrect_answers": 4,
+											"total_questions": 13
+										},
+										{
+											"accuracy": 83,
+											"is_top": false,
+											"name": "One-variable data: Distributions and measures of center and spread",
+											"correct_answers": 7,
+											"incorrect_answers": 1,
+											"total_questions": 8
+										},
+										{
+											"accuracy": 54,
+											"is_top": false,
+											"name": "Right triangles and trigonometry",
+											"correct_answers": 6,
+											"incorrect_answers": 4,
+											"total_questions": 10
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"tab_name": "Time Factor Assessment",
+					"subjects": [
+						{
+							"subject": "RW",
+							"subject_title": "Reading & Writing",
+							"sections": [
+								{
+									"section_title": "Domain Performance (Time Factor)",
+									"section_details": [
+										{
+											"time_factor": 87,
+											"name": "Expression of Ideas"
+										},
+										{
+											"time_factor": 86,
+											"name": "Craft and Structure"
+										},
+										{
+											"time_factor": 74,
+											"name": "Information and Ideas"
+										},
+										{
+											"time_factor": 69,
+											"name": "Standard English Conventions"
+										}
+									]
+								},
+								{
+									"section_title": "Skill Performance (Time Factor)",
+									"section_details": [
+										{
+											"time_factor": 100,
+											"is_top": true,
+											"name": "Rhetorical Synthesis",
+											"above_optimal_answers": 0,
+											"below_optimal_answers": 0,
+											"optimal_answers": 16,
+											"above_optimal_percentage": 0,
+											"below_optimal_percentage": 0,
+											"optimal_percentage": 100
+										},
+										{
+											"time_factor": 100,
+											"is_top": true,
+											"name": "Command of Evidence - Quantitative",
+											"above_optimal_answers": 0,
+											"below_optimal_answers": 0,
+											"optimal_answers": 16,
+											"above_optimal_percentage": 0,
+											"below_optimal_percentage": 0,
+											"optimal_percentage": 100
+										},
+										{
+											"time_factor": 100,
+											"is_top": true,
+											"name": "Cross-text Connections",
+											"above_optimal_answers": 0,
+											"below_optimal_answers": 0,
+											"optimal_answers": 8,
+											"above_optimal_percentage": 0,
+											"below_optimal_percentage": 0,
+											"optimal_percentage": 100
+										},
+										{
+											"time_factor": 95,
+											"is_top": true,
+											"name": "Command of Evidence - Textual",
+											"above_optimal_answers": 0,
+											"below_optimal_answers": 1,
+											"optimal_answers": 10,
+											"above_optimal_percentage": 0,
+											"below_optimal_percentage": 9,
+											"optimal_percentage": 91
+										},
+										{
+											"time_factor": 85,
+											"is_top": true,
+											"name": "Boundaries",
+											"above_optimal_answers": 0,
+											"below_optimal_answers": 2,
+											"optimal_answers": 10,
+											"above_optimal_percentage": 0,
+											"below_optimal_percentage": 17,
+											"optimal_percentage": 83
+										},
+										{
+											"time_factor": 85,
+											"is_top": true,
+											"name": "Text Structure and Purpose",
+											"above_optimal_answers": 0,
+											"below_optimal_answers": 2,
+											"optimal_answers": 11,
+											"above_optimal_percentage": 0,
+											"below_optimal_percentage": 15,
+											"optimal_percentage": 85
+										},
+										{
+											"time_factor": 75,
+											"is_top": true,
+											"name": "Transitions",
+											"above_optimal_answers": 0,
+											"below_optimal_answers": 2,
+											"optimal_answers": 8,
+											"above_optimal_percentage": 0,
+											"below_optimal_percentage": 20,
+											"optimal_percentage": 80
+										},
+										{
+											"time_factor": 74,
+											"is_top": true,
+											"name": "Words in Context",
+											"above_optimal_answers": 1,
+											"below_optimal_answers": 3,
+											"optimal_answers": 14,
+											"above_optimal_percentage": 6,
+											"below_optimal_percentage": 17,
+											"optimal_percentage": 78
+										},
+										{
+											"time_factor": 54,
+											"is_top": false,
+											"name": "Central Ideas and Details",
+											"above_optimal_answers": 1,
+											"below_optimal_answers": 3,
+											"optimal_answers": 6,
+											"above_optimal_percentage": 10,
+											"below_optimal_percentage": 30,
+											"optimal_percentage": 60
+										},
+										{
+											"time_factor": 53,
+											"is_top": false,
+											"name": "Form, Structure, and Sense",
+											"above_optimal_answers": 1,
+											"below_optimal_answers": 7,
+											"optimal_answers": 9,
+											"above_optimal_percentage": 6,
+											"below_optimal_percentage": 41,
+											"optimal_percentage": 53
+										},
+										{
+											"time_factor": 47,
+											"is_top": false,
+											"name": "Inferences",
+											"above_optimal_answers": 1,
+											"below_optimal_answers": 6,
+											"optimal_answers": 6,
+											"above_optimal_percentage": 8,
+											"below_optimal_percentage": 46,
+											"optimal_percentage": 46
+										}
+									]
+								}
+							]
+						},
+						{
+							"subject": "Math",
+							"subject_title": "Math",
+							"sections": [
+								{
+									"section_title": "Domain Performance (Time Factor)",
+									"section_details": [
+										{
+											"time_factor": 42,
+											"name": "Problem-Solving and Data Analysis"
+										},
+										{
+											"time_factor": 41,
+											"name": "Advanced Math"
+										},
+										{
+											"time_factor": 27,
+											"name": "Algebra"
+										},
+										{
+											"time_factor": 20,
+											"name": "Geometry and Trigonometry"
+										}
+									]
+								},
+								{
+									"section_title": "Skill Performance (Time Factor)",
+									"section_details": [
+										{
+											"time_factor": 67,
+											"is_top": true,
+											"name": "One-variable data: Distributions and measures of center and spread",
+											"above_optimal_answers": 0,
+											"below_optimal_answers": 3,
+											"optimal_answers": 4,
+											"above_optimal_percentage": 0,
+											"below_optimal_percentage": 43,
+											"optimal_percentage": 57
+										},
+										{
+											"time_factor": 52,
+											"is_top": true,
+											"name": "Nonlinear equations in one variable and systems of equations in two variables",
+											"above_optimal_answers": 3,
+											"below_optimal_answers": 4,
+											"optimal_answers": 8,
+											"above_optimal_percentage": 20,
+											"below_optimal_percentage": 27,
+											"optimal_percentage": 53
+										},
+										{
+											"time_factor": 50,
+											"is_top": true,
+											"name": "Percentages",
+											"above_optimal_answers": 0,
+											"below_optimal_answers": 3,
+											"optimal_answers": 3,
+											"above_optimal_percentage": 0,
+											"below_optimal_percentage": 50,
+											"optimal_percentage": 50
+										},
+										{
+											"time_factor": 47,
+											"is_top": true,
+											"name": "Nonlinear functions",
+											"above_optimal_answers": 0,
+											"below_optimal_answers": 7,
+											"optimal_answers": 6,
+											"above_optimal_percentage": 0,
+											"below_optimal_percentage": 54,
+											"optimal_percentage": 46
+										},
+										{
+											"time_factor": 42,
+											"is_top": true,
+											"name": "Systems of two linear equations in two variables",
+											"above_optimal_answers": 2,
+											"below_optimal_answers": 7,
+											"optimal_answers": 7,
+											"above_optimal_percentage": 12,
+											"below_optimal_percentage": 44,
+											"optimal_percentage": 44
+										},
+										{
+											"time_factor": 37,
+											"is_top": true,
+											"name": "Linear functions",
+											"above_optimal_answers": 0,
+											"below_optimal_answers": 8,
+											"optimal_answers": 6,
+											"above_optimal_percentage": 0,
+											"below_optimal_percentage": 57,
+											"optimal_percentage": 43
+										},
+										{
+											"time_factor": 30,
+											"is_top": true,
+											"name": "Linear equations in two variables",
+											"above_optimal_answers": 1,
+											"below_optimal_answers": 8,
+											"optimal_answers": 6,
+											"above_optimal_percentage": 7,
+											"below_optimal_percentage": 53,
+											"optimal_percentage": 40
+										},
+										{
+											"time_factor": 28,
+											"is_top": true,
+											"name": "Area and volume",
+											"above_optimal_answers": 0,
+											"below_optimal_answers": 6,
+											"optimal_answers": 3,
+											"above_optimal_percentage": 0,
+											"below_optimal_percentage": 67,
+											"optimal_percentage": 33
+										},
+										{
+											"time_factor": 25,
+											"is_top": true,
+											"name": "Linear inequalities in one or two variables",
+											"above_optimal_answers": 0,
+											"below_optimal_answers": 7,
+											"optimal_answers": 3,
+											"above_optimal_percentage": 0,
+											"below_optimal_percentage": 70,
+											"optimal_percentage": 30
+										},
+										{
+											"time_factor": 24,
+											"is_top": true,
+											"name": "Equivalent expressions",
+											"above_optimal_answers": 1,
+											"below_optimal_answers": 8,
+											"optimal_answers": 3,
+											"above_optimal_percentage": 8,
+											"below_optimal_percentage": 67,
+											"optimal_percentage": 25
+										},
+										{
+											"time_factor": 17,
+											"is_top": true,
+											"name": "Lines, angles, and triangles",
+											"above_optimal_answers": 2,
+											"below_optimal_answers": 5,
+											"optimal_answers": 1,
+											"above_optimal_percentage": 26,
+											"below_optimal_percentage": 62,
+											"optimal_percentage": 12
+										},
+										{
+											"time_factor": 17,
+											"is_top": false,
+											"name": "Right triangles and trigonometry",
+											"above_optimal_answers": 2,
+											"below_optimal_answers": 2,
+											"optimal_answers": 2,
+											"above_optimal_percentage": 34,
+											"below_optimal_percentage": 33,
+											"optimal_percentage": 33
+										},
+										{
+											"time_factor": 8,
+											"is_top": false,
+											"name": "Ratios, rates, proportional relationships, and units",
+											"above_optimal_answers": 0,
+											"below_optimal_answers": 8,
+											"optimal_answers": 1,
+											"above_optimal_percentage": 0,
+											"below_optimal_percentage": 89,
+											"optimal_percentage": 11
+										},
+										{
+											"time_factor": 0,
+											"is_top": false,
+											"name": "Linear equations in one variable",
+											"above_optimal_answers": 0,
+											"below_optimal_answers": 10,
+											"optimal_answers": 0,
+											"above_optimal_percentage": 0,
+											"below_optimal_percentage": 100,
+											"optimal_percentage": 0
+										}
+									]
+								}
+							]
+						}
+					]
+				},
+				{
+					"tab_name": "Focus Area",
+					"subjects": [
+						{
+							"subject": "RW",
+							"subject_title": "Reading & Writing",
+							"sections": [
+								{
+									"section_title": "Targeted Skill Refinement: Enhancing Efficiency & Accuracy in SAT Reading & Writing",
+									"section_details": [
+										{
+											"priority_index": 4.002723214285714,
+											"name": "Words in Context",
+											"question_weight": 17.16,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-craft-and-structure/x0d47bcec73eb6c4b:words-in-context/a/words-in-context-lesson"
+											],
+											"priority": "01"
+										},
+										{
+											"priority_index": 3.184,
+											"name": "Transitions",
+											"question_weight": 9.59,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-expression-of-ideas-and-standard-english-conventions/x0d47bcec73eb6c4b:transitions/a/transitions-lesson"
+											],
+											"priority": "02"
+										},
+										{
+											"priority_index": 2.42625,
+											"name": "Form, Structure, and Sense",
+											"question_weight": 12.09,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-expression-of-ideas-and-standard-english-conventions/x0d47bcec73eb6c4b:form-structure-and-sense/a/form-structure-and-sense-overview"
+											],
+											"priority": "03"
+										},
+										{
+											"priority_index": 1.612625,
+											"name": "Boundaries",
+											"question_weight": 13.91,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-expression-of-ideas-and-standard-english-conventions/x0d47bcec73eb6c4b:boundaries/a/boundaries-overview"
+											],
+											"priority": "04"
+										},
+										{
+											"priority_index": 0.8582142857142858,
+											"name": "Command of Evidence - Textual",
+											"question_weight": 9.09,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-information-and-ideas/x0d47bcec73eb6c4b:command-of-evidence-textual/a/command-of-evidence-textual-lesson"
+											],
+											"priority": "05"
+										},
+										{
+											"priority_index": 0.8139999999999998,
+											"name": "Text Structure and Purpose",
+											"question_weight": 8.03,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-craft-and-structure/x0d47bcec73eb6c4b:text-structure-and-purpose/a/text-structure-and-purpose-lesson"
+											],
+											"priority": "06"
+										},
+										{
+											"priority_index": 0.7597500000000001,
+											"name": "Central Ideas and Details",
+											"question_weight": 6.3,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-information-and-ideas/x0d47bcec73eb6c4b:central-ideas-and-details/a/central-ideas-and-details-lesson"
+											],
+											"priority": "07"
+										},
+										{
+											"priority_index": 0.7244999999999999,
+											"name": "Inferences",
+											"question_weight": 6.21,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-information-and-ideas/x0d47bcec73eb6c4b:inferences/a/inferences-lesson"
+											],
+											"priority": "08"
+										},
+										{
+											"priority_index": 0.44062500000000004,
+											"name": "Rhetorical Synthesis",
+											"question_weight": 10.9,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-expression-of-ideas-and-standard-english-conventions/x0d47bcec73eb6c4b:rhetorical-synthesis/a/rhetorical-synthesis-lesson"
+											],
+											"priority": "09"
+										},
+										{
+											"priority_index": 0.03149999999999999,
+											"name": "Cross-text Connections",
+											"question_weight": 2.31,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-craft-and-structure/x0d47bcec73eb6c4b:cross-text-connections/a/cross-text-connections-lesson"
+											],
+											"priority": "10"
+										},
+										{
+											"priority_index": 0.0,
+											"name": "Command of Evidence - Quantitative",
+											"question_weight": 4.41,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/sat-reading-and-writing/x0d47bcec73eb6c4b:foundations-information-and-ideas/x0d47bcec73eb6c4b:command-of-evidence-quantitative/a/command-of-evidence-quantitative-lesson"
+											],
+											"priority": "11"
+										}
+									]
+								}
+							]
+						},
+						{
+							"subject": "Math",
+							"subject_title": "Math",
+							"sections": [
+								{
+									"section_title": "Optimizing Problem-Solving: Strengthening Core SAT Math Skills for Maximum Impact",
+									"section_details": [
+										{
+											"priority_index": 4.11,
+											"name": "Nonlinear functions",
+											"question_weight": 18.72,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:advanced-math-easier/x0fcc98a58ba3bea7:nonlinear-functions-easier/a/v2-sat-lesson-nonlinear-functions"
+											],
+											"priority": "01"
+										},
+										{
+											"priority_index": 2.18475,
+											"name": "Linear equations in two variables",
+											"question_weight": 8.15,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:algebra-easier/x0fcc98a58ba3bea7:systems-of-linear-equations-word-problems-easier/a/v2-sat-lesson-systems-of-linear-equations-word-problems"
+											],
+											"priority": "02"
+										},
+										{
+											"priority_index": 1.6819642857142856,
+											"name": "Nonlinear equations in one variable and systems of equations in two variables",
+											"question_weight": 10.8,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:advanced-math-easier/x0fcc98a58ba3bea7:linear-and-quadratic-systems-easier/a/v2-sat-lesson-linear-and-quadratic-systems"
+											],
+											"priority": "03"
+										},
+										{
+											"priority_index": 1.6640844155844154,
+											"name": "Systems of two linear equations in two variables",
+											"question_weight": 6.89,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:algebra-easier/x0fcc98a58ba3bea7:solving-systems-of-linear-equations-easier/a/v2-sat-lesson-solving-systems-of-linear-equations"
+											],
+											"priority": "04"
+										},
+										{
+											"priority_index": 1.55825,
+											"name": "Right triangles and trigonometry",
+											"question_weight": 2.73,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:geometry-and-trigonometry-easier/x0fcc98a58ba3bea7:right-triangle-trigonometry-easier/a/v2-sat-lesson-right-triangle-trigonometry"
+											],
+											"priority": "05"
+										},
+										{
+											"priority_index": 1.5425,
+											"name": "Area and volume",
+											"question_weight": 5.15,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:geometry-and-trigonometry-easier/x0fcc98a58ba3bea7:area-and-volume-easier/a/v2-sat-lesson-area-and-volume"
+											],
+											"priority": "06"
+										},
+										{
+											"priority_index": 1.5025,
+											"name": "Linear equations in one variable",
+											"question_weight": 6.01,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:algebra-easier/x0fcc98a58ba3bea7:solving-linear-equations-and-inequalities-easier/a/v2-sat-lesson-solving-linear-equations-and-inequalities"
+											],
+											"priority": "07"
+										},
+										{
+											"priority_index": 1.3302500000000002,
+											"name": "Linear functions",
+											"question_weight": 10.48,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:algebra-easier/x0fcc98a58ba3bea7:linear-relationship-word-problems-easier/a/v2-sat-lesson-understanding-linear-relationships"
+											],
+											"priority": "08"
+										},
+										{
+											"priority_index": 1.1320000000000001,
+											"name": "Equivalent expressions",
+											"question_weight": 6.12,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:advanced-math-easier/x0fcc98a58ba3bea7:isolating-quantities-easier/a/v2-sat-lesson-isolating-quantities"
+											],
+											"priority": "09"
+										},
+										{
+											"priority_index": 1.088,
+											"name": "Lines, angles, and triangles",
+											"question_weight": 4.52,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:geometry-and-trigonometry-easier/x0fcc98a58ba3bea7:congruence-similarity-and-angle-relationships-easier/a/v2-sat-lesson-congruence-similarity-and-angle-relationships"
+											],
+											"priority": "10"
+										},
+										{
+											"priority_index": 0.94875,
+											"name": "Ratios, rates, proportional relationships, and units",
+											"question_weight": 3.94,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:problem-solving-and-data-analysis-easier/x0fcc98a58ba3bea7:ratios-rates-and-proportions-easier/a/v2-sat-lesson-ratios-rates-and-proportions",
+												"https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:problem-solving-and-data-analysis-easier/x0fcc98a58ba3bea7:unit-conversion-easier/a/v2-sat-lesson-unit-conversion"
+											],
+											"priority": "11"
+										},
+										{
+											"priority_index": 0.89125,
+											"name": "Linear inequalities in one or two variables",
+											"question_weight": 3.78,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:algebra-easier/x0fcc98a58ba3bea7:linear-inequality-word-problems-easier/a/v2-sat-lesson-linear-inequality-word-problems"
+											],
+											"priority": "12"
+										},
+										{
+											"priority_index": 0.74,
+											"name": "Percentages",
+											"question_weight": 3.5,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:problem-solving-and-data-analysis-easier/x0fcc98a58ba3bea7:percentages-easier/a/v2-sat-lesson-percentages"
+											],
+											"priority": "13"
+										},
+										{
+											"priority_index": 0.7041666666666667,
+											"name": "One-variable data: Distributions and measures of center and spread",
+											"question_weight": 3.14,
+											"educational_resources": [
+												"https://www.khanacademy.org/test-prep/v2-sat-math/x0fcc98a58ba3bea7:problem-solving-and-data-analysis-easier/x0fcc98a58ba3bea7:center-spread-and-shape-of-distributions-easier/a/v2-sat-lesson-center-spread-and-shape-of-distributions"
+											],
+											"priority": "14"
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	}
+}

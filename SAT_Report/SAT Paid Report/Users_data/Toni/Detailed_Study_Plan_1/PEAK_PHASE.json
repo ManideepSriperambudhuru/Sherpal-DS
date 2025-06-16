@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvements in accuracy and reasoning for prioritized Math and Reading & Writing skills, steadily reduce repeat mistakes by reinforcing pattern recognition, and enhance confidence in committing to answers under timed conditions. Stabilize performance across full-length practice tests by maintaining focus and endurance, minimizing score variance, and locking in effective test strategies."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Inferences, Text Structure and Purpose, Central Ideas and Details, Command of Evidence - Quantitative, Cross-text Connections"
+                },
+                {
+                    "title": "Math",
+                    "description": "Percentages, Lines, angles, and triangles, One-variable data: Distributions and measures of center and spread, Linear inequalities in one or two variables"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Inferences": "Engage in timed inference drills where Toni reads short passages and must select the best-supported inference within a strict time limit, then immediately review the evidence to confirm accuracy, reinforcing trust in initial judgments and reducing second-guessing.",
+                        "Text Structure and Purpose": "Practice identifying text structures and author purposes by annotating passages under timed conditions, focusing on signal words and summarizing the main organizational pattern aloud to build speed and confidence in recognizing patterns quickly.",
+                        "Central Ideas and Details": "Complete exercises that require Toni to write concise summaries of passages highlighting central ideas and supporting details within a set time, followed by self-assessment against model answers to strengthen clarity and precision under pressure.",
+                        "Command of Evidence - Quantitative": "Work on interpreting embedded quantitative data by quickly locating and paraphrasing key statistics in passages, then answering evidence-based questions with immediate feedback to build accuracy and speed in connecting data to claims.",
+                        "Cross-text Connections": "Engage in paired passage comparisons focusing on identifying author tone and purpose differences through structured graphic organizers, emphasizing foundational understanding with simple, clear examples to build confidence before advancing."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Percentages": "Perform rapid-fire percentage conversion and calculation drills with a strict time cap, requiring Toni to commit to answers quickly and then review accuracy streaks to build trust in instinctual responses while maintaining precision.",
+                        "Lines, angles, and triangles": "Solve complex geometry problems involving congruence and similarity under timed conditions, emphasizing step-by-step reasoning and diagram annotation to reinforce pattern recognition and reduce hesitation in committing to solutions.",
+                        "One-variable data: Distributions and measures of center and spread": "Analyze data sets and graphs by calculating measures of center and spread within timed sessions, followed by immediate error review to solidify understanding and speed in interpreting statistical information.",
+                        "Linear inequalities in one or two variables": "Translate and solve word problems involving linear inequalities under timed practice, focusing on committing to solutions confidently and verifying correctness through quick self-checks to minimize second-guessing."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with Toni's weakest areas to prioritize improvement, midweek sessions target moderate skills to maintain momentum, Fridays are dedicated to comprehensive review of errors and strategy refinement. Saturdays include two full-length practice tests simulating real exam conditions to build endurance and speed, with detailed post-test analysis to identify patterns and reinforce confidence. Sunday serves as a Flex Day for rest, reflection, and adaptive practice aligned with Toni's growth needs."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing past errors with a focus on progress rather than mistakes, experiment with new study tools or timing techniques to discover what enhances confidence and speed, tackle mixed-skill challenge sets that encourage pattern recognition without strict timing to reduce pressure, incorporate mindfulness or light physical activity to reset cognitive energy, and set clear, achievable goals for the upcoming week to maintain motivation and self-trust."
+        }
+    ]
+}

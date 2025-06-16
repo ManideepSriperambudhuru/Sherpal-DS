@@ -1,0 +1,65 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvements in accuracy and reasoning across prioritized Reading & Writing and Math skills, steadily reduce repeat mistakes by reinforcing mastery of complex question types, enhance endurance to maintain focus and precision through full-length timed practice, stabilize performance under pressure to minimize score variance, and lock in effective test strategies to build unwavering confidence."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": [
+                        "Command of Evidence - Textual",
+                        "Central Ideas and Details",
+                        "Text Structure and Purpose",
+                        "Command of Evidence - Quantitative",
+                        "Cross-text Connections"
+                    ]
+                },
+                {
+                    "title": "Math",
+                    "description": [
+                        "Ratios, rates, proportional relationships, and units",
+                        "Equivalent expressions",
+                        "One-variable data: Distributions and measures of center and spread",
+                        "Linear inequalities in one or two variables"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Command of Evidence - Textual": "Practice paired SAT Reading questions under timed conditions focusing on identifying precise textual evidence by annotating passages and justifying answers in your own words, followed by immediate review to eliminate weak evidence choices and improve speed without sacrificing accuracy.",
+                        "Central Ideas and Details": "Engage in active reading drills where you summarize central ideas and supporting details aloud after each paragraph, then answer targeted SAT questions emphasizing distinguishing main points from minor details to sharpen comprehension and speed.",
+                        "Text Structure and Purpose": "Analyze diverse SAT passages by outlining their organizational patterns and author purposes, using signal words as markers, then answer structure and purpose questions to master recognizing text frameworks under timed conditions.",
+                        "Command of Evidence - Quantitative": "Work on SAT passages containing embedded quantitative data by first interpreting graphs and tables independently, then answering command of evidence questions that require linking numerical data to claims, practicing elimination of irrelevant data under timed settings.",
+                        "Cross-text Connections": "Practice paired passage sets by creating comparison charts that map author purposes, tones, and evidence types, then answer synthesis questions requiring integration of ideas across texts to build advanced cross-text analytical skills."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Ratios, rates, proportional relationships, and units": "Solve multi-step ratio and rate problems under timed conditions that require setting up and solving proportions with unit conversions, emphasizing clear notation and dimensional analysis to avoid common errors.",
+                        "Equivalent expressions": "Practice isolating variables in complex algebraic equations step-by-step, writing each manipulation clearly and verifying solutions by substitution, focusing on mastering the most challenging question types with speed and accuracy.",
+                        "One-variable data: Distributions and measures of center and spread": "Analyze data sets by calculating mean, median, range, and IQR, then interpret graphical representations like box plots and histograms to identify distribution shape and outliers, reinforcing core concepts through medium-difficulty problems.",
+                        "Linear inequalities in one or two variables": "Translate real-world scenarios into linear inequalities, solve them carefully with attention to sign changes, and graph solution sets on number lines, practicing the hardest problems under timed conditions to build speed and precision."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with the weakest skills to build foundational accuracy, midweek sessions target moderate skills to reinforce progress, Fridays are dedicated to comprehensive review of errors and strategy refinement, Saturdays involve two full-length timed practice tests emphasizing endurance, accuracy, and speed optimization with detailed post-test analysis, and Sundays serve as a Flex Day to rest and build adaptability."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure mixed-topic quizzes that require switching between Math and Reading & Writing skills mid-session to build cognitive flexibility, experiment with new study tools such as flashcard apps or group problem-solving sessions to break routine, reflect calmly on errors from the week to identify patterns without judgment, incorporate mindfulness or light physical activity to recharge mental stamina, and set clear, adaptable goals for the upcoming week to embrace change as a growth opportunity."
+        }
+    ]
+}

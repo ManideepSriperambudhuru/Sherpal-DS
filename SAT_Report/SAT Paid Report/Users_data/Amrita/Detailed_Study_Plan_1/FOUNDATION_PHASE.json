@@ -1,0 +1,85 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvement in accuracy and reasoning across prioritized Reading & Writing and Math skills by steadily reducing repeated errors. Establish consistent study habits that reinforce foundational understanding of nonlinear functions, linear equations, and core vocabulary in context. Build confidence through disciplined, incremental progress that addresses skill gaps without overwhelming pressure, ensuring a balanced approach to growth."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Words in Context, Boundaries, Form, Structure, and Sense"
+                },
+                {
+                    "title": "Math",
+                    "description": "Nonlinear functions, Linear equations in two variables, Systems of two linear equations in two variables, Linear inequalities in one or two variables, Nonlinear equations in one variable and systems of equations in two variables"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Words in Context": [
+                            "Engage with diverse SAT-level passages focusing on challenging vocabulary by annotating unfamiliar words and identifying context clues such as synonyms, antonyms, and contrast indicators. Paraphrase sentences containing target words to deepen understanding and avoid reliance on memorized definitions, progressively increasing difficulty to push beyond comfort zones while maintaining steady, thoughtful analysis.",
+                            "Complete sentence completion exercises that require selecting words fitting nuanced contexts, emphasizing elimination of choices that conflict with passage tone or logic. Track progress by noting small wins in accuracy and reflect on how context shapes meaning, reinforcing deliberate, calm engagement with complex vocabulary.",
+                            "Practice reading comprehension drills with passages rich in advanced vocabulary, annotating and summarizing how word meanings influence overall interpretation. Use these sessions to gamify learning by setting incremental goals for correct answers, rewarding consistent effort and mindful reflection on errors to foster sustainable growth."
+                        ],
+                        "Boundaries": [
+                            "Work through sentence correction drills that focus on identifying and fixing run-ons, comma splices, and fragments by applying punctuation and conjunction rules. Practice rewriting sentences to correctly join or separate independent clauses using periods, commas with coordinating conjunctions, semicolons, and colons, gradually increasing complexity to encourage micro-challenges that stretch precision without stress.",
+                            "Engage in punctuation placement exercises where commas, semicolons, colons, and dashes must be inserted appropriately between clauses. Read sentences aloud to internalize natural pauses and breaks, fostering deliberate awareness of sentence boundaries and reinforcing clarity in writing through calm, methodical practice.",
+                            "Complete combining sentences activities that transform simple sentences into complex or compound forms using proper boundaries. Reflect on common errors such as comma splices and run-ons, using process of elimination to select correct answers, and reward progress with recognition of improved sentence clarity and grammatical accuracy."
+                        ],
+                        "Form, Structure, and Sense": [
+                            "Practice identifying paragraph functions by labeling sections of passages as introduction, evidence, counterargument, or conclusion to understand author intent and passage form. Outline passages briefly to track structure and main ideas, focusing on medium-difficulty questions that build core skills steadily without overwhelming pressure.",
+                            "Complete reordering exercises that require arranging sentences or paragraphs to improve logical flow and coherence. Reflect on transitions and the purpose of each section, fostering deliberate analysis of how structure supports meaning and gradually increasing challenge to promote growth beyond comfort zones.",
+                            "Engage in transition word practice through fill-in-the-blank exercises selecting appropriate connectors to link ideas smoothly. Supplement with purpose questions asking why specific sentences or paragraphs are placed where they are, reinforcing thoughtful comprehension and steady skill-building aligned with a balanced, consistent study approach."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Practice graph sketching by drawing parabolas and exponential curves from given nonlinear function equations, focusing on identifying key features such as vertex, intercepts, and end behavior. Use visualizations to deepen conceptual understanding and build confidence through steady, deliberate practice that challenges without causing undue stress.",
+                            "Solve quadratic equations using multiple methods including factoring, completing the square, and the quadratic formula. Approach problems methodically, checking all solutions carefully to avoid common errors, and gradually increase difficulty to encourage micro-challenges that promote growth while maintaining emotional balance.",
+                            "Translate real-world scenarios into nonlinear equations and solve them, focusing on word problems that model projectile motion or population growth. Reflect on problem-solving steps and reward progress with small wins to sustain motivation and reinforce disciplined rebuilding of foundational skills."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate word problems into systems of linear equations by carefully identifying unknowns and relationships. Write clear variable definitions and verify equations before solving using substitution or elimination methods. Practice with challenging problems that require thoughtful, step-by-step solutions to build accuracy and conceptual clarity steadily.",
+                            "Solve systems of linear equations using substitution and elimination techniques, focusing on problems with complex applications. Work deliberately to avoid arithmetic errors and verify solutions by substitution, fostering a calm, methodical approach that balances challenge with emotional stability.",
+                            "Apply learned methods to real-world contexts such as mixtures, rates, and ages, solving word problems that require setting up and solving two-variable linear systems. Reflect on solution interpretation and logical consistency, rewarding progress with recognition of improved problem-solving confidence."
+                        ],
+                        "Systems of two linear equations in two variables": [
+                            "Practice solving systems of linear equations using substitution and elimination with increasing complexity, ensuring clear, stepwise work to avoid common mistakes. Verify solutions by plugging values back into original equations, reinforcing accuracy and conceptual mastery through steady, deliberate effort.",
+                            "Graph systems of linear equations to visualize intersection points and solution types, using this as a tool to confirm algebraic answers. Approach graphing as a supportive method to deepen understanding without pressure, encouraging thoughtful reflection on solution meaning.",
+                            "Translate word problems into systems of equations and solve them, focusing on identifying solution types (one, none, infinite) before solving. Use these exercises to build confidence gradually, pairing with peers for occasional group challenges to boost motivation and momentum."
+                        ],
+                        "Linear inequalities in one or two variables": [
+                            "Translate common phrases into linear inequalities and solve for variable ranges, focusing on clear, step-by-step algebraic manipulation. Use number lines to visualize solutions and reinforce understanding of intervals, building foundational skills through simple, low-pressure practice.",
+                            "Solve word problems involving budgeting, distance, or quantity constraints by setting up and solving linear inequalities. Check solutions logically within context to avoid errors, fostering deliberate, calm problem-solving habits that encourage steady progress.",
+                            "Combine practice of equations and inequalities to develop flexibility in problem-solving, focusing on accuracy and conceptual clarity. Reflect on sign changes and domain restrictions to avoid common mistakes, rewarding consistent effort with small wins."
+                        ],
+                        "Nonlinear equations in one variable and systems of equations in two variables": [
+                            "Solve systems combining one linear and one quadratic equation using substitution, carefully isolating variables and transforming the system into a single quadratic equation. Practice factoring, completing the square, and applying the quadratic formula with deliberate attention to detail and error checking.",
+                            "Interpret the discriminant of quadratic equations after substitution to determine the number of solutions, reinforcing conceptual understanding through graphing and algebraic verification. Approach these problems with steady focus, gradually increasing difficulty to encourage growth beyond comfort zones.",
+                            "Apply learned techniques to word problems modeling real-world scenarios involving linear and quadratic systems. Verify all solutions by substitution into original equations, reflecting on extraneous solutions and rewarding progress with recognition of improved problem-solving confidence."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday will focus on dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday with the weakest skills to address foundational gaps early. Midweek sessions will target moderate skills to build momentum, while Friday is reserved for comprehensive review and error analysis to reinforce learning. Saturday concentrates on fundamental concepts through targeted skill-building and conceptual reinforcement exercises, ensuring steady, deliberate progress. Sunday serves as a Flex Day for rest, reflection, and adaptive practice aligned with personal well-being."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing errors from the week to identify patterns and growth opportunities without judgment. Experiment with new study tools or techniques such as digital flashcards or timed quizzes to refresh engagement. Participate in mixed-skill challenges with peers of slightly higher intensity to gently push boundaries and boost motivation. Incorporate physical activities like mindful walking or yoga to support mental clarity and emotional balance. Set clear, achievable goals for the upcoming week to maintain steady, sustainable progress aligned with personal values."
+        }
+    ]
+}

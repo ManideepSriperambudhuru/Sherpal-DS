@@ -1,0 +1,95 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvement in accuracy and reasoning across prioritized Reading & Writing and Math skills by steadily reducing repeat mistakes. Build a strong baseline of concept clarity in nonlinear functions and vocabulary in context. Develop sustained focus through consistent short-term goals and weekly self-assessments to track progress and maintain momentum toward the 1590 target."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": [
+                        "Words in Context",
+                        "Boundaries",
+                        "Form, Structure, and Sense"
+                    ]
+                },
+                {
+                    "title": "Math",
+                    "description": [
+                        "Nonlinear functions",
+                        "Nonlinear equations in one variable and systems of equations in two variables",
+                        "Equivalent expressions",
+                        "Linear equations in two variables",
+                        "One-variable data: Distributions and measures of center and spread"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Words in Context": [
+                            "Engage in daily timed practice with diverse SAT passages focusing on challenging vocabulary questions that require interpreting words through surrounding context clues, annotating passages to highlight synonyms, antonyms, and contrast indicators, then paraphrasing sentences aloud to deepen understanding and reinforce meaning beyond memorized definitions.",
+                            "Complete sentence completion exercises where you select the best fitting word based on nuanced passage tone and connotation, followed by self-explanation of why other options are eliminated, building precision and speed under timed conditions.",
+                            "Regularly practice reading comprehension drills with complex vocabulary passages, annotating and summarizing how word meanings influence overall interpretation, then review errors to identify patterns and adjust strategies, committing to mastering one method per week."
+                        ],
+                        "Boundaries": [
+                            "Practice identifying and correcting sentence boundary errors by rewriting run-ons, comma splices, and fragments using varied punctuation techniques such as semicolons, colons, and coordinating conjunctions, while reading sentences aloud to internalize natural pauses and improve clarity in writing.",
+                            "Complete targeted punctuation placement exercises that require inserting commas, semicolons, or colons between independent clauses, focusing on complex sentence structures to refine advanced boundary skills and reduce common errors like comma splices.",
+                            "Engage in combining sentences drills where you transform pairs of simple sentences into well-structured compound or complex sentences using appropriate boundaries, then review and reflect on mistakes weekly to build disciplined application of rules."
+                        ],
+                        "Form, Structure, and Sense": [
+                            "Practice paragraph function identification by labeling paragraphs in SAT passages as introduction, evidence, counterargument, or conclusion, then write brief outlines to track logical flow and author intent, enhancing ability to analyze form and structure critically.",
+                            "Complete reordering exercises where sentences or paragraphs are rearranged to improve coherence and clarity, focusing on transitions and logical progression, followed by self-assessment to identify disruptions in flow and refine organizational skills.",
+                            "Work on transition word fill-in-the-blank exercises selecting the best connectors to link ideas smoothly, then answer purpose questions about why specific sentences or paragraphs are placed where they are, reinforcing understanding of sense and coherence."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Sketch graphs of quadratic and exponential functions daily from given equations to visualize key features like vertex, intercepts, and end behavior, then solve related quadratic equations using factoring and the quadratic formula, integrating multiple solving methods to deepen conceptual mastery and pattern recognition.",
+                            "Classify functions by analyzing equations and graphs to distinguish linear from nonlinear types, explaining reasoning aloud to reinforce understanding and identify common pitfalls such as confusing negative coefficients or domain restrictions.",
+                            "Translate real-world word problems into nonlinear equations and solve them systematically, focusing on interpreting the problem context and verifying all solutions, building confidence through consistent practice with medium-difficulty SAT-style questions."
+                        ],
+                        "Nonlinear equations in one variable and systems of equations in two variables": [
+                            "Solve systems combining linear and quadratic equations using substitution, carefully isolating variables and simplifying step-by-step, then verify solutions by plugging back into original equations to avoid extraneous answers and build accuracy under timed conditions.",
+                            "Practice interpreting the discriminant of quadratic equations derived from systems to predict the number of solutions, graph systems to visualize intersections, and connect algebraic results to graphical understanding, enhancing conceptual clarity and problem-solving flexibility.",
+                            "Work on word problems modeling real-world scenarios with linear and quadratic systems, translating context into equations and solving systematically, followed by reflection on errors and strategy adjustments to solidify mastery of medium-difficulty problems."
+                        ],
+                        "Equivalent expressions": [
+                            "Practice isolating variables in multi-step algebraic equations by applying inverse operations one step at a time, writing each step clearly and checking work to build foundational accuracy and avoid common pitfalls like mishandling negatives or fractions.",
+                            "Rearrange formulas with multiple variables (e.g., area, distance) to isolate different quantities, then substitute back to verify correctness, reinforcing understanding of algebraic manipulation and formula fluency through varied practice.",
+                            "Translate word problems into algebraic equations requiring variable isolation, solve systematically, and reflect on errors weekly to develop disciplined, stepwise problem-solving habits aligned with foundational skill-building."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate diverse word problems into systems of linear equations, clearly defining variables and relationships, then solve using substitution and elimination methods under timed conditions to build speed and accuracy with the most challenging question types.",
+                            "Practice verifying solutions by substituting back into original equations and interpreting results in context, ensuring logical consistency and reinforcing conceptual understanding of systems in real-world scenarios.",
+                            "Engage in mixed problem sets involving rates, mixtures, and ratios, solving systems step-by-step and reflecting on errors to develop flexible strategies and sustained focus on complex word problems."
+                        ],
+                        "One-variable data: Distributions and measures of center and spread": [
+                            "Calculate mean, median, range, and interquartile range from raw data sets regularly, using visual tools like histograms and box plots to interpret shape and spread, building foundational statistical understanding through simple, consistent practice.",
+                            "Analyze data graphs to identify distribution shapes (symmetric, skewed, uniform) and detect outliers using the 1.5*IQR rule, then explain implications for choosing appropriate measures of center and spread, reinforcing conceptual clarity.",
+                            "Compare multiple data sets by summarizing centers, spreads, and shapes, interpreting differences in context, and reflecting on common mistakes such as confusing mean and median, cultivating disciplined data analysis skills."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday will focus on dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with the weakest skills to build foundational strength, midweek sessions targeting moderate skills to deepen understanding, Fridays dedicated to comprehensive review and error analysis to consolidate learning, Saturdays reserved for targeted skill-building emphasizing fundamental concepts and conceptual reinforcement, and one Flex Day incorporated for rest, reflection, and adaptive practice to maintain cognitive flexibility and motivation."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in reflective review of errors from the week, identifying patterns and adjusting strategies with a growth mindset. Experiment with a new learning tool or technique for one prioritized skill, committing to a trial period to satisfy curiosity while fostering discipline. Complete mixed-skill challenge sets at a relaxed pace to integrate knowledge without pressure. Incorporate mindfulness or light physical activity to recharge focus and reduce stress. Set clear, achievable goals for the upcoming week to maintain structured momentum aligned with your evolving learning journey."
+        }
+    ]
+}

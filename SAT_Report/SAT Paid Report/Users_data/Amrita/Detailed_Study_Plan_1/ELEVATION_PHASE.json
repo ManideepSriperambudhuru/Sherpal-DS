@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvement in accuracy and reasoning for both Math and Reading & Writing by reducing careless errors and reinforcing partially mastered skills. Demonstrate increased cognitive flexibility through timed practice that introduces moderate pressure. Show steady progress in applying strategic problem-solving techniques and adapt based on performance reviews. Maintain emotional balance while embracing incremental challenges that push beyond comfort zones without disrupting inner harmony."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Central Ideas and Details, Command of Evidence - Textual, Inferences"
+                },
+                {
+                    "title": "Math",
+                    "description": "Right triangles and trigonometry, Percentages, Area and volume, One-variable data: Distributions and measures of center and spread, Ratios, rates, proportional relationships, and units"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Central Ideas and Details": "Engage with medium-difficulty passages by summarizing central ideas in your own words after timed readings, then answer targeted questions to identify patterns in reasoning and common traps, reinforcing core comprehension skills while maintaining a calm, steady pace.",
+                        "Command of Evidence - Textual": "Practice challenging evidence-based questions by annotating passages to locate textual support under moderate time constraints, then explain your reasoning aloud or in writing to deepen understanding and build confidence in handling complex applications.",
+                        "Inferences": "Work on advanced inference questions by identifying subtle clues in passages and predicting logical conclusions, using a step-by-step approach that balances deliberate analysis with timed practice to gradually expand your reasoning capacity without overwhelming stress."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Right triangles and trigonometry": "Solve sets of basic to intermediate right triangle problems by first drawing clear diagrams labeling opposite, adjacent, and hypotenuse sides, then apply sine, cosine, and tangent ratios with calculator use, focusing on accuracy and avoiding common side confusion under timed conditions.",
+                        "Percentages": "Complete medium-level percentage problems involving conversions, increases, decreases, and word problems by writing out each step carefully, practicing conversions between decimals, fractions, and percentages to build fluency and reduce errors while working within moderate time limits.",
+                        "Area and volume": "Tackle the most difficult area and volume problems by breaking composite figures into simpler shapes, applying formulas methodically, and practicing unit conversions, emphasizing speed and precision through timed drills that simulate test conditions.",
+                        "One-variable data: Distributions and measures of center and spread": "Analyze medium-difficulty data sets by calculating mean, median, range, and IQR, interpreting graphical representations like box plots and histograms, and identifying outliers using the 1.5*IQR rule, all within timed practice sessions to strengthen core statistical reasoning.",
+                        "Ratios, rates, proportional relationships, and units": "Master complex ratio and proportion problems by setting up and solving multi-step equations with clear unit tracking, incorporating unit conversions and dimensional analysis, while practicing under timed conditions to enhance speed and accuracy on challenging question types."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances conceptual mastery and strategic practice by pairing one Math skill with one Reading & Writing skill, starting the week with focus on weakest areas to build foundational strength, progressing midweek to moderate skills for reinforcement, and dedicating Fridays to comprehensive review and error analysis. Saturdays are reserved for one full-length timed practice test followed by detailed review to identify patterns and adapt strategies. Sundays serve as a Flex Day to rest, reflect, and recalibrate, preserving mental well-being while maintaining steady progress."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing errors from the week to identify growth opportunities without judgment. Experiment with new study tools or techniques such as flashcards or digital apps to refresh engagement. Participate in mixed-skill challenges with peers slightly more intense to gently push boundaries and boost motivation. Incorporate mindfulness or light physical activity like walking or yoga to restore cognitive balance. Set clear, achievable goals for the upcoming week, framing challenges as growth opportunities rather than stressors."
+        }
+    ]
+}

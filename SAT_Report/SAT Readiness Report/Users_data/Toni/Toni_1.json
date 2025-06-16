@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Your Learning Persona",
+    "description": "Hello Toni, as a Tenacious Explorer, you approach learning with a sharp eye for detail and a natural curiosity for patterns and logical structures. You excel when breaking down complex problems and enjoy methodical analysis, especially in math. At times, you may hesitate to trust your first instincts, which can slow your pace and affect confidence under timed conditions. Focusing on building trust in your answers through timed drills and positive feedback will help you balance thoroughness with efficiency."
+  },
+  {
+    "title": "Your SAT Practice Snapshot",
+    "description": "Your current SAT practice shows strong performance in Math with a near-perfect score and very high accuracy, reflecting your analytical strengths. Reading & Writing is solid but has room to grow, especially in certain domains, with accuracy that suggests careful attention but some hesitation. Your total score is approaching your goal, indicating that focused effort on specific areas can close the gap effectively."
+  },
+  {
+    "title": "What This Means For You",
+    "description": "Your Tenacious Explorer mindset supports your strength in detailed analysis but can challenge your confidence in committing to answers. Academically, your Reading & Writing strength lies in Standard English Conventions, showing your attention to detail and accuracy, while your Math strength is clear in Algebra and Advanced Math, where your precision and logical reasoning shine. Growth areas include Craft and Structure in Reading & Writing, where improving speed and decisiveness will reduce second-guessing, and Problem-Solving and Data Analysis in Math, where refining interpretation skills can boost your overall fluency. Meeting your goal score will require targeted focus on these domains to complement your existing strengths."
+  },
+  {
+    "title": "Your Study Plan: Based on You",
+    "description": [
+      {
+        "title": "Summary",
+        "description": [
+          "Your methodical and detail-oriented approach suits the SAT’s demand for accuracy and logical reasoning, especially in Math. The challenge lies in balancing thoroughness with timely decision-making, particularly in Reading & Writing. Leveraging your natural curiosity to explore patterns while practicing confidence-building techniques will help you maintain momentum and reduce hesitation."
+        ]
+      },
+      {
+        "title": "Reading Writing Strategies",
+        "description": [
+          "1. Focus on Craft and Structure by practicing timed passages that require quick identification of relationships and rhetorical functions, helping you trust your initial analysis under pressure.",
+          "2. Strengthen Information and Ideas by summarizing key points from passages aloud or in writing to reinforce comprehension and build confidence in your interpretations.",
+          "3. Maintain your high Standard English Conventions accuracy by incorporating quick-recall drills that reward streaks of correct answers, reinforcing your attention to detail and boosting self-trust."
+        ]
+      },
+      {
+        "title": "Math Strategies",
+        "description": [
+          "1. Target Problem-Solving and Data Analysis with exercises that require interpreting data sets under timed conditions, encouraging decisiveness and reducing overthinking.",
+          "2. Refine your skills in Geometry and Trigonometry by reviewing problem types where you excel, focusing on speed and pattern recognition to sustain confidence.",
+          "3. Continue leveraging your strengths in Algebra and Advanced Math through step-by-step problem breakdowns that align with your analytical mindset and reinforce mastery."
+        ]
+      },
+      {
+        "title": "Study Plan Phases",
+        "description": {
+          "Foundation": {
+            "date": "May 26, 2025 - June 30, 2025",
+            "reading_writing": "Prioritize Craft and Structure with focused timed drills to build confidence in committing to answers and reduce hesitation.",
+            "math": "Concentrate on Problem-Solving and Data Analysis with targeted practice to improve interpretation speed and decision-making."
+          },
+          "Elevation": {
+            "date": "July 1, 2025 - July 31, 2025",
+            "reading_writing": "Work on Information and Ideas through active summarization and comprehension exercises that reinforce understanding and fluency.",
+            "math": "Refine Geometry and Trigonometry skills by increasing speed and accuracy with pattern recognition and problem classification."
+          },
+          "Peak": {
+            "date": "August 1, 2025 - August 8, 2025",
+            "reading_writing": "Focus on full-length timed simulations emphasizing fluency and error reduction in weaker domains under test conditions.",
+            "math": "Sharpen overall speed and accuracy with mixed-domain timed practice, emphasizing test strategies and confidence in your instincts."
+          }
+        }
+      },
+      {
+        "title": "Sample Weekly Schedule",
+        "description": [
+          "Monday: focus area: Craft and Structure - duration 60 minutes.",
+          "Tuesday: focus area: Problem-Solving and Data Analysis - duration 60 minutes.",
+          "Wednesday: focus area: Information and Ideas - duration 60 minutes.",
+          "Thursday: focus area: Geometry and Trigonometry - duration 60 minutes.",
+          "Friday: focus area: Standard English Conventions - duration 60 minutes.",
+          "Saturday: focus area: Mixed Reading & Writing and Math timed drills - duration 60 minutes.",
+          "Sunday: focus area: Flex Day for review or rest - duration 30 minutes."
+        ]
+      },
+      {
+        "title": "Study Tips",
+        "description": [
+          "1. Let’s build skill in Craft and Structure by practicing timed exercises that encourage trusting your first analysis to improve speed and confidence.",
+          "2. Try focusing on Problem-Solving and Data Analysis with data interpretation drills that challenge you to make decisions efficiently under time constraints.",
+          "3. You can boost confidence in Information and Ideas by summarizing passages aloud to reinforce comprehension and reduce second-guessing.",
+          "4. Establish a consistent weekly routine that balances focused practice with timed drills, allowing you to track progress and build trust in your instincts as the test date approaches.",
+          "5. Recognize that your attention to detail is a strength; channel it by setting small, measurable goals each session to maintain motivation and momentum."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Want to Go Further?",
+    "description": "Toni, your analytical precision and dedication position you well for steady progress toward your SAT goal. Embracing challenges in timing and confidence will deepen your mastery and test readiness. Sherpal offers tailored insights and adaptive coaching designed to support your growth with clear feedback and personalized planning that matches your learning style."
+  },
+  {
+    "title": "Footer",
+    "description": "Safe harbor The scores, assessments, and recommendations provided in this report are for informational purposes only and do not constitute professional educational, psychological, or legal advice. Current performance is not necessarily indicative of actual or future results, as test-day conditions and individual circumstances may vary. While care has been taken in the preparation of this material, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, or reliability of the information presented. Any reliance you place on such information is strictly at your own risk. We accept no liability for any loss or damage arising from the use of this report. © 2025 Sthirah Inc. | Confidential & Proprietary - For internal Use Only"
+  }
+]

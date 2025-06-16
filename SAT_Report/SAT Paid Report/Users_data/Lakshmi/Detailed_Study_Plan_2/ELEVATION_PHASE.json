@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Each week, aim to steadily reduce careless errors by refining accuracy in both Math and Reading & Writing. Focus on strengthening second-tier skills by applying them under moderate time pressure to improve reasoning speed and cognitive flexibility. Track progress through performance review cycles, ensuring consistent improvement in problem-solving strategies and error patterns. Maintain resilience by balancing intensity with rest to sustain peak performance throughout the phase."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Command of Evidence - Quantitative, Text Structure and Purpose, Rhetorical Synthesis"
+                },
+                {
+                    "title": "Math",
+                    "description": "Lines, angles, and triangles, Equivalent expressions, Right triangles and trigonometry, Percentages, One-variable data: Distributions and measures of center and spread"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Command of Evidence - Quantitative": "Engage with medium-difficulty SAT passages containing quantitative evidence questions by annotating key data points and practicing targeted question sets that require identifying and interpreting evidence. Time yourself to build speed while focusing on accuracy, then review errors to identify patterns and adjust strategies accordingly.",
+                        "Text Structure and Purpose": "Work on challenging passages that require analyzing complex text structures and authorial intent. Practice outlining paragraph functions and transitions under timed conditions, then write brief summaries to reinforce understanding of rhetorical flow and purpose, using feedback to refine your approach.",
+                        "Rhetorical Synthesis": "Master the most difficult synthesis questions by practicing sets of paired passages under strict time limits. Focus on quickly identifying relationships between texts and synthesizing information to answer inference and reasoning questions. Review mistakes to optimize speed and precision."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Lines, angles, and triangles": "Practice medium-difficulty geometry problems involving congruence, similarity, and angle relationships by drawing detailed diagrams and labeling all known elements. Solve problems step-by-step under timed conditions, then analyze errors to deepen conceptual understanding and prevent careless mistakes.",
+                        "Equivalent expressions": "Tackle challenging algebra problems that require isolating variables in multi-step equations and formulas. Write out each manipulation clearly, check balance after each step, and verify solutions by substitution. Focus on complex applications to refine technique and accuracy.",
+                        "Right triangles and trigonometry": "Build foundational skills by solving basic right triangle problems using sine, cosine, and tangent ratios. Draw clear diagrams, label sides relative to angles, and practice using inverse trig functions to find unknown angles. Use calculator efficiently and confirm answers for reasonableness.",
+                        "Percentages": "Work through medium-difficulty percentage problems involving conversions, percentage changes, and real-world contexts like discounts and interest. Break down multi-step problems carefully, write out each step, and estimate results to check for accuracy under timed practice.",
+                        "One-variable data: Distributions and measures of center and spread": "Focus on foundational statistics by calculating mean, median, range, and IQR from sample data sets. Interpret graphs such as histograms and box plots to identify distribution shape and outliers. Practice explaining data implications in context to solidify understanding."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday includes focused dual-skill practice sessions pairing one Math and one Reading & Writing skill, starting the week by targeting your weakest skills to build confidence early. Midweek shifts to moderate skills to reinforce and integrate learning. Fridays are dedicated to reviewing the week's work, analyzing errors, and adapting strategies. Saturdays feature a full-length timed practice test followed by a thorough review to identify patterns and refine approaches. Sundays serve as a Flex Day to rest, reflect, and prepare mentally for the upcoming week."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day to engage in low-pressure, restorative activities aligned with your Determined Climber persona. Reflect through journaling on recent challenges and progress, emphasizing effort and learning over perfection. Experiment with mindfulness techniques such as guided breathing or short meditation to build mental resilience. Try mixed-skill challenges at a relaxed pace to maintain cognitive flexibility without stress. Incorporate light physical activity to refresh your mind and body. Set clear, balanced goals for the next week that include both performance targets and self-care commitments."
+        }
+    ]
+}

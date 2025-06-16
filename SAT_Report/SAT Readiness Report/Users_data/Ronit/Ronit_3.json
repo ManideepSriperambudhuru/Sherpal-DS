@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Your Learning Persona",
+    "description": "Hello Ronit, as a Tenacious Explorer, you approach learning with a sharp eye for detail and a natural curiosity for patterns and logical structures. You excel when breaking down complex problems, especially in math and science, and your thoroughness is a clear asset. At times, hesitation and second-guessing can slow your pace, particularly under timed conditions, but focusing on building trust in your instincts will help you move more confidently. Embracing quick decision-making drills and tracking your progress can balance your analytical strengths with greater self-assurance."
+  },
+  {
+    "title": "Your SAT Practice Snapshot",
+    "description": "Your current SAT practice shows a total score of 720, with Reading & Writing at 370 and Math at 350. Your reading accuracy is notably higher than your math accuracy, reflecting stronger performance in verbal areas. While there is a significant gap to your goal score of 1550, your detailed approach and willingness to engage with challenging content provide a solid foundation for improvement."
+  },
+  {
+    "title": "What This Means For You",
+    "description": "Your Tenacious Explorer mindset supports meticulous problem-solving but can lead to hesitation that affects timing. In Reading & Writing, your strongest areas lie in Standard English Conventions and Expression of Ideas, which align with your attention to detail and logical analysis. Math shows relative strength in Advanced Math, reflecting your ability to handle complex concepts when focused. Growth is needed in Information and Ideas for Reading & Writing and Problem-Solving and Data Analysis in Math, where improving comprehension and quick decision-making will reduce second-guessing. Meeting your goal score will require targeted confidence-building alongside technical skill development."
+  },
+  {
+    "title": "Your Study Plan: Based on You",
+    "description": [
+      {
+        "title": "Summary",
+        "description": [
+          "Your analytical mindset and persistence position you well for steady progress on the SAT. You naturally excel in detailed, logical tasks but face challenges with pacing and confidence under time pressure. Balancing your thoroughness with strategies that encourage quicker commitment to answers will be key. Your drive to understand patterns deeply can be leveraged to build both accuracy and speed."
+        ]
+      },
+      {
+        "title": "Reading Writing Strategies",
+        "description": [
+          "1. Focus on Information and Ideas by practicing timed reading comprehension exercises that require you to identify main points quickly, helping to reduce over-analysis and build trust in your initial interpretations.",
+          "2. Strengthen Craft and Structure by reviewing sentence relationships and rhetorical functions with brief, targeted drills that reinforce your existing analytical skills and boost confidence in recognizing text patterns.",
+          "3. Maintain momentum in Standard English Conventions by incorporating quick-recall grammar exercises that reward accuracy and speed, supporting your natural attention to detail and reinforcing positive feedback loops."
+        ]
+      },
+      {
+        "title": "Math Strategies",
+        "description": [
+          "1. Prioritize Problem-Solving and Data Analysis through practice sets that emphasize interpreting data under timed conditions, encouraging you to commit to answers and reduce hesitation.",
+          "2. Refine skills in Geometry and Trigonometry by breaking down problems into step-by-step components, leveraging your strength in sequential reasoning to build fluency and confidence.",
+          "3. Capitalize on your relative strength in Advanced Math by engaging with complex problems that challenge your pattern recognition, using this domain to sustain motivation and reinforce your analytical approach."
+        ]
+      },
+      {
+        "title": "Study Plan Phases",
+        "description": {
+          "Foundation": {
+            "date": "May 26, 2025 - July 15, 2025",
+            "reading_writing": "Concentrate on Information and Ideas with focused comprehension drills that build speed and reduce second-guessing, while reinforcing Standard English Conventions through accuracy-focused grammar review.",
+            "math": "Emphasize Problem-Solving and Data Analysis with paced practice to build decision-making confidence, alongside foundational review of Geometry and Trigonometry concepts."
+          },
+          "Elevation": {
+            "date": "July 16, 2025 - August 1, 2025",
+            "reading_writing": "Shift focus to Craft and Structure to refine analytical reading skills with timed exercises that encourage quicker recognition of text patterns.",
+            "math": "Target Geometry and Trigonometry for skill refinement, integrating stepwise problem-solving drills that align with your logical strengths."
+          },
+          "Peak": {
+            "date": "August 2, 2025 - August 8, 2025",
+            "reading_writing": "Prioritize full-length timed practice sections emphasizing fluency and retention, with attention to remaining weak areas under test conditions.",
+            "math": "Focus on speed and accuracy in Problem-Solving and Data Analysis and Advanced Math through simulation drills that mirror test timing and pressure."
+          }
+        }
+      },
+      {
+        "title": "Sample Weekly Schedule",
+        "description": [
+          "Monday: focus area: Information and Ideas - duration 60 minutes.",
+          "Tuesday: focus area: Problem-Solving and Data Analysis - duration 60 minutes.",
+          "Wednesday: focus area: Craft and Structure - duration 60 minutes.",
+          "Thursday: focus area: Standard English Conventions - duration 60 minutes.",
+          "Friday: focus area: Geometry and Trigonometry - duration 60 minutes.",
+          "Saturday: focus area: Mixed timed practice (Reading & Writing and Math) - duration 60 minutes.",
+          "Sunday: focus area: Flex day for review or rest - duration 30 minutes."
+        ]
+      },
+      {
+        "title": "Study Tips",
+        "description": [
+          "1. Let’s build skill in Information and Ideas by practicing quick comprehension checks that encourage trusting your first read of passages.",
+          "2. Try focusing on Problem-Solving and Data Analysis with timed data interpretation exercises to strengthen your decision-making under pressure.",
+          "3. You can boost confidence in Craft and Structure by refining your understanding of sentence relationships through brief, targeted drills.",
+          "4. Establish a consistent weekly routine that balances deep analysis with timed practice to manage pacing and build self-trust before your test date.",
+          "5. Remember that your detailed approach is a strength; channel it by setting small, timed goals that reward accuracy and speed equally."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Want to Go Further?",
+    "description": "Ronit, your analytical rigor and persistence are clear assets that will serve you well as you prepare for the SAT. Addressing pacing and confidence will be essential to bridge the gap to your goal score, and Sherpal offers tailored tools to support this balance. With personalized insights and real-time feedback, Sherpal can guide you through focused practice that respects your strengths and challenges, helping you build trust in your instincts while sharpening your skills."
+  },
+  {
+    "title": "Footer",
+    "description": "Safe harbor The scores, assessments, and recommendations provided in this report are for informational purposes only and do not constitute professional educational, psychological, or legal advice. Current performance is not necessarily indicative of actual or future results, as test-day conditions and individual circumstances may vary. While care has been taken in the preparation of this material, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, or reliability of the information presented. Any reliance you place on such information is strictly at your own risk. We accept no liability for any loss or damage arising from the use of this report. © 2025 Sthirah Inc. | Confidential & Proprietary - For internal Use Only"
+  }
+]

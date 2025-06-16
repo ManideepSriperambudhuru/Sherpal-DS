@@ -1,0 +1,124 @@
+{
+     "user": {
+         "user_id": "ebd2adcf-3c12-41ee-82bf-a2055429b7d0",
+         "first_name": "Govind",
+         "last_name": "Potti",
+         "email": "govind.potti@icloud.com",
+         "grade": "10th",
+         "goal_score": 1550,
+         "planned_sat_date": "2025-08-08",
+         "persona_id": "5a40f9f5-d5fb-43ab-ab7c-579bfc4d3a5a",
+         "has_paid_access": false
+     },
+     "persona": {
+         "persona_id": "5a40f9f5-d5fb-43ab-ab7c-579bfc4d3a5a",
+         "persona_name": "Driven Trailblazer",
+         "key_strengths": [
+             "Driven Trailblazers are energetic, ambitious learners who embrace challenge and action. They have a forward-thinking mindset and naturally seek out opportunities to push boundaries. They are highly competitive and often thrive when working toward bold, aspirational goals. These learners are charismatic, influential, and love to lead by example. Their energy is contagious and can spark motivation in others. They rarely need external incentives to get started—they're already chasing the next peak."
+         ],
+         "areas_of_improvement": [
+             "Despite their drive, Trailblazers can become impatient with processes that require slow, methodical review. They may neglect reflection, skip post-practice analysis, and resist slowing down for deeper understanding. This tendency can result in avoidable mistakes and missed insights. Their goal-chasing behavior can sometimes be at the expense of learning from their failures."
+         ],
+         "growth_strategies": "Introduce structured checkpoints and self-reflection logs to capture lessons from both success and failure. Use timed review activities and reward mastery of missed concepts. Create visual goal boards that include not just performance goals, but learning goals. Encourage them to embrace 'fail fast, learn faster' as part of their growth journey.",
+         "famous_person": "Elon Musk",
+         "inspirational_story": "Elon Musk represents the essence of a Driven Trailblazer. Known for bold, disruptive ventures like Tesla and SpaceX, Musk thrives on challenge and reinvention. He moves fast, often making decisions on instinct and big-picture thinking. However, in the early days, this rapid execution sometimes led to costly missteps—from overpromising to underestimating complexities.Over time, Musk evolved. He began incorporating feedback loops, surrounding himself with experts who could challenge his thinking, and building redundancy into his strategies. A pivotal moment came during the early SpaceX launches, where three rockets failed. Instead of abandoning ship, Musk doubled down—reassessing every failure with extreme rigor. The fourth launch was a success and marked a turning point in space innovation.Musk's trajectory shows that ambition is a powerful engine—but it needs calibration. Driven Trailblazers, like Musk, reach their full potential when they slow down just enough to reflect, iterate, and learn from the journey.",
+         "quote": "The path to success is to take massive, determined action—and learn from every fall."
+     },
+     "sat_report": {
+         "user_id": "ebd2adcf-3c12-41ee-82bf-a2055429b7d0",
+         "test_id": "Ascent01b",
+         "date_taken": "2025-03-31",
+         "scores": {
+             "reading_writing": 720,
+             "math": 760,
+             "total": 1480
+         },
+         "accuracy": [
+             {
+                 "subject": "reading_writing",
+                 "accuracy": 0.85,
+                 "domain_accuracy": [
+                     {
+                         "domain": "Craft and Structure",
+                         "accuracy": 0.88
+                     },
+                     {
+                         "domain": "Information and Ideas",
+                         "accuracy": 0.85
+                     },
+                     {
+                         "domain": "Standard English Conventions",
+                         "accuracy": 0.92
+                     },
+                     {
+                         "domain": "Expression of Ideas",
+                         "accuracy": 0.73
+                     }
+                 ]
+             },
+             {
+                 "subject": "math",
+                 "accuracy": 0.93,
+                 "domain_accuracy": [
+                     {
+                         "domain": "Algebra",
+                         "accuracy": 1.0
+                     },
+                     {
+                         "domain": "Advanced Math",
+                         "accuracy": 1.0
+                     },
+                     {
+                         "domain": "Problem-Solving and Data Analysis",
+                         "accuracy": 0.86
+                     },
+                     {
+                         "domain": "Geometry and Trigonometry",
+                         "accuracy": 0.71
+                     }
+                 ]
+             }
+         ],
+         "time_spent_minutes": {
+             "reading_writing": 45,
+             "math": 25
+         },
+         "test_results_id": "a0155499-2c54-48bd-ba89-0866d7bd4b0b",
+         "read_write_domain_accuracy": [
+             {
+                 "domain": "Craft and Structure",
+                 "accuracy": 0.88
+             },
+             {
+                 "domain": "Information and Ideas",
+                 "accuracy": 0.85
+             },
+             {
+                 "domain": "Standard English Conventions",
+                 "accuracy": 0.92
+             },
+             {
+                 "domain": "Expression of Ideas",
+                 "accuracy": 0.73
+             }
+         ],
+         "math_domain_accuracy": [
+             {
+                 "domain": "Algebra",
+                 "accuracy": 1.0
+             },
+             {
+                 "domain": "Advanced Math",
+                 "accuracy": 1.0
+             },
+             {
+                 "domain": "Problem-Solving and Data Analysis",
+                 "accuracy": 0.86
+             },
+             {
+                 "domain": "Geometry and Trigonometry",
+                 "accuracy": 0.71
+             }
+         ]
+     }
+}

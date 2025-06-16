@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvement in accuracy and reasoning for prioritized Reading & Writing skills: Text Structure and Purpose, Central Ideas and Details, and Command of Evidence - Textual. In Math, strengthen mastery of linear equations in one and two variables, linear functions, right triangles and trigonometry, and percentages with steady reduction of careless errors. Build cognitive flexibility by applying skills under moderate time pressure and improve consistency through performance review cycles. Secure small wins daily to boost confidence and sustain motivation throughout the week."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Text Structure and Purpose, Central Ideas and Details, Command of Evidence - Textual"
+                },
+                {
+                    "title": "Math",
+                    "description": "Linear equations in one variable, Linear equations in two variables, Linear functions, Right triangles and trigonometry, Percentages"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Text Structure and Purpose": "Engage in timed practice sets focusing on identifying complex text structures and author purposes, followed by brief written summaries explaining the organizational choices to deepen understanding and reinforce advanced techniques.",
+                        "Central Ideas and Details": "Complete challenging passages under timed conditions emphasizing extraction of nuanced central ideas and supporting details, then self-assess speed and accuracy using a checklist to track progress and build confidence.",
+                        "Command of Evidence - Textual": "Practice answering high-difficulty evidence-based questions with a focus on quickly locating and justifying textual support, using a streak tracker to reward consistent accuracy and reinforce strategic reading habits."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Linear equations in one variable": "Solve multi-step linear equations and inequalities under timed conditions, explicitly checking solutions by substitution each time to reduce careless mistakes and build trust in accuracy.",
+                        "Linear equations in two variables": "Translate word problems into systems of linear equations, solve using substitution or elimination methods, and verify solutions by plugging back into original contexts to ensure conceptual mastery and error reduction.",
+                        "Linear functions": "Convert real-world scenarios into linear function equations, graph them, and interpret slope and intercept meaningfully, practicing under moderate time pressure to enhance speed and precision.",
+                        "Right triangles and trigonometry": "Work through advanced right triangle problems involving sine, cosine, and tangent ratios, including inverse functions, drawing diagrams for each to visualize relationships and avoid common errors.",
+                        "Percentages": "Complete mixed problem sets involving percentage conversions, increases/decreases, and word problems, writing out each step carefully and estimating results to confirm reasonableness and accuracy."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances focused dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with the weakest skills to build foundational accuracy and confidence. Wednesday and Thursday target moderate skills with increased time pressure and strategic review. Friday is dedicated to consolidating the week's learning through targeted review and error analysis. Saturday features one full-length timed SAT practice test followed by a comprehensive review session to identify patterns in mistakes and adapt strategies. Sunday serves as a Flex Day to rest, reflect, and prepare for the upcoming week with personalized adjustments."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing errors from the week's practice to identify growth areas without judgment. Experiment with new study tools such as digital checklists or streak trackers to enhance motivation and structure. Tackle mixed-skill challenge sets at a relaxed pace to maintain cognitive flexibility. Incorporate physical activity or mindfulness exercises to recharge focus and reduce stress. Set clear, achievable micro-goals for the next week to foster a sense of progress and sustained effort aligned with personal growth."
+        }
+    ]
+}

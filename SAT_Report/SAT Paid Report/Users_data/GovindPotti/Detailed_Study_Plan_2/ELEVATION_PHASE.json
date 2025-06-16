@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvement in accuracy and reasoning across prioritized Reading & Writing and Math skills, steadily reduce careless and repeat mistakes through disciplined review, enhance cognitive flexibility by applying mid-level and advanced concepts under moderate time pressure, and demonstrate consistent mastery of second-tier skills with clear evidence of learning from errors."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Command of Evidence - Textual, Transitions, Text Structure and Purpose"
+                },
+                {
+                    "title": "Math",
+                    "description": "Linear equations in one variable, Lines, angles, and triangles, Area and volume, Ratios, rates, proportional relationships, and units, Percentages"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Command of Evidence - Textual": "Engage in timed practice sets of challenging evidence-based questions requiring identification and justification of textual support; immediately follow each set with a structured self-reflection log capturing reasoning errors and insights to reinforce mastery and reduce careless mistakes.",
+                        "Transitions": "Complete medium-difficulty transition questions under timed conditions focusing on recognizing and applying common patterns; after each session, review errors with a checklist to identify recurring issues and reward mastery by tracking progress visually on a goal board.",
+                        "Text Structure and Purpose": "Practice the most difficult question types on text structure and purpose with strict time limits to build speed and accuracy; incorporate a post-practice analysis session to dissect mistakes and adjust strategies, embracing a 'fail fast, learn faster' mindset."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Linear equations in one variable": "Solve advanced multi-step linear equations and inequalities under timed conditions, emphasizing step-by-step isolation and mandatory solution checks; log errors and review inequality sign rules to prevent common mistakes, reinforcing learning through repeated timed drills.",
+                        "Lines, angles, and triangles": "Tackle complex geometry problems involving congruence, similarity, and angle relationships with time constraints; draw and label diagrams for each problem, then conduct a focused review session to identify and correct misconceptions, ensuring mastery of criteria and angle sum rules.",
+                        "Area and volume": "Work through challenging area and volume problems including composite figures under timed practice; visualize and sketch each problem, carefully applying formulas and unit conversions, followed by a detailed error analysis to avoid formula misuse and calculation slips.",
+                        "Ratios, rates, proportional relationships, and units": "Practice high-level ratio and proportion problems with integrated unit conversions under timed conditions; write out units explicitly during calculations and review each solution for correct setup and conversion accuracy, rewarding mastery with incremental goal board updates.",
+                        "Percentages": "Complete advanced percentage problems involving conversions, increases/decreases, and word problems under timed practice; break down multi-step questions carefully, write out each step, and reflect on errors to avoid common pitfalls, reinforcing fluency through repeated timed drills."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances focused dual-skill practice pairing one Math and one Reading & Writing skill, starting the week with weakest skills to maximize impact, midweek targeting moderate skills for reinforcement, and Fridays dedicated to comprehensive review and reflection on progress and errors. Saturdays are reserved for one full-length SAT practice test under timed conditions, immediately followed by a thorough review session analyzing mistakes and adapting strategies. Sundays serve as a Flex Day to recharge and recalibrate, supporting sustained effort and cognitive flexibility."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure mixed-skill challenges that encourage experimentation with new problem-solving techniques and tools, paired with a structured self-reflection session to capture lessons from recent successes and failures. Incorporate mindfulness or physical rest activities to reset mental energy, such as brief meditation or light exercise. Update visual goal boards to include both performance and learning objectives, reinforcing motivation. Use this day to set clear, actionable goals for the upcoming week, embracing the 'fail fast, learn faster' philosophy to maintain momentum without burnout."
+        }
+    ]
+}

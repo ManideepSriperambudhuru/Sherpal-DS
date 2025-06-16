@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvement in accuracy and reasoning across prioritized Reading & Writing and Math skills by reducing careless errors and strengthening second-tier skills. Demonstrate increased speed and precision under moderate time pressure, maintaining composure while pushing beyond comfort zones. Develop cognitive flexibility through layered strategic practice and consistent performance review cycles to adapt and retest effectively."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Text Structure and Purpose, Boundaries, Rhetorical Synthesis"
+                },
+                {
+                    "title": "Math",
+                    "description": "Lines, angles, and triangles, One-variable data: Distributions and measures of center and spread, Right triangles and trigonometry, Equivalent expressions, Systems of two linear equations in two variables"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Text Structure and Purpose": "Engage in timed practice sets of challenging passages focusing on identifying and analyzing complex text structures; use visible countdown timers to complete each passage within set limits, then review errors to refine understanding of advanced organizational techniques.",
+                        "Boundaries": "Master difficult boundary questions by completing progressively harder problem sets under strict time constraints, aiming to beat previous completion times while maintaining accuracy; incorporate self-competition by tracking speed and precision to build urgency without sacrificing calm.",
+                        "Rhetorical Synthesis": "Practice synthesizing information from multiple sources through timed drills that require quick integration and evaluation of rhetorical elements; use a visible countdown and set personal benchmarks to encourage focused intensity and strategic pacing."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Lines, angles, and triangles": "Complete advanced geometry problems involving congruence, similarity, and angle relationships under timed conditions with a visible countdown; progressively increase difficulty and challenge yourself to improve speed while maintaining accuracy, using detailed diagrams to support problem-solving.",
+                        "One-variable data: Distributions and measures of center and spread": "Work through medium-difficulty statistical problems calculating mean, median, range, and IQR with timed drills that encourage pattern recognition; review mistakes carefully to identify common pitfalls and reinforce core concepts without overwhelming pressure.",
+                        "Right triangles and trigonometry": "Solve complex right triangle problems using trigonometric ratios and inverse functions under moderate time pressure; incorporate 'beat your best time' challenges to raise urgency while drawing clear diagrams to maintain composure and accuracy.",
+                        "Equivalent expressions": "Practice isolating variables in multi-step algebraic equations with timed exercises that progressively increase in difficulty; use stepwise notation and verify solutions to build mastery and speed, balancing challenge with calm focus.",
+                        "Systems of two linear equations in two variables": "Engage in timed problem sets solving systems via substitution and elimination methods, focusing on the most difficult question types; track completion times and accuracy to foster subtle competition and push beyond comfort zones while maintaining steady composure."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances Conceptual Mastery and Full-Length Practice by pairing one Math and one Reading & Writing skill, starting the week with weakest skills to build urgency early. Midweek focuses on moderate skills to sustain momentum, while Fridays are dedicated to comprehensive review and error analysis. Saturdays feature a full-length timed practice test followed by detailed answer review to deepen understanding and reinforce learning. Sundays serve as a Flex Day to rest, reflect, and adapt the plan as needed."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day for low-pressure reflection on errors and progress, journaling insights to reinforce growth mindset. Experiment with new study tools or techniques, such as different note-taking methods or digital timers, to enhance engagement. Engage in mixed-skill challenges that combine Reading & Writing and Math in short, timed bursts to maintain cognitive flexibility. Incorporate mindfulness or light physical activity to recharge focus and reduce stress. Set clear, motivating goals for the upcoming week to reignite internal urgency and commitment."
+        }
+    ]
+}

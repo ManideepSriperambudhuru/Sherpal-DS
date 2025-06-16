@@ -1,0 +1,85 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Build a solid baseline of accuracy and conceptual clarity across prioritized Math and Reading & Writing skills. Achieve measurable improvement in interpreting words in context, command of evidence, and understanding form and structure in reading. Strengthen mastery of nonlinear and linear functions, systems of equations, and area and volume calculations. Reduce hesitation by committing confidently to answers within timed settings. Track and celebrate streaks of correct responses to foster self-trust and maintain steady progress while minimizing repeated mistakes."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Words in Context, Command of Evidence - Textual, Form, Structure, and Sense"
+                },
+                {
+                    "title": "Math",
+                    "description": "Nonlinear functions, Linear functions, Nonlinear equations in one variable and systems of equations in two variables, Linear equations in two variables, Area and volume"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Words in Context": [
+                            "Engage in daily timed vocabulary-in-context drills using diverse SAT passages, annotating challenging words and their surrounding clues, then paraphrase sentences aloud to reinforce understanding and build confidence in interpreting nuanced meanings under pressure.",
+                            "Complete sentence completion exercises where you select the best-fitting word based on context clues, followed by immediate self-review to identify patterns in errors and celebrate streaks of correct answers to strengthen decision-making speed.",
+                            "Practice process-of-elimination drills on vocabulary questions by marking out choices that conflict with passage tone or logic, then explain your reasoning in writing to solidify analytical skills and reduce second-guessing."
+                        ],
+                        "Command of Evidence - Textual": [
+                            "Work through paired SAT reading questions focusing on identifying precise textual evidence, annotating passages actively to underline key supporting details, and summarizing answers in your own words to build clarity and confidence in linking claims to evidence.",
+                            "Practice evidence matching exercises where, given an answer, you locate multiple potential supporting passages and select the strongest one, timing yourself to improve speed and trust in your textual analysis instincts.",
+                            "Engage in summarization drills by rewriting paragraphs focusing on main ideas and supporting details, then answer paired evidence questions to reinforce the connection between comprehension and justification under timed conditions."
+                        ],
+                        "Form, Structure, and Sense": [
+                            "Outline the structure of SAT passages by labeling paragraph functions and mapping transitions, then answer questions about the purpose and logical flow to deepen understanding of organization and improve accuracy in identifying effective structure.",
+                            "Complete reordering exercises where you rearrange sentences or paragraphs to enhance coherence, reflecting afterward on why certain orders improve clarity, which builds analytical skills and confidence in structural reasoning.",
+                            "Practice transition word fill-in-the-blank drills using complex passages, focusing on selecting words that maintain logical flow and tone, followed by timed quizzes to build fluency and reduce hesitation in recognizing effective organization."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Sketch graphs of quadratic and exponential functions from given equations daily, annotating key features like vertex and intercepts, then solve related quadratic equations using multiple methods under timed conditions to build speed and accuracy while reinforcing conceptual understanding.",
+                            "Classify a mixed set of functions as linear or nonlinear based on equations and graphs, explaining your reasoning in writing to strengthen pattern recognition and reduce second-guessing in identifying function types.",
+                            "Translate real-world scenarios into nonlinear equations and solve them, focusing on word problems involving projectile motion or growth models, practicing under timed conditions to build confidence in applying concepts quickly and accurately."
+                        ],
+                        "Linear functions": [
+                            "Translate diverse word problems into linear equations by identifying variables, slope, and intercept, then solve and graph these equations, explaining the meaning of each component to reinforce conceptual clarity and decision-making speed.",
+                            "Create and solve linear equations from real-life contexts such as cost or distance problems, using diagrams or tables to organize information, practicing under timed conditions to build fluency and reduce hesitation.",
+                            "Interpret given linear graphs by describing slope and intercept in context, then write corresponding equations, focusing on accuracy and speed to build trust in your analytical instincts."
+                        ],
+                        "Nonlinear equations in one variable and systems of equations in two variables": [
+                            "Solve systems combining linear and quadratic equations using substitution, verifying solutions by plugging back into original equations, and interpreting the number of solutions via discriminants, practicing timed problem sets to build precision and confidence.",
+                            "Work on word problems modeling real-world scenarios with linear and quadratic systems, translating context into equations and solving systematically, focusing on step-by-step accuracy and timed completion to reduce second-guessing.",
+                            "Graph systems of equations to visualize intersections of lines and parabolas, then solve algebraically, reflecting on the relationship between graphical and algebraic solutions to deepen understanding and speed."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate word problems into systems of linear equations, label variables clearly, and solve using substitution or elimination methods under timed conditions to build accuracy and reduce errors.",
+                            "Practice solving systems from real-world contexts such as mixtures or rates, verifying solutions by substitution and interpreting results in context to strengthen conceptual mastery and confidence.",
+                            "Work through exercises converting verbal descriptions into equations, then solve and check answers systematically, focusing on clarity and speed to build trust in your problem-solving process."
+                        ],
+                        "Area and volume": [
+                            "Calculate areas of various plane figures and volumes of solids daily, using diagrams to label dimensions and applying formulas step-by-step under timed conditions to build accuracy and speed.",
+                            "Solve composite figure problems by breaking them into simpler shapes, calculating individual areas or volumes, and combining results, reflecting on each step to reinforce thoroughness and reduce careless errors.",
+                            "Practice unit conversion drills related to area and volume, ensuring consistency in units before solving problems, focusing on precision and timing to build confidence and avoid common mistakes."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on deep conceptual mastery through dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with the weakest skills to build foundational strength, midweek concentrating on moderate skills to maintain momentum, Friday dedicated to comprehensive review and error analysis to consolidate learning, and Saturday reserved for targeted skill-building exercises emphasizing fundamental concepts and reinforcing understanding. Sunday serves as a Flex Day for rest, reflection, and adaptive practice to sustain motivation and cognitive flexibility."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure mixed-skill challenges that encourage experimentation with new problem-solving techniques and tools, such as timed quick-recall drills to build confidence in instincts. Reflect on past errors by journaling progress and identifying patterns without judgment to foster a growth mindset. Incorporate mindfulness or light physical activity to recharge focus and reduce rumination. Set clear, achievable goals for the upcoming week, and connect with mentors or peers for encouraging feedback to reinforce self-trust and sustained effort."
+        }
+    ]
+}

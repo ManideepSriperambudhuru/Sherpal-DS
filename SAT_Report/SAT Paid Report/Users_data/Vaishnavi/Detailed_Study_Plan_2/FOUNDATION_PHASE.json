@@ -1,0 +1,95 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvement in accuracy and reasoning for prioritized Reading & Writing skills: Words in Context, Boundaries, and Form, Structure, and Sense. In Math, build foundational understanding and accuracy across nonlinear functions, nonlinear equations and systems, equivalent expressions, linear equations, and data distributions. Reduce repeat mistakes through focused reflection and steadily increase confidence by maintaining consistent effort and tracking progress toward the 1590 goal."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": [
+                        "Words in Context",
+                        "Boundaries",
+                        "Form, Structure, and Sense"
+                    ]
+                },
+                {
+                    "title": "Math",
+                    "description": [
+                        "Nonlinear functions",
+                        "Nonlinear equations in one variable and systems of equations in two variables",
+                        "Equivalent expressions",
+                        "Linear equations in two variables",
+                        "One-variable data: Distributions and measures of center and spread"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Words in Context": [
+                            "Engage in daily timed reading sessions using diverse SAT passages, annotating challenging vocabulary and surrounding context clues, then paraphrase sentences aloud to deepen understanding and reinforce meaning within passage tone, focusing on mastering the most difficult question types while tracking accuracy improvements.",
+                            "Complete targeted sentence completion exercises where you select words that best fit nuanced contexts, using process of elimination to discard choices that conflict with passage tone or logic, reflecting on errors to refine your contextual vocabulary intuition.",
+                            "Practice paraphrasing complex sentences from SAT passages by rewriting them with synonyms and simpler language, then compare with original to identify subtle shifts in meaning, reinforcing your ability to interpret multiple meanings and connotations accurately under timed conditions."
+                        ],
+                        "Boundaries": [
+                            "Work through advanced sentence correction drills focusing on run-ons, comma splices, and fragments by rewriting sentences using appropriate punctuation and conjunctions, reading aloud each corrected sentence to internalize natural pauses and improve grammatical clarity, while tracking error patterns for targeted review.",
+                            "Practice punctuation placement exercises where you insert commas, semicolons, colons, and dashes between independent clauses in complex sentences, emphasizing the correct use of semicolons and colons to avoid overuse and maintain clarity, committing to mastering these techniques over the week.",
+                            "Combine pairs of simple sentences into compound or complex sentences using varied boundary techniques, then analyze how each method affects sentence clarity and flow, reinforcing your understanding of sentence boundaries and reducing common boundary errors through deliberate practice."
+                        ],
+                        "Form, Structure, and Sense": [
+                            "Analyze SAT passages by outlining paragraph functions (introduction, evidence, counterargument, conclusion) and identifying the form and genre to anticipate author intent, practicing this daily to build a mental framework for passage organization and improve question accuracy on structure-related items.",
+                            "Complete reordering exercises where you rearrange sentences or paragraphs to enhance logical flow and coherence, then justify your choices by explaining how transitions and paragraph purposes support the overall passage meaning, fostering deeper reflection and mastery of structure.",
+                            "Engage in transition word fill-in-the-blank drills selecting the best connectors to link ideas smoothly, followed by answering purpose questions about why specific sentences or paragraphs are placed where they are, strengthening your ability to interpret author strategy and improve comprehension under timed conditions."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Sketch graphs of quadratic and exponential functions daily from given equations, labeling key features such as vertex, intercepts, and end behavior, then solve related quadratic equations using factoring and the quadratic formula, reflecting on errors to deepen conceptual clarity and build confidence with medium-difficulty SAT problems.",
+                            "Classify a mixed set of functions as linear or nonlinear based on their equations and graphs, explaining your reasoning aloud or in writing to reinforce pattern recognition and prepare for rapid identification during the exam.",
+                            "Translate real-world word problems into nonlinear equations and solve them step-by-step, using multiple solving methods when stuck, to strengthen problem-solving flexibility and accuracy while tracking progress through self-assessment."
+                        ],
+                        "Nonlinear equations in one variable and systems of equations in two variables": [
+                            "Practice solving systems combining one linear and one quadratic equation using substitution, carefully isolating variables and applying the quadratic formula, then verify solutions by substituting back into original equations, focusing on medium-difficulty problems and reflecting on discriminant interpretation to understand solution nature.",
+                            "Work through word problems modeling real-world scenarios with linear and quadratic systems, translating context into equations and solving systematically, emphasizing error checking and solution interpretation to build accuracy and conceptual mastery.",
+                            "Graph systems of linear and quadratic equations to visualize intersection points, then connect graphical insights to algebraic solutions, reinforcing understanding of solution types and improving confidence in handling these systems under exam conditions."
+                        ],
+                        "Equivalent expressions": [
+                            "Isolate variables step-by-step in a variety of algebraic equations, including multi-step and fractional forms, writing each step clearly and verifying correctness by substituting back, to build foundational manipulation skills essential for SAT math accuracy.",
+                            "Rearrange common formulas such as area and distance formulas to solve for different variables, practicing inverse operations carefully and reflecting on mistakes to strengthen algebraic flexibility and precision.",
+                            "Translate word problems into algebraic equations and isolate the required variable, focusing on clear notation and balanced operations, to develop confidence in applying these skills to diverse SAT question types."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate word problems into systems of linear equations by clearly defining variables and relationships, then solve using substitution and elimination methods under timed conditions to build speed and accuracy with the most challenging question types.",
+                            "Practice verifying solutions by substituting values back into original equations and interpreting results in context, reinforcing precision and real-world understanding critical for SAT success.",
+                            "Work on diverse real-world scenarios involving mixtures, rates, and ages, solving systems step-by-step while tracking errors and reflecting weekly to identify patterns and improve problem-solving consistency."
+                        ],
+                        "One-variable data: Distributions and measures of center and spread": [
+                            "Calculate mean, median, range, and interquartile range from raw data sets daily, using visual tools like histograms and box plots to interpret shape and spread, focusing on foundational understanding and accuracy with simple practice problems.",
+                            "Analyze data graphs to identify distribution shapes such as symmetric, skewed, or uniform, then explain how shape affects choice of center and spread measures, reinforcing conceptual clarity through contextual examples.",
+                            "Detect outliers using the 1.5*IQR rule in varied data sets and reflect on their impact on mean and median, practicing interpretation of statistical summaries to build confidence in data analysis questions."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday combines focused dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday with your weakest areas to build foundational strength, progressing midweek to moderate skills for balanced growth, and reserving Friday for comprehensive review and error analysis to consolidate learning. Saturday emphasizes fundamental concepts through targeted skill-building and conceptual reinforcement exercises, ensuring deep understanding. Sunday serves as a Flex Day to rest, reflect, and adapt your approach based on weekly progress, maintaining momentum without burnout."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day to reflect calmly on errors from the week, identifying patterns without pressure and planning adjustments. Experiment with a new learning tool or technique for one skill, committing to a trial period to satisfy your curiosity while building discipline. Engage in mixed-skill challenges combining Math and Reading & Writing to maintain cognitive flexibility. Incorporate physical activity or mindfulness practices to recharge focus and reduce stress. Finally, set clear, achievable goals for the upcoming week, reinforcing your structured habit formation and sustained effort."
+        }
+    ]
+}

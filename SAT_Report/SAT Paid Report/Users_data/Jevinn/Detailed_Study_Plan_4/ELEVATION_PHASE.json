@@ -1,0 +1,65 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Each week, steadily reduce careless errors by refining accuracy in both Math and Reading & Writing. Achieve measurable improvements in reasoning skills related to inferences, boundaries, and equivalent expressions. Strengthen second-tier skills through progressively challenging problems under moderate time constraints. Enhance cognitive flexibility by adapting strategies during performance review cycles, aiming for consistent score gains and deeper mastery without sacrificing composure."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": [
+                        "Inferences",
+                        "Boundaries",
+                        "Transitions",
+                        "Rhetorical Synthesis"
+                    ]
+                },
+                {
+                    "title": "Math",
+                    "description": [
+                        "Equivalent expressions",
+                        "Area and volume",
+                        "Ratios, rates, proportional relationships, and units",
+                        "Linear equations in one variable",
+                        "Lines, angles, and triangles"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Inferences": "Engage in timed sets of inference questions drawn from medium-difficulty passages, focusing on identifying subtle textual clues. Use visible countdown timers and aim to beat your previous completion time while maintaining accuracy, reinforcing calm urgency and adaptability.",
+                        "Boundaries": "Practice medium-difficulty boundary questions by segmenting passages into logical units under a set time limit. After each set, analyze errors to identify patterns, then attempt a slightly harder set to stretch your skills without overwhelming your composure.",
+                        "Transitions": "Complete foundational transition exercises with a timer visible, challenging yourself to improve speed without sacrificing precision. Incorporate 'beat your best time' drills to cultivate internal urgency while maintaining thoughtful analysis.",
+                        "Rhetorical Synthesis": "Work through medium-level rhetorical synthesis problems in timed blocks, focusing on connecting ideas across paragraphs. Use performance reviews to adapt strategies and progressively tackle more complex passages, balancing pressure with steady confidence."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Equivalent expressions": "Practice advanced algebra problems requiring stepwise isolation of variables under timed conditions. Use clear notation and verify each step, then compare completion times to previous attempts to foster subtle competition and urgency.",
+                        "Area and volume": "Solve challenging geometry problems involving composite figures and volume calculations with a visible countdown. After each session, review errors carefully and attempt a slightly more complex problem set to push mastery while preserving calm focus.",
+                        "Ratios, rates, proportional relationships, and units": "Work through medium-difficulty ratio and proportion problems with a timer, emphasizing dimensional analysis and unit conversions. Track your speed and accuracy, aiming to improve both incrementally through repeated timed drills.",
+                        "Linear equations in one variable": "Tackle multi-step linear equations and inequalities in timed practice sets, ensuring to apply inverse operations methodically. Use 'beat your best time' challenges to increase internal urgency while maintaining accuracy and composure.",
+                        "Lines, angles, and triangles": "Engage with the most difficult geometry problems involving congruence, similarity, and angle relationships under moderate time pressure. Focus on speed optimization and error reduction through repeated timed problem sets and detailed solution reviews."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances Conceptual Mastery and Full-Length Practice by pairing one Math skill with one Reading & Writing skill, starting the week with your weakest areas to maximize growth. Midweek focuses on moderate skills to build momentum, while Fridays are dedicated to reviewing errors and adapting strategies. Saturdays involve a full-length timed practice test followed by a thorough review to identify patterns and refine approaches. Sundays serve as a Flex Day to rest and recalibrate, supporting sustained progress."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day for low-pressure reflection on recent errors, identifying subtle patterns without judgment. Experiment with new study tools or techniques that might enhance focus or efficiency, such as different note-taking methods or digital timers. Engage in mixed-skill challenges that blend Math and Reading & Writing to maintain cognitive flexibility. Incorporate mindfulness or light physical activity to recharge mentally and physically. Set clear, achievable goals for the upcoming week to maintain purposeful momentum while honoring your steady, composed learning style."
+        }
+    ]
+}

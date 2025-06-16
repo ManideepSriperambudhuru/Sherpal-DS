@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvement in accuracy and reasoning for mid-level and advanced skills in both Math and Reading & Writing. Reduce careless mistakes by reinforcing second-tier skills such as rhetorical synthesis and equivalent expressions. Enhance cognitive flexibility by practicing under moderate time pressure and applying strategic problem-solving. Develop consistency in performance through repeated cycles of analysis, adaptation, and retesting to steadily approach the 1590 goal."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Rhetorical Synthesis, Text Structure and Purpose, Transitions"
+                },
+                {
+                    "title": "Math",
+                    "description": "Equivalent expressions, Linear inequalities in one or two variables, Lines, angles, and triangles, Percentages, Area and volume"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Rhetorical Synthesis": "Engage in timed, gamified practice sessions where you analyze paired passages to identify author perspectives and synthesize arguments, using interactive flashcards to reinforce key rhetorical strategies and immediate self-assessment to maintain focus and motivation.",
+                        "Text Structure and Purpose": "Use storytelling formats to map out passage structures visually, then complete bite-sized timed quizzes that challenge you to identify purpose and organization, pairing with a study buddy for discussion to deepen understanding and sustain engagement.",
+                        "Transitions": "Practice complex transition questions through interactive exercises that require selecting and justifying transition words in context, incorporating visual timers to break tasks into manageable intervals and celebrating each correct choice to build momentum."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Equivalent expressions": "Work through multi-step algebraic problems isolating variables using stepwise manipulation in a timed, interactive quiz format that includes immediate feedback and encourages clear notation, supported by a habit tracker to build focus in short bursts.",
+                        "Linear inequalities in one or two variables": "Translate real-world scenarios into inequalities and solve them using number line visualizations in a gamified app, practicing sign flips and verification under timed conditions with a study partner to maintain accountability and engagement.",
+                        "Lines, angles, and triangles": "Draw and label geometric figures while solving congruence and similarity problems in timed challenges, using interactive diagrams and group discussions to reinforce angle relationships and avoid common pitfalls.",
+                        "Percentages": "Complete dynamic word problem sets involving percentage calculations and conversions, using flashcards for key concepts and timed drills to improve speed and accuracy, with progress tracked visually to celebrate small wins.",
+                        "Area and volume": "Solve layered problems involving composite figures and volume calculations in a stepwise, timed format that encourages drawing diagrams and verbalizing reasoning with a study buddy, integrating visual timers to maintain focus and prevent wandering attention."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances conceptual mastery and strategic practice by pairing one Math skill with one Reading & Writing skill, starting the week focusing on your weakest areas to build confidence early. Midweek sessions target moderate skills with increasing time pressure to refine accuracy and speed. Fridays are dedicated to reviewing errors and adapting strategies based on performance data. Saturdays involve one full-length timed practice test followed by a thorough review session to analyze mistakes and reinforce learning. Sundays serve as a Flex Day to recharge and adapt your approach."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure, persona-aligned activities such as reflecting on errors through creative journaling or storytelling to deepen insight without rigidity. Experiment with new interactive tools like educational games or visual timers to discover what sparks your focus. Challenge yourself with mixed-skill puzzles that invite playful problem-solving. Incorporate mindfulness or light physical activity to reset cognitive energy. Set clear, motivating goals for the upcoming week to maintain momentum while honoring your need for flexibility and exploration."
+        }
+    ]
+}

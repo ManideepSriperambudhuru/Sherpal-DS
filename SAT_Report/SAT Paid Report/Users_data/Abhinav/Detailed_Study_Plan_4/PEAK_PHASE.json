@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvements in accuracy and reasoning across prioritized Math and Reading & Writing skills, steadily reduce repeat mistakes by reinforcing concept mastery, enhance decision-making speed under timed conditions to minimize hesitation, complete full-length practice tests with endurance and focus, and stabilize performance to consistently approach the 1590 goal score."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Text Structure and Purpose, Boundaries, Central Ideas and Details, Command of Evidence - Quantitative, Cross-text Connections"
+                },
+                {
+                    "title": "Math",
+                    "description": "Percentages, Right triangles and trigonometry, Linear inequalities in one or two variables, Nonlinear equations in one variable and systems of equations in two variables"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Text Structure and Purpose": "Practice timed passage breakdowns where you identify text structure types and author purpose within strict time limits, annotating signal words and summarizing paragraphs aloud to reinforce quick conceptual understanding and reduce overanalysis.",
+                        "Boundaries": "Engage in sentence correction drills under timed conditions focusing on identifying and fixing run-ons, comma splices, and fragments, followed by immediate review to confirm correct punctuation choices and build confidence in rapid decision-making.",
+                        "Central Ideas and Details": "Complete brief passage summaries after reading each paragraph, then answer targeted questions on main ideas and supporting details within a set time, reinforcing your ability to distinguish broad themes from specifics efficiently.",
+                        "Command of Evidence - Quantitative": "Work on interpreting embedded data visuals by quickly highlighting key statistics and answering evidence-based questions in timed sets, then debrief to validate your instinctual data interpretations and strengthen trust in your reasoning.",
+                        "Cross-text Connections": "Practice paired passage comparisons with a focus on identifying relationships, author purpose, and tone under timed conditions, using graphic organizers to synthesize information swiftly and accurately."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Percentages": "Perform timed drills converting between fractions, decimals, and percentages, solving percentage increase/decrease problems, and tackling word problems with a strict time limit per question to build fluency and speed without sacrificing accuracy.",
+                        "Right triangles and trigonometry": "Solve a series of right triangle problems involving sine, cosine, and tangent ratios under timed conditions, drawing diagrams and labeling sides quickly to reinforce conceptual clarity and decision speed.",
+                        "Linear inequalities in one or two variables": "Translate word problems into inequalities and solve them within a set time frame, practicing sign flips and solution verification to build confidence in rapid, accurate algebraic manipulation.",
+                        "Nonlinear equations in one variable and systems of equations in two variables": "Work through substitution-based system problems with a focus on solving quadratics and linear equations efficiently under timed practice, followed by quick checks to confirm solution validity and reduce hesitation."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday includes focused dual-skill practice sessions pairing one Math and one Reading & Writing skill, starting the week with your weakest areas to maximize impact, midweek targeting moderate skills to maintain momentum, and Fridays dedicated to comprehensive review of errors and strategy refinement. Saturdays are reserved for two full-length practice tests simulating real test conditions to build endurance and speed, with detailed post-test analysis to identify patterns and reinforce confidence. Sundays serve as a flexible day for rest, reflection, and adaptive activities aligned with your learning pace."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in reflective journaling focused on moments when you trusted your instincts and answered confidently, reinforcing positive decision-making habits. Experiment with new study tools or techniques such as timed flashcards or digital annotation apps to discover what enhances your thoughtful learning style. Challenge yourself with mixed-skill quizzes at a relaxed pace to maintain cognitive flexibility without pressure. Incorporate mindfulness or light physical activity to reset mental energy and emotional balance. Set clear, purpose-driven goals for the upcoming week, aligning your study with your internal motivation and thoughtful approach."
+        }
+    ]
+}

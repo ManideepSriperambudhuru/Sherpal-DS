@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvement in accuracy and speed on second-tier Math and Reading & Writing skills, specifically targeting transitions, inferences, text structure, equivalent expressions, systems of equations, linear inequalities, area and volume, and geometry concepts. Reduce careless errors by reinforcing precision under moderate time pressure. Build confidence to commit to answers promptly and trust analytical instincts. Maintain steady progress by minimizing repeated mistakes and enhancing reasoning clarity in timed practice."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Transitions, Inferences, Text Structure and Purpose"
+                },
+                {
+                    "title": "Math",
+                    "description": "Equivalent expressions, Systems of two linear equations in two variables, Linear inequalities in one or two variables, Area and volume, Lines, angles, and triangles"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Transitions": "Engage in timed sets of transition-focused passages where you must select the best transition word or phrase within 30 seconds per question, then immediately review correct answers to reinforce pattern recognition and build trust in your first instincts.",
+                        "Inferences": "Practice inference questions in 2-minute blocks, committing to answers without overthinking, followed by a brief reflection on accuracy to strengthen confidence and reduce second-guessing under time constraints.",
+                        "Text Structure and Purpose": "Complete structured exercises identifying text structure and author’s purpose with a 3-minute limit per passage, then track streaks of correct responses to celebrate progress and reinforce analytical thoroughness."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Equivalent expressions": "Work through multi-step algebra problems isolating variables under a 4-minute timer per question, writing each step clearly to avoid careless errors and verifying solutions by substituting back into original equations to build accuracy and confidence.",
+                        "Systems of two linear equations in two variables": "Solve systems using substitution and elimination methods in timed drills, committing to solutions within 5 minutes, then immediately check by plugging values back into both equations to reinforce precision and trust in your process.",
+                        "Linear inequalities in one or two variables": "Translate word problems into inequalities and solve them under timed conditions, focusing on correctly flipping inequality signs and graphing solutions on number lines to solidify understanding and reduce common mistakes.",
+                        "Area and volume": "Practice complex area and volume problems involving composite figures with a 6-minute time limit, emphasizing careful identification of shapes and stepwise formula application to minimize errors and improve speed.",
+                        "Lines, angles, and triangles": "Complete geometry problems requiring proofs of congruence or similarity and angle calculations within 5 minutes each, sketching diagrams and labeling clearly to enhance visualization and accuracy under time pressure."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances focused dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday with the weakest skills to build foundational confidence, progressing midweek to moderate skills for refinement, and dedicating Friday to comprehensive review and error analysis. Saturday features one full-length timed SAT practice test followed by a detailed review session emphasizing understanding mistakes and reinforcing correct strategies. Sunday serves as a Flex Day for rest, reflection, and adaptive practice aligned with personal growth."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure mixed-skill challenges that encourage exploration without time constraints, such as puzzle-based SAT problems or creative reasoning tasks. Reflect on past errors by journaling insights and identifying patterns to inform future practice. Experiment with new study tools or techniques, like digital flashcards or peer discussions, to enhance cognitive flexibility. Incorporate mindfulness or light physical activity to reset focus and reduce stress. Set clear, achievable goals for the upcoming week to maintain motivation and self-trust."
+        }
+    ]
+}

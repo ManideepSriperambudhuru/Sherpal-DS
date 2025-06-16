@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Your Learning Persona",
+    "description": "As a Persistent Hiker, you approach your SAT preparation with steady focus and a clear sense of balance, valuing emotional stability alongside academic progress. Your thoughtful and deliberate nature helps you maintain calm under pressure and fosters consistent, sustainable growth. You tend to avoid unnecessary stress and prefer harmony in your study environment, which supports long-term retention but can sometimes limit engagement with more challenging material. Recognizing when to push beyond comfort zones will be key to overcoming plateaus and reaching your full potential."
+  },
+  {
+    "title": "Your SAT Practice Snapshot",
+    "description": "Your current SAT performance shows strong results with a Reading & Writing score of 730 and a Math score of 790, combining for a total of 1520. Your reading accuracy is solid, and your math accuracy is notably high, reflecting careful and precise work. With your goal set at 1550, your steady effort and balanced approach position you well to close the gap through targeted refinement and strategic challenge."
+  },
+  {
+    "title": "What This Means For You",
+    "description": "Your Persistent Hiker mindset supports your strength in maintaining high accuracy and calm focus, but it also aligns with a tendency to avoid pushing into more demanding challenges. Academically, your Reading & Writing strength lies in Information and Ideas and Standard English Conventions, where your thoughtful approach and steady work yield consistent results; in Math, your near-perfect accuracy in Algebra and Problem-Solving reflects your deliberate and precise style. Growth areas include Craft and Structure in Reading & Writing, which requires engaging with more complex text features, and Advanced Math, where deeper challenge can build confidence and close the gap to your goal. Your target score is within reach if you balance your natural steadiness with incremental challenges that stretch your current limits."
+  },
+  {
+    "title": "Your Study Plan: Based on You",
+    "description": [
+      {
+        "title": "Summary",
+        "description": [
+          "Your Persistent Hiker persona means you value steady progress and emotional balance, which has helped you build a strong foundation in both Reading & Writing and Math. You excel in accuracy and thoughtful analysis but tend to avoid the discomfort that comes with pushing harder on tougher topics. This study plan respects your need for sustainable growth while introducing manageable challenges to help you move beyond plateaus."
+        ]
+      },
+      {
+        "title": "Reading Writing Strategies",
+        "description": [
+          "1. Focus on Craft and Structure by breaking down complex sentence relationships in short, manageable segments to gently expand your comfort zone without overwhelming stress.",
+          "2. Reinforce your strength in Information and Ideas by practicing targeted inference questions that build confidence through reflection and logical reasoning.",
+          "3. Maintain momentum in Standard English Conventions by using gamified quizzes that reward accuracy and speed, aligning with your preference for steady, engaging progress."
+        ]
+      },
+      {
+        "title": "Math Strategies",
+        "description": [
+          "1. Address Advanced Math by working through progressively challenging problem sets that encourage small, consistent steps beyond your current mastery, framed as growth opportunities rather than pressure points.",
+          "2. Refine your strong Algebra skills with timed drills that emphasize precision and fluency, leveraging your natural calm and focus to build speed without sacrificing accuracy.",
+          "3. Sustain confidence in Problem-Solving and Data Analysis by incorporating visual problem breakdowns and step-by-step reasoning exercises that match your thoughtful learning style."
+        ]
+      },
+      {
+        "title": "Study Plan Phases",
+        "description": {
+          "Foundation": {
+            "date": "May 24, 2025 - June 30, 2025",
+            "reading_writing": "Prioritize Craft and Structure with low-pressure, segmented practice to build familiarity and reduce avoidance tendencies.",
+            "math": "Focus on Advanced Math concepts through incremental challenges that respect your steady pace and encourage gradual growth."
+          },
+          "Elevation": {
+            "date": "July 1, 2025 - July 31, 2025",
+            "reading_writing": "Strengthen Information and Ideas with reflective timed drills that build confidence and fluency.",
+            "math": "Refine Algebra skills using precision-focused timed exercises to enhance speed and accuracy."
+          },
+          "Peak": {
+            "date": "August 1, 2025 - August 8, 2025",
+            "reading_writing": "Simulate full Reading & Writing sections under timed conditions, emphasizing error review and retention.",
+            "math": "Sharpen test strategies and timing in Advanced Math and Problem-Solving through personalized simulations."
+          }
+        }
+      },
+      {
+        "title": "Sample Weekly Schedule",
+        "description": [
+          "Monday: focus area: Craft and Structure - duration 60 minutes.",
+          "Tuesday: focus area: Advanced Math - duration 60 minutes.",
+          "Wednesday: focus area: Information and Ideas - duration 60 minutes.",
+          "Thursday: focus area: Algebra - duration 60 minutes.",
+          "Friday: focus area: Standard English Conventions - duration 60 minutes.",
+          "Saturday: focus area: Mixed Reading & Writing review - duration 60 minutes.",
+          "Sunday: focus area: Flex Day - duration 30 minutes."
+        ]
+      },
+      {
+        "title": "Study Tips",
+        "description": [
+          "1. Let’s build skill in Craft and Structure by breaking down complex sentences into smaller parts to ease into more challenging material.",
+          "2. Try focusing on Advanced Math with incremental problem sets that encourage steady progress without disrupting your balance.",
+          "3. You can boost confidence in Information and Ideas by reflecting on inference questions to deepen understanding.",
+          "4. Establish a calm, consistent study routine that balances focused practice with mental rest, fitting your steady approach and timeline.",
+          "5. Recognize that measured challenges are part of growth, not conflict, and small steps beyond comfort will move you closer to your goal."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Want to Go Further?",
+    "description": [
+      "Sherpal offers personalized coaching that adapts to your unique strengths and learning style, providing clear progress tracking and goal-based planning. Its interactive tools and real-time feedback create a learning environment that respects your steady approach while encouraging growth. Partnering with Sherpal means having a guide that evolves with you, helping you navigate challenges thoughtfully and efficiently."
+    ]
+  },
+  {
+    "title": "Footer",
+    "description": "Safe harbor The scores, assessments, and recommendations provided in this report are for informational purposes only and do not constitute professional educational, psychological, or legal advice. Current performance is not necessarily indicative of actual or future results, as test-day conditions and individual circumstances may vary. While care has been taken in the preparation of this material, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, or reliability of the information presented. Any reliance you place on such information is strictly at your own risk. We accept no liability for any loss or damage arising from the use of this report. © 2025 Sthirah Inc. | Confidential & Proprietary - For internal Use Only"
+  }
+]

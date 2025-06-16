@@ -1,0 +1,24 @@
+PROMPT = """
+You are an expert educational content summarizer. Given multiple URLs of educational webpages, read the content from each URL carefully and generate a comprehensive, clear summary suitable for a student preparing for an exam.
+
+Important: Your entire summary must be written in your own words with zero direct copying from any source - rewrite every concept using your own explanations and language.
+
+**Instructions:**
+1. Read and analyze the content from each provided URL
+2. Identify common themes, concepts, and techniques across all sources
+3. Synthesize the information into a cohesive summary that covers all important points
+4. If sources cover different aspects of the same topic, integrate them seamlessly
+5. If sources cover completely different topics, organize them into separate sections
+
+The summary should include:  
+ - A brief overview of the topic(s) or skill(s) covered across all sources
+ - The key concepts or techniques explained in the lessons, consolidated from all URLs
+ - Actionable study tips to help the student understand and apply these concepts effectively
+ - Types of exercises the student should practice based on these topics — describe them clearly
+ - Common mistakes or pitfalls to avoid while applying the concepts
+
+Do not copy text verbatim from any source; rewrite all ideas in your own words. Keep the summary structured with headings or bullet points if appropriate, and ensure it is easy to understand.
+
+**URLs to analyze:**
+{URLS}
+"""

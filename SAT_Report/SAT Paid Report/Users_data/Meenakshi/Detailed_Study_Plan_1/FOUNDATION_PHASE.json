@@ -1,0 +1,95 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Build a solid baseline of understanding across prioritized Reading & Writing and Math skills by improving accuracy and reasoning in medium to challenging problems. Achieve steady reduction in repeat mistakes through deliberate practice and reflection. Begin closing skill gaps in nonlinear functions and systems of equations while reinforcing core vocabulary and structural comprehension. Cultivate confidence through consistent, manageable progress without sacrificing emotional balance."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": [
+                        "Words in Context",
+                        "Transitions",
+                        "Form, Structure, and Sense"
+                    ]
+                },
+                {
+                    "title": "Math",
+                    "description": [
+                        "Nonlinear functions",
+                        "Systems of two linear equations in two variables",
+                        "Linear equations in two variables",
+                        "Linear functions",
+                        "Right triangles and trigonometry"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Words in Context": [
+                            "Engage with medium-difficulty SAT reading passages from diverse genres, annotating challenging words and surrounding context clues. Paraphrase sentences containing these words in your own words to deepen understanding and avoid relying on memorized definitions, reinforcing vocabulary in context while maintaining a calm, steady pace.",
+                            "Complete targeted sentence completion exercises where you select words that best fit the passage context, focusing on eliminating choices that conflict with tone or logic. Track progress by noting patterns in errors and celebrate small wins to gamify learning without pressure.",
+                            "Practice paraphrasing short paragraphs by rewriting them using synonyms and simpler language, emphasizing how word meanings shift with context. Reflect on how this skill enhances comprehension and supports your balanced, thoughtful approach to steady growth."
+                        ],
+                        "Transitions": [
+                            "Identify and underline transition words in SAT-level paragraphs, then write brief explanations of how each transition connects ideas. Focus on recognizing additive, contrast, cause-effect, and sequence transitions to refine your understanding of logical flow without rushing.",
+                            "Write short paragraphs on familiar topics, deliberately incorporating a variety of transition types to link ideas smoothly. Review your writing to ensure transitions fit the intended relationships and avoid overuse, fostering clarity and coherence in a low-stress environment.",
+                            "Complete error correction exercises where you revise sentences or paragraphs with missing or incorrect transitions. This targeted practice helps you internalize appropriate transition use and supports your preference for harmony and thoughtful learning."
+                        ],
+                        "Form, Structure, and Sense": [
+                            "Practice labeling paragraphs in SAT passages by their function (introduction, evidence, conclusion) and outline the structure briefly to track idea flow. This deliberate analysis aligns with your thoughtful nature and builds deeper comprehension steadily.",
+                            "Work on reordering exercises where sentences or paragraphs are rearranged to improve logical flow and coherence. Reflect on how structure impacts meaning, reinforcing your ability to mediate and support clarity in complex texts.",
+                            "Answer purpose questions that ask why a sentence or paragraph is placed in a specific position, focusing on how organization enhances understanding. This practice encourages active engagement with challenging material while maintaining your calm, balanced approach."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Sketch graphs of quadratic and exponential functions from given equations to visualize their shapes and key features like vertex and end behavior. Use this visual approach to build conceptual clarity at a comfortable pace, gradually increasing difficulty to push beyond your comfort zone.",
+                            "Solve quadratic equations using multiple methods—factoring, quadratic formula, and completing the square—on progressively challenging problems. Track accuracy and celebrate mastery of each technique to gamify progress without overwhelming pressure.",
+                            "Translate real-world word problems into nonlinear equations and solve them, focusing on understanding the scenario before applying formulas. This deliberate, stepwise practice supports sustainable growth and helps you embrace manageable challenges."
+                        ],
+                        "Systems of two linear equations in two variables": [
+                            "Practice solving systems using substitution and elimination methods on increasingly complex problems, writing each step clearly to avoid errors. Reflect on which method suits each problem best, fostering thoughtful decision-making aligned with your steady study style.",
+                            "Translate word problems into systems of equations and solve them, ensuring variables are clearly labeled and solutions checked in both equations. This methodical approach builds confidence and accuracy while maintaining your preference for harmony in learning.",
+                            "Graph pairs of linear equations to visualize solutions and identify types of solutions (one, none, infinite). Use this visual tool as a low-pressure way to deepen understanding and connect algebraic and graphical representations."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate word problems into two-variable linear equations, carefully assigning variables and verifying relationships before solving. This deliberate practice encourages active engagement with challenging material while preserving your calm approach.",
+                            "Solve systems of linear equations using substitution and elimination on word problems involving mixtures, rates, or ages, focusing on step-by-step accuracy. Celebrate small wins as you master each problem type to maintain motivation.",
+                            "Check solutions by substituting values back into original equations to confirm correctness, reinforcing accuracy and preventing complacency. This reflective step aligns with your thoughtful and deliberate learning style."
+                        ],
+                        "Linear functions": [
+                            "Identify slope and intercept from word problems before writing linear equations, using diagrams or tables to clarify relationships. This visual and structured method supports steady conceptual mastery without pressure.",
+                            "Write and solve linear equations from real-life scenarios such as speed or cost, interpreting slope and intercept in context to deepen understanding. This practice encourages meaningful connections and gradual challenge.",
+                            "Graph linear equations on coordinate planes and interpret the meaning of slope and intercept from the graph, reinforcing conceptual clarity and supporting your preference for balanced, thoughtful study."
+                        ],
+                        "Right triangles and trigonometry": [
+                            "Practice basic trigonometric ratio problems by identifying opposite, adjacent, and hypotenuse sides relative to given angles, then calculate missing sides using sine, cosine, or tangent. Approach problems calmly, focusing on foundational understanding.",
+                            "Use inverse trigonometric functions to find unknown angles given two sides, drawing diagrams to visualize and label clearly. This stepwise practice builds confidence in applying concepts without rushing.",
+                            "Solve word problems involving heights and distances using right triangle trigonometry, combining Pythagorean theorem and trig ratios as needed. Reflect on each solution’s reasonableness to maintain accuracy and steady growth."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday includes focused dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday with your weakest areas—Words in Context and Nonlinear Functions—to build foundational strength. Midweek shifts to moderate skills like Transitions and Systems of Linear Equations, fostering steady progress. Fridays are reserved for comprehensive review and error analysis to reinforce learning and reduce mistakes. Saturdays concentrate on fundamental concepts through targeted skill-building and conceptual reinforcement exercises, supporting long-term retention. One Flex Day is incorporated for rest, reflection, and adaptable activities aligned with your balanced approach."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing errors from the week, noting patterns without judgment to foster self-awareness. Experiment with new study tools or techniques, such as digital flashcards or timed mini-quizzes, to gently push your boundaries. Participate in mixed-skill challenges with peers slightly more intense than yourself to boost motivation and momentum in a supportive environment. Incorporate mindfulness or light physical activity like walking or yoga to maintain emotional balance. Set clear, manageable goals for the upcoming week, framing challenges as opportunities for growth rather than stress."
+        }
+    ]
+}

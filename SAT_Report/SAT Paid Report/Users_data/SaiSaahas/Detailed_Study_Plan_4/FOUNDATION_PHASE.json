@@ -1,0 +1,85 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Build a consistent study rhythm by achieving measurable improvements in accuracy and reasoning across prioritized Reading & Writing and Math skills. Reduce repeat mistakes through focused practice on core concepts like Words in Context and Nonlinear functions. Strengthen comprehension and problem-solving clarity while steadily closing skill gaps. Cultivate confidence by tracking small wins daily and maintaining steady progress toward the 1590 SAT goal."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "[\"Words in Context\", \"Form, Structure, and Sense\", \"Boundaries\"]"
+                },
+                {
+                    "title": "Math",
+                    "description": "[\"Nonlinear functions\", \"Nonlinear equations in one variable and systems of equations in two variables\", \"Systems of two linear equations in two variables\", \"Linear inequalities in one or two variables\", \"Equivalent expressions\"]"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Words in Context": [
+                            "Engage daily with diverse SAT passages, annotating challenging words and their surrounding context clues. After reading, paraphrase sentences containing target vocabulary to deepen understanding and avoid relying on memorized definitions. Complete targeted contextual vocabulary questions and sentence completion exercises, using a checklist to track progress and celebrate each mastered word to build confidence and consistency.",
+                            "Create a personalized vocabulary journal where you record new words encountered in practice passages along with their contextual meanings and connotations. Regularly review and quiz yourself using fill-in-the-blank sentence completion exercises, focusing on eliminating answer choices that do not fit the passage tone or logic. Use this active engagement to reinforce learning and maintain motivation through visible progress tracking.",
+                            "Practice reading comprehension drills with complex passages emphasizing nuanced vocabulary. Annotate and analyze how word meanings influence overall passage interpretation. Use process of elimination on practice questions to refine decision-making skills. Reward yourself with short breaks or small treats after completing sets of exercises to sustain effort and reinforce positive study habits."
+                        ],
+                        "Form, Structure, and Sense": [
+                            "Outline each practice passage by identifying its form and briefly summarizing the function of each paragraph to understand the author’s organizational strategy. Focus on transition words and sentence purposes to map logical flow. Complete reordering and purpose questions to sharpen structural analysis. Use a weekly checklist to mark completed exercises and reflect on improvements, fostering steady growth without harsh self-judgment.",
+                            "Engage in targeted exercises that require labeling paragraphs as introduction, evidence, counterargument, or conclusion. Practice rearranging sentences or paragraphs to enhance coherence and clarity. After each session, write brief summaries emphasizing how structure supports the main idea. Track these summaries to visualize progress and build confidence in handling complex passage organization.",
+                            "Complete transition word fill-in-the-blank exercises to master linking ideas smoothly. Regularly answer purpose questions about why specific sentences or paragraphs appear where they do. Use affirming feedback from mentors or self-assessment to reinforce understanding. Gradually increase difficulty of passages to challenge reasoning while maintaining a supportive environment that encourages persistence."
+                        ],
+                        "Boundaries": [
+                            "Practice identifying independent clauses within sentences and apply correct punctuation rules by rewriting run-ons and comma splices using periods, commas with conjunctions, semicolons, or colons. Read sentences aloud to internalize natural pauses and improve punctuation placement. Use sentence correction drills and track error types to target weaknesses, celebrating each correction to build trust in your writing skills.",
+                            "Engage in punctuation placement exercises where you insert commas, semicolons, or colons correctly between clauses. Practice combining two simple sentences into one complex or compound sentence using proper boundaries. Maintain a progress log to visualize streaks of error-free sentences, reinforcing motivation and consistency in mastering sentence boundaries.",
+                            "Analyze paragraphs to find and fix boundary errors such as run-ons, comma splices, and fragments. Use error identification drills to improve clarity and coherence in writing. After each practice, reflect on common mistakes avoided and note improvements. Incorporate short-term rewards for milestones reached to sustain effort and confidence."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Begin each session by sketching graphs of quadratic and exponential functions from given equations to visualize their shapes and key features like vertex and intercepts. Solve quadratic equations using multiple methods—factoring, quadratic formula, completing the square—to build flexibility. Translate word problems into nonlinear equations and solve them, tracking accuracy and speed. Use a checklist to mark mastered problem types and reward consistent progress to maintain motivation.",
+                            "Classify functions by analyzing equations and graphs to distinguish linear from nonlinear types quickly. Practice working backwards from graphs to write possible equations, reinforcing conceptual understanding. Complete SAT-style multiple-choice questions focused on nonlinear functions, emphasizing careful checking of all solutions and domain restrictions. Celebrate small wins to build confidence and sustain effort.",
+                            "Tackle word problems modeling real-world scenarios with nonlinear functions, such as projectile motion or population growth. Break down problems step-by-step, sketching graphs to interpret solutions. Use timed practice to improve speed without sacrificing accuracy. Track progress visually and use affirming feedback to encourage persistence through challenges."
+                        ],
+                        "Nonlinear equations in one variable and systems of equations in two variables": [
+                            "Practice solving systems where one equation is linear and the other quadratic by mastering substitution carefully. Isolate variables and substitute expressions step-by-step, avoiding algebraic errors. Verify solutions by plugging them back into both original equations. Use discriminant analysis to interpret the number of solutions and graph systems to visualize intersections. Track progress with a checklist and reward consistent accuracy to build trust in your skills.",
+                            "Work on problems involving different types of quadratic equations with positive and negative leading coefficients. Practice interpreting the discriminant to anticipate solution types before solving. Use word problems to apply these concepts in real-world contexts, reinforcing understanding. Maintain a progress log to celebrate milestones and encourage steady growth.",
+                            "Graph systems of linear and quadratic equations to confirm algebraic solutions visually. Practice substitution and quadratic solving methods under timed conditions to build speed and accuracy. Reflect on errors and adjust strategies accordingly. Use affirming feedback and short-term rewards to sustain motivation and confidence."
+                        ],
+                        "Systems of two linear equations in two variables": [
+                            "Solve systems using substitution and elimination methods, starting with simple coefficients and progressing to more complex ones. Translate word problems into systems and solve them step-by-step, checking solutions by substitution. Use graphing as a visual tool to verify answers. Track completed exercises on a checklist and celebrate each successful solution to build momentum.",
+                            "Practice identifying the type of solution (one, none, infinite) before solving systems to develop strategic thinking. Work on problems requiring both substitution and elimination to refine flexibility. Maintain clear, stepwise notation to avoid errors. Use progress tracking and affirming feedback to reinforce consistent effort.",
+                            "Translate real-world scenarios into systems of linear equations and solve them accurately. Use graphing to visualize solutions and deepen conceptual understanding. Reflect on mistakes and adjust approaches with mentor guidance. Reward steady progress to build confidence and sustain motivation."
+                        ],
+                        "Linear inequalities in one or two variables": [
+                            "Translate word problems into linear inequalities by identifying variables and key phrases like 'at least' or 'no more than.' Solve inequalities step-by-step, paying close attention to sign changes and flipping inequality signs when multiplying or dividing by negatives. Plot solutions on number lines to visualize intervals. Use simple practice problems to build foundational understanding and track progress with a checklist.",
+                            "Work on basic translation exercises converting phrases into inequalities, followed by solving and graphing solutions. Check answers by substituting values from solution sets back into original inequalities. Use affirming feedback and small rewards to encourage persistence and build confidence.",
+                            "Solve word problems involving budgeting, distance, or quantity constraints using linear inequalities. Break problems into manageable steps and verify solutions logically. Maintain a progress log to celebrate consistent accuracy and reinforce motivation."
+                        ],
+                        "Equivalent expressions": [
+                            "Practice isolating variables in simple linear equations by performing one algebraic operation at a time, ensuring balance on both sides. Write each step clearly to avoid confusion, and verify correctness by substituting isolated variables back into original equations. Use a checklist to track mastered equation types and reward steady progress.",
+                            "Work on multi-step equations involving parentheses and fractions, applying distributive property and clearing denominators before isolating variables. Break down complex formulas stepwise, maintaining equality throughout. Reflect on common mistakes avoided and celebrate milestones to build confidence.",
+                            "Translate real-world word problems into equations and isolate required variables to solve. Practice with formulas involving multiple variables, such as area or distance formulas. Use clear notation and verify solutions by substitution. Track progress visually and use affirming feedback to sustain motivation and consistency."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on deep conceptual mastery through dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday with the weakest skills to build foundational strength. Midweek sessions target moderate skills to refine techniques and understanding. Fridays are dedicated to comprehensive review and error analysis to consolidate learning. Saturdays concentrate on fundamental concepts through targeted skill-building and conceptual reinforcement exercises. One Flex Day is reserved for rest, reflection, and adaptive activities to maintain cognitive flexibility and motivation."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing errors from the week to identify patterns without judgment, turning challenges into growth opportunities. Experiment with new study tools or techniques such as digital flashcards or mind maps to discover what best supports your learning style. Complete mixed-skill challenge sets combining Math and Reading & Writing to maintain engagement while reducing pressure. Incorporate physical or mindfulness activities like light exercise or meditation to refresh focus. Set clear, achievable micro-goals for the upcoming week to build momentum and reinforce structured habits."
+        }
+    ]
+}

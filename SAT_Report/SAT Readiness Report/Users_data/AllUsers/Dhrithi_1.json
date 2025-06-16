@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Your Learning Persona",
+    "description": "Dhrithi, as a Thoughtful Pathfinder, you bring a unique blend of emotional intelligence, resilience, and deep reflection to your SAT preparation. Your calm and introspective nature allows you to approach challenges thoughtfully, often bouncing back quickly from setbacks with renewed focus. You thrive when learning feels meaningful and aligned with your personal values, valuing growth over mere achievement. While your relaxed approach is a strength, it can sometimes lead to procrastination or drifting from goals if they don’t resonate emotionally. Embracing small, purposeful steps and external accountability will help you maintain steady progress toward your ambitions."
+  },
+  {
+    "title": "Your SAT Practice Snapshot",
+    "description": "Currently, your SAT practice scores show a fresh starting point with no recorded points yet in Reading & Writing or Math, and accuracy levels at zero. This means you have a clean slate full of potential to build upon. Your ambitious goal score of 1550 reflects your strong desire to excel. Although the journey ahead is significant, your thoughtful mindset and resilience position you well to make steady, meaningful progress. Every step you take now will bring you closer to that goal."
+  },
+  {
+    "title": "What This Means For You",
+    "description": "Your natural strength lies in your emotional intelligence and ability to reflect, which will help you stay calm and resilient as you face the challenges of SAT prep. This thoughtful approach can turn setbacks into valuable learning moments. However, your current lack of practice data suggests that establishing consistent study habits and time management will be key growth areas. Because you value meaningful connection to your goals, linking your study tasks to your personal values and breaking them into manageable, emotionally resonant micro-goals will keep you motivated and on track."
+  },
+  {
+    "title": "Your Study Plan: Based on You",
+    "description": [
+      {
+        "title": "motivational paragraph",
+        "description": [
+          "Dhrithi, your thoughtful and resilient nature is your greatest asset on this SAT journey. While the path to your goal score of 1550 may feel daunting at times, your ability to reflect and bounce back will keep you moving forward with calm determination. Remember, building consistent habits is a skill you can create, not something you must find. By connecting your study efforts to your personal growth and values, you’ll transform preparation into a meaningful experience that fuels your motivation."
+        ]
+      },
+      {
+        "title": "reading writing strategies",
+        "description": [
+          "Leverage your reflective mindset by journaling briefly after each practice session to note what strategies worked and where you felt challenged—this will deepen your understanding and keep motivation high.",
+          "Break down reading passages into smaller, manageable chunks and focus on understanding the author’s purpose and tone, which aligns with your preference for meaningful learning over surface-level memorization.",
+          "Use digital tools with reminders to help maintain consistent practice without feeling pressured, allowing you to honor your need for autonomy while staying on track."
+        ]
+      },
+      {
+        "title": "math strategies",
+        "description": [
+          "Approach math problems by first reflecting on the underlying concepts rather than rushing to solve them, which suits your thoughtful learning style and builds deeper understanding.",
+          "Set small, emotionally resonant micro-goals for mastering specific math topics, such as conquering algebraic expressions or geometry basics, to maintain motivation and a sense of accomplishment.",
+          "Incorporate regular, timed practice sessions with built-in breaks to help improve focus and prevent procrastination, using apps or planners to track your progress gently."
+        ]
+      },
+      {
+        "title": "study plan phases",
+        "description": {
+          "Foundation": {
+            "date": "2025-05-22 to 2025-06-30",
+            "reading_writing": "Build core skills by focusing on vocabulary in context, passage analysis, and grammar fundamentals through reflective journaling and targeted practice.",
+            "math": "Strengthen foundational concepts in algebra and basic geometry, using micro-goals and concept mapping to deepen understanding."
+          },
+          "Elevation": {
+            "date": "2025-07-01 to 2025-07-31",
+            "reading_writing": "Increase practice with full-length passages and timed sections, focusing on pacing and comprehension strategies that connect to your personal interests.",
+            "math": "Work on intermediate problem-solving skills, including data analysis and advanced algebra, with timed drills and reflective review."
+          },
+          "Peak": {
+            "date": "2025-08-01 to 2025-08-07",
+            "reading_writing": "Engage in full practice tests under realistic conditions, followed by calm, thoughtful review sessions to identify final areas for improvement.",
+            "math": "Focus on mixed problem sets and error analysis to sharpen accuracy and timing before test day."
+          }
+        }
+      },
+      {
+        "title": "weekly_schedule",
+        "description": {
+          "Monday": {"focus_area": "Reading & Writing - passage analysis and vocabulary", "duration_minutes": 60},
+          "Tuesday": {"focus_area": "Math - foundational algebra concepts", "duration_minutes": 60},
+          "Wednesday": {"focus_area": "Reading & Writing - grammar and sentence structure", "duration_minutes": 60},
+          "Thursday": {"focus_area": "Math - geometry basics and problem-solving", "duration_minutes": 60},
+          "Friday": {"focus_area": "Flex Day - review or rest", "duration_minutes": 30},
+          "Saturday": {"focus_area": "Reading & Writing - timed practice sections", "duration_minutes": 60},
+          "Sunday": {"focus_area": "Math - mixed problem sets and reflection", "duration_minutes": 60}
+        }
+      },
+      {
+        "title": "study_tips",
+        "description": [
+          "Set weekly micro-goals that connect to your personal values to keep motivation high.",
+          "Use reflective journaling after each study session to track progress and adjust strategies.",
+          "Incorporate gentle digital reminders to build consistent study habits without pressure.",
+          "Celebrate small wins calmly to reinforce your growth mindset.",
+          "Pair study sessions with a mentor or peer check-in to maintain accountability and connection."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Want to Go Further?",
+    "description": "Dhrithi, unlocking full Sherpal access will transform your SAT preparation into a truly personalized and interactive journey. With AI-driven coaching tailored to your Thoughtful Pathfinder strengths and challenges, you’ll receive real-time feedback, customized study plans, and engaging simulations that adapt as you grow. This outcome-focused approach ensures every minute you invest moves you closer to your 1550 goal with clarity and confidence. Embrace the power of hyper-personalization and community support to make your SAT success not just a dream, but a well-crafted reality."
+  },
+  {
+    "title": "Footer",
+    "description": "👉 Unlock Full Access – $300 for the entire journey  Includes complete access to your study plan, AI tutoring, simulations, and peer mentoring."
+  }
+]

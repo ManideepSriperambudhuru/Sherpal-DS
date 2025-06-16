@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvement in accuracy and speed on prioritized Math skills including systems of equations and right triangle trigonometry while steadily reducing careless errors. Strengthen Reading & Writing proficiency in transitions, boundaries, and rhetorical synthesis by mastering complex question types under timed conditions. Build confidence to commit decisively to answers within set time limits and maintain positive momentum by tracking progress and minimizing rumination on past mistakes."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Transitions, Boundaries, Rhetorical Synthesis"
+                },
+                {
+                    "title": "Math",
+                    "description": "Systems of two linear equations in two variables, Right triangles and trigonometry, Linear equations in one variable, Ratios, rates, proportional relationships, and units, Equivalent expressions"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Transitions": "Engage in timed drills where you identify and select the most effective transitional phrases in complex passages, committing to each choice within 30 seconds, then immediately review accuracy to reinforce trust in your analytical instincts and reduce hesitation.",
+                        "Boundaries": "Practice sets of challenging boundary questions under strict time limits, focusing on recognizing paragraph and idea shifts quickly; after each set, reflect on errors with a mentor or peer to receive constructive feedback and celebrate streaks of correct answers to boost confidence.",
+                        "Rhetorical Synthesis": "Complete advanced synthesis exercises that require integrating multiple viewpoints within a passage under timed conditions, committing to answers decisively; track your accuracy over sessions to build self-trust and refine strategic reading under pressure."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Systems of two linear equations in two variables": "Solve progressively difficult systems using substitution and elimination methods within a 5-minute time frame per problem, immediately verifying solutions by substitution to build accuracy and speed while reinforcing thoroughness.",
+                        "Right triangles and trigonometry": "Work on complex right triangle problems involving trigonometric ratios and inverse functions under timed conditions, drawing and labeling diagrams for each problem to enhance visualization and reduce careless mistakes.",
+                        "Linear equations in one variable": "Master multi-step linear equations and inequalities by solving sets of problems under a 3-minute timer each, ensuring to check solutions immediately and reflect on any missteps to strengthen procedural confidence.",
+                        "Ratios, rates, proportional relationships, and units": "Practice multi-step ratio and unit conversion problems with a focus on dimensional analysis under timed drills, committing to answers quickly and reviewing errors with a peer to reinforce accuracy and speed.",
+                        "Equivalent expressions": "Perform targeted exercises isolating variables in complex formulas under time constraints, writing each step clearly and verifying correctness to build precision and trust in your algebraic manipulation skills."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances Conceptual Mastery and Full-Length Practice by pairing one prioritized Math skill with one Reading & Writing skill, starting the week with the weakest areas to maximize impact. Midweek sessions focus on moderate skills to build momentum. Fridays are dedicated to comprehensive review and error analysis to adapt strategies. Saturdays feature a full-length timed practice test followed by detailed answer review to deepen understanding and reinforce endurance. Sundays serve as a Flex Day for rest, reflection, and adaptive practice aligned with your growth needs."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure mixed-skill challenges that encourage exploration and pattern recognition without strict timing to honor your Tenacious Explorer nature. Reflect on recent errors by journaling insights and progress to balance rumination with positive reinforcement. Experiment with new problem-solving tools or mnemonic techniques to enhance cognitive flexibility. Incorporate mindfulness or light physical activity to reset focus and reduce stress. Set clear, achievable goals for the upcoming week to maintain structured momentum and self-trust."
+        }
+    ]
+}

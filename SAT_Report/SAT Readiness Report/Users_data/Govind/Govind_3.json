@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Your Learning Persona",
+    "description": "Hello Govind, as a Driven Trailblazer, you approach your SAT preparation with ambition and a clear focus on pushing boundaries. Your energy and competitive spirit naturally drive you to take action and lead your own progress. At times, this momentum can make it challenging to slow down for reflection or detailed review, which may cause some missed insights. Structuring checkpoints and embracing quick, purposeful reflection will help you convert your drive into deeper understanding and fewer avoidable errors."
+  },
+  {
+    "title": "Your SAT Practice Snapshot",
+    "description": "Your current SAT practice shows strong performance with a Reading & Writing score of 720 and a Math score of 760, combining for a total of 1480. Your reading accuracy is solid, and your math accuracy is notably higher, reflecting consistent effort and skill. With your goal set at 1550, your results demonstrate clear promise and a foundation to build on as you prepare for your test date."
+  },
+  {
+    "title": "What This Means For You",
+    "description": "Your Driven Trailblazer mindset supports your ability to excel under challenge but can sometimes lead to skipping deeper review, which aligns with your current performance pattern. Academically, your strength in Standard English Conventions and mastery in Algebra and Advanced Math reflect your capacity to lead and push through complex material effectively. Growth areas include Expression of Ideas in Reading & Writing and Geometry and Trigonometry in Math, where focused reflection and structured review will reduce errors and deepen comprehension. Your goal score is ambitious but attainable with targeted adjustments that balance your drive with deliberate practice."
+  },
+  {
+    "title": "Your Study Plan: Based on You",
+    "description": [
+      {
+        "title": "Summary",
+        "description": [
+          "Your Driven Trailblazer nature fuels a fast-paced, ambitious approach to SAT prep, which has brought you strong results so far. Your challenge lies in balancing this momentum with moments of reflection to catch subtle errors and deepen understanding. Leveraging your natural leadership and competitive edge, you can integrate structured checkpoints that turn quick progress into lasting mastery."
+        ]
+      },
+      {
+        "title": "Reading Writing Strategies",
+        "description": [
+          "1. Focus on Expression of Ideas by setting brief, timed review sessions after practice to analyze mistakes and understand reasoning, turning your impatience into productive reflection.",
+          "2. Reinforce Information and Ideas by practicing targeted question sets that build on your existing strengths, using your forward-thinking mindset to refine and solidify comprehension.",
+          "3. Maintain momentum in Standard English Conventions through visual goal boards that track mastery milestones, aligning with your preference for clear, actionable progress."
+        ]
+      },
+      {
+        "title": "Math Strategies",
+        "description": [
+          "1. Address Geometry and Trigonometry by breaking problems into step-by-step visual components, allowing you to slow down strategically without losing your drive.",
+          "2. Strengthen Problem-Solving and Data Analysis with timed drills that challenge your speed and accuracy, leveraging your competitive nature to push refinement.",
+          "3. Sustain confidence in Algebra and Advanced Math by incorporating gamified review sessions that reward mastery, keeping your engagement high and progress visible."
+        ]
+      },
+      {
+        "title": "Study Plan Phases",
+        "description": {
+          "Foundation": {
+            "date": "May 26, 2025 - July 10, 2025",
+            "reading_writing": "Prioritize Expression of Ideas with focused review sessions that encourage reflection and error analysis to build deeper understanding.",
+            "math": "Concentrate on Geometry and Trigonometry using visual breakdowns and stepwise problem-solving to address gaps while managing pacing."
+          },
+          "Elevation": {
+            "date": "July 11, 2025 - August 1, 2025",
+            "reading_writing": "Refine Information and Ideas through targeted practice that builds fluency and confidence, leveraging your natural leadership in learning.",
+            "math": "Enhance Problem-Solving and Data Analysis with timed exercises that balance speed and accuracy, supporting steady growth."
+          },
+          "Peak": {
+            "date": "August 2, 2025 - August 8, 2025",
+            "reading_writing": "Focus on timed full-section simulations emphasizing fluency and retention, especially in Expression of Ideas.",
+            "math": "Sharpen speed and accuracy in Geometry and Trigonometry with personalized test simulations to close remaining gaps."
+          }
+        }
+      },
+      {
+        "title": "Sample Weekly Schedule",
+        "description": [
+          "Monday: focus area: Expression of Ideas - duration 60 minutes.",
+          "Tuesday: focus area: Geometry and Trigonometry - duration 60 minutes.",
+          "Wednesday: focus area: Information and Ideas - duration 60 minutes.",
+          "Thursday: focus area: Problem-Solving and Data Analysis - duration 60 minutes.",
+          "Friday: focus area: Standard English Conventions - duration 60 minutes.",
+          "Saturday: focus area: Mixed practice with timed sections - duration 60 minutes.",
+          "Sunday: focus area: Flex day for review or rest - duration 30 minutes."
+        ]
+      },
+      {
+        "title": "Study Tips",
+        "description": [
+          "1. Let’s build skill in Expression of Ideas by scheduling brief reflection sessions after practice to capture insights and reduce avoidable mistakes.",
+          "2. Try focusing on Geometry and Trigonometry with stepwise visual problem breakdowns that fit your preference for action paired with clarity.",
+          "3. You can boost confidence in Information and Ideas by reinforcing partial strengths through targeted, timed drills that sharpen comprehension.",
+          "4. Structure your prep with clear checkpoints and visual goal boards to balance your fast pace with necessary reflection as you approach your test date.",
+          "5. Your natural drive and leadership can turn challenges into milestones when paired with deliberate review—use this to maintain steady, focused progress."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Want to Go Further?",
+    "description": "Govind, your ambition and clear results show you are ready to push beyond your current limits. Embracing structured reflection alongside your natural drive will unlock the next level of precision and confidence. Sherpal offers tailored insights and real-time feedback designed to match your pace and learning style, making it a strategic partner in your journey toward your goal."
+  },
+  {
+    "title": "Footer",
+    "description": "Safe harbor The scores, assessments, and recommendations provided in this report are for informational purposes only and do not constitute professional educational, psychological, or legal advice. Current performance is not necessarily indicative of actual or future results, as test-day conditions and individual circumstances may vary. While care has been taken in the preparation of this material, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, or reliability of the information presented. Any reliance you place on such information is strictly at your own risk. We accept no liability for any loss or damage arising from the use of this report. © 2025 Sthirah Inc. | Confidential & Proprietary - For internal Use Only"
+  }
+]

@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Aim to reduce careless errors by refining accuracy in both Math and Reading & Writing through targeted practice of second-tier skills. Strengthen reasoning and cognitive flexibility by applying mid-level and advanced concepts under moderate time pressure. Achieve steady progress by consistently identifying and correcting recurring mistakes, improving speed without sacrificing calm, deliberate problem-solving. Cultivate resilience by embracing manageable challenges that stretch current abilities while maintaining emotional balance."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Boundaries, Command of Evidence - Textual, Text Structure and Purpose"
+                },
+                {
+                    "title": "Math",
+                    "description": "Area and volume, Linear equations in one variable, Linear functions, Equivalent expressions, Lines, angles, and triangles"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Boundaries": "Engage in timed practice sets focusing on the most challenging boundary questions, consciously tracking and reflecting on each careless mistake to identify patterns; reward progress by leveling up difficulty only after consistent accuracy above 85%, reinforcing steady growth without pressure.",
+                        "Command of Evidence - Textual": "Practice extracting and justifying textual evidence under timed conditions by annotating passages and explaining reasoning aloud or in writing, gradually increasing complexity while pairing with a peer for occasional collaborative review to gently introduce productive challenge.",
+                        "Text Structure and Purpose": "Analyze complex passages by outlining paragraph functions and transitions within a strict time limit, then compare your outlines with model answers to fine-tune understanding and speed, framing each session as a micro-challenge to deepen insight without disrupting your study harmony."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Area and volume": "Solve progressively difficult area and volume problems under timed conditions, emphasizing careful unit conversions and stepwise formula application; after each set, review errors to identify slips and reward yourself for error-free completion to maintain motivation and balance.",
+                        "Linear equations in one variable": "Work through multi-step linear equations and inequalities with a focus on methodical isolation of variables, timing each problem to build speed while ensuring accuracy; incorporate peer comparison sessions to introduce mild competitive energy that encourages growth without stress.",
+                        "Linear functions": "Translate word problems into linear equations and graph them within set time limits, then interpret slope and intercept in context; use a gamified checklist to track mastery of different problem types, celebrating small wins to sustain momentum.",
+                        "Equivalent expressions": "Practice isolating variables in complex formulas step-by-step, timing each problem to enhance fluency; after solving, substitute back to verify correctness, reinforcing precision and confidence through deliberate reflection.",
+                        "Lines, angles, and triangles": "Tackle challenging geometry problems involving congruence and similarity under moderate time constraints, drawing detailed diagrams and labeling carefully; review mistakes to avoid common pitfalls and engage in occasional group problem-solving to gently push beyond comfort zones."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances focused dual-skill practice, pairing one Math and one Reading & Writing skill, starting the week with your weakest areas to build momentum and confidence. Midweek sessions target moderately mastered skills with increased time pressure and strategic review cycles. Fridays are dedicated to consolidating learning through comprehensive review and error analysis. Saturdays feature a full-length timed practice test followed by a detailed, calm review of answers to identify patterns and adapt strategies. Sunday serves as a Flex Day to rest, reflect, and recharge, ensuring sustainable progress aligned with your steady, balanced approach."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing errors from the week, journaling insights on when to push versus maintain balance. Experiment with new study tools or techniques, such as digital annotation apps or timed flashcards, to refresh your routine. Participate in mixed-skill, light challenges that combine Math and Reading & Writing questions at a comfortable pace to maintain cognitive flexibility. Incorporate mindfulness or gentle physical activity like walking or yoga to support emotional stability. Set clear, achievable goals for the upcoming week, focusing on incremental growth and maintaining harmony in your preparation."
+        }
+    ]
+}

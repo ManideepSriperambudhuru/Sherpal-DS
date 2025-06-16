@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve consistent accuracy above 90% in prioritized Reading & Writing and Math skills while reducing repeat errors by at least 50%. Demonstrate improved reasoning speed and precision under timed conditions. Stabilize performance across full-length practice tests with minimal score variance. Strengthen confidence by securing small wins daily and maintaining focus through sustained effort."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Rhetorical Synthesis, Transitions, Inferences, Command of Evidence - Quantitative, Cross-text Connections"
+                },
+                {
+                    "title": "Math",
+                    "description": "Lines, angles, and triangles, One-variable data: Distributions and measures of center and spread, Ratios, rates, proportional relationships, and units, Area and volume"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Rhetorical Synthesis": "Practice timed synthesis paragraphs by integrating evidence from multiple paired passages, focusing on clear transitions and citing rhetorical appeals to build cohesive arguments under pressure.",
+                        "Transitions": "Complete targeted exercises combining sentences and paragraphs using varied transition types, then review and revise to ensure logical flow and avoid overuse, reinforcing advanced application.",
+                        "Inferences": "Engage in daily inference drills with SAT-style passages, annotating clues and eliminating extreme answer choices to sharpen evidence-based reasoning and speed.",
+                        "Command of Evidence - Quantitative": "Analyze quantitative passages under timed conditions, highlighting key data points and linking them explicitly to claims before answering evidence questions to enhance accuracy and interpretation.",
+                        "Cross-text Connections": "Work through medium-difficulty paired passage sets, creating comparison charts to identify author purposes and tone differences, then answer synthesis questions to solidify pattern recognition."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Lines, angles, and triangles": "Solve complex geometry problems involving congruence and similarity criteria under timed conditions, drawing and labeling diagrams to confirm angle relationships and side proportions precisely.",
+                        "One-variable data: Distributions and measures of center and spread": "Interpret diverse data sets and graphs by calculating mean, median, range, and IQR, then explain distribution shape and outliers in writing to deepen conceptual understanding.",
+                        "Ratios, rates, proportional relationships, and units": "Complete multi-step ratio and unit conversion problems with strict time limits, carefully tracking units and setting up proportions to ensure accuracy and speed.",
+                        "Area and volume": "Practice challenging area and volume problems involving composite figures and unit conversions, writing step-by-step solutions to reinforce formula mastery and error checking."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday begins with focused dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with weakest skills to build foundational accuracy. Wednesday and Thursday target moderate skills to reinforce and expand mastery. Friday is dedicated to comprehensive review of errors and strategy refinement. Saturday features two full-length, timed practice tests emphasizing endurance, accuracy, and speed optimization, followed by detailed mistake analysis and reflection. Sunday serves as a Flex Day for rest and adaptive activities aligned with personal growth."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing errors from the week, identifying patterns without judgment to foster growth mindset. Experiment with new study tools like streak trackers or visual checklists to enhance motivation and structure. Challenge yourself with mixed-skill quizzes at a relaxed pace to maintain cognitive flexibility. Incorporate mindfulness or light physical activity to recharge focus and emotional control. Set clear, achievable micro-goals for the upcoming week to build confidence and sustain momentum."
+        }
+    ]
+}

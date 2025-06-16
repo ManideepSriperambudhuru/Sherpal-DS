@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve consistent accuracy above 90% in prioritized Reading & Writing and Math skills while reducing repeat mistakes by at least 50% each week. Strengthen reasoning speed and precision under timed conditions to minimize score variance. Build endurance to sustain focus and confidence through full-length, simulated SAT tests. Lock in test-day strategies that balance speed with careful analysis to prevent avoidable errors."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Form, Structure, and Sense, Central Ideas and Details, Inferences, Command of Evidence - Quantitative, Cross-text Connections"
+                },
+                {
+                    "title": "Math",
+                    "description": "Linear inequalities in one or two variables, Systems of two linear equations in two variables, One-variable data: Distributions and measures of center and spread, Right triangles and trigonometry"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Form, Structure, and Sense": "Practice timed passage outlines where you identify the form and structure of each paragraph, annotate transitions, and answer purpose-driven questions to reinforce logical flow and coherence under pressure, followed by a brief self-reflection log capturing insights and errors.",
+                        "Central Ideas and Details": "Engage in active reading drills where after each paragraph you summarize the central idea and supporting details aloud or in writing, then answer targeted SAT-style questions focusing on distinguishing main ideas from minor details, with timed review to reward mastery of missed concepts.",
+                        "Inferences": "Complete inference-focused SAT passages under strict time limits, annotating clues that imply tone or author intent, then review incorrect answers by tracing back to explicit evidence, using a self-reflection checkpoint to internalize lessons and avoid impulsive guessing.",
+                        "Command of Evidence - Quantitative": "Work on interpreting embedded quantitative data by isolating graphs and tables first, paraphrasing their meaning, then answering command of evidence questions in timed sets, followed by a focused review session to master data interpretation and prevent misreading units or scales.",
+                        "Cross-text Connections": "Practice paired passage comparisons using graphic organizers to map author purposes, tones, and evidence side-by-side, answering synthesis questions under timed conditions, then reflect on how contrasting viewpoints affect comprehension and strategy."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Linear inequalities in one or two variables": "Translate complex word problems into inequalities and solve them under timed conditions, explicitly noting when to flip inequality signs, then verify solutions by substituting values and graphing intervals to reinforce accuracy and conceptual understanding.",
+                        "Systems of two linear equations in two variables": "Solve mixed-method systems (substitution and elimination) in timed drills, including word problems, ensuring each step is clearly written and solutions are checked in both equations, followed by a self-reflection log to capture common errors and speed optimization strategies.",
+                        "One-variable data: Distributions and measures of center and spread": "Analyze diverse data sets by calculating mean, median, range, and IQR under timed practice, interpret graphical representations like box plots and histograms, and identify outliers using the 1.5*IQR rule, then review mistakes with a focus on understanding skewness and spread implications.",
+                        "Right triangles and trigonometry": "Practice solving right triangle problems by drawing detailed diagrams, identifying sides relative to angles, and applying sine, cosine, and tangent ratios under timed conditions, including inverse trig calculations, followed by a mastery check rewarding error-free problem sets."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with your weakest areas to maximize impact, midweek targeting moderate skills to build momentum, and Friday dedicated to comprehensive review of errors and strategy refinement. Saturdays are reserved for two full-length, timed SAT practice tests emphasizing accuracy and speed, with detailed post-test analysis to identify patterns and lock in improvements. Sunday serves as a Flex Day to recharge and adapt your approach."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day to reflect deeply on errors from the week by completing a structured self-reflection log that captures lessons from both successes and failures, experiment with new study tools or timing techniques to find what enhances your focus and efficiency, engage in mixed-skill challenge sets at a relaxed pace to maintain cognitive flexibility, incorporate physical activity or mindfulness exercises to reset mental energy, and update your visual goal board to include both performance and learning objectives for the upcoming week, embracing the 'fail fast, learn faster' mindset that fuels your drive."
+        }
+    ]
+}

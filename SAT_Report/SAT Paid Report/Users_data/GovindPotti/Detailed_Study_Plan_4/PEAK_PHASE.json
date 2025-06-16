@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve consistent accuracy above 90% on prioritized Reading & Writing and Math skills, steadily reduce repeat errors through targeted review, demonstrate improved reasoning by correctly answering the most challenging question types under timed conditions, maintain endurance to complete full-length practice tests with minimal score variance, and solidify mental control to stay calm and focused throughout each session."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Form, Structure, and Sense, Central Ideas and Details, Inferences, Command of Evidence - Quantitative, Cross-text Connections"
+                },
+                {
+                    "title": "Math",
+                    "description": "Linear inequalities in one or two variables, Systems of two linear equations in two variables, One-variable data: Distributions and measures of center and spread, Right triangles and trigonometry"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Form, Structure, and Sense": "Practice timed paragraph function identification by reading passages and quickly labeling each paragraph’s role (introduction, evidence, conclusion), then immediately review to analyze how transitions and structure support the author’s argument, reinforcing mastery of logical flow under pressure.",
+                        "Central Ideas and Details": "Engage in active reading drills where after each paragraph you pause to write a one-sentence summary of the central idea and list supporting details, then compare your notes to answer SAT-style questions, building speed and precision in distinguishing main points from minor details.",
+                        "Inferences": "Complete targeted inference question sets under timed conditions, annotating passages to mark clues and tone shifts, followed by a structured self-reflection log capturing why each inference is supported by evidence, cultivating deeper understanding and reducing impulsive answer choices.",
+                        "Command of Evidence - Quantitative": "Work on interpreting embedded quantitative data by isolating graphs and tables from passages, paraphrasing their meaning aloud, then answering command of evidence questions with a step-by-step approach to link data precisely to claims, reinforcing accuracy and critical analysis.",
+                        "Cross-text Connections": "Use paired passage exercises to create visual comparison charts mapping author’s purpose, tone, and evidence side-by-side, then answer synthesis questions under timed conditions, fostering quick recognition of relationships and sharpening cross-text analytical skills."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Linear inequalities in one or two variables": "Translate complex word problems into inequalities and solve them under timed conditions, carefully documenting each algebraic step and verifying solutions by substitution, to build accuracy and speed while reinforcing methodical problem-solving habits.",
+                        "Systems of two linear equations in two variables": "Practice solving systems using substitution and elimination methods on mixed problem sets, timing each solution and immediately checking answers by plugging values back into original equations, ensuring mastery of multiple approaches and error detection.",
+                        "One-variable data: Distributions and measures of center and spread": "Analyze diverse data sets by calculating mean, median, range, and IQR, then interpret histograms and box plots under timed conditions, followed by summarizing findings in your own words to deepen conceptual understanding and quick data interpretation skills.",
+                        "Right triangles and trigonometry": "Solve right triangle problems involving sine, cosine, and tangent ratios with a focus on correctly identifying sides relative to angles, using inverse trig functions when needed, and verifying answers for reasonableness, all practiced under timed, test-like conditions."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with the weakest skills to leverage peak energy for challenging content, midweek sessions target moderate skills to maintain momentum, Fridays are dedicated to comprehensive review and reflection on errors, Saturdays include two full-length practice tests simulating real test conditions with detailed post-test analysis to identify patterns and lock in strategies, and Sundays serve as a Flex Day for rest and adaptive activities aligned with your growth journey."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day to engage in low-pressure reflection by reviewing self-reflection logs and extracting key lessons from successes and failures, experiment with new study tools or timing techniques to optimize efficiency, tackle mixed-skill challenge sets to maintain cognitive flexibility, incorporate physical activity or mindfulness exercises to reset mental energy, and update your visual goal board to include both performance and learning objectives for the upcoming week, embracing the 'fail fast, learn faster' mindset that fuels your drive."
+        }
+    ]
+}

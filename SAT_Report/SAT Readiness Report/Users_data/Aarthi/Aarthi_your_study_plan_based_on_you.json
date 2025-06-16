@@ -1,0 +1,64 @@
+{
+  "title": "Summary",
+  "description": [
+    "The preparation approach reflects a steady, balanced mindset that values consistent progress without sacrificing emotional well-being. Strength lies in maintaining calm and thoughtful study habits that support sustainable growth and academic focus. A notable challenge is the tendency to avoid academic pressure that could push beyond comfort zones, potentially limiting performance gains. Introducing incremental challenges aligned with personal pacing can help bridge this gap while preserving mental balance."
+  ]
+},
+{
+  "title": "Reading Writing Strategies",
+  "description": [
+    "1. Focus on improving Craft and Structure by engaging with targeted exercises that require active analysis of sentence and paragraph organization, encouraging deliberate challenge beyond familiar patterns.",
+    "2. Enhance Expression of Ideas by practicing varied writing prompts and revising responses to deepen understanding of argument development and clarity.",
+    "3. Reinforce strengths in Information and Ideas by incorporating reflective review sessions that gamify comprehension checks and reward consistent accuracy."
+  ]
+},
+{
+  "title": "Math Strategies",
+  "description": [
+    "1. Focus on improving Advanced Math by working through progressively challenging problem sets that encourage stepping outside comfort zones while maintaining accuracy.",
+    "2. Enhance Problem-Solving and Data Analysis by refining interpretation skills through timed drills that emphasize data extraction and logical reasoning.",
+    "3. Reinforce strengths in Algebra by using step-by-step practice routines that build fluency and confidence through repetition and incremental difficulty."
+  ]
+},
+{
+  "title": "Study Plan Phases",
+  "description": {
+    "Foundation": {
+      "date": "May 28, 2025 - June 30, 2025",
+      "reading_writing": "Prioritize Craft and Structure with focused exercises that challenge analytical skills while maintaining a calm study pace. Use deliberate practice to address hesitation in complex sentence analysis.",
+      "math": "Concentrate on Advanced Math fundamentals with gradual introduction of more difficult problems, balancing challenge with steady progress to avoid overwhelm."
+    },
+    "Elevation": {
+      "date": "July 1, 2025 - July 25, 2025",
+      "reading_writing": "Target Expression of Ideas through timed writing drills that build fluency and reinforce argument clarity, leveraging reflective review to deepen understanding.",
+      "math": "Focus on Problem-Solving and Data Analysis with mixed-format practice emphasizing speed and accuracy, supported by visual aids and spaced repetition."
+    },
+    "Peak": {
+      "date": "July 26, 2025 - August 8, 2025",
+      "reading_writing": "Emphasize full-length practice tests under timed conditions, concentrating on remaining error patterns in all domains to solidify fluency and retention.",
+      "math": "Sharpen test-taking strategies and timing in all Math domains, integrating personalized simulation routines to maintain accuracy and confidence."
+    }
+  }
+},
+{
+  "title": "Sample Weekly Schedule",
+  "description": [
+    "Monday: focus area: Craft and Structure - duration 60 minutes.",
+    "Tuesday: focus area: Advanced Math - duration 60 minutes.",
+    "Wednesday: focus area: Expression of Ideas - duration 60 minutes.",
+    "Thursday: focus area: Information and Ideas - duration 60 minutes.",
+    "Friday: focus area: Problem-Solving and Data Analysis - duration 60 minutes.",
+    "Saturday: focus area: Mixed Reading and Math review - duration 60 minutes.",
+    "Sunday: focus area: Flex Day for review or rest - duration 30 minutes."
+  ]
+},
+{
+  "title": "Study Tips",
+  "description": [
+    "1. Let’s build skill in Craft and Structure — a growth area where deliberate, incremental challenges can deepen analytical thinking without disrupting balance.",
+    "2. Try focusing on Advanced Math using gradual difficulty increases. It’s a great area to sharpen with small, focused steps that respect steady pacing.",
+    "3. You’re making solid progress in Expression of Ideas. You can take it further by incorporating timed writing drills that enhance clarity and fluency.",
+    "4. A good routine for you might be consistent daily sessions with built-in reflection periods, supporting steady progress while maintaining emotional stability.",
+    "5. Your calm and thoughtful approach stands out — keep using it as fuel. Stay steady and remember: small, smart effort leads to measurable improvement."
+  ]
+}

@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Aim to steadily reduce careless errors by refining accuracy in both Math and Reading & Writing under moderate time pressure. Strengthen command over second-tier skills by applying them in timed, strategic practice sessions. Enhance reasoning and cognitive flexibility through layered problem-solving and performance review cycles. Achieve measurable improvements in interpreting complex texts and solving advanced algebra and geometry problems while maintaining emotional balance and steady progress."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Text Structure and Purpose, Inferences, Command of Evidence - Textual"
+                },
+                {
+                    "title": "Math",
+                    "description": "Nonlinear equations in one variable and systems of equations in two variables, Equivalent expressions, Linear inequalities in one or two variables, Percentages, Area and volume"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Text Structure and Purpose": "Engage in timed practice sets focusing on the most challenging question types that require identifying and analyzing text organization and author intent; after each set, reflect on pacing and accuracy to fine-tune speed without sacrificing comprehension, rewarding progress with small milestones to maintain motivation.",
+                        "Inferences": "Practice advanced inference questions under timed conditions using passages that demand reading between the lines; incorporate brief self-assessments after each session to recognize subtle reasoning patterns and gradually increase difficulty levels to gently push beyond comfort zones.",
+                        "Command of Evidence - Textual": "Work on paired questions that require locating and justifying textual evidence for complex claims, practicing under moderate time constraints; after each attempt, review errors carefully to distinguish between oversight and misunderstanding, framing challenges as growth opportunities rather than pressure points."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear equations in one variable and systems of equations in two variables": "Solve timed problem sets involving substitution methods for systems combining linear and quadratic equations, emphasizing careful algebraic manipulation and verification of solutions; incorporate visual graphing checks to deepen conceptual understanding while maintaining steady, stress-free pacing.",
+                        "Equivalent expressions": "Practice isolating variables in multi-step equations and formulas under timed conditions, focusing on clear, stepwise operations and balanced equation handling; after each problem, verify correctness by substituting back, rewarding accuracy improvements to encourage persistence through complexity.",
+                        "Linear inequalities in one or two variables": "Translate and solve challenging word problems involving linear inequalities with attention to sign changes and solution interpretation; use number line visualizations and timed drills to build confidence and accuracy, gradually increasing difficulty to promote growth without overwhelming pressure.",
+                        "Percentages": "Engage in complex percentage problems including conversions, increases/decreases, and real-world scenarios under timed practice; break down multi-step problems methodically, writing out each step to minimize errors and celebrate incremental progress to sustain motivation.",
+                        "Area and volume": "Work through advanced geometry problems calculating areas and volumes of composite figures under moderate time constraints; draw diagrams to visualize problems and double-check units, focusing on accuracy and strategic problem-solving to steadily elevate performance."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances Conceptual Mastery and Full-Length Practice by pairing one Math and one Reading & Writing skill per day, starting the week with the weakest skills to prioritize growth. Midweek sessions focus on moderately mastered skills to reinforce and layer understanding. Fridays are dedicated to comprehensive review and error analysis to consolidate learning. Saturdays feature a full-length timed practice test followed by a detailed review session emphasizing understanding mistakes and adapting strategies. Sundays serve as a Flex Day to support rest and reflection, maintaining harmony in preparation."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing errors from the week with a focus on understanding rather than judgment, journaling insights to distinguish peace from complacency. Experiment with new study tools or techniques such as digital flashcards or interactive problem sets to refresh cognitive engagement. Participate in mixed-skill, gamified challenges with peers slightly more intense to gently stretch limits and boost motivation. Incorporate mindfulness or light physical activity like walking or yoga to support emotional stability. Set clear, achievable goals for the upcoming week to maintain steady, balanced progress."
+        }
+    ]
+}

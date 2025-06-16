@@ -1,0 +1,101 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Each week, steadily improve accuracy and reasoning in both Math and Reading & Writing by focusing on core skills prioritized by difficulty. Aim to reduce repeat mistakes through consistent review and error analysis. Build confidence by mastering foundational concepts in nonlinear functions and key reading comprehension areas such as form, structure, and command of evidence. Track progress by completing timed drills to cultivate urgency and maintain calm focus under pressure."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": [
+                        "Form, Structure, and Sense",
+                        "Words in Context",
+                        "Text Structure and Purpose",
+                        "Command of Evidence - Textual"
+                    ]
+                },
+                {
+                    "title": "Math",
+                    "description": [
+                        "Nonlinear functions",
+                        "Linear equations in two variables",
+                        "Systems of two linear equations in two variables",
+                        "Nonlinear equations in one variable and systems of equations in two variables",
+                        "Percentages"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Form, Structure, and Sense": [
+                            "Outline short passages by identifying their form and labeling paragraph functions (introduction, evidence, conclusion) under timed conditions to build both structural awareness and internal urgency while maintaining composure.",
+                            "Complete sentence and paragraph reordering exercises with a visible countdown timer, focusing on transitions and logical flow to deepen understanding of coherence and improve speed without sacrificing accuracy.",
+                            "Answer purpose-driven questions that ask why specific paragraphs or sentences are placed where they are, using process of elimination to select options that preserve clarity, reinforcing thoughtful analysis under subtle time pressure."
+                        ],
+                        "Words in Context": [
+                            "Practice medium-difficulty vocabulary-in-context questions by annotating passages to underline context clues such as synonyms, antonyms, and contrast words, then paraphrase sentences aloud to solidify nuanced understanding while tracking time to encourage focus.",
+                            "Engage in sentence completion drills where you select the best word fit based on surrounding text, using a 'beat your best time' approach to gently raise urgency without disrupting calm concentration.",
+                            "Read diverse passages and highlight challenging words, then write brief explanations of their meanings based on context clues, reinforcing active vocabulary building and mindful reflection on word usage patterns."
+                        ],
+                        "Text Structure and Purpose": [
+                            "Identify text structures in varied passages by highlighting signal words and summarizing paragraph main ideas within a set time limit, balancing speed with accuracy to stretch capability while preserving composure.",
+                            "Write concise sentences explaining the author’s purpose after reading passages, focusing on evidence-based reasoning and using flashcards of common transition words to reinforce recognition of structural cues.",
+                            "Create outlines of passages to visualize organization and practice answering multiple-choice questions on structure and purpose, incorporating a subtle competitive element by tracking accuracy and time to maintain engagement."
+                        ],
+                        "Command of Evidence - Textual": [
+                            "Work on paired SAT questions requiring an answer and its supporting evidence by actively annotating passages to mark key points, then selecting the strongest textual support under timed conditions to build precision and internal urgency.",
+                            "Summarize paragraphs in your own words focusing on main ideas and supporting details, then match given answers to multiple possible evidence excerpts, choosing the best fit to deepen critical reading skills while maintaining calm focus.",
+                            "Practice elimination strategies on evidence questions by discarding options that are too broad or unrelated, using a visible countdown to encourage steady pacing and reinforce disciplined, thoughtful decision-making."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Sketch graphs of quadratic and exponential functions from given equations, then solve related quadratic equations using multiple methods (factoring, quadratic formula) within a timed setting to build fluency and stretch problem-solving under gentle pressure.",
+                            "Classify functions by analyzing equations and graphs, describing key features such as vertex and end behavior, while progressively increasing difficulty to challenge comfort zones without overwhelming calm focus.",
+                            "Translate real-world scenarios into nonlinear equations and solve them, incorporating 'beat your best time' drills to foster internal urgency balanced with steady composure."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate word problems into two-variable linear equations, clearly labeling variables and verifying equations before solving using substitution or elimination, practicing under timed conditions to enhance accuracy and focus.",
+                            "Solve systems of linear equations from real-world contexts such as mixtures or rates, reviewing solutions by substitution to confirm correctness, while tracking time to encourage consistent pacing without stress.",
+                            "Work through progressively complex word problems involving sums, differences, and ratios, applying step-by-step methods with visible countdowns to maintain engagement and build confidence in handling challenging scenarios."
+                        ],
+                        "Systems of two linear equations in two variables": [
+                            "Solve systems using substitution and elimination methods on increasingly difficult problems, writing each step clearly and checking solutions in both equations, practicing with timed drills to develop speed and precision.",
+                            "Graph systems of linear equations to visualize solutions and identify types (one, none, infinite), reinforcing conceptual understanding alongside algebraic methods in a calm, structured routine.",
+                            "Translate complex word problems into systems of equations and solve them, incorporating 'beat your best time' challenges to gently push beyond comfort zones while maintaining steady focus."
+                        ],
+                        "Nonlinear equations in one variable and systems of equations in two variables": [
+                            "Solve systems combining linear and quadratic equations by substitution, carefully simplifying and applying quadratic formula where needed, practicing with timed exercises to build accuracy and internal urgency without sacrificing composure.",
+                            "Interpret discriminants to determine the number of solutions in systems, graphing results to connect algebraic and visual understanding, reinforcing conceptual clarity under subtle time constraints.",
+                            "Work on word problems modeling real-world scenarios with linear and quadratic systems, verifying solutions by substitution and reflecting on errors to steadily improve mastery and confidence."
+                        ],
+                        "Percentages": [
+                            "Practice converting between percentages, decimals, and fractions through timed drills to build foundational fluency and encourage focused pacing without pressure.",
+                            "Calculate percentage increases and decreases in real-world contexts such as discounts and interest, writing out each step clearly to avoid errors and using visible countdowns to maintain steady engagement.",
+                            "Solve word problems involving percentages, including reverse percentage calculations, progressively increasing difficulty while balancing challenge with calm, methodical problem-solving."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on dual-skill practice pairing one Math and one Reading & Writing skill, starting the week with the weakest skills to build foundational strength and progressing midweek to moderate skills for balanced growth. Fridays are dedicated to comprehensive review and error analysis to reinforce learning and reduce mistakes. Saturdays alternate between full-length practice tests with detailed review to simulate test conditions and focused sessions on fundamental concepts to deepen understanding and conceptual clarity. Sundays serve as Flex Days for rest and adaptive activities aligned with personal growth."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in reflective review of errors made during the week, identifying patterns calmly to inform next steps. Experiment with new study tools or techniques such as digital annotation apps or flashcard systems to enhance engagement. Tackle mixed-skill challenges at a relaxed pace to maintain cognitive flexibility without pressure. Incorporate mindfulness or light physical activity like walking or stretching to refresh focus and reduce stress. Set clear, achievable goals for the upcoming week, reinforcing quiet confidence and steady progress."
+        }
+    ]
+}

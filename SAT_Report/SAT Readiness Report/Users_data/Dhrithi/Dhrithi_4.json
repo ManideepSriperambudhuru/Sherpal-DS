@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Your Learning Persona",
+    "description": "As a Thoughtful Pathfinder, you approach learning with emotional intelligence and resilience, maintaining calm under pressure and reflecting deeply on your progress. You value meaningful understanding over quick fixes and prefer autonomy in your study process. Your self-awareness helps you recognize how mindset influences your performance. At the same time, maintaining consistent focus and managing time effectively can be challenging, especially without external structure. Building accountability and connecting your goals to personal values will support steady progress."
+  },
+  {
+    "title": "Your SAT Practice Snapshot",
+    "description": "Currently, your Reading & Writing and Math scores are at the starting point, with no recorded accuracy in either domain. This baseline reflects the beginning of your preparation journey. Your goal score is ambitious and achievable with steady, focused effort. The absence of current data offers a clear opportunity to build foundational skills and establish consistent study habits. Your thoughtful approach positions you well to make meaningful progress as you engage with the material."
+  },
+  {
+    "title": "What This Means For You",
+    "description": "Your reflective nature supports resilience, which aligns with your ability to recover from setbacks, but your relaxed approach may challenge consistent focus. Academic Strengths: While your current scores do not yet reflect domain-specific strengths, your persona suggests you will engage deeply with material in both Reading & Writing and Math when motivated. Growth Areas: Without current domain accuracy data, it is important to prioritize establishing baseline skills in both Reading & Writing and Math, focusing on areas that require steady attention to build confidence and momentum. Closing Insight: Your goal score is within reach if you leverage your thoughtful mindset to create structured, emotionally connected study routines."
+  },
+  {
+    "title": "Your Study Plan: Based on You",
+    "description": [
+      {
+        "title": "Summary",
+        "description": [
+          "Your thoughtful and reflective approach provides a strong foundation for deliberate SAT preparation. You bring resilience that will help you navigate challenges, but your tendency toward relaxed pacing means external accountability will be important. Connecting your study tasks to personal values and breaking them into manageable steps will help maintain focus. This plan respects your need for autonomy while providing structure to guide steady progress."
+        ]
+      },
+      {
+        "title": "Reading Writing Strategies",
+        "description": [
+          "1. Since there is no current domain accuracy data, begin by establishing a consistent reading schedule that includes reflective journaling on passages to deepen comprehension and connect material to your values, addressing focus challenges.",
+          "2. Incorporate targeted grammar exercises that allow you to apply rules thoughtfully, reinforcing emerging strengths and building confidence through deliberate practice.",
+          "3. Use digital tools with reminders to track your reading progress and encourage steady engagement, supporting your preference for autonomy while creating gentle external accountability."
+        ]
+      },
+      {
+        "title": "Math Strategies",
+        "description": [
+          "1. Start with foundational math concepts using step-by-step problem-solving methods that align with your reflective learning style and help manage pacing.",
+          "2. Focus on practicing mid-level problem types that require logical reasoning, reinforcing your resilience and ability to recover from errors thoughtfully.",
+          "3. Employ visual aids or interactive apps to maintain motivation and track progress, integrating your preference for autonomy with structured feedback."
+        ]
+      },
+      {
+        "title": "Study Plan Phases",
+        "description": {
+          "Foundation": {
+            "date": "May 24, 2025 - June 30, 2025",
+            "reading_writing": "Prioritize building basic comprehension and grammar skills with reflective exercises and journaling to address focus and motivation challenges.",
+            "math": "Focus on core math concepts using stepwise problem-solving and visual tools to establish a solid foundation while managing pacing."
+          },
+          "Elevation": {
+            "date": "July 1, 2025 - July 25, 2025",
+            "reading_writing": "Develop fluency through timed reading drills and targeted grammar refinement, leveraging your resilience to build confidence.",
+            "math": "Target moderate difficulty problems with spaced repetition and logical reasoning tasks to deepen understanding and maintain engagement."
+          },
+          "Peak": {
+            "date": "July 26, 2025 - August 8, 2025",
+            "reading_writing": "Focus on full-length practice tests under timed conditions to simulate test day, emphasizing retention and error analysis.",
+            "math": "Sharpen accuracy and speed with personalized simulations and review of volatile problem types, reinforcing test strategies."
+          }
+        }
+      },
+      {
+        "title": "Sample Weekly Schedule",
+        "description": [
+          "Monday: focus area: Reading comprehension - duration 60 minutes.",
+          "Tuesday: focus area: Foundational math concepts - duration 60 minutes.",
+          "Wednesday: focus area: Grammar application - duration 60 minutes.",
+          "Thursday: focus area: Logical reasoning math problems - duration 60 minutes.",
+          "Friday: focus area: Reading fluency and vocabulary - duration 60 minutes.",
+          "Saturday: focus area: Mixed practice and timed drills - duration 60 minutes.",
+          "Sunday: focus area: Review and reflection - duration 30 minutes."
+        ]
+      },
+      {
+        "title": "Study Tips",
+        "description": [
+          "1. Let’s build skill in reading comprehension by connecting passages to your personal interests, which can help sustain focus and deepen understanding.",
+          "2. Try focusing on foundational math concepts with stepwise problem-solving to align with your reflective learning style and improve accuracy.",
+          "3. Reinforce grammar skills through targeted exercises that allow you to apply rules thoughtfully, supporting steady progress.",
+          "4. Establish a weekly check-in routine with a mentor or peer to create accountability and maintain momentum toward your goal date.",
+          "5. Use digital tools that provide gentle reminders and track consistency, helping you balance autonomy with structured habits."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Want to Go Further?",
+    "description": [
+      "Sherpal offers personalized guidance that adapts to your unique learning style and evolving needs, providing clarity and focus throughout your preparation. Its interactive tools and AI-driven coaching deliver real-time feedback and goal-based planning tailored to your strengths and challenges. Partnering with Sherpal means having a responsive guide that supports your steady progress toward your target score."
+    ]
+  },
+  {
+    "title": "Footer",
+    "description": "Safe harbor The scores, assessments, and recommendations provided in this report are for informational purposes only and do not constitute professional educational, psychological, or legal advice. Current performance is not necessarily indicative of actual or future results, as test-day conditions and individual circumstances may vary. While care has been taken in the preparation of this material, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, or reliability of the information presented. Any reliance you place on such information is strictly at your own risk. We accept no liability for any loss or damage arising from the use of this report. © 2025 Sthirah Inc. | Confidential & Proprietary - For internal Use Only"
+  }
+]

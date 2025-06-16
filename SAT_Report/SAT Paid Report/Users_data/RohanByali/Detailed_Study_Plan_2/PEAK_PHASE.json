@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Each week, steadily improve accuracy and reasoning in both Math and Reading & Writing by reducing repeat mistakes and deepening mastery of prioritized skills. Aim to stabilize performance under timed conditions, minimizing score variance and building endurance for full-length tests. Strengthen confidence by consistently hitting target accuracy thresholds in Command of Evidence - Quantitative and Area and Volume, while refining mental control to maintain focus throughout practice sessions."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Command of Evidence - Quantitative, Text Structure and Purpose, Central Ideas and Details, Inferences, Cross-text Connections"
+                },
+                {
+                    "title": "Math",
+                    "description": "Area and volume, One-variable data: Distributions and measures of center and spread, Right triangles and trigonometry, Ratios, rates, proportional relationships, and units"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Command of Evidence - Quantitative": "Practice interpreting embedded quantitative data by working through SAT-style passages with graphs and tables, under timed conditions, highlighting key numbers and paraphrasing their meaning aloud to reinforce understanding and avoid misinterpretation.",
+                        "Text Structure and Purpose": "Master complex text structures by reading challenging passages and annotating signal words and organizational patterns, then summarizing the author’s purpose in writing each section to build speed and accuracy under timed practice.",
+                        "Central Ideas and Details": "After reading each passage, write a concise summary identifying the central idea and supporting details, then answer related SAT questions focusing on distinguishing main points from minor facts to sharpen comprehension clarity.",
+                        "Inferences": "Engage with medium-difficulty inference questions by annotating passages for tone and implied meanings, then justify each answer choice with direct textual evidence to strengthen evidence-based reasoning.",
+                        "Cross-text Connections": "Analyze paired passages by creating comparison charts that map author purposes, tones, and evidence types, then answer synthesis questions to build skill in integrating information across texts."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Area and volume": "Tackle challenging problems involving composite figures and volume calculations by drawing detailed diagrams, labeling all dimensions, and solving step-by-step to refine accuracy and formula application under timed conditions.",
+                        "One-variable data: Distributions and measures of center and spread": "Work through medium-difficulty data sets by calculating mean, median, range, and IQR, then interpret histograms and box plots to identify distribution shapes and outliers, reinforcing core statistical reasoning.",
+                        "Right triangles and trigonometry": "Practice complex right triangle problems by identifying sides relative to given angles, applying sine, cosine, and tangent ratios, and using inverse trig functions to find unknown angles, ensuring precise calculator use and diagram labeling.",
+                        "Ratios, rates, proportional relationships, and units": "Solve multi-step problems involving ratios and unit conversions by setting up proportions carefully, performing dimensional analysis with units clearly tracked, and verifying answers for consistency in real-world contexts."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday includes focused dual-skill practice sessions pairing one Math and one Reading & Writing skill, starting the week with weakest areas to maximize impact, midweek addressing moderate skills, and Fridays dedicated to comprehensive review of errors and strategy refinement. Saturdays feature two full-length, timed practice tests emphasizing accuracy and speed, followed by detailed mistake analysis to reinforce learning. Sundays serve as a Flex Day to rest and adapt."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day for low-pressure reflection on weekly progress by reviewing error patterns visually through charts or summaries, experimenting with new study tools or alternate problem-solving strategies to break habitual methods, engaging in mixed-skill challenges to maintain cognitive flexibility, incorporating mindfulness or light physical activity to recharge focus, and setting clear, adaptable goals for the upcoming week to sustain motivation and persistence."
+        }
+    ]
+}

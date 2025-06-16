@@ -1,0 +1,85 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Build a solid baseline by steadily improving accuracy and reasoning in prioritized Reading & Writing and Math skills. Achieve measurable reduction in repeat errors through disciplined review and reflection. Strengthen comprehension of core concepts in nonlinear and linear functions, systems of equations, and vocabulary in context. Begin closing skill gaps with consistent, focused effort while cultivating confidence through reliable, structured study habits."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Words in Context, Rhetorical Synthesis, Boundaries"
+                },
+                {
+                    "title": "Math",
+                    "description": "Nonlinear functions, Linear functions, Nonlinear equations in one variable and systems of equations in two variables, Equivalent expressions, Linear equations in two variables"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Words in Context": [
+                            "Engage with diverse, challenging passages that feature complex vocabulary; annotate and underline unfamiliar words, then use context clues such as synonyms, antonyms, and sentence structure to infer meanings. After each practice, log insights on how context altered your understanding and identify any assumptions made to sharpen precision.",
+                            "Complete sentence completion exercises where you select words that best fit nuanced contexts, focusing on eliminating choices that conflict with passage tone or logic. Time each set to build speed while maintaining accuracy, then review errors with a self-reflection log to capture lessons and prevent repeat mistakes.",
+                            "Paraphrase selected sentences containing difficult words by rewriting them in your own words, emphasizing the connotations and multiple meanings of key terms. Use this to deepen comprehension and reinforce vocabulary in context, recording progress on a visual goal board that tracks mastery beyond just correct answers."
+                        ],
+                        "Rhetorical Synthesis": [
+                            "Practice active reading by annotating multiple related passages, identifying agreements, disagreements, and rhetorical appeals (ethos, pathos, logos). Write synthesis paragraphs that weave these ideas into a cohesive argument using clear transitions, then review your work against scoring criteria to refine clarity and logical flow.",
+                            "Complete timed source comparison tasks where you analyze how different texts use rhetorical strategies to support or oppose a central theme. After each timed session, reflect on pacing and synthesis effectiveness in a structured log, rewarding yourself for improvements in speed and depth of analysis.",
+                            "Use graphic organizers like Venn diagrams or charts to visually map relationships between multiple texts. Then, write brief synthesis summaries that integrate these connections, focusing on maintaining your own voice and avoiding overuse of direct quotes. Track your progress on a learning goal board emphasizing synthesis skill development."
+                        ],
+                        "Boundaries": [
+                            "Engage in sentence correction drills targeting run-ons, comma splices, and fragments by rewriting sentences with proper punctuation and conjunctions. Read corrected sentences aloud to internalize natural pauses and boundary placement, then log common errors and strategies to avoid them in future practice.",
+                            "Practice punctuation placement exercises where you insert commas, semicolons, colons, and dashes correctly between independent clauses. Time these exercises to build fluency and accuracy under pressure, reviewing mistakes with a focus on understanding the function of each boundary type rather than rote correction.",
+                            "Combine simple sentences into complex or compound sentences using varied boundary techniques, ensuring clarity and grammatical correctness. After each exercise, reflect on how different punctuation choices affect meaning and flow, updating your visual goal board to include mastery of boundary variety alongside accuracy."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Practice graph sketching of quadratic and exponential functions from given equations, focusing on identifying vertex, intercepts, and end behavior. After sketching, solve related quadratic equations using multiple methods such as factoring and the quadratic formula, then verify solutions by substituting back to avoid common errors.",
+                            "Work through SAT-style multiple choice questions involving nonlinear functions under timed conditions to build speed and accuracy. After each set, analyze mistakes in a reflection log to identify patterns like confusing linear and nonlinear functions or misapplying formulas, and reward mastery of corrected concepts.",
+                            "Translate real-world word problems into nonlinear equations and solve them systematically. Visualize the problem by sketching graphs or diagrams before solving, and document your problem-solving process and insights in a structured log to reinforce conceptual understanding and reduce avoidable mistakes."
+                        ],
+                        "Linear functions": [
+                            "Translate diverse word problems into linear equations by identifying independent and dependent variables, calculating slope and intercept, and writing equations in slope-intercept form. Solve for unknowns and interpret results in context, then review solutions critically to ensure units and logic align with the problem scenario.",
+                            "Create and analyze graphs of linear equations derived from word problems to visualize relationships and verify solutions. Practice plotting points and interpreting slope and intercept meaningfully, logging reflections on how graphical insights support algebraic answers and noting any errors for targeted review.",
+                            "Complete timed exercises converting real-life scenarios into linear equations and solving for variables, emphasizing accuracy and speed. After each session, reflect on common pitfalls such as mixing variables or miscalculating slope, and update your visual goal board with both performance and learning goals to track progress."
+                        ],
+                        "Nonlinear equations in one variable and systems of equations in two variables": [
+                            "Solve systems combining one linear and one quadratic equation using substitution, carefully isolating variables and simplifying step-by-step. Verify all solutions by substituting back into original equations to avoid extraneous answers, and log any errors to refine your methodical approach despite natural impatience.",
+                            "Practice interpreting the discriminant of quadratic equations within systems to predict the number of solutions before solving. Use this insight to guide problem-solving strategy and confirm results graphically when possible, reflecting on how this deepens conceptual understanding and reduces guesswork.",
+                            "Work on word problems modeled by linear and quadratic systems, translating scenarios into equations and solving systematically. Document your reasoning process and solution checks in a self-reflection log to capture lessons from both successes and failures, reinforcing the 'fail fast, learn faster' mindset."
+                        ],
+                        "Equivalent expressions": [
+                            "Practice isolating variables in multi-step equations and formulas by applying inverse operations one step at a time, writing each step clearly to maintain balance and avoid errors. After solving, substitute expressions back into original equations to verify correctness and log any missteps for targeted review.",
+                            "Work on rearranging formulas with multiple variables, including those with fractions and parentheses, to isolate a specific quantity. Use clear notation and stepwise manipulation, reflecting on challenges encountered and updating your visual goal board with mastery milestones beyond just correct answers.",
+                            "Translate word problems into algebraic equations requiring variable isolation, then solve systematically while checking units and logical consistency. Record your problem-solving process and any errors in a structured log to build disciplined habits that counteract impatience with slow review."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate word problems into systems of linear equations by carefully assigning variables and writing accurate equations. Solve these systems using substitution or elimination methods step-by-step, double-checking each calculation and verifying solutions in context to ensure logical consistency.",
+                            "Practice solving systems through elimination and substitution under timed conditions to build fluency and accuracy. After each timed set, reflect on common errors such as misassigning variables or arithmetic slips, and reward improvements to maintain motivation and reinforce disciplined review.",
+                            "Work on real-world scenarios involving mixtures, rates, and money problems modeled by systems of linear equations. Document your approach and solution verification in a reflection log to capture insights and foster a growth mindset that embraces learning from mistakes quickly."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on deep conceptual mastery through dual-skill practice pairing one Math and one Reading & Writing skill. Begin the week by targeting your weakest skills to build foundational strength, progress midweek to moderate skills for balanced growth, and dedicate Fridays to comprehensive review and reflection to consolidate learning. Saturdays concentrate on reinforcing fundamental concepts through targeted skill-building exercises and conceptual drills. Reserve one Flex Day for rest, reflection, and adaptive practice to maintain momentum without burnout."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day to reflect deeply on errors and successes by reviewing your self-reflection logs, identifying patterns, and setting precise learning goals for the upcoming week. Experiment with new study tools or techniques such as digital annotation apps or timed quizzes to discover what enhances your efficiency. Engage in mixed-skill challenges that integrate both Math and Reading & Writing to stimulate cognitive flexibility. Incorporate physical activity or mindfulness practices to recharge your focus and energy. Finally, update your visual goal board to align performance and learning objectives, embracing your 'fail fast, learn faster' philosophy with calm, purposeful intention."
+        }
+    ]
+}

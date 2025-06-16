@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvements in accuracy and reasoning across prioritized Reading & Writing and Math skills while steadily reducing careless mistakes. Enhance decision-making speed under moderate time pressure without sacrificing precision. Complete all practice sets fully, minimizing unanswered questions. Strengthen cognitive flexibility by applying mid-level and advanced concepts with confidence and strategic pacing."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Words in Context, Inferences, Command of Evidence - Textual"
+                },
+                {
+                    "title": "Math",
+                    "description": "Equivalent expressions, Lines, angles, and triangles, Systems of two linear equations in two variables, Ratios, rates, proportional relationships, and units, One-variable data: Distributions and measures of center and spread"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Words in Context": "Engage in timed drills where you select the best word meaning or usage within 30 seconds per question, focusing on mastering difficult question types. After each drill, journal instances where your first instinct was correct to build trust in your decision-making and reduce overanalysis.",
+                        "Inferences": "Practice sets of inference questions under a 30-second time limit per item, emphasizing understanding the underlying logic rather than surface details. Post-practice, review each answer to confirm when your initial interpretation aligned with the correct response, reinforcing confidence in quick reasoning.",
+                        "Command of Evidence - Textual": "Complete paired evidence questions with a strict 45-second limit per pair, focusing on identifying textual support efficiently. After each session, reflect on moments when committing early led to correct answers, cultivating a mindset that values progress over perfection."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Equivalent expressions": "Work through multi-step algebra problems isolating variables with a 60-second time cap per question, ensuring clear notation and stepwise manipulation. After each set, verify solutions by substituting back into original equations to confirm accuracy and build procedural confidence.",
+                        "Lines, angles, and triangles": "Solve geometry problems involving congruence and similarity under timed conditions, allocating 90 seconds per question. Sketch diagrams quickly and label known values to enhance visualization. Review errors focusing on angle relationships and proportional reasoning to avoid common pitfalls.",
+                        "Systems of two linear equations in two variables": "Practice solving systems using substitution and elimination methods with a 90-second limit per problem. Emphasize writing each step clearly and checking solutions by substitution. Post-practice, analyze any hesitation points to improve speed and decisiveness.",
+                        "Ratios, rates, proportional relationships, and units": "Complete ratio and proportion word problems under a 75-second time constraint, applying dimensional analysis and unit conversions carefully. After practice, identify any missteps in unit handling or proportion setup to refine accuracy.",
+                        "One-variable data: Distributions and measures of center and spread": "Interpret data sets and graphs with a 60-second limit per question, calculating mean, median, range, and IQR efficiently. Focus on recognizing distribution shapes and outliers quickly. Review mistakes to strengthen understanding of statistical concepts and reduce overthinking."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances conceptual mastery with strategic timed practice by pairing one Math skill and one Reading & Writing skill, starting the week with the weakest skills to build momentum. Midweek focuses on moderately mastered skills to reinforce and layer complexity. Fridays are dedicated to reviewing errors and adapting strategies based on performance insights. Saturdays involve one full-length SAT practice test under timed conditions, followed by a thorough review to identify patterns in mistakes and decision-making delays. Sundays serve as a Flex Day to rest, reflect, and recalibrate for the upcoming week."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in reflective journaling focused on moments when you trusted your instincts and succeeded, reinforcing confidence in partial information decisions. Experiment with new study tools or timing apps to discover techniques that support quicker commitment without sacrificing accuracy. Tackle mixed-skill challenge sets at a relaxed pace to stimulate intellectual curiosity without pressure. Incorporate mindfulness or light physical activity to reset cognitive energy. Set clear, purpose-driven goals for the next week that emphasize progress over perfection, aligning with your thoughtful and steady learning style."
+        }
+    ]
+}

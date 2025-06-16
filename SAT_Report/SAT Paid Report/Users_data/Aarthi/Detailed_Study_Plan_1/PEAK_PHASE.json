@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve steady improvements in accuracy and reasoning across prioritized Reading & Writing and Math skills, focusing on mastering the most difficult question types under timed conditions. Reduce repeat mistakes by identifying patterns in errors and applying refined strategies to minimize score variance. Build endurance and confidence by completing full-length practice tests with consistent pacing and mental control. Lock in effective test strategies to maintain calm and deliberate performance under pressure."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Central Ideas and Details, Inferences, Rhetorical Synthesis, Cross-text Connections, Command of Evidence - Quantitative"
+                },
+                {
+                    "title": "Math",
+                    "description": "Ratios, rates, proportional relationships, and units, Linear inequalities in one or two variables, Percentages, One-variable data: Distributions and measures of center and spread"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Central Ideas and Details": "Practice timed passage readings where after each paragraph, pause to annotate the central idea and supporting details, then summarize the entire passage in your own words to reinforce comprehension and speed under pressure.",
+                        "Inferences": "Engage in targeted exercises that require identifying subtle authorial tone and implied meanings by annotating clues in short passages, followed by selecting evidence-supported inference answers under timed conditions to build accuracy and confidence.",
+                        "Rhetorical Synthesis": "Work on paired passage sets where you identify and annotate rhetorical appeals and relationships between sources, then write brief synthesis paragraphs using transitional phrases to connect ideas clearly and efficiently.",
+                        "Cross-text Connections": "Use graphic organizers to compare and contrast author purposes, tones, and evidence across paired passages, followed by answering synthesis questions that integrate information from both texts within strict time limits.",
+                        "Command of Evidence - Quantitative": "Practice interpreting embedded quantitative data by highlighting key statistics in passages, paraphrasing their significance, and answering command of evidence questions step-by-step, focusing on precise data linkage and elimination of irrelevant choices."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Ratios, rates, proportional relationships, and units": "Solve multi-step word problems involving ratios and unit conversions under timed conditions, explicitly writing out unit labels and conversion factors to ensure accuracy and reinforce dimensional analysis.",
+                        "Linear inequalities in one or two variables": "Translate real-world scenarios into inequalities, solve them step-by-step while carefully tracking inequality direction changes, and verify solutions by substituting values, all practiced with increasing difficulty and timed drills.",
+                        "Percentages": "Complete mixed problem sets involving percentage conversions, increases, decreases, and reverse percentage calculations, emphasizing clear stepwise solutions and estimation checks to build speed and precision.",
+                        "One-variable data: Distributions and measures of center and spread": "Analyze data sets and graphs to calculate mean, median, range, and IQR, identify distribution shapes and outliers, and interpret their implications through timed exercises that simulate test conditions."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on dual-skill practice pairing one Math and one Reading & Writing skill, starting the week with the weakest skills to maximize growth, progressing to moderate skills midweek, and dedicating Friday to comprehensive review and error analysis. Saturdays include two full-length practice tests emphasizing accuracy and speed optimization, followed by detailed review sessions to identify patterns and reinforce strategies. Sunday serves as a Flex Day for rest, reflection, and adaptive practice aligned with personal balance."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing errors from the week to identify subtle patterns without judgment, experiment with new study tools or techniques such as digital annotation apps or timed flashcards to refresh engagement, participate in mixed-skill challenges with slightly more intense peers to gently push comfort zones, incorporate mindfulness or light physical activity like yoga or walking to restore mental clarity, and set thoughtful, achievable goals for the upcoming week that balance growth with well-being."
+        }
+    ]
+}

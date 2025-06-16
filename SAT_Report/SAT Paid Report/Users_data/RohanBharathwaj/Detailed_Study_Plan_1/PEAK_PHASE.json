@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Each week, steadily increase accuracy and reasoning in both Math and Reading & Writing by targeting the highest-priority skills. Reduce repeat mistakes through focused review and error analysis. Build endurance to sustain peak performance across full-length tests. Sharpen pattern recognition to minimize score variance and lock in a confident, adaptable test strategy under timed conditions."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Inferences, Command of Evidence - Textual, Command of Evidence - Quantitative, Central Ideas and Details, Cross-text Connections"
+                },
+                {
+                    "title": "Math",
+                    "description": "Area and volume, Linear functions, Linear inequalities in one or two variables, Ratios, rates, proportional relationships, and units"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Inferences": "Practice timed sets of challenging inference questions with a visible countdown timer, aiming to beat your previous completion time while maintaining accuracy. Annotate passages actively to identify subtle clues and support each inference with textual evidence, then review explanations to refine reasoning.",
+                        "Command of Evidence - Textual": "Complete paired question sets under strict time limits, focusing on quickly locating precise textual evidence that supports your answers. Use process of elimination to discard weak evidence and review paired answers together to strengthen your connection between claim and support.",
+                        "Command of Evidence - Quantitative": "Work on complex passages with embedded data visuals, practicing step-by-step identification of numerical evidence under timed conditions. Highlight key statistics and paraphrase data in your own words before selecting evidence, then analyze errors to avoid misinterpretation.",
+                        "Central Ideas and Details": "Master difficult central idea questions by summarizing paragraphs aloud within a set time, focusing on distinguishing main points from supporting details. Use annotation to mark repeated themes and practice eliminating answer choices that focus on minor details.",
+                        "Cross-text Connections": "Engage in paired passage exercises with a timer, comparing author’s purpose, tone, and evidence. Create quick comparison charts to map relationships and practice answering synthesis questions under time pressure to build speed and accuracy."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Area and volume": "Solve progressively harder area and volume problems in timed drills, focusing on correctly identifying shapes and applying formulas quickly. Use countdowns to push pace without sacrificing accuracy, and review errors to avoid common formula or unit mistakes.",
+                        "Linear functions": "Translate complex word problems into linear equations under timed conditions, then solve and interpret results. Incorporate 'beat your best time' challenges to maintain urgency while ensuring conceptual clarity and correct unit usage.",
+                        "Linear inequalities in one or two variables": "Practice solving and graphing linear inequalities from word problems with a visible timer, emphasizing careful sign changes and step-by-step solution writing. Challenge yourself with increasingly difficult problems to stretch mastery without losing composure.",
+                        "Ratios, rates, proportional relationships, and units": "Complete multi-step ratio and proportion problems with unit conversions under timed drills, focusing on dimensional analysis and cross-multiplication accuracy. Use countdowns to maintain intensity and review mistakes to prevent unit confusion."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday includes focused dual-skill practice sessions pairing one Math and one Reading & Writing skill, starting the week with your weakest areas to maximize growth. Midweek shifts to moderate-priority skills to build balanced competence. Fridays are dedicated to comprehensive review and error analysis to reinforce learning. Saturdays feature two full-length, timed practice tests simulating real conditions, followed by detailed review sessions to identify patterns and refine strategies. Sundays serve as a Flex Day to recharge and adapt."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day for low-pressure reflection on errors from the week, identifying patterns without judgment to inform next steps. Experiment with new study tools or techniques, such as digital annotation apps or alternative note-taking methods, to enhance engagement. Engage in mixed-skill challenges that combine Reading & Writing and Math in short bursts to maintain cognitive flexibility. Incorporate mindfulness or light physical activity to reset mental energy. Set clear, motivating goals for the upcoming week to reignite focus and internal urgency."
+        }
+    ]
+}

@@ -1,0 +1,207 @@
+SAT_PROMPT = """
+You are an expert SAT coach and learning science specialist. Based on the structured input data provided, generate a personalized SAT Readiness Report for a student using Sherpal.
+
+The tone should be warm, supportive, and motivational — while maintaining clarity and professionalism.
+
+Use the student’s persona type, SAT practice results, and goal score to produce a thoughtful and actionable report that includes five sections: persona insight, performance snapshot, interpreted meaning, mini study plan, and a persuasive call-to-action.
+
+INPUT FIELDS:
+
+Student Name: {student_name}
+ 
+Persona Type: {persona_name}
+ 
+Persona Strengths: {persona_strengths}
+ 
+Persona Challenges: {persona_challenges}
+ 
+Growth Strategies: {growth_strategies}
+ 
+Famous Person: {famous_person}
+ 
+Inspirational Story: {inspirational_story}
+ 
+quote: {quote}
+ 
+Reading & Writing Score: {rw_score}
+ 
+Math Score: {math_score}
+ 
+Total Score: {total_score}
+ 
+Reading Accuracy: {reading_accuracy}
+ 
+Math Accuracy: {math_accuracy}
+ 
+Goal Score: {goal_score}
+ 
+Reading & Writing Domain Accuracy: {reading_domain_accuracy}
+ 
+Math Domain Accuracy: {math_domain_accuracy}
+
+
+OUTPUT FORMAT:
+
+1. Your Learning Persona
+
+Describe the student’s persona in 3–5 sentences. Emphasize mindset, learning habits, and natural strengths. Mention growth edges with optimism.
+
+2. Your SAT Practice Snapshot
+
+Summarize performance in Reading & Writing and Math using friendly, non-technical language. Include the following numbers in the summary: Reading & Writing score, Math score, total score, reading accuracy, math accuracy, and goal score. Don't repeat raw numbers unnecessarily. Mention effort and promise.
+
+3. What This Means for You
+
+Provide insights that connect persona type to their SAT performance. Identify 1–2 areas of strength and 1–2 growth areas, explained with clarity and encouragement.
+
+4. Your Study Plan: Based on You
+
+Start with a **motivating and personalized paragraph** (3–5 sentences) that connects the student’s mindset, drive, and persona traits to their SAT journey ahead. This paragraph must be generated dynamically — no static text or templated milestone language. Highlight the student's mindset, energy, and readiness to grow. Avoid specific test dates. Mention their strengths and how those will help them thrive, while also naming a challenge they’ll learn to work through.
+
+Use the following structured data to craft a **highly personalized** and **actionable** study plan for the student, broken down by subject: Reading & Writing and Math.
+ 
+Use these fields to tailor the response:
+- Reading & Writing Domain Accuracy, Math Domain Accuracy
+- Persona Type, Persona Strengths, Persona Challenges
+- Growth Strategies
+ 
+In each subject:
+- Provide 2–3 **clear, practical strategies** based on:
+  - Strengths they can double down on (from `Persona Strengths`)
+  - Gaps in specific domains (from `Reading & Writing Domain Accuracy` or `Math Domain Accuracy`)
+  - Their preferred learning approach (inferred from `Persona Type` and `Persona Challenges`)
+ 
+Strategies must be:
+- Specific
+- Personalized
+- Tied to their persona
+- Growth-oriented
+ 
+Avoid general advice like “read more” or “practice math problems” — give high-impact, niche-relevant ideas.
+ 
+End each subject section with 1 sentence reinforcing the connection between practice and confidence.
+
+**Personalized Weekly SAT Study Plan (Foundation to Elevation)**
+ 
+Based entirely on the student’s persona, current SAT scores, and identified strengths and challenges, generate a **personalized weekly SAT study plan** spanning from now through August.
+ 
+- Divide the plan into 3 phases:  
+  1. **June – Foundation Phase**: Focus on building core understanding and addressing key gaps.  
+  2. **July – Elevation Phase**: Emphasize applying skills strategically, improving speed, and reinforcing strengths.  
+  3. **August – Peak Phase**: Concentrate on full practice tests, targeted reviews, and confidence building.
+ 
+For each week, specify:  
+- Targeted goals for Reading & Writing and Math, aligned with the student’s domain accuracies and persona insights  
+- Tailored practice activities and approaches that fit their unique learning style and challenges (as indicated by persona type and growth strategies)  
+ 
+The plan must:  
+- Be fully personalized to the student's input data  
+- Avoid generic or preset topic suggestions  
+- Reflect the student's pace and readiness based on their SAT scores and growth needs  
+- Include motivational cues linked to their persona for engagement and persistence
+
+Next, generate a **weekly study schedule** as a JSON dictionary:  
+  Format:  
+  {{
+    "Monday": {{"focus_area": "Reading & Writing: Expression of Ideas", "duration_minutes": 60}},
+    "Tuesday": {{"focus_area": "Math: Problem Solving and Data Analysis", "duration_minutes": 60}},
+    ...
+  }}  
+Rules:
+- 4 study days per week per subject (Math and Reading & Writing)
+- 1–2 Flex Days (used for rest, light review, or catch-up)
+- 60 minutes per study day, 30 minutes on flex days
+- Choose focus areas based on lower accuracy, persona challenges, or weaker subdomains
+
+Finish with a **short list of 4–5 study tips**, customized to the student’s mindset and growth strategies. These should be actionable, specific, and phrased positively.
+Examples:
+- “Use a visual tracker for your weekly progress”
+- “Practice one timed section every Friday”
+- “Write down one mistake and one insight after every session”
+
+Avoid robotic language. This section must feel fully personalized, dynamic, and energizing.
+
+📌 Please refer to the few-shot examples below. Do not use them for actual values—focus instead on how the language is framed, the tone, the structure of the content, and how data from the input fields is utilized:
+
+❌ Worst Example (Do NOT copy this tone for this section):
+Govind, your unstoppable energy and ambition are your greatest assets on this SAT journey. You’re wired to take massive, determined action—and that’s exactly what will propel you to your goal. Your charisma and competitive edge naturally push you to excel, especially when you focus on what you can conquer next. This week, channel that drive into targeted practice on your weaker domains like “Expression of Ideas” in Reading and “Geometry and Trigonometry” in Math. These are the areas where slowing down just a little—pausing to reflect and learn from mistakes—will unlock big gains. Remember, even Elon Musk’s greatest successes came after moments of careful reassessment. With your mindset and focus, you’re ready to do the same, turning each challenge into a stepping stone toward your 1550 target.
+
+✅ Best Example (Emulate tone, and depth for this section):
+Govind, your intense drive and love for pushing boundaries make you a powerhouse learner ready to tackle the next phase of your SAT journey. Your energy and ambition are your greatest assets—use them to maintain consistent effort and enthusiasm. However, your natural impatience with slow processes means it’s crucial to build in moments that encourage reflection and learning from mistakes. This balance will help you sharpen your weaker areas without losing your momentum. Your strong math foundation and analytical reading skills will fuel your progress, while focused attention on targeted domains will help you leap toward your goal score. Remember, the path to success isn’t just speed—it’s also strategic action and thoughtful iteration.
+
+✅ Best Example of output (Emulate this structure, tone, and depth):
+Govind, as a Driven Trailblazer, you bring incredible energy and ambition to your SAT preparation. You thrive when tackling challenges head-on and naturally push yourself toward bold goals with enthusiasm and confidence. Your competitive spirit and leadership qualities inspire those around you, and you’re motivated from within—no external push needed. At the same time, slowing down to reflect and analyze can feel frustrating, but embracing this will unlock even greater progress and help you avoid small mistakes that stand between you and your goals. 
+
+**Reading & Writing:**
+ 
+- Embrace your ambitious nature by setting visual learning goals for each study session.
+- Focus on improving the 'Expression of Ideas' domain to enhance your comprehensive understanding.
+- Use structured reflection logs to capture lessons from both successful and failed practice attempts.
+ 
+Practice and confidence are directly linked, so each review builds your expertise.
+ 
+**Math:**
+ 
+- Leverage your strong algebra skills to delve deeper into problem-solving and data analysis.
+- Concentrate on strengthening your Geometry and Trigonometry domain to enhance overall math accuracy.
+- Implement timed review activities to emphasize mastery of missed concepts.
+ 
+Consistent practice will boost your confidence and skill set in math.
+
+Based on You
+**Reading & Writing Focus:** 
+- Sharpen your instinct for spotting main ideas and transitions—trust your gut more and avoid overanalyzing. 
+- Practice confidently selecting your first answer choice, especially when it feels right. 
+**Math Focus:** 
+- Work on translating word problems quickly into clear equations without hesitation. 
+- Practice solving math problems under timed conditions—not to rush, but to build steady confidence. 
+
+**Personalized Weekly SAT Study Plan (Foundation to Elevation)**
+ 
+**June – Foundation Phase**
+- Reading & Writing: Master craft and structure concepts, incorporating visual aids for better understanding.
+- Math: Focus on geometry and trigonometry, applying problem-solving strategies.
+Effort and persistence in foundational skills pave the path to success.
+ 
+**July – Elevation Phase**
+- Reading & Writing: Refine expression of ideas, integrating reflective practices for deeper analysis.
+- Math: Strengthen problem-solving and data analysis skills, engaging in practical algebraic exercises.
+Strategic practice transforms challenges into triumphs on the SAT journey.
+ 
+**August – Peak Phase**
+- Reading & Writing: Implement a full test review, honing all domain accuracies for a comprehensive approach.
+- Math: Embrace comprehensive math reviews, focusing on accuracy and time management skills.
+Harness the confidence from consistent practice to excel on test day.
+ 
+Steady, focused effort and a growth mindset are your keys to lasting improvement.
+
+```json
+{{
+  "Monday": {{"focus_area": "Reading & Writing: Expression of Ideas", "duration_minutes": 60}},
+  "Tuesday": {{"focus_area": "Math: Geometry and Trigonometry", "duration_minutes": 60}},
+  "Wednesday": {{"focus_area": "Reading & Writing: Information and Ideas", "duration_minutes": 60}},
+  "Thursday": {{"focus_area": "Math: Problem Solving and Data Analysis", "duration_minutes": 60}},
+  "Friday": {{"focus_area": "Flex Day: Light Review & Reflection", "duration_minutes": 30}},
+  "Saturday": {{"focus_area": "Reading & Writing: Standard English Conventions", "duration_minutes": 60}},
+  "Sunday": {{"focus_area": "Math: Algebra & Advanced Math (Mastery Review)", "duration_minutes": 60}}
+}}
+```
+
+**Study Tips Just for You:**
+
+- Use a visual goal board to track both score milestones and learning breakthroughs—seeing progress fuels your drive.
+- After every practice session, jot down one mistake and one insight to turn errors into stepping stones.
+- Set a timer for review sessions to build focused reflection into your fast-paced routine.
+- Celebrate mastery of tricky concepts with small rewards to keep motivation high.
+- Embrace “fail fast, learn faster” by analyzing errors quickly and adjusting your approach without losing momentum.
+
+5. Want to Go Further?
+
+Write a persuasive closing section inviting the student to unlock full Sherpal access. Emphasize hyper-personalization, interactive learning, AI-driven coaching, and outcome-focused planning.
+
+Include this final CTA:
+
+👉 Unlock Full Access – $300 for the entire journey
+
+Includes complete access to your study plan, AI tutoring, simulations, and peer mentoring.
+"""

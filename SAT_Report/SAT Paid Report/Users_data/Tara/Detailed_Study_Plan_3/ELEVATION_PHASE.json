@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvements in accuracy and reasoning for Reading & Writing skills focusing on Inferences, Boundaries, and Transitions while steadily reducing careless errors. In Math, reinforce mastery of Lines, angles, and triangles, Systems of two linear equations, Linear equations in one variable, Percentages, and Linear functions under moderate time pressure. Develop adaptability by maintaining consistent performance despite varied question formats and mixed-topic challenges. Strengthen endurance to sustain focus and precision throughout timed practice sessions."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Inferences, Boundaries, Transitions"
+                },
+                {
+                    "title": "Math",
+                    "description": "Lines, angles, and triangles, Systems of two linear equations in two variables, Linear equations in one variable, Percentages, Linear functions"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Inferences": "Engage in timed practice sets of challenging inference questions drawn from diverse passages, followed by immediate self-explanation aloud to reinforce reasoning and identify subtle cues, integrating endurance and deep analysis to refine advanced inference skills.",
+                        "Boundaries": "Complete mixed-topic timed quizzes emphasizing the most difficult boundary questions, focusing on rapid identification of paragraph and idea shifts, then review errors to optimize speed and accuracy under pressure while building cognitive flexibility.",
+                        "Transitions": "Practice complex transition questions in a mixed sequence with other reading skills, alternating between written and spontaneous oral explanations of answer choices to encourage adaptability and deepen understanding of nuanced language connections."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Lines, angles, and triangles": "Solve advanced geometry problems involving congruence and similarity under timed conditions, drawing and labeling diagrams carefully, then write brief justifications for each step to solidify conceptual mastery and reduce careless mistakes.",
+                        "Systems of two linear equations in two variables": "Work through challenging systems problems using substitution and elimination methods in timed drills, alternating between algebraic and graphical approaches, then verify solutions by substitution to enhance accuracy and speed.",
+                        "Linear equations in one variable": "Complete multi-step linear equation and inequality problems under time constraints, emphasizing step-by-step isolation of variables and solution verification to build precision and confidence in complex scenarios.",
+                        "Percentages": "Practice complex percentage word problems involving increases, decreases, and reverse calculations with timed drills, writing out each step clearly to avoid common errors and improve fluency in real-world contexts.",
+                        "Linear functions": "Translate challenging word problems into linear equations, solve for unknowns, and graph results under timed conditions, then interpret slope and intercept in context to strengthen problem-solving and application skills."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances focused dual-skill practice pairing one Math and one Reading & Writing skill, beginning the week with the weakest skills to maximize early gains and building toward moderate skills midweek. Fridays are dedicated to comprehensive review of errors and strategy refinement. Saturdays feature one full-length timed SAT practice test followed by detailed analysis of mistakes and adaptive planning. One designated Flex Day intentionally disrupts routine to build cognitive flexibility and adaptability while supporting rest and reflection."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in mixed-topic quizzes that require switching between Math and Reading & Writing mid-session to challenge adaptability. Experiment with new study tools such as flashcard apps or group problem-solving sessions to break routine. Reflect calmly on recent errors to identify patterns without pressure. Incorporate mindfulness or light physical activity to recharge focus. Set clear, flexible goals for the upcoming week emphasizing both consistency and openness to new strategies."
+        }
+    ]
+}

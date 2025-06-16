@@ -1,0 +1,95 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Build a solid baseline of understanding across prioritized Reading & Writing and Math skills with a focus on accuracy and concept clarity. Achieve measurable improvements in interpreting passage structure, synthesizing rhetorical elements, and mastering transitions in reading. In Math, deepen comprehension and problem-solving speed in nonlinear and linear functions, systems of equations, and geometry involving area and volume. Reduce hesitation in timed scenarios by practicing decision-making under time constraints. Begin closing skill gaps while steadily increasing confidence through consistent, purposeful study."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": [
+                        "Form, Structure, and Sense",
+                        "Rhetorical Synthesis",
+                        "Transitions"
+                    ]
+                },
+                {
+                    "title": "Math",
+                    "description": [
+                        "Nonlinear functions",
+                        "Linear functions",
+                        "Linear equations in two variables",
+                        "Linear equations in one variable",
+                        "Area and volume"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Form, Structure, and Sense": [
+                            "Engage in timed passage analysis sessions where you outline the form and internal structure of complex SAT passages, labeling paragraph functions and mapping transitions. After each session, review your outlines to confirm your understanding of the author’s intent and logical flow, focusing on recognizing how each paragraph contributes to the overall argument or narrative. This practice leverages your strength in deep conceptual thinking while training you to make quicker structural assessments under time pressure.",
+                            "Complete reordering exercises that require rearranging sentences or paragraphs within passages to improve coherence and clarity. Time yourself to encourage decisive choices, then reflect on your decisions to build trust in your instincts. This method sharpens your ability to evaluate organizational effectiveness without overanalyzing, aligning with your thoughtful learning style.",
+                            "Practice targeted transition word exercises by filling in blanks with appropriate connectors in SAT-style passages. Focus on understanding how transitions guide readers through arguments and narratives. Follow each exercise with a brief written summary explaining the purpose of key paragraphs and sentences, reinforcing your conceptual grasp and improving your ability to identify logical flow quickly."
+                        ],
+                        "Rhetorical Synthesis": [
+                            "Practice synthesizing information from paired SAT passages by annotating key arguments, rhetorical appeals, and evidence. Write concise synthesis paragraphs that integrate ideas from both texts using varied transitional phrases. Limit your writing time to simulate test conditions, then review your work to identify moments when your synthesis was clear and effective, reinforcing confidence in your analytical instincts.",
+                            "Engage in source comparison drills where you identify agreements and disagreements between multiple texts under timed conditions. Use graphic organizers like Venn diagrams to visualize relationships, then summarize how rhetorical strategies differ or align. This activity encourages purposeful, efficient analysis and helps reduce hesitation by focusing on essential connections.",
+                            "Complete timed rhetorical analysis exercises focusing on ethos, pathos, and logos within SAT passages. After each exercise, journal briefly about instances where your initial interpretation matched the correct analysis, fostering trust in your judgment and reducing fear of being wrong during timed tests."
+                        ],
+                        "Transitions": [
+                            "Perform transition identification drills by reading SAT passages and highlighting transition words, then explaining their role in linking ideas. Practice under timed conditions to build speed and decisiveness. Follow up with writing short paragraphs that incorporate a variety of transition types to ensure smooth logical flow, reinforcing your conceptual understanding and fluency.",
+                            "Complete sentence combining exercises where you join simple sentences using appropriate transitions to create coherent, complex sentences. Time these exercises to encourage quicker decision-making and review your choices to confirm accuracy, helping you balance thoroughness with efficiency.",
+                            "Engage in error correction tasks by revising SAT-style paragraphs with missing or incorrect transitions. Focus on selecting transitions that best fit the logical relationship between ideas. Reflect on your corrections to build confidence in making swift, accurate choices under pressure."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Practice graph sketching of quadratic and exponential functions by drawing their curves from given equations within timed intervals. Focus on identifying key features such as vertex, intercepts, and end behavior. After each sketch, solve related quadratic equations using multiple methods like factoring and the quadratic formula to reinforce conceptual understanding and speed.",
+                            "Work on function identification drills where you classify equations or graphs as linear or nonlinear and describe their characteristics. Incorporate timed multiple-choice SAT-style questions to build familiarity and encourage prompt, confident decisions.",
+                            "Translate real-world nonlinear scenarios into equations and solve them, emphasizing word problems involving projectile motion or population growth. Time your problem-solving to simulate test conditions and review solutions to confirm accuracy and build trust in your instincts."
+                        ],
+                        "Linear functions": [
+                            "Translate diverse word problems into linear equations by identifying variables, calculating slopes, and determining intercepts. Practice writing and graphing these equations under timed conditions to improve speed and accuracy while maintaining conceptual clarity.",
+                            "Create tables or diagrams to visualize linear relationships from word problems, then solve for unknowns. Time these exercises to encourage quicker interpretation and decision-making, followed by reflection on your solution process to reinforce confidence.",
+                            "Interpret graphs of linear functions by describing slope and intercept meanings in context. Practice with SAT-style questions that require explanation of real-world implications, focusing on concise, accurate responses within time limits."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate word problems into systems of two linear equations by carefully assigning variables and writing equations that represent relationships. Solve these systems using substitution or elimination methods under timed conditions to build fluency and reduce hesitation.",
+                            "Practice solving real-world scenarios involving mixtures, rates, or ages by setting up and solving systems of equations. After each problem, verify solutions by substitution and reflect on your accuracy to strengthen trust in your problem-solving approach.",
+                            "Engage in exercises that require checking solutions within context to ensure logical consistency. Time your work to simulate test pressure and journal moments when your solutions aligned with expectations, reinforcing confidence in your methods."
+                        ],
+                        "Linear equations in one variable": [
+                            "Solve multi-step linear equations and inequalities by isolating variables step-by-step, practicing both equations and inequalities under timed conditions. Focus on applying the inequality sign reversal rule accurately and efficiently.",
+                            "Translate real-world scenarios into single-variable linear equations or inequalities and solve them, emphasizing interpretation of solutions in context. Time your practice to encourage prompt decision-making and review solutions to confirm correctness.",
+                            "Use number line visualizations to represent inequality solutions, practicing drawing and interpreting these graphs quickly. Reflect on your accuracy and speed to build confidence in handling inequalities under test conditions."
+                        ],
+                        "Area and volume": [
+                            "Practice calculating areas of various plane figures and volumes of solids by identifying shapes, labeling dimensions, and applying formulas step-by-step under timed conditions. Include unit conversion drills to ensure precision and speed.",
+                            "Solve composite figure problems by breaking down complex shapes into simpler components, calculating individual areas or volumes, and combining results. Time your problem-solving to encourage efficient reasoning and verify answers for accuracy.",
+                            "Apply area and volume concepts to real-world word problems, focusing on interpreting given information and selecting appropriate formulas. Practice under timed conditions and review solutions to build confidence in handling geometry questions quickly and correctly."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday will focus on dual-skill practice pairing one Math and one Reading & Writing skill, starting the week with your weakest areas to maximize early gains. Midweek sessions will target moderate skills to maintain momentum, while Fridays are reserved for comprehensive review and reflection on progress. Saturdays concentrate on reinforcing fundamental concepts through targeted skill-building exercises and conceptual deepening. Sundays serve as a Flex Day to support rest, reflection, and adaptive learning strategies aligned with your thoughtful and steady approach."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in reflective journaling focused on moments when you acted with confidence and made correct decisions to reinforce trust in your instincts. Experiment with new study tools or techniques, such as digital annotation apps or timed quizzes, to discover what enhances your learning flow. Tackle mixed-skill challenges at a relaxed pace to maintain engagement without pressure. Incorporate mindfulness or light physical activities like walking or stretching to support cognitive flexibility and emotional steadiness. Set clear, purposeful goals for the upcoming week to align your motivation with your growth trajectory."
+        }
+    ]
+}

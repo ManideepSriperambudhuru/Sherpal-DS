@@ -1,0 +1,95 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Build a solid baseline of understanding across all prioritized SAT skills with a focus on accuracy and concept clarity. Achieve measurable improvements in Reading & Writing by mastering form, structure, and nuanced vocabulary use while beginning to synthesize rhetorical elements. In Math, steadily close gaps in nonlinear functions and area and volume concepts, progressing toward confident problem-solving with systems of equations and trigonometry. Reduce repeat mistakes through disciplined review and sharpen reasoning accuracy. Cultivate consistent study habits that reinforce endurance and reliability, setting the stage for sustained growth."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": [
+                        "Form, Structure, and Sense",
+                        "Words in Context",
+                        "Rhetorical Synthesis"
+                    ]
+                },
+                {
+                    "title": "Math",
+                    "description": [
+                        "Nonlinear functions",
+                        "Area and volume",
+                        "Nonlinear equations in one variable and systems of equations in two variables",
+                        "Linear equations in two variables",
+                        "Right triangles and trigonometry"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Form, Structure, and Sense": [
+                            "Practice medium-difficulty SAT passages by outlining each paragraph’s function—label introductions, evidence, counterarguments, and conclusions—then answer questions focused on transitions and logical flow to deepen understanding of how structure supports meaning while maintaining steady, deliberate pacing aligned with your disciplined approach.",
+                            "Engage in reordering exercises where you rearrange sentences or paragraphs within passages to improve clarity and coherence, reinforcing your endurance through methodical analysis and building confidence in identifying effective organizational patterns without rushing.",
+                            "Complete fill-in-the-blank transition word exercises using SAT-level texts, focusing on selecting connectors that maintain logical flow; this sharpens your ability to track coherence and purpose, strengthening your reliable, step-by-step reasoning skills."
+                        ],
+                        "Words in Context": [
+                            "Work through challenging vocabulary-in-context questions drawn from diverse SAT passages, annotating surrounding clues and paraphrasing sentences to internalize nuanced meanings, leveraging your steady study habits to build deep comprehension without shortcuts.",
+                            "Complete sentence completion drills where you select words that best fit complex contexts, practicing elimination of ill-fitting options to refine your critical thinking and vocabulary precision in a structured, consistent manner.",
+                            "Regularly paraphrase complex sentences from SAT passages using synonyms and simpler language, reinforcing your understanding of word connotations and contextual usage while steadily expanding your vocabulary through disciplined repetition."
+                        ],
+                        "Rhetorical Synthesis": [
+                            "Analyze pairs of SAT passages to identify agreements and disagreements, annotating rhetorical appeals (ethos, pathos, logos) and practicing writing synthesis paragraphs that blend evidence cohesively, building your endurance through sustained, focused integration of multiple sources.",
+                            "Practice rewriting paragraphs using transitional phrases to connect ideas smoothly, enhancing your ability to weave arguments logically while maintaining clarity, a skill that complements your reliable, structured study style.",
+                            "Simulate timed synthesis question sessions where you actively compare multiple texts and compose concise responses, gradually increasing speed while preserving accuracy, encouraging adaptability within your steady routine."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Sketch graphs of quadratic and exponential functions from given equations, labeling key features like vertex and intercepts, then solve related SAT-style problems using multiple methods such as factoring and the quadratic formula, reinforcing your methodical approach and endurance through complex problem sets.",
+                            "Classify a set of functions as linear or nonlinear based on their equations and graphs, explaining your reasoning in writing to deepen conceptual clarity and build confidence brick by brick without rushing.",
+                            "Translate real-world scenarios into nonlinear equations and solve them step-by-step, focusing on accuracy and thoroughness to steadily master application problems while maintaining your disciplined study rhythm."
+                        ],
+                        "Area and volume": [
+                            "Calculate areas of various plane figures and volumes of solids using formula sheets, drawing diagrams to visualize problems and practicing unit conversions to build foundational understanding with clear, stepwise problem-solving aligned with your organized habits.",
+                            "Solve composite figure problems by breaking them into simpler shapes, carefully labeling dimensions and applying formulas systematically, reinforcing accuracy and conceptual clarity through consistent, deliberate practice.",
+                            "Work on word problems involving area and volume in real-world contexts, verifying answers for reasonableness and practicing stepwise calculations to strengthen your reliable problem-solving endurance."
+                        ],
+                        "Nonlinear equations in one variable and systems of equations in two variables": [
+                            "Solve systems combining linear and quadratic equations using substitution, carefully isolating variables and applying the quadratic formula, then verify solutions by plugging them back into original equations to build accuracy and confidence through disciplined repetition.",
+                            "Practice interpreting the discriminant to determine the number of solutions in systems, graphing equations to visualize intersections and deepen conceptual understanding, supporting your steady, organized learning style.",
+                            "Work through word problems modeled by linear and quadratic systems, translating scenarios into equations and solving step-by-step, reinforcing your endurance and methodical approach to complex algebraic challenges."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate diverse word problems into systems of linear equations, clearly defining variables and relationships, then solve using substitution and elimination methods under timed conditions to build speed without sacrificing accuracy, encouraging gradual adaptation within your structured routine.",
+                            "Practice verifying solutions by substitution to confirm correctness, reinforcing your reliable, detail-oriented habits and minimizing careless errors.",
+                            "Work on real-world scenarios involving mixtures, rates, and ages, solving systems systematically and reflecting on problem-solving steps to deepen understanding and build confidence steadily."
+                        ],
+                        "Right triangles and trigonometry": [
+                            "Solve basic right triangle problems by identifying opposite, adjacent, and hypotenuse sides relative to given angles, applying sine, cosine, and tangent ratios with calculator use to find unknown sides, reinforcing foundational skills through consistent, focused practice.",
+                            "Use inverse trigonometric functions to find missing angles given side lengths, drawing and labeling diagrams to visualize problems clearly, supporting your methodical and organized study approach.",
+                            "Apply trigonometry to word problems involving heights and distances, combining Pythagorean theorem and trig ratios in stepwise solutions to build accuracy and endurance in problem-solving."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on deep conceptual mastery through dual-skill practice, pairing one Math and one Reading & Writing skill per session. Begin the week by targeting your weakest skills—nonlinear functions and form, structure, and sense—to build foundational strength. Midweek shifts to moderate skills like area and volume and words in context, reinforcing core concepts steadily. Fridays are dedicated to comprehensive review and error analysis to consolidate learning and reduce repeat mistakes. Saturdays concentrate on fundamental concepts through targeted skill-building exercises and conceptual reinforcement, ensuring steady progress. One Flex Day is reserved for rest, reflection, and cognitive flexibility exercises to prepare you for the next week with renewed focus."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure mixed-topic quizzes that require switching between Math and Reading & Writing skills mid-session to build adaptability. Reflect on errors from the week by journaling insights and planning adjustments, turning setbacks into growth opportunities. Experiment with new study tools like flashcard apps or group problem-solving sessions to gently push beyond familiar routines. Incorporate mindfulness or light physical activity to recharge focus and reduce anxiety from disrupted plans. Set clear, achievable goals for the upcoming week, celebrating your steady progress and embracing flexibility as a vital skill alongside consistency."
+        }
+    ]
+}

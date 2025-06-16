@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvement in accuracy and speed on mid-level and advanced SAT Math and Reading & Writing skills, particularly focusing on reducing careless mistakes and hesitation under timed conditions. Demonstrate steady progress in applying second-tier skills such as transitions, command of evidence, and boundaries in Reading & Writing, alongside nonlinear and linear equations, area and volume, percentages, and ratios in Math. Develop stronger decision-making confidence by completing timed drills with fewer skipped or unanswered questions. Cultivate cognitive flexibility through strategic practice cycles of analyze, adapt, and retest to refine reasoning and accuracy."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Transitions, Command of Evidence - Textual, Boundaries"
+                },
+                {
+                    "title": "Math",
+                    "description": "Nonlinear equations in one variable and systems of equations in two variables, Linear equations in one variable, Area and volume, Percentages, Ratios, rates, proportional relationships, and units"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Transitions": "Engage in timed sets of medium-difficulty transition questions where you identify and justify the best connective phrases under a strict 60-second limit per question, followed by immediate review to confirm when your first instinct was correct, reinforcing quicker, confident decision-making without overanalysis.",
+                        "Command of Evidence - Textual": "Practice challenging command of evidence problems by selecting textual support for given claims within a 90-second window per question, then conduct a detailed post-practice debrief to analyze reasoning paths and validate your initial choices, strengthening trust in your analytical instincts under pressure.",
+                        "Boundaries": "Work on mastering the most difficult boundary questions by completing timed drills that require you to determine precise textual limits and scope within 75 seconds per question, followed by journaling moments when you confidently committed to answers, helping reduce hesitation and build speed."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear equations in one variable and systems of equations in two variables": "Solve advanced systems combining linear and quadratic equations under timed conditions, limiting each problem to 4 minutes, focusing on mastering substitution and discriminant interpretation, then immediately verify solutions to build confidence in your accuracy and speed.",
+                        "Linear equations in one variable": "Complete sets of complex linear equations and inequalities with a 3-minute cap per problem, emphasizing step-by-step isolation and sign-flipping rules, followed by quick solution checks to reinforce accuracy and reduce second-guessing.",
+                        "Area and volume": "Tackle challenging area and volume problems involving composite figures within a 5-minute limit each, practicing formula recall and unit conversions, then review errors to identify patterns and improve calculation speed without sacrificing precision.",
+                        "Percentages": "Work through difficult percentage problems including increases, decreases, and reverse calculations under a 3-minute time constraint per question, writing out each step to avoid errors and reviewing solutions to confirm your initial approach was correct.",
+                        "Ratios, rates, proportional relationships, and units": "Engage in multi-step ratio and proportion problems with unit conversions, solving each within 4 minutes, focusing on dimensional analysis and proportion setup, followed by immediate verification to build trust in your problem-solving flow and reduce hesitation."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances conceptual mastery and strategic practice by pairing one Math skill with one Reading & Writing skill, starting the week with your weakest areas to build momentum and confidence. Midweek sessions focus on moderate skills to deepen understanding and speed, while Fridays are dedicated to reviewing errors and reinforcing strategies. Saturdays feature a full-length timed SAT practice test followed by a comprehensive review session to analyze mistakes and adapt strategies. Sundays serve as a Flex Day to rest, reflect, and prepare mentally for the upcoming week."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day for reflective journaling on moments when you trusted your instincts and succeeded, reinforcing confidence in decision-making under pressure. Experiment with new study tools or timing apps to find methods that encourage quicker responses without sacrificing accuracy. Engage in low-pressure mixed-skill challenges that stimulate intellectual curiosity without strict timing, such as exploring connections between math concepts and reading passages. Incorporate mindfulness or light physical activity to reset cognitive energy and maintain emotional steadiness. Set clear, purpose-driven goals for the next week to maintain your internal motivation and thoughtful pace."
+        }
+    ]
+}

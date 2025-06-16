@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Aim to steadily improve accuracy in Reading & Writing by mastering rhetorical synthesis, inference, and text structure questions under moderate time pressure while reducing careless errors. In Math, focus on deepening understanding and application of ratios, systems of equations, linear equations, area and volume, and geometry with consistent accuracy and speed. Achieve measurable progress by completing timed practice sets with fewer repeat mistakes and enhanced strategic problem-solving. Maintain sharp cognitive flexibility by analyzing performance after each session, adapting methods thoughtfully, and retesting to solidify gains."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Rhetorical Synthesis, Inferences, Text Structure and Purpose"
+                },
+                {
+                    "title": "Math",
+                    "description": "Ratios, rates, proportional relationships, and units, Systems of two linear equations in two variables, Linear equations in one variable, Area and volume, Lines, angles, and triangles"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Rhetorical Synthesis": "Engage in timed practice sets of complex synthesis questions where you actively annotate passages to identify author purpose and argument connections, then write brief summaries explaining how different parts support the whole, reinforcing deep conceptual links and reflection.",
+                        "Inferences": "Practice challenging inference questions by predicting answers before reviewing options, then reflect on reasoning paths and errors to refine your ability to draw accurate conclusions under time constraints.",
+                        "Text Structure and Purpose": "Master difficult text structure questions by outlining passage organization in your own words during timed drills, then analyze how structure influences meaning and author intent to improve speed and comprehension."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Ratios, rates, proportional relationships, and units": "Commit to solving multi-step word problems involving ratios and unit conversions under timed conditions, explicitly writing out units and conversion factors to avoid careless mistakes and build fluency in dimensional analysis.",
+                        "Systems of two linear equations in two variables": "Practice solving systems using substitution and elimination methods on progressively complex problems, timing each set to improve speed while verifying solutions by substitution to ensure accuracy.",
+                        "Linear equations in one variable": "Work through advanced linear equations and inequalities with multi-step operations, focusing on correctly reversing inequality signs when needed and checking solutions by substitution to prevent common errors.",
+                        "Area and volume": "Solve challenging geometry problems involving composite figures and unit conversions, drawing diagrams and labeling all dimensions before applying formulas to enhance accuracy and conceptual clarity under time pressure.",
+                        "Lines, angles, and triangles": "Engage in timed exercises proving triangle congruence and similarity, calculating unknown angles using angle relationships, and writing brief justifications to deepen understanding and speed in geometric reasoning."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances conceptual mastery and strategic practice by pairing one Math skill with one Reading & Writing skill, starting Monday with your weakest areas to build foundational strength, progressing midweek to moderate skills for reinforcement, and reserving Friday for comprehensive review and error analysis. Saturday is dedicated to a full-length timed SAT practice test followed by a detailed review session focusing on understanding mistakes and adapting strategies. Sunday serves as a Flex Day to rest, reflect, and recalibrate your study approach, ensuring sustained effort without burnout."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day to reflect calmly on errors from the week, journaling insights and identifying patterns without pressure. Experiment with a new study tool or technique for a short session, committing to mastering it in the upcoming week. Engage in mixed-skill challenges that blend Math and Reading & Writing to stimulate cognitive flexibility. Incorporate mindfulness or light physical activity to recharge focus and reduce stress. Finally, set clear, achievable goals for the next week, reinforcing your structured routine and rewarding your disciplined follow-through."
+        }
+    ]
+}

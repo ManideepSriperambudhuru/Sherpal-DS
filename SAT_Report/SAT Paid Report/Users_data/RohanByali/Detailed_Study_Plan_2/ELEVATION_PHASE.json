@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Each week, steadily improve accuracy in both Math and Reading & Writing by focusing on second-tier skills, reducing careless mistakes through strategic timed practice, and enhancing reasoning under moderate time pressure. Track measurable progress with clear indicators such as error reduction rates and improved problem-solving speed. Strengthen cognitive flexibility by adapting strategies based on performance reviews and retesting to solidify gains."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Rhetorical Synthesis, Command of Evidence - Textual, Transitions"
+                },
+                {
+                    "title": "Math",
+                    "description": "Linear functions, Lines, angles, and triangles, Linear equations in one variable, Linear inequalities in one or two variables, Equivalent expressions"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Rhetorical Synthesis": "Practice synthesizing information by analyzing paired passages under timed conditions, focusing on identifying how authors build arguments and connect ideas; after each session, chart your accuracy and reflect on which synthesis strategies worked best to reinforce persistence with adaptability.",
+                        "Command of Evidence - Textual": "Engage in targeted exercises where you locate and justify textual evidence for specific claims, using brief passages; track your success rate weekly and adjust your approach based on which types of evidence questions cause repeated errors, celebrating incremental improvements.",
+                        "Transitions": "Complete timed practice sets emphasizing the identification and correction of transition errors in paragraphs, then visually map your progress over time and reflect on how varying transition types affect coherence to fine-tune your strategy."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Linear functions": "Translate medium-difficulty word problems into linear equations by identifying variables, slopes, and intercepts; solve and graph these equations, then review errors with a peer or mentor to reinforce understanding and adapt methods for efficiency.",
+                        "Lines, angles, and triangles": "Work through medium-level geometry problems involving congruence and similarity proofs under timed conditions, drawing clear diagrams and annotating angle relationships; track accuracy trends weekly and adjust problem-solving steps to reduce careless mistakes.",
+                        "Linear equations in one variable": "Tackle challenging multi-step linear equations and inequalities, focusing on precise variable isolation and sign management; after each set, verify solutions and reflect on common pitfalls to refine your approach and maintain steady progress.",
+                        "Linear inequalities in one or two variables": "Solve medium-difficulty inequality word problems by carefully translating conditions into inequalities, graphing solutions on number lines, and checking for sign reversals; use weekly summaries to identify patterns in errors and adjust strategies accordingly.",
+                        "Equivalent expressions": "Practice isolating variables in complex algebraic expressions and formulas through stepwise manipulation, ensuring balanced operations; review mistakes with a mentor to gain perspective on progress and adapt techniques for clarity and accuracy."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday includes focused dual-skill practice sessions pairing one Math and one Reading & Writing skill, starting the week by targeting the weakest skills to build confidence and momentum, midweek focusing on moderately mastered skills to deepen understanding, and Fridays dedicated to reviewing errors and consolidating learning. Saturdays are reserved for a full-length timed practice test followed by a thorough review of answers to identify patterns and refine strategies. Sundays serve as a Flex Day to rest, reflect, and adapt the plan based on weekly progress."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by reviewing errors from the week and journaling insights on what strategies worked and what needs adjustment. Experiment with new study tools or techniques, such as digital flashcards or timed apps, to refresh your approach. Participate in mixed-skill challenges that combine Math and Reading & Writing questions to enhance cognitive flexibility. Incorporate mindfulness or light physical activity to recharge focus and reduce stress. Set clear, achievable goals for the upcoming week, celebrating small wins to maintain motivation and resilience."
+        }
+    ]
+}

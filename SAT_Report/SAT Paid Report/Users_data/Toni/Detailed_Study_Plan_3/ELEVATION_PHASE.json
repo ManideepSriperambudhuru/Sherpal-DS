@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvement in accuracy and speed on prioritized Math and Reading & Writing skills by reducing careless errors and hesitation. Strengthen reasoning under moderate time pressure with consistent commitment to answers. Build confidence through tracking streaks of correct responses and reflecting on progress. Maintain steady progress toward the 1590 goal by refining second-tier skills and improving cognitive flexibility in problem-solving."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Transitions, Boundaries, Rhetorical Synthesis"
+                },
+                {
+                    "title": "Math",
+                    "description": "Systems of two linear equations in two variables, Right triangles and trigonometry, Linear equations in one variable, Ratios, rates, proportional relationships, and units, Equivalent expressions"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Transitions": "Engage in timed drills where you identify and select the most effective transition words or phrases in complex passages, committing to each choice within 30 seconds, then immediately review accuracy to reinforce trust in your instincts and reduce second-guessing.",
+                        "Boundaries": "Practice sets of challenging boundary questions under strict time limits, focusing on mastering difficult question types while tracking streaks of correct answers to build confidence and speed without sacrificing accuracy.",
+                        "Rhetorical Synthesis": "Complete advanced synthesis questions in timed sessions, forcing commitment to answers within a set window, followed by reflective review sessions with a mentor or peer to celebrate progress and address hesitation patterns."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Systems of two linear equations in two variables": "Solve progressively complex systems using substitution and elimination methods under timed conditions, committing to answers within a strict time frame, then verify solutions by substitution to build accuracy and confidence in decision-making.",
+                        "Right triangles and trigonometry": "Work on challenging right triangle problems involving trigonometric ratios and inverse functions with a timer, drawing diagrams for each problem and checking answers for reasonableness to reinforce thoroughness and reduce careless errors.",
+                        "Linear equations in one variable": "Master difficult linear equations and inequalities by solving multi-step problems under timed conditions, committing to answers quickly, then reviewing errors with a focus on common pitfalls like sign mistakes and inequality reversals.",
+                        "Ratios, rates, proportional relationships, and units": "Practice complex ratio and proportion problems with unit conversions under moderate time pressure, writing out unit analysis clearly and verifying answers to build precision and speed simultaneously.",
+                        "Equivalent expressions": "Perform stepwise isolation of variables in multi-step algebraic expressions under timed drills, ensuring each step is written clearly and solutions are checked by substitution to strengthen accuracy and self-trust."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances focused dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with the weakest skills to build foundational confidence. Wednesday and Thursday focus on moderate skills with increasing time pressure and complexity. Friday is dedicated to review and reflection on the week's progress, analyzing errors and adapting strategies. Saturday features one full-length SAT practice test under timed conditions, followed by a detailed review session emphasizing error patterns and reinforcing correct reasoning. Sunday serves as a Flex Day for rest, reflection, and adaptive practice aligned with personal growth."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure mixed-skill challenges that encourage exploration without time constraints, allowing for experimentation with new problem-solving techniques. Reflect on past errors by journaling insights and celebrating improvements to build morale. Participate in mindfulness or light physical activities to reset cognitive energy. Connect with a mentor or peer for encouraging feedback and set clear, achievable goals for the upcoming week to maintain momentum and self-trust."
+        }
+    ]
+}

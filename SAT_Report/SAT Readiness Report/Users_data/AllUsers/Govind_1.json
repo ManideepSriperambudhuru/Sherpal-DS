@@ -1,0 +1,105 @@
+[
+  {
+    "title": "Your Learning Persona",
+    "description": "Govind, as a Driven Trailblazer, you embody ambition and energy that naturally propel you toward bold goals. Your forward-thinking mindset and competitive spirit make you a natural leader who thrives on challenge and action. While your enthusiasm fuels rapid progress, embracing moments of reflection will unlock even greater growth. By balancing your drive with structured pauses to learn from each experience, you’ll transform every setback into a stepping stone toward mastery."
+  },
+  {
+    "title": "Your SAT Practice Snapshot",
+    "description": "You’ve demonstrated impressive strength in both Reading & Writing and Math, scoring a solid 720 and 760 respectively, for a total of 1480. Your reading accuracy sits at 85%, while your math accuracy shines at 93%, showing strong command especially in algebra and advanced math. With your goal set ambitiously at 1550, your current performance reflects both your dedication and great promise. The effort you’ve invested so far lays a powerful foundation for reaching that next peak."
+  },
+  {
+    "title": "What This Means For You",
+    "description": "Your natural drive and competitive edge clearly fuel your strong math skills, particularly in algebra and advanced math where you’ve achieved perfect accuracy. This shows your ability to quickly grasp complex concepts and execute under pressure. In Reading & Writing, your strengths in Craft and Structure and Standard English Conventions highlight your solid grasp of language mechanics. Growth opportunities lie in deepening your understanding of Expression of Ideas and Geometry & Trigonometry — areas where a bit more patience and reflection will pay off. Embracing a mindset of ‘fail fast, learn faster’ will help you convert these challenges into new strengths."
+  },
+  {
+    "title": "Your Study Plan: Based on You",
+    "description": [
+      {
+        "title": "motivational paragraph",
+        "description": [
+          "Govind, your trailblazing spirit is your greatest asset on this SAT journey. Your ambition and energy set you apart, but remember that even the boldest leaders benefit from strategic pauses to reflect and recalibrate. By integrating moments of thoughtful review into your fast-paced study routine, you’ll harness your full potential and avoid preventable errors. Keep your eyes on the prize, and let every challenge fuel your next breakthrough."
+        ]
+      },
+      {
+        "title": "reading writing strategies",
+        "description": [
+          "Focus on targeted reflection after each practice set, especially on questions related to Expression of Ideas where your accuracy is lower. Use timed review sessions to slow down and analyze why certain answers were missed, turning those insights into quick mastery wins.",
+          "Create a visual goal board that highlights not only your score targets but also learning milestones like mastering inference questions or improving paragraph coherence. This will keep your competitive drive aligned with deeper understanding.",
+          "Leverage your charisma by explaining tricky concepts aloud or teaching peers — this active engagement will deepen your grasp and make reflection feel dynamic rather than slow."
+        ]
+      },
+      {
+        "title": "math strategies",
+        "description": [
+          "Capitalize on your perfect scores in Algebra and Advanced Math by using them as confidence anchors during study sessions, but dedicate focused time to Geometry and Trigonometry where accuracy is lower.",
+          "Incorporate timed mini-quizzes on Geometry and Problem-Solving to build speed and accuracy, followed by immediate review to identify patterns in mistakes.",
+          "Use visual aids like diagrams and formula charts to slow down your problem-solving process just enough to catch subtle errors without losing momentum."
+        ]
+      },
+      {
+        "title": "study plan phases",
+        "description": {
+          "Foundation": {
+            "date": "2025-05-22 to 2025-06-30",
+            "reading_writing": "Build a habit of post-practice reflection logs focusing on Expression of Ideas and Information and Ideas domains. Practice targeted grammar drills to reinforce Standard English Conventions.",
+            "math": "Strengthen Geometry and Trigonometry fundamentals through concept reviews and visual problem-solving exercises. Maintain algebra and advanced math skills with brief weekly refreshers."
+          },
+          "Elevation": {
+            "date": "2025-07-01 to 2025-07-25",
+            "reading_writing": "Increase timed practice sessions emphasizing complex passage analysis and inference questions. Use peer discussions or teaching moments to deepen understanding.",
+            "math": "Engage in mixed-topic timed problem sets with a focus on Problem-Solving and Data Analysis. Begin full-length math sections under timed conditions to build endurance."
+          },
+          "Peak": {
+            "date": "2025-07-26 to 2025-08-07",
+            "reading_writing": "Simulate full Reading & Writing sections under test conditions. Review all errors with detailed logs to ensure no recurring mistakes.",
+            "math": "Complete full-length math practice tests focusing on pacing and accuracy. Use error analysis to fine-tune strategies and build confidence."
+          }
+        }
+      },
+      {
+        "title": "weekly_schedule",
+        "description": [
+          {
+            "Monday": {"focus_area": "Reading & Writing - Expression of Ideas and Information & Ideas review", "duration_minutes": 60}
+          },
+          {
+            "Tuesday": {"focus_area": "Math - Geometry and Trigonometry practice", "duration_minutes": 60}
+          },
+          {
+            "Wednesday": {"focus_area": "Reading & Writing - Grammar and Craft & Structure drills", "duration_minutes": 60}
+          },
+          {
+            "Thursday": {"focus_area": "Math - Algebra and Advanced Math refresher", "duration_minutes": 60}
+          },
+          {
+            "Friday": {"focus_area": "Flex Day - Review errors and reflection logs", "duration_minutes": 30}
+          },
+          {
+            "Saturday": {"focus_area": "Reading & Writing - Timed passage analysis", "duration_minutes": 60}
+          },
+          {
+            "Sunday": {"focus_area": "Math - Timed problem-solving sets", "duration_minutes": 60}
+          }
+        ]
+      },
+      {
+        "title": "study_tips",
+        "description": [
+          "Use a reflection journal after each study session to capture what worked and what needs improvement.",
+          "Set mini-goals for each week that include both score targets and learning milestones.",
+          "Turn mistakes into micro-challenges by aiming to master missed concepts within 48 hours.",
+          "Leverage your leadership by discussing tricky problems with peers or mentors to deepen understanding.",
+          "Embrace ‘fail fast, learn faster’ by viewing errors as essential feedback, not setbacks."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Want to Go Further?",
+    "description": "Govind, imagine a study experience tailored precisely to your Driven Trailblazer mindset—where every practice, review, and strategy is customized just for you. Unlocking full Sherpal access means stepping into a world of hyper-personalized learning powered by AI-driven coaching that adapts in real time. You’ll gain interactive tools, detailed simulations, and peer mentoring designed to keep your momentum high and your growth steady. This is your opportunity to transform ambition into achievement with a plan that evolves alongside your journey."
+  },
+  {
+    "title": "Footer",
+    "description": "👉 Unlock Full Access – $300 for the entire journey  Includes complete access to your study plan, AI tutoring, simulations, and peer mentoring."
+  }
+]

@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Each week, aim to steadily improve accuracy in both Math and Reading & Writing by reducing careless errors and reinforcing second-tier skills. Focus on enhancing reasoning speed and precision under moderate time pressure while maintaining consistent progress. Track measurable improvements in key areas such as Rhetorical Synthesis, Command of Evidence, Transitions, and core Math topics including linear functions and equations. Cultivate adaptability by reflecting on performance data and adjusting strategies to optimize results."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Rhetorical Synthesis, Command of Evidence - Textual, Transitions"
+                },
+                {
+                    "title": "Math",
+                    "description": "Linear functions, Lines, angles, and triangles, Linear equations in one variable, Linear inequalities in one or two variables, Equivalent expressions"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Rhetorical Synthesis": "Practice synthesizing information by analyzing paired passages under timed conditions, focusing on identifying how authors build arguments and connect ideas. Use targeted exercises that require combining evidence from multiple texts to answer synthesis questions, then review errors to refine understanding and strategy.",
+                        "Command of Evidence - Textual": "Engage in exercises that require pinpointing and justifying textual evidence for given claims, emphasizing precision and clarity. After each practice set, reflect on missed questions to identify patterns in evidence selection and adjust approach accordingly.",
+                        "Transitions": "Work on identifying and correcting transition errors within paragraphs by completing timed editing drills. Focus on understanding the logical flow and coherence between sentences, then review mistakes to improve strategic reading and editing skills."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Linear functions": "Translate medium-difficulty word problems into linear equations by identifying variables, calculating slopes and intercepts, and interpreting results in context. Practice with problems that require writing and solving equations, then graph solutions to visualize relationships and confirm accuracy.",
+                        "Lines, angles, and triangles": "Solve medium-level geometry problems involving congruence and similarity by drawing detailed diagrams, labeling known values, and applying angle relationships. Practice proving triangle congruence and calculating unknown angles under timed conditions to build accuracy and confidence.",
+                        "Linear equations in one variable": "Tackle challenging multi-step equations and inequalities by isolating variables carefully, applying inverse operations step-by-step, and verifying solutions through substitution. Focus on complex applications that require strategic manipulation and error checking.",
+                        "Linear inequalities in one or two variables": "Work through medium-difficulty word problems translating real-world scenarios into inequalities, solving them, and graphing solution sets on number lines. Emphasize careful handling of inequality signs and contextual interpretation of solutions.",
+                        "Equivalent expressions": "Practice isolating variables in complex algebraic expressions and formulas by performing one operation at a time, maintaining balance, and verifying each step. Use challenging problems that involve fractions, parentheses, and multiple variables to refine advanced manipulation skills."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday includes focused dual-skill practice sessions pairing one Math and one Reading & Writing skill, starting the week by targeting the weakest skills to build foundational strength. Midweek shifts to moderate skills to reinforce and integrate learning. Fridays are dedicated to reviewing the week's work, analyzing errors, and adjusting strategies. Saturdays feature a full-length timed practice test followed by a thorough review to identify patterns and deepen understanding. Sundays serve as a Flex Day to rest, reflect, and adapt the plan as needed."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use Flex Days to engage in low-pressure, restorative activities aligned with your Peak Pursuer strengths. Reflect on recent errors by journaling insights and identifying small wins to celebrate progress visibly. Experiment with new study tools or alternate problem-solving techniques to foster adaptability. Challenge yourself with mixed-skill quizzes at a relaxed pace to maintain cognitive flexibility. Incorporate mindfulness or light physical activity to recharge focus and resilience. Set clear, achievable goals for the upcoming week to maintain purposeful momentum."
+        }
+    ]
+}

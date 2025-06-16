@@ -1,0 +1,91 @@
+[
+  {
+    "title": "Your Learning Persona",
+    "description": "Hello Zoha, as a Balanced Trekker, you approach learning with thoughtful reflection and a deep desire to understand the reasoning behind concepts. Your steady mindset and internal motivation allow you to absorb complex ideas effectively, especially when you can connect them across subjects. At times, your careful nature may slow decision-making under timed conditions, but this also means you value accuracy and depth. To progress, focus on building confidence in quicker choices and trust your instincts during practice. This approach will help you balance thorough understanding with efficient test-taking."
+  },
+  {
+    "title": "Your SAT Practice Snapshot",
+    "description": "Your current SAT practice shows solid performance in Math with a strong score and accuracy, while Reading & Writing presents room for growth, particularly in some specific areas. Your total score reflects consistent effort, and your goal score is ambitious but achievable with targeted focus. Your reading accuracy indicates a need to sharpen certain skills, whereas your math accuracy demonstrates reliable command of many topics. Continuing to build on your strengths while addressing key challenges will move you closer to your target."
+  },
+  {
+    "title": "What This Means For You",
+    "description": "Your Balanced Trekker mindset supports deep understanding and steady progress but can lead to hesitation when quick decisions are needed. Academically, your strength lies in grasping complex ideas in Reading & Writing, especially in Information and Ideas, and in Math, your proficiency with Advanced Math aligns well with your thoughtful approach. Growth areas include Craft and Structure in Reading & Writing, where improving speed and decision-making will reduce unanswered questions, and Geometry and Trigonometry in Math, which requires focused practice to build confidence. Meeting your goal score will depend on balancing your thoroughness with more efficient pacing during the test."
+  },
+  {
+    "title": "Your Study Plan: Based on You",
+    "description": [
+      {
+        "title": "Summary",
+        "description": [
+          "Your Balanced Trekker profile means you learn best by understanding concepts deeply and reflecting on connections. This strength supports your solid math skills and thoughtful reading comprehension. However, your tendency to overanalyze can slow you down, especially under timed conditions, which is a key challenge to address as you prepare. Aligning your study plan with your reflective nature while introducing timed decision drills will help you progress steadily toward your goal."
+        ]
+      },
+      {
+        "title": "Reading Writing Strategies",
+        "description": [
+          "1. Focus on Craft and Structure by practicing timed passages that require quick interpretation of sentence and paragraph relationships, helping you trust your initial understanding without overanalyzing.",
+          "2. Strengthen Expression of Ideas by reviewing how ideas are organized and connected, using reflective journaling to note when your instincts about structure were correct to build confidence.",
+          "3. Maintain your mastery of Standard English Conventions by incorporating brief, focused reviews that reinforce your existing skills and provide positive momentum."
+        ]
+      },
+      {
+        "title": "Math Strategies",
+        "description": [
+          "1. Prioritize Geometry and Trigonometry through targeted problem sets with time limits to improve your speed and reduce hesitation on these topics.",
+          "2. Refine your Algebra skills by working on mixed problem types that encourage flexible thinking and reinforce your solid foundation.",
+          "3. Leverage your strength in Advanced Math by using step-by-step reasoning exercises that align with your preference for deep understanding and help sustain motivation."
+        ]
+      },
+      {
+        "title": "Study Plan Phases",
+        "description": {
+          "Foundation": {
+            "date": "May 26, 2025 - July 10, 2025",
+            "reading_writing": "Concentrate on improving Craft and Structure with focused timed drills to build decision speed while maintaining accuracy. Use reflective journaling to track progress and reduce overanalysis.",
+            "math": "Emphasize Geometry and Trigonometry fundamentals with paced practice sessions that encourage quicker problem-solving and confidence building."
+          },
+          "Elevation": {
+            "date": "July 11, 2025 - August 1, 2025",
+            "reading_writing": "Shift focus to Expression of Ideas and Information and Ideas domains, integrating timed practice to refine fluency and reinforce logical connections.",
+            "math": "Target Algebra and Problem-Solving and Data Analysis with mixed problem sets that enhance flexibility and application under timed conditions."
+          },
+          "Peak": {
+            "date": "August 2, 2025 - August 8, 2025",
+            "reading_writing": "Prioritize full-length timed practice tests emphasizing pacing and endurance, focusing on minimizing hesitation and maximizing answer completion.",
+            "math": "Sharpen speed and accuracy through simulated test sections, concentrating on Geometry and Trigonometry and reinforcing test-day strategies."
+          }
+        }
+      },
+      {
+        "title": "Sample Weekly Schedule",
+        "description": [
+          "Monday: focus area: Craft and Structure - duration 60 minutes.",
+          "Tuesday: focus area: Geometry and Trigonometry - duration 60 minutes.",
+          "Wednesday: focus area: Expression of Ideas - duration 60 minutes.",
+          "Thursday: focus area: Algebra - duration 60 minutes.",
+          "Friday: focus area: Information and Ideas - duration 60 minutes.",
+          "Saturday: focus area: Mixed Reading & Writing timed drills - duration 60 minutes.",
+          "Sunday: focus area: Flex day for review or rest - duration 30 minutes."
+        ]
+      },
+      {
+        "title": "Study Tips",
+        "description": [
+          "1. Let’s build skill in Craft and Structure by practicing timed questions that encourage trusting your first interpretation to improve pacing.",
+          "2. Try focusing on Geometry and Trigonometry with targeted timed exercises to increase your speed and reduce hesitation.",
+          "3. You can boost confidence in Expression of Ideas by reflecting on your correct instincts during practice to reinforce understanding.",
+          "4. Establish a consistent weekly routine that balances deep concept review with timed drills to align with your thoughtful learning style and upcoming test date.",
+          "5. Recognize that moving forward with partial information is a strength; practicing this will help you manage time without sacrificing accuracy."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Want to Go Further?",
+    "description": "Zoha, your thoughtful approach and steady motivation are clear assets in your SAT preparation. Addressing pacing and decision-making will unlock more of your potential and bring your score closer to your goal. Sherpal offers personalized insights and adaptive coaching designed to support your unique learning style and help you navigate challenges with clarity and confidence."
+  },
+  {
+    "title": "Footer",
+    "description": "Safe harbor The scores, assessments, and recommendations provided in this report are for informational purposes only and do not constitute professional educational, psychological, or legal advice. Current performance is not necessarily indicative of actual or future results, as test-day conditions and individual circumstances may vary. While care has been taken in the preparation of this material, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, or reliability of the information presented. Any reliance you place on such information is strictly at your own risk. We accept no liability for any loss or damage arising from the use of this report. © 2025 Sthirah Inc. | Confidential & Proprietary - For internal Use Only"
+  }
+]

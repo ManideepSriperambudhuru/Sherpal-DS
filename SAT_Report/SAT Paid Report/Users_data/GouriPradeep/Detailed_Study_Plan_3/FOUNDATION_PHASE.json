@@ -1,0 +1,95 @@
+{
+    "title": "Foundation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Build a solid baseline by improving accuracy and comprehension in core Reading & Writing skills, focusing on form, structure, and evidence-based reasoning, while steadily closing gaps in nonlinear and linear math functions and equations. Achieve consistent progress by reducing repeated errors, enhancing problem-solving speed, and strengthening conceptual clarity. Develop disciplined study habits that support sustained focus and incremental confidence gains toward the 1590 SAT goal."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": [
+                        "Form, Structure, and Sense",
+                        "Words in Context",
+                        "Command of Evidence - Textual"
+                    ]
+                },
+                {
+                    "title": "Math",
+                    "description": [
+                        "Nonlinear functions",
+                        "Linear functions",
+                        "Linear equations in two variables",
+                        "Nonlinear equations in one variable and systems of equations in two variables",
+                        "Systems of two linear equations in two variables"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Form, Structure, and Sense": [
+                            "Engage with medium-difficulty SAT passages by first outlining each paragraph’s function (introduction, evidence, conclusion) using a visual map or color-coded notes to track logical flow, then complete reordering exercises where sentences or paragraphs are shuffled and must be restored to coherent order, finally practice transition word fill-in-the-blank drills using interactive flashcards or gamified apps to reinforce understanding of logical connectors and improve focus through varied, dynamic tasks.",
+                            "Use storytelling formats to rewrite short passages emphasizing clear paragraph purposes and transitions, then discuss these rewrites with a study buddy to deepen understanding of structure and sense, incorporating peer feedback to maintain engagement and accountability while building analytical skills in a collaborative, expressive environment.",
+                            "Complete timed practice sets focusing on identifying the author’s purpose for each paragraph and sentence placement, using a visual timer to break sessions into focused intervals, followed by self-assessment checklists to evaluate if chosen answers maintain coherence and clarity, reinforcing disciplined habits and gradual mastery through bite-sized, interactive challenges."
+                        ],
+                        "Words in Context": [
+                            "Practice with diverse SAT passages by annotating challenging vocabulary and surrounding context clues, then paraphrase sentences aloud or in writing to internalize nuanced meanings, using flashcards that pair words with multiple example sentences to build active vocabulary and maintain curiosity through varied, hands-on engagement.",
+                            "Complete sentence completion exercises under timed conditions using gamified apps that reward speed and accuracy, focusing on selecting words that fit tone and logic, while tracking progress with habit trackers to build sustained focus and motivation through measurable milestones.",
+                            "Engage in mixed-context reading drills where you identify synonyms, antonyms, and contrasts for target words within passages, then create your own example sentences or mini-stories using these words to deepen understanding and maintain enthusiasm through creative expression and active learning."
+                        ],
+                        "Command of Evidence - Textual": [
+                            "Work through paired SAT questions that require selecting an answer and then identifying supporting evidence, using annotation tools to underline key phrases and note connections, while timing each set to build pacing skills and using a study buddy for discussion to enhance engagement and accountability.",
+                            "Summarize paragraphs in your own words focusing on main ideas and supporting details, then match these summaries to evidence-based questions, incorporating interactive quizzes that provide immediate feedback to sustain motivation and reinforce accuracy through dynamic practice.",
+                            "Practice evidence matching by reviewing multiple possible textual supports for a given answer, then critically evaluating which is strongest and why, using visual timers to segment practice into focused bursts and celebrating small wins to maintain momentum and build confidence."
+                        ]
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Nonlinear functions": [
+                            "Sketch graphs of quadratic and exponential functions from given equations using interactive graphing tools, then solve related quadratic equations through factoring and the quadratic formula in timed sessions, incorporating real-world word problems to translate scenarios into nonlinear equations, all structured as bite-sized challenges with visual timers to maintain focus and engagement.",
+                            "Classify a mixed set of functions as linear or nonlinear by analyzing equations and graphs, then create flashcards with key features and common mistakes to review regularly, pairing with a study buddy for quick quizzes that gamify learning and build consistency through social interaction.",
+                            "Solve SAT-style multiple-choice questions on nonlinear functions focusing on vertex, intercepts, and end behavior, using habit trackers to monitor accuracy and speed improvements, and breaking practice into short, varied sessions that leverage curiosity and reduce monotony."
+                        ],
+                        "Linear functions": [
+                            "Translate real-world word problems into linear equations by identifying variables, slope, and intercept, then graph these equations using digital tools to visualize relationships, followed by solving for unknowns in timed drills that emphasize accuracy and contextual interpretation, structured as interactive challenges to sustain enthusiasm.",
+                            "Create and solve sets of linear equations from diverse scenarios, then explain the meaning of slope and intercept in your own words or to a study buddy, using diagrams or tables to organize information and reinforce understanding through visual and social learning methods.",
+                            "Practice identifying slope and intercept from graphs and equations, then write corresponding word problems to deepen conceptual grasp, using gamified quizzes to test knowledge under timed conditions and habit trackers to build steady progress and focus."
+                        ],
+                        "Linear equations in two variables": [
+                            "Translate complex word problems into systems of linear equations, then solve using substitution and elimination methods in step-by-step guided exercises, incorporating peer review sessions to discuss approaches and maintain motivation through collaboration and accountability.",
+                            "Practice solving systems by graphing lines and identifying intersection points using interactive graphing software, followed by timed problem sets that challenge speed and accuracy, broken into manageable intervals with visual timers to build sustained focus.",
+                            "Work on real-world scenarios involving mixtures, rates, or ages by setting up and solving systems of equations, then verify solutions by substitution, using flashcards to reinforce key concepts and common pitfalls, structured as bite-sized, varied tasks to keep engagement high."
+                        ],
+                        "Nonlinear equations in one variable and systems of equations in two variables": [
+                            "Solve systems combining one linear and one quadratic equation by practicing substitution to form a single quadratic, then apply factoring or the quadratic formula to find solutions, verifying answers by plugging back into original equations, all within timed, interactive problem sets that encourage focus and incremental mastery.",
+                            "Interpret the number of solutions by analyzing the discriminant of quadratic equations derived from systems, using graphing tools to visualize intersections of lines and parabolas, and discussing findings with a study buddy to deepen understanding and maintain motivation through social learning.",
+                            "Work through word problems modeling real-world scenarios with linear and quadratic systems, translating context into equations and solving step-by-step, using habit trackers to monitor consistency and celebrate progress through small, achievable goals."
+                        ],
+                        "Systems of two linear equations in two variables": [
+                            "Solve systems of linear equations using substitution and elimination methods in progressively challenging SAT-style problems, emphasizing clear, stepwise work and verification of solutions, structured as short, focused sessions with visual timers to build disciplined study habits.",
+                            "Translate word problems into systems of equations and solve graphically and algebraically, using interactive graphing tools to visualize solutions and reinforce conceptual understanding, paired with peer discussions to sustain engagement and accountability.",
+                            "Practice identifying solution types (one, none, infinite) before solving systems, then check answers by substitution, using flashcards to review common mistakes and key concepts, organized into bite-sized, gamified challenges that leverage curiosity and maintain focus."
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday will focus on dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday with the weakest skills to tackle early challenges when focus is highest, midweek sessions will address moderate skills to build momentum, Fridays will be dedicated to comprehensive review and error analysis to reinforce learning, Saturdays will concentrate on fundamental concepts through targeted skill-building and conceptual reinforcement exercises designed to deepen understanding, and Sundays will serve as a Flex Day to allow rest, reflection, and adaptive practice aligned with personal energy and motivation."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure, persona-aligned activities such as reflecting on errors made during the week by creating visual error maps or storytelling summaries to transform mistakes into learning opportunities, experiment with new interactive study tools or gamified apps to refresh engagement and spark curiosity, attempt mixed-skill challenges that combine creative and analytical thinking to maintain enthusiasm without rigidity, incorporate physical movement or mindfulness exercises to reset focus and reduce cognitive fatigue, and set clear, motivating goals for the upcoming week using habit trackers and visual timers to build structured momentum while honoring natural curiosity and need for variety."
+        }
+    ]
+}

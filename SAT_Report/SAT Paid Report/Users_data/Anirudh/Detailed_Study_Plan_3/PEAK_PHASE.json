@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvements in accuracy and reasoning across prioritized Reading & Writing and Math skills, steadily reduce repeat mistakes by reinforcing concept mastery, enhance decision-making speed under timed conditions to minimize hesitation, complete full-length practice tests with endurance and mental control, and stabilize performance to lock in effective test strategies."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Inferences, Central Ideas and Details, Text Structure and Purpose, Command of Evidence - Quantitative, Cross-text Connections"
+                },
+                {
+                    "title": "Math",
+                    "description": "Systems of two linear equations in two variables, One-variable data: Distributions and measures of center and spread, Lines, angles, and triangles, Linear inequalities in one or two variables"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Inferences": "Engage in timed inference drills using SAT-style passages where you actively annotate clues and tone shifts, then immediately review answer rationales to confirm when your initial instincts were correct, training you to trust your reasoning under pressure while avoiding overanalysis.",
+                        "Central Ideas and Details": "Practice summarizing central ideas and supporting details from paired passages within strict time limits, then compare your summaries to model answers to build confidence in quickly identifying main points without getting lost in minor details.",
+                        "Text Structure and Purpose": "Complete exercises that require labeling text structure types and author purposes in short passages under timed conditions, followed by brief written reflections on how recognizing these elements aids faster comprehension and answer accuracy.",
+                        "Command of Evidence - Quantitative": "Work on interpreting embedded quantitative data in passages through timed drills where you highlight key statistics and link them to claims, then debrief by explaining your reasoning aloud or in writing to reinforce evidence-based decision-making.",
+                        "Cross-text Connections": "Practice paired passage questions focusing on identifying relationships and contrasting viewpoints within a set time, then journal moments when your synthesis was accurate to build trust in your integrative reading skills and reduce hesitation."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Systems of two linear equations in two variables": "Solve mixed-method timed sets of systems problems using substitution and elimination, focusing on writing clear step-by-step solutions quickly, then review errors to identify and correct sign or setup mistakes to build speed and accuracy.",
+                        "One-variable data: Distributions and measures of center and spread": "Analyze complex data sets under timed conditions by calculating mean, median, range, and IQR, then interpret the shape and outliers of distributions, reinforcing conceptual understanding while improving speed through repeated practice.",
+                        "Lines, angles, and triangles": "Complete timed geometry problems requiring proofs of congruence or similarity and angle calculations, emphasizing quick identification of criteria and angle relationships, followed by detailed error analysis to avoid common pitfalls.",
+                        "Linear inequalities in one or two variables": "Translate and solve real-world inequality word problems within strict time limits, practicing sign-flip awareness and solution verification, then reflect on problem setups to strengthen confidence in committing to answers promptly."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with your weakest areas to build foundational speed and accuracy, midweek sessions target moderate skills to maintain momentum, Fridays are dedicated to comprehensive review and error analysis, Saturdays include two full-length practice tests simulating real test conditions emphasizing endurance and mental control, followed by detailed debriefs to identify patterns and reinforce confidence, and Sundays serve as a Flex Day for rest and adaptive activities."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in reflective journaling on moments when you trusted your instincts and made confident decisions during practice, experiment with new timing tools or note-taking techniques to find what best supports your thoughtful pace, tackle mixed-skill challenge sets at a relaxed pace to stimulate intellectual curiosity without pressure, incorporate mindfulness or light physical activity to reset mental energy, and set purposeful goals for the upcoming week to maintain your internal motivation and steady progress."
+        }
+    ]
+}

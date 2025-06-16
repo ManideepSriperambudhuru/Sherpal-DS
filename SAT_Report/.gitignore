@@ -1,0 +1,5 @@
+# User data directory
+user_data/
+
+# JSON temporary output files
+json_temp_output/

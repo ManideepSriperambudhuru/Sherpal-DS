@@ -1,0 +1,65 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvements in accuracy and reasoning across prioritized Reading & Writing and Math skills, steadily reduce repeat mistakes by reinforcing mastery of complex question types, enhance endurance to maintain focus and precision through full-length timed practice, stabilize performance under pressure by simulating real test conditions, and lock in effective strategies to minimize score variance and boost confidence."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": [
+                        "Command of Evidence - Textual",
+                        "Central Ideas and Details",
+                        "Text Structure and Purpose",
+                        "Command of Evidence - Quantitative",
+                        "Cross-text Connections"
+                    ]
+                },
+                {
+                    "title": "Math",
+                    "description": [
+                        "Ratios, rates, proportional relationships, and units",
+                        "Equivalent expressions",
+                        "One-variable data: Distributions and measures of center and spread",
+                        "Linear inequalities in one or two variables"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Command of Evidence - Textual": "Practice paired SAT Reading questions under timed conditions focusing on identifying precise textual evidence by annotating passages and explaining answers aloud to reinforce active engagement and speed, integrating process of elimination to discard weak evidence and improve accuracy.",
+                        "Central Ideas and Details": "Engage in summarization drills where after reading each paragraph, write concise main ideas and supporting details in your own words, followed by answering challenging SAT questions that require distinguishing central ideas from minor details under timed conditions to build speed and comprehension.",
+                        "Text Structure and Purpose": "Analyze short passages by identifying signal words and outlining text structure types, then write brief explanations of author purpose and how structure supports it, practicing with multiple passages to master complex question types and improve rapid recognition skills.",
+                        "Command of Evidence - Quantitative": "Work on SAT passages containing embedded graphs and tables by first interpreting data visuals independently, then answering command of evidence questions that require linking numerical data to claims, practicing under timed conditions to enhance speed and precision in quantitative reasoning.",
+                        "Cross-text Connections": "Practice paired passage sets focusing on comparing author’s purpose, tone, and evidence by creating Venn diagrams or comparison charts, then answer synthesis questions that require integrating information across texts, emphasizing accuracy and speed in handling complex cross-text analysis."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Ratios, rates, proportional relationships, and units": "Solve multi-step ratio and rate problems under timed conditions that require setting up and solving proportions with unit conversions, emphasizing clear notation of units and dimensional analysis to avoid common errors and build speed with accuracy.",
+                        "Equivalent expressions": "Practice isolating variables in increasingly complex algebraic equations step-by-step, writing each manipulation clearly and verifying solutions by substitution, focusing on timed drills that simulate the most difficult SAT question types to optimize speed and precision.",
+                        "One-variable data: Distributions and measures of center and spread": "Analyze data sets and graphs by calculating mean, median, range, and IQR, then interpret distribution shape and identify outliers through targeted practice problems, reinforcing core concepts with medium-difficulty questions to solidify understanding and pattern recognition.",
+                        "Linear inequalities in one or two variables": "Translate real-world word problems into linear inequalities and solve them step-by-step, graphing solutions on number lines and verifying answers, practicing the most challenging SAT problems under timed conditions to build speed and accuracy while avoiding sign-flip errors."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday and Tuesday with the weakest skills to build foundational accuracy, midweek sessions target moderate skills to reinforce progress, Fridays are dedicated to comprehensive review and error analysis to consolidate learning, Saturdays include two full-length timed practice tests simulating real SAT conditions with detailed post-test reviews to optimize speed and accuracy, and Sundays serve as a Flex Day to rest, reflect, and build adaptability."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure mixed-topic quizzes that require switching between Math and Reading & Writing questions mid-session to challenge cognitive flexibility, experiment with new study tools such as flashcard apps or group problem-solving sessions to break routine, reflect on errors from the week by journaling insights and planning adjustments, incorporate mindfulness or light physical activity to reset mental stamina, and set clear, adaptable goals for the upcoming week to embrace change and strengthen resilience."
+        }
+    ]
+}

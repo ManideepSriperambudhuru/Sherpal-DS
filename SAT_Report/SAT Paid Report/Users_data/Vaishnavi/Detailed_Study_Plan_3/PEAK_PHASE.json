@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvements in accuracy and reasoning across prioritized Reading & Writing and Math skills, steadily reduce repeat mistakes by reinforcing mastery of challenging question types, maintain consistent performance under timed, full-length test conditions, minimize score variance through pattern recognition and strategic pacing, and solidify confidence and mental control to sustain endurance throughout the entire SAT."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Command of Evidence - Textual, Transitions, Command of Evidence - Quantitative, Central Ideas and Details, Cross-text Connections"
+                },
+                {
+                    "title": "Math",
+                    "description": "Percentages, Linear functions, Linear inequalities in one or two variables, Right triangles and trigonometry"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Command of Evidence - Textual": "Practice paired SAT Reading questions under timed conditions focusing on identifying precise textual evidence that directly supports answers; actively annotate passages by underlining key phrases and summarizing evidence in your own words to deepen understanding and speed up retrieval during the test.",
+                        "Transitions": "Engage in timed exercises that require identifying and inserting appropriate transition words in complex paragraphs; write brief paragraphs using varied transition types to connect ideas logically, ensuring clarity and flow while avoiding overuse, reinforcing mastery of nuanced relationships between concepts.",
+                        "Command of Evidence - Quantitative": "Work on SAT passages containing embedded quantitative data, practicing step-by-step identification and paraphrasing of numerical evidence that supports claims; simulate timed conditions to enhance speed and accuracy in interpreting graphs, tables, and statistics while cross-checking answers against the passage context.",
+                        "Central Ideas and Details": "Read challenging passages and pause after each paragraph to write concise summaries of central ideas and supporting details; annotate texts by highlighting main points and distinguishing them from minor details, then answer high-difficulty SAT questions focusing on main idea identification and elimination of distractors.",
+                        "Cross-text Connections": "Practice paired passage analysis by creating comparison charts that map author’s purpose, tone, and evidence types; answer synthesis questions requiring integration of ideas across texts under timed conditions, while annotating key points to strengthen ability to evaluate relationships and contrasting viewpoints efficiently."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Percentages": "Complete advanced problem sets involving multi-step percentage calculations including conversions, percentage increases/decreases, and reverse percentage problems; write out each step clearly and use estimation to verify answers, focusing on accuracy under timed conditions to build fluency and confidence.",
+                        "Linear functions": "Translate complex word problems into linear equations by identifying variables, calculating slopes, and determining intercepts; practice solving for unknowns and interpreting results in context, emphasizing speed and precision through timed drills and immediate error review to lock in mastery.",
+                        "Linear inequalities in one or two variables": "Solve challenging word problems by carefully translating verbal conditions into inequalities, then isolate variables while tracking sign changes; graph solution sets on number lines and verify answers by substitution, practicing under timed conditions to build accuracy and speed in handling inequalities.",
+                        "Right triangles and trigonometry": "Work through high-difficulty problems involving right triangle trigonometric ratios and inverse functions; draw detailed diagrams labeling sides and angles, use calculators efficiently for sine, cosine, and tangent computations, and verify answers for reasonableness, focusing on speed and precision in timed practice."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on dual-skill practice pairing one Math and one Reading & Writing skill, starting Monday with the weakest skills to maximize early-week gains, progressing midweek to moderate skills, and reserving Friday for comprehensive review and targeted error correction. Saturday is dedicated to two full-length, timed practice tests simulating real SAT conditions to build endurance and confidence, followed by detailed mistake analysis and strategy refinement. Sunday serves as a Flex Day to recharge and adapt the plan as needed."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in reflective review of errors from the week’s practice, identifying patterns and setting focused goals for improvement. Experiment with a new study tool or technique for one skill area, committing to mastering it over the upcoming week to satisfy your curiosity while maintaining structure. Challenge yourself with mixed-skill problem sets at a relaxed pace to reinforce connections across concepts. Incorporate mindfulness or light physical activity to reset cognitive energy and reduce stress. Finally, set clear, short-term goals for the next week to maintain momentum and focus."
+        }
+    ]
+}

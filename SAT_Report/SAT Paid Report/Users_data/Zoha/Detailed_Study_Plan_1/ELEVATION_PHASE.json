@@ -1,0 +1,53 @@
+{
+    "title": "Elevation Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Achieve measurable improvement in accuracy and reasoning for mid-level and advanced Math and Reading & Writing skills, particularly in second-tier areas like linear functions and text structure. Reduce careless errors by developing quicker decision-making under moderate time pressure. Complete full-length practice tests with fewer unanswered questions, demonstrating increased confidence in committing to answers. Strengthen cognitive flexibility by adapting strategies through performance review cycles, ensuring steady progress toward the 1590 goal."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Text Structure and Purpose, Boundaries, Command of Evidence - Textual"
+                },
+                {
+                    "title": "Math",
+                    "description": "Linear functions, Right triangles and trigonometry, Lines, angles, and triangles, Area and volume, One-variable data: Distributions and measures of center and spread"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Text Structure and Purpose": "Engage in timed practice sets focusing on complex passages where you identify the author’s organizational choices and purpose; after each set, journal reflections on your initial instincts versus final answers to build trust in your reasoning and reduce overanalysis.",
+                        "Boundaries": "Practice mastering difficult boundary questions under strict time limits, simulating test conditions to build speed and accuracy; immediately review errors to understand when your hesitation cost time and reinforce trusting your first logical choice.",
+                        "Command of Evidence - Textual": "Complete targeted drills that require selecting evidence supporting answers within a 30-second limit per question; follow each drill with a debrief to confirm when your instincts aligned with correct answers, reinforcing confidence in partial information decisions."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Linear functions": "Translate word problems into linear equations under timed conditions, focusing on identifying slope and intercept quickly; use diagrams or tables to organize information and review solutions to confirm conceptual understanding and speed.",
+                        "Right triangles and trigonometry": "Work through foundational right triangle problems emphasizing correct identification of sides relative to angles and use of trigonometric ratios; practice with simple angle-finding exercises to build fluency without time pressure, ensuring solid conceptual grasp.",
+                        "Lines, angles, and triangles": "Tackle challenging geometry problems involving congruence and similarity with a focus on drawing clear diagrams and applying angle relationships; practice under moderate time constraints to improve speed while maintaining accuracy.",
+                        "Area and volume": "Solve advanced area and volume problems with timed drills emphasizing formula recall and unit consistency; incorporate composite figure problems to enhance problem-solving flexibility and speed.",
+                        "One-variable data: Distributions and measures of center and spread": "Practice calculating mean, median, range, and IQR from data sets and interpreting distribution shapes through visual graphs; focus on foundational exercises without strict timing to deepen conceptual understanding."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday balances conceptual mastery and strategic practice by pairing one Math and one Reading & Writing skill, starting the week with weakest skills to maximize early gains and building toward moderate skills midweek. Fridays focus on reviewing errors and adapting strategies based on performance insights. Saturdays are dedicated to a full-length timed practice test followed by a thorough review session to identify patterns in mistakes and reinforce decision-making confidence. Sundays serve as a Flex Day to rest, reflect, and prepare mentally for the upcoming week."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in reflective journaling on moments when you trusted your instincts and succeeded, reinforcing confidence and reducing hesitation. Experiment with new study tools or techniques that stimulate intellectual curiosity without pressure, such as concept mapping or discussion with peers. Challenge yourself with mixed-skill, low-stakes quizzes to maintain cognitive flexibility. Incorporate mindfulness or light physical activity to reset focus and emotional steadiness. Set clear, purpose-driven goals for the next week to maintain motivation aligned with your thoughtful learning style."
+        }
+    ]
+}

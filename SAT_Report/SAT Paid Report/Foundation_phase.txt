@@ -1,0 +1,38 @@
+Summarize the Weekly structure based on the below requirements:
+            - Generate based on the count of the Reading and Writing: {foundation_skills_rw} and Math skills:{foundation_skills_math} and date range of the foundation phase: {foundation_date_range}
+            - Determine a study plan Weekly structure summary such that one day should be flex day and more focus on 3 weakest skills.
+
+{
+  "title": "Foundation Phase",
+  "description": [
+    {
+      "title": "Weekly Goals",
+      "description": "Build a solid foundation by steadily mastering core math and reading skills while beginning to embrace adaptability through varied practice formats."
+    },
+    {
+      "title": "Skill Areas",
+      "description": [
+        {
+          "title": "Math",
+          "description": "1. Nonlinear functions. 2. Area and volume. 3. Nonlinear equations in one variable and systems of equations in two variables. 4. Linear equations in two variables. 5. Right triangles and trigonometry."
+        },
+        {
+          "title": "Reading & Writing",
+          "description": "1. Form, Structure, and Sense. 2. Words in Context. 3. Rhetorical Synthesis."
+        }
+      ]
+    },
+    {
+      "title": "Practice Methods",
+      "description": "Leverage your disciplined nature by following a structured study schedule that builds knowledge incrementally while integrating scenario-based exercises like mixed-topic quizzes and spontaneous oral summaries to challenge your adaptability. Experiment with new tools such as flashcard apps and group problem-solving sessions to gently push beyond familiar routines. Celebrate progress in flexibility alongside consistency to strengthen both endurance and cognitive agility."
+    },
+    {
+      "title": "Weekly Structure",
+      "description": "From June 5 to June 13, focus on three core math topics—Nonlinear functions, Area and volume, and Nonlinear equations—paired with two reading skills—Words in Context and Rhetorical Synthesis—allocating more time to these areas as they represent growth opportunities. Dedicate one day as a flex day to intentionally disrupt routine and build adaptability. The remaining days will alternate between math and reading sessions, ensuring steady progress while maintaining your reliable pacing."
+    },
+    {
+      "title": "Flex Day Activities",
+      "description": "Use this day to engage in mixed-topic quizzes that require quick shifts between math and reading concepts, practice spontaneous oral explanations of problems or passages to build comfort with unpredictability, and try new study tools like digital flashcards or collaborative problem-solving with peers. Reflect on how these changes affect your learning process, allowing space for rest and mental reset without introducing new content, reinforcing adaptability as a key strength alongside your steady discipline."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Your Learning Persona",
+    "description": "You approach your SAT preparation with steady persistence and a clear focus on maintaining balance and emotional stability. Your thoughtful and deliberate nature helps you manage stress effectively, allowing for consistent progress without burnout. However, your preference for comfort can sometimes limit engagement with more demanding challenges that drive growth. Recognizing when to push beyond ease will be key to advancing your performance while preserving your well-being."
+  },
+  {
+    "title": "Your SAT Practice Snapshot",
+    "description": "Your current SAT practice shows a total score of 1090, with a Reading & Writing score of 380 and a Math score of 710. Your reading accuracy is notably lower than your math accuracy, which is solid but leaves room for refinement. With your goal set at 1550, your efforts so far demonstrate a strong foundation in math and an opportunity to elevate your reading skills through targeted focus."
+  },
+  {
+    "title": "What This Means For You",
+    "description": "Your Persistent Hiker mindset supports steady progress and emotional balance but may lead to avoiding the academic pressure needed for breakthroughs. Academic Strengths: Your higher accuracy in math domains like Algebra and Advanced Math aligns with your calm, methodical approach, allowing you to build confidence through structured problem-solving. In Reading & Writing, your relative strength in Information and Ideas reflects your thoughtful engagement with content, which fits your reflective learning style. Growth Areas: Craft and Structure in Reading & Writing and Geometry and Trigonometry in Math are clear areas to develop; improving these will expand your problem-solving range and analytical skills, which requires embracing manageable challenges beyond comfort zones. Closing Insight: Reaching your goal score will depend on balancing your steady approach with strategic pushes into these growth areas."
+  },
+  {
+    "title": "Your Study Plan: Based on You",
+    "description": [
+      {
+        "title": "Summary",
+        "description": [
+          "Your Persistent Hiker profile means you value steady, sustainable progress and emotional well-being as you prepare for the SAT. You have a solid math foundation and a thoughtful approach to reading, but your natural inclination to avoid stress can slow growth in more challenging areas. This plan respects your need for balance while encouraging incremental challenges that build your skills without overwhelming you."
+        ]
+      },
+      {
+        "title": "Reading Writing Strategies",
+        "description": [
+          "1. Focus on Craft and Structure by breaking down sentence and paragraph relationships in short, manageable sessions to gently expand your analytical comfort zone.",
+          "2. Reinforce Information and Ideas by summarizing passages aloud or in writing, which leverages your reflective strengths and builds confidence through active engagement.",
+          "3. Maintain momentum in Expression of Ideas by gamifying practice with timed editing drills that reward accuracy, aligning with your preference for steady, measurable progress."
+        ]
+      },
+      {
+        "title": "Math Strategies",
+        "description": [
+          "1. Address Geometry and Trigonometry by working through visual problem sets that allow you to explore concepts at your own pace, reducing pressure while encouraging growth.",
+          "2. Strengthen Problem-Solving and Data Analysis by practicing multi-step problems with a focus on logical reasoning, which fits your methodical and calm approach.",
+          "3. Sustain your high performance in Algebra and Advanced Math by setting incremental goals and tracking progress, supporting your steady learning style and motivation."
+        ]
+      },
+      {
+        "title": "Study Plan Phases",
+        "description": {
+          "Foundation": {
+            "date": "May 24, 2025 - June 30, 2025",
+            "reading_writing": "Prioritize Craft and Structure with focused, low-pressure exercises that build foundational skills while respecting your need for balance.",
+            "math": "Concentrate on Geometry and Trigonometry using visual and paced practice to gradually increase familiarity without disrupting your steady rhythm."
+          },
+          "Elevation": {
+            "date": "July 1, 2025 - July 31, 2025",
+            "reading_writing": "Shift focus to Information and Ideas and Expression of Ideas with timed drills and reflective summaries to refine comprehension and fluency.",
+            "math": "Target Problem-Solving and Data Analysis with layered problem sets that encourage logical thinking and reinforce your existing strengths."
+          },
+          "Peak": {
+            "date": "August 1, 2025 - August 8, 2025",
+            "reading_writing": "Emphasize full-length practice tests under timed conditions to simulate test day, focusing on pacing and error patterns in all reading domains.",
+            "math": "Sharpen speed and accuracy in all math domains, especially Geometry and Trigonometry, through targeted review and test simulations."
+          }
+        }
+      },
+      {
+        "title": "Sample Weekly Schedule",
+        "description": [
+          "Monday: focus area: Craft and Structure - duration 60 minutes.",
+          "Tuesday: focus area: Geometry and Trigonometry - duration 60 minutes.",
+          "Wednesday: focus area: Problem-Solving and Data Analysis - duration 60 minutes.",
+          "Thursday: focus area: Information and Ideas - duration 60 minutes.",
+          "Friday: focus area: Expression of Ideas - duration 60 minutes.",
+          "Saturday: focus area: Mixed Reading & Writing and Math review - duration 60 minutes.",
+          "Sunday: focus area: Flex Day for review or rest - duration 30 minutes."
+        ]
+      },
+      {
+        "title": "Study Tips",
+        "description": [
+          "1. Let’s build skill in Craft and Structure by breaking down sentence relationships in short, focused sessions that fit your steady pace.",
+          "2. Try focusing on Geometry and Trigonometry with visual aids and paced practice to grow confidence without added stress.",
+          "3. You can boost confidence in Problem-Solving and Data Analysis by working through logical, multi-step problems that match your methodical style.",
+          "4. Establish a consistent weekly routine that balances study and rest, allowing you to maintain emotional stability while progressing toward your August test date.",
+          "5. Recognize that steady, deliberate effort combined with occasional challenges will move your score closer to your goal while preserving your balance."
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Want to Go Further?",
+    "description": [
+      "Sherpal offers personalized coaching that adapts to your unique learning style and evolving needs, providing clear progress tracking and goal-based planning. Its interactive tools and AI-driven feedback help you engage with challenging material in ways that respect your pace and mindset. Partnering with Sherpal means having a guide that supports your steady growth and helps you close the gap to your target score."
+    ]
+  },
+  {
+    "title": "Footer",
+    "description": "Safe harbor The scores, assessments, and recommendations provided in this report are for informational purposes only and do not constitute professional educational, psychological, or legal advice. Current performance is not necessarily indicative of actual or future results, as test-day conditions and individual circumstances may vary. While care has been taken in the preparation of this material, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, or reliability of the information presented. Any reliance you place on such information is strictly at your own risk. We accept no liability for any loss or damage arising from the use of this report. © 2025 Sthirah Inc. | Confidential & Proprietary - For internal Use Only"
+  }
+]

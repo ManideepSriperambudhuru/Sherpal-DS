@@ -1,0 +1,63 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Each week, steadily improve accuracy and reasoning in both Math and Reading & Writing by reducing repeated errors and enhancing pattern recognition. Build endurance to complete full-length tests under timed conditions with consistent pacing. Strengthen confidence in initial answer choices to minimize second-guessing and decision paralysis. Maintain mental and emotional control to sustain focus throughout practice sessions and simulated exams."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": [
+                        "Inferences",
+                        "Command of Evidence - Quantitative",
+                        "Cross-text Connections"
+                    ]
+                },
+                {
+                    "title": "Math",
+                    "description": [
+                        "Linear inequalities in one or two variables",
+                        "Percentages",
+                        "One-variable data: Distributions and measures of center and spread",
+                        "Right triangles and trigonometry",
+                        "Two-variable data: Models and scatterplots"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Inferences": "Practice timed sets of inference questions from SAT-style passages where you must quickly identify textual clues and combine them with background knowledge to select answers. Immediately review each question to confirm when your first instinct was correct, reinforcing trust in your initial reasoning and reducing overthinking.",
+                        "Command of Evidence - Quantitative": "Work on timed exercises interpreting graphs and tables embedded in passages, focusing on quickly locating and paraphrasing relevant quantitative evidence to support answers. After each set, analyze errors to confirm when your initial choice aligned with the data, building confidence in rapid evidence-based decisions.",
+                        "Cross-text Connections": "Engage with paired passage sets under timed conditions, annotating key points and author perspectives before answering comparison questions. Post-practice, reflect on moments when trusting your first synthesis led to correct answers, strengthening decisive cross-text reasoning."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Linear inequalities in one or two variables": "Complete timed problem sets translating word problems into inequalities and solving them step-by-step, emphasizing quick recognition of inequality keywords and solution intervals. Review errors to validate your initial approach and build confidence in trusting your first solution path.",
+                        "Percentages": "Practice timed drills converting between percentages, decimals, and fractions, and solving percentage increase/decrease problems. Focus on trusting your initial calculations and use error analysis to confirm accuracy, gradually increasing speed while maintaining precision.",
+                        "One-variable data: Distributions and measures of center and spread": "Work on timed exercises interpreting histograms, box plots, and calculating mean, median, range, and IQR. After each set, review mistakes to reinforce when your first interpretation was correct, encouraging decisive data analysis under time pressure.",
+                        "Right triangles and trigonometry": "Solve timed problems involving labeling triangles and applying sine, cosine, and tangent ratios to find missing sides or angles. Use immediate review to confirm correct initial answers and build trust in your trigonometric reasoning.",
+                        "Two-variable data: Models and scatterplots": "Engage with timed practice interpreting scatterplots and identifying correlations or trends. Focus on quick pattern recognition and trusting your first conclusions, followed by error analysis to reinforce confidence in your initial judgments."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday includes focused dual-skill practice sessions pairing one Math and one Reading & Writing skill, starting the week with your weakest areas to maximize improvement. Midweek shifts to moderate skills to maintain momentum, while Fridays are dedicated to comprehensive review of errors and strategy refinement. Saturdays feature two full-length practice tests simulating real exam conditions, emphasizing accuracy and speed, followed by detailed mistake analysis to identify patterns and reinforce self-trust. Sundays serve as a Flex Day for rest and adaptive activities."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Use this day for reflective journaling on moments when you trusted your first instincts and succeeded, reinforcing positive decision-making habits. Experiment with new study tools or timing techniques in low-pressure settings to enhance cognitive flexibility. Engage in mixed-skill challenges combining Math and Reading & Writing to maintain mental agility without stress. Incorporate mindfulness or light physical activity to support emotional regulation and mental clarity. Set clear, confidence-building goals for the upcoming week to maintain purposeful progress."
+        }
+    ]
+}

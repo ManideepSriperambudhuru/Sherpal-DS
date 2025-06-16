@@ -1,0 +1,54 @@
+{
+    "title": "Peak Phase",
+    "description": [
+        {
+            "title": "Weekly Goals",
+            "description": "Each week, steadily improve accuracy and reasoning in both Math and Reading & Writing by reducing repeat mistakes and enhancing pattern recognition. Build endurance to maintain focus and confidence under full test conditions. Aim to minimize score variance by consistently applying locked-in strategies and demonstrating mental and emotional control during timed practice."
+        },
+        {
+            "title": "Skill Areas",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": "Central Ideas and Details, Command of Evidence - Textual, Transitions, Inferences, Cross-text Connections"
+                },
+                {
+                    "title": "Math",
+                    "description": "Linear functions, Linear equations in one variable, Linear inequalities in one or two variables, Ratios, rates, proportional relationships, and units"
+                }
+            ]
+        },
+        {
+            "title": "Practice Methods",
+            "description": [
+                {
+                    "title": "Reading & Writing",
+                    "description": {
+                        "Central Ideas and Details": "Practice reading SAT-level passages under timed conditions, pausing after each paragraph to annotate the central idea and supporting details, then summarize the passage in your own words to reinforce deep comprehension and speed.",
+                        "Command of Evidence - Textual": "Work on paired SAT questions by first answering the main question in your own words, then immediately locating and annotating the strongest textual evidence that supports your answer, focusing on precision and eliminating weak or irrelevant evidence.",
+                        "Transitions": "Complete exercises that require identifying and correcting transition usage in complex paragraphs, then write your own short paragraphs using varied transition types to ensure smooth logical flow and advanced coherence under timed conditions.",
+                        "Inferences": "Engage with SAT inference questions by annotating passages for subtle clues like tone shifts and word choice, then practice selecting answers supported by explicit textual evidence while eliminating extreme or unsupported options.",
+                        "Cross-text Connections": "Analyze paired passages by creating concise comparison charts that highlight author purpose, tone, and evidence differences, then answer synthesis questions that require integrating insights across texts with accuracy and speed."
+                    }
+                },
+                {
+                    "title": "Math",
+                    "description": {
+                        "Linear functions": "Translate complex word problems into linear equations by identifying variables, calculating slope and intercept, then solve and interpret results within the problem context under timed conditions to build fluency and accuracy.",
+                        "Linear equations in one variable": "Master multi-step linear equations and inequalities by systematically isolating variables using inverse operations, carefully applying the inequality sign flip rule when needed, and verifying solutions through substitution.",
+                        "Linear inequalities in one or two variables": "Practice challenging word problems that require setting up and solving linear inequalities, graphing solution sets on number lines, and interpreting results in real-world contexts while maintaining precision and speed.",
+                        "Ratios, rates, proportional relationships, and units": "Solve multi-step problems involving ratios and unit conversions by setting up proportions correctly, applying dimensional analysis to track units, and verifying answers for logical consistency within timed practice."
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Weekly Structure",
+            "description": "Each weekday focuses on dual-skill practice pairing one Math and one Reading & Writing skill, starting the week with your weakest areas to maximize improvement, midweek targeting moderate skills for reinforcement, and Fridays dedicated to comprehensive review of errors and strategy refinement. Saturdays include two full-length, timed practice tests emphasizing accuracy and speed, followed by detailed mistake analysis to identify patterns and adjust tactics. Sundays serve as a Flex Day to support rest, reflection, and adaptive learning."
+        },
+        {
+            "title": "Flex Day Activities",
+            "description": "Engage in low-pressure reflection by journaling about recent challenges and progress, emphasizing effort over perfection to build mental resilience. Experiment with mindfulness techniques such as focused breathing or short meditation to prevent burnout. Try mixed-skill challenges that combine easier problems from different sections to maintain cognitive flexibility without stress. Incorporate light physical activity like walking to refresh focus. Set clear, realistic goals for the upcoming week that balance ambition with self-compassion."
+        }
+    ]
+}
