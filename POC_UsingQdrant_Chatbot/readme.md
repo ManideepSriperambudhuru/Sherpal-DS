@@ -1,6 +1,3 @@
-Absolutely! Here’s the **entire README** in markdown format, fully ready for you to copy-paste into your `README.md` file in your git repo:
-
-````markdown
 # Qdrant + LangChain Chatbot
 
 This project implements a conversational AI chatbot using LangChain, OpenAI embeddings & chat models, and Qdrant vector database for semantic search. It supports document ingestion from Word files, chat memory, and can be deployed locally or with Qdrant Cloud.
@@ -35,7 +32,6 @@ This project implements a conversational AI chatbot using LangChain, OpenAI embe
 git clone <your-repo-url>
 cd <repo-folder>
 ```
-````
 
 ### 2. Create and activate a Python virtual environment
 
@@ -134,5 +130,4 @@ MIT License
 
 ```
 
-Just copy and paste the above into your `README.md`. If you want me to customize or add more sections, just say!
 ```
